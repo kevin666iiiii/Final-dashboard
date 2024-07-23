@@ -1,0 +1,105 @@
+{
+  "id": "878982970",
+  "gender": 1,
+  "tutor": "878982970",
+  "subjects": [
+    "Algebra 2"
+  ],
+  "tutoringExperience": 3,
+  "sessions": 8,
+  "students": 5,
+  "trackingHistory": [
+    {
+      "sessionId": "68d606b7-38c7-4a7d-8980-ddb9a0c136dd",
+      "subject": "Algebra 2",
+      "date": "2023-10-02"
+    },
+    {
+      "sessionId": "9874b1ee-c3aa-4c85-b14d-7c811ed0b7c8",
+      "subject": "Algebra 2",
+      "date": "2024-02-05"
+    },
+    {
+      "sessionId": "13056256-1e3a-49e1-b6f2-bf34f0c1c6d0",
+      "subject": "Algebra 2",
+      "date": "2023-09-25"
+    },
+    {
+      "sessionId": "820eed91-7efa-4380-ab76-9c292a8c5fb8",
+      "subject": "Algebra 2",
+      "date": "2023-10-05"
+    },
+    {
+      "sessionId": "614918ff-cdf3-4df1-985a-5b9a4acbb248",
+      "subject": "Algebra 2",
+      "date": "2023-12-05"
+    },
+    {
+      "sessionId": "3058862f-8f67-45cd-9dd8-4e8652844630",
+      "subject": "Algebra 2",
+      "date": "2023-10-03"
+    },
+    {
+      "sessionId": "86c5e9b1-8b88-4ef1-85ea-ed20fdb1e242",
+      "subject": "Algebra 2",
+      "date": "2023-10-10"
+    },
+    {
+      "sessionId": "67f50239-31d0-4b25-93d5-b7f9d2903945",
+      "subject": "Algebra 2",
+      "date": "2024-01-31"
+    }
+  ],
+  "scoreTrend": {
+    "instructionalDelivery": [
+      5,
+      8,
+      5,
+      4,
+      5,
+      5,
+      6,
+      1
+    ],
+    "techToolUsage": [
+      4,
+      5,
+      8,
+      10,
+      10,
+      10,
+      10,
+      8
+    ],
+    "feedbackQuality": [
+      4,
+      3,
+      1,
+      5,
+      7,
+      6,
+      4,
+      6
+    ],
+    "socialEmotionalTeaching": [
+      5,
+      6,
+      8,
+      6,
+      5,
+      5,
+      5,
+      6
+    ],
+    "time": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+}

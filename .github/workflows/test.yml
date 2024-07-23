@@ -1,0 +1,61 @@
+name: Convert CSV to JSON and Commit
+
+on:
+  push:
+    paths:
+      - 'audio/**'  # Trigger the workflow when audio files are changed
+  schedule:
+    - cron:  '0 12 * * *'  # Optionally, run it daily at 12:00 UTC
+
+jobs:
+  convert_and_commit:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out the current repository
+      uses: actions/checkout@v2
+
+    - name: Clone the Python code repository
+      uses: actions/checkout@v2
+      with:
+        repository: JayyyyLee/Varsity-Tutors-CMU-Capstone
+        path: code
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'
+
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r code/requirements.txt
+
+    - name: Transcribe
+      env:
+          OPENAI_KEY: ${{ secrets.OPENAI_KEY }}
+          ASSEMB_KEY: ${{ secrets.ASSEMB_KEY }}
+      run: python code/final_code/1_transcribe.py
+
+    - name: DA classification
+      run: python code/final_code/2_da_model.py
+
+    - name: Generate features
+      env:
+          OPENAI_KEY: ${{ secrets.OPENAI_KEY }}
+      run: python code/final_code/3_generate_analysis.py
+
+    - name: Update json
+      run: python code/final_code/4_generate_json.py
+
+    - name: Commit and push if changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        find audio -name "*.mp3" -delete
+        git add -u audio
+        git add code/*
+        git add 150df.csv
+        git add json/*
+        git commit -m "DA classification" || exit 0  # This line prevents the action from failing if no changes.
+        git push https://${{ secrets.NEW_TOKEN }}@github.com/${{ github.repository }} HEAD:${{ github.ref }}

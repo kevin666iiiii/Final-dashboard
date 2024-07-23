@@ -31,8 +31,8 @@
     "technicalIssues": 10,
     "feedbackQuality": 3,
     "socioEmotionalTeaching": 4,
-    "silentSessionPercent": 91.3,
-    "inactiveSessionPercent": 50.5
+    "silentSessionPercent": 92.2,
+    "inactiveSessionPercent": 51.0
   },
   {
     "sessionId": "1af9a25f-7175-46e5-96aa-54a20c2df384",
@@ -49,7 +49,7 @@
     "technicalIssues": 10,
     "feedbackQuality": 3,
     "socioEmotionalTeaching": 7,
-    "silentSessionPercent": 77.7,
+    "silentSessionPercent": 78.4,
     "inactiveSessionPercent": 96.1
   },
   {
@@ -66,8 +66,8 @@
     "technicalIssues": 10,
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 5,
-    "silentSessionPercent": 62.1,
-    "inactiveSessionPercent": 84.5
+    "silentSessionPercent": 62.7,
+    "inactiveSessionPercent": 84.3
   },
   {
     "sessionId": "47f4e721-3e2c-486b-9f38-296165d8a0b2",
@@ -84,8 +84,8 @@
     "technicalIssues": 10,
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 5,
-    "silentSessionPercent": 83.5,
-    "inactiveSessionPercent": 90.3
+    "silentSessionPercent": 84.3,
+    "inactiveSessionPercent": 90.2
   },
   {
     "sessionId": "30fb384c-8dd9-430c-a010-0fe4f6fc824a",
@@ -102,8 +102,8 @@
     "technicalIssues": 10,
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 5,
-    "silentSessionPercent": 75.7,
-    "inactiveSessionPercent": 93.2
+    "silentSessionPercent": 76.5,
+    "inactiveSessionPercent": 93.1
   },
   {
     "sessionId": "68d606b7-38c7-4a7d-8980-ddb9a0c136dd",
@@ -118,7 +118,7 @@
     "feedbackQuality": 3,
     "socioEmotionalTeaching": 5,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 23.3
+    "inactiveSessionPercent": 23.5
   },
   {
     "sessionId": "681906a1-9613-4208-b5da-28bd167b83ee",
@@ -135,7 +135,7 @@
     "feedbackQuality": 5,
     "socioEmotionalTeaching": 4,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 68.0
+    "inactiveSessionPercent": 68.6
   },
   {
     "sessionId": "7fec5275-f5eb-43f9-8caf-9f5ea488748d",
@@ -153,8 +153,8 @@
     "technicalIssues": 10,
     "feedbackQuality": 5,
     "socioEmotionalTeaching": 4,
-    "silentSessionPercent": 90.3,
-    "inactiveSessionPercent": 91.3
+    "silentSessionPercent": 91.2,
+    "inactiveSessionPercent": 91.2
   },
   {
     "sessionId": "18eb5587-bb47-4089-9bc7-2c0d8943d513",
@@ -168,7 +168,7 @@
     "technicalIssues": 10,
     "feedbackQuality": 5,
     "socioEmotionalTeaching": 6,
-    "silentSessionPercent": 50.5,
+    "silentSessionPercent": 51.0,
     "inactiveSessionPercent": 3.9
   },
   {
@@ -184,7 +184,7 @@
     "feedbackQuality": 3,
     "socioEmotionalTeaching": 4,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 40.8
+    "inactiveSessionPercent": 41.2
   },
   {
     "sessionId": "435f09cc-5857-4077-995c-2c40c07acbde",
@@ -199,7 +199,7 @@
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 4,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 63.1
+    "inactiveSessionPercent": 63.7
   },
   {
     "sessionId": "760a7ff9-164c-4a8c-82ba-85acbbeeae97",
@@ -214,7 +214,7 @@
     "feedbackQuality": 5,
     "socioEmotionalTeaching": 4,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 35.0
+    "inactiveSessionPercent": 35.3
   },
   {
     "sessionId": "e8a3afbf-8764-41fb-b40d-b021f9f5df5d",
@@ -228,8 +228,8 @@
     "technicalIssues": 10,
     "feedbackQuality": 3,
     "socioEmotionalTeaching": 4,
-    "silentSessionPercent": 46.6,
-    "inactiveSessionPercent": 45.6
+    "silentSessionPercent": 47.1,
+    "inactiveSessionPercent": 46.1
   },
   {
     "sessionId": "2071fea8-8dfb-4d54-9019-3c12e47bb504",
@@ -238,13 +238,15 @@
     "subject": "Algebra 2",
     "date": "2023-10-04",
     "duration": "80.2/90",
-    "riskyAreas": [],
+    "riskyAreas": [
+      "Student Inactive"
+    ],
     "instructionalDelivery": 6,
     "technicalIssues": 10,
     "feedbackQuality": 3,
     "socioEmotionalTeaching": 3,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 69.9
+    "inactiveSessionPercent": 70.6
   },
   {
     "sessionId": "9874b1ee-c3aa-4c85-b14d-7c811ed0b7c8",
@@ -261,8 +263,8 @@
     "technicalIssues": 5,
     "feedbackQuality": 3,
     "socioEmotionalTeaching": 6,
-    "silentSessionPercent": 88.3,
-    "inactiveSessionPercent": 46.6
+    "silentSessionPercent": 89.2,
+    "inactiveSessionPercent": 47.1
   },
   {
     "sessionId": "2e5e8a23-0947-4f9f-93f7-f785e60d159e",
@@ -278,8 +280,8 @@
     "technicalIssues": 8,
     "feedbackQuality": 3,
     "socioEmotionalTeaching": 5,
-    "silentSessionPercent": 78.6,
-    "inactiveSessionPercent": 66.0
+    "silentSessionPercent": 79.4,
+    "inactiveSessionPercent": 66.7
   },
   {
     "sessionId": "68a7c974-3dc5-47b3-a732-63ff32fdad63",
@@ -295,8 +297,8 @@
     "technicalIssues": 10,
     "feedbackQuality": 5,
     "socioEmotionalTeaching": 4,
-    "silentSessionPercent": 76.7,
-    "inactiveSessionPercent": 60.2
+    "silentSessionPercent": 77.5,
+    "inactiveSessionPercent": 60.8
   },
   {
     "sessionId": "1c29c446-f372-499a-b5cb-48b926257b37",
@@ -310,8 +312,8 @@
     "technicalIssues": 10,
     "feedbackQuality": 2,
     "socioEmotionalTeaching": 5,
-    "silentSessionPercent": 61.2,
-    "inactiveSessionPercent": 31.1
+    "silentSessionPercent": 61.8,
+    "inactiveSessionPercent": 31.4
   },
   {
     "sessionId": "903e5fa0-7ab9-4190-82a0-646999c2ad0e",
@@ -327,8 +329,8 @@
     "technicalIssues": 7,
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 3,
-    "silentSessionPercent": 62.1,
-    "inactiveSessionPercent": 76.7
+    "silentSessionPercent": 62.7,
+    "inactiveSessionPercent": 77.5
   },
   {
     "sessionId": "02cf1470-4acc-490e-a890-8b233f23e2a4",
@@ -344,8 +346,8 @@
     "technicalIssues": 7,
     "feedbackQuality": 3,
     "socioEmotionalTeaching": 5,
-    "silentSessionPercent": 45.6,
-    "inactiveSessionPercent": 70.9
+    "silentSessionPercent": 46.1,
+    "inactiveSessionPercent": 71.6
   },
   {
     "sessionId": "b82df5cd-63d7-4820-a8dc-6b882625e975",
@@ -359,8 +361,8 @@
     "technicalIssues": 8,
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 5,
-    "silentSessionPercent": 67.0,
-    "inactiveSessionPercent": 46.6
+    "silentSessionPercent": 67.6,
+    "inactiveSessionPercent": 47.1
   },
   {
     "sessionId": "13056256-1e3a-49e1-b6f2-bf34f0c1c6d0",
@@ -378,7 +380,7 @@
     "feedbackQuality": 1,
     "socioEmotionalTeaching": 8,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 56.3
+    "inactiveSessionPercent": 56.9
   },
   {
     "sessionId": "6d060d98-d4c0-47a3-b665-24ba27646ed0",
@@ -395,7 +397,7 @@
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 5,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 53.4
+    "inactiveSessionPercent": 53.9
   },
   {
     "sessionId": "0dad6e48-9834-4d08-8ac1-9ad5a2d4cf9b",
@@ -413,8 +415,8 @@
     "technicalIssues": 8,
     "feedbackQuality": 3,
     "socioEmotionalTeaching": 10,
-    "silentSessionPercent": 89.3,
-    "inactiveSessionPercent": 71.8
+    "silentSessionPercent": 90.2,
+    "inactiveSessionPercent": 72.5
   },
   {
     "sessionId": "3660ece4-95b4-4fd1-8423-c4f33453a706",
@@ -428,8 +430,8 @@
     "technicalIssues": 8,
     "feedbackQuality": 5,
     "socioEmotionalTeaching": 3,
-    "silentSessionPercent": 43.7,
-    "inactiveSessionPercent": 59.2
+    "silentSessionPercent": 44.1,
+    "inactiveSessionPercent": 59.8
   },
   {
     "sessionId": "50d443e3-5303-459d-8870-ced37f46529b",
@@ -444,7 +446,7 @@
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 4,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 36.9
+    "inactiveSessionPercent": 37.3
   },
   {
     "sessionId": "820eed91-7efa-4380-ab76-9c292a8c5fb8",
@@ -459,7 +461,7 @@
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 6,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 21.4
+    "inactiveSessionPercent": 21.6
   },
   {
     "sessionId": "20d2242d-0607-46e6-a940-a50f8e67369f",
@@ -474,7 +476,7 @@
     "feedbackQuality": 6,
     "socioEmotionalTeaching": 3,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 14.6
+    "inactiveSessionPercent": 14.7
   },
   {
     "sessionId": "0f157e5b-b40a-4c4e-b649-5284129e4bcb",
@@ -492,7 +494,7 @@
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 4,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 85.4
+    "inactiveSessionPercent": 85.3
   },
   {
     "sessionId": "212c14d1-9c9c-4ad6-a2d1-1b0bc324da26",
@@ -506,8 +508,8 @@
     "technicalIssues": 10,
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 5,
-    "silentSessionPercent": 49.5,
-    "inactiveSessionPercent": 32.0
+    "silentSessionPercent": 50.0,
+    "inactiveSessionPercent": 32.4
   },
   {
     "sessionId": "3156eb33-c0b6-4656-a591-44b86382c10c",
@@ -524,8 +526,8 @@
     "technicalIssues": 8,
     "feedbackQuality": 3,
     "socioEmotionalTeaching": 4,
-    "silentSessionPercent": 98.1,
-    "inactiveSessionPercent": 81.6
+    "silentSessionPercent": 98.0,
+    "inactiveSessionPercent": 81.4
   },
   {
     "sessionId": "2062113e-6981-4799-8998-2d9b0e25b394",
@@ -541,8 +543,8 @@
     "technicalIssues": 10,
     "feedbackQuality": 3,
     "socioEmotionalTeaching": 4,
-    "silentSessionPercent": 74.8,
-    "inactiveSessionPercent": 22.3
+    "silentSessionPercent": 75.5,
+    "inactiveSessionPercent": 22.5
   },
   {
     "sessionId": "b44c2bce-de6a-4415-ac87-37b4454aa7aa",
@@ -557,7 +559,7 @@
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 4,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 42.7
+    "inactiveSessionPercent": 43.1
   },
   {
     "sessionId": "4727780d-cc1a-43ac-80ce-32d10f27589d",
@@ -604,7 +606,7 @@
     "feedbackQuality": 5,
     "socioEmotionalTeaching": 5,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 8.7
+    "inactiveSessionPercent": 8.8
   },
   {
     "sessionId": "3058862f-8f67-45cd-9dd8-4e8652844630",
@@ -621,7 +623,7 @@
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 5,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 25.2
+    "inactiveSessionPercent": 25.5
   },
   {
     "sessionId": "6216abea-066b-4773-a05f-a70464caeab6",
@@ -638,7 +640,7 @@
     "feedbackQuality": 3,
     "socioEmotionalTeaching": 5,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 72.8
+    "inactiveSessionPercent": 73.5
   },
   {
     "sessionId": "cce8d287-19f7-4edf-91ff-866dbc8e474b",
@@ -652,8 +654,8 @@
     "technicalIssues": 8,
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 5,
-    "silentSessionPercent": 50.5,
-    "inactiveSessionPercent": 9.7
+    "silentSessionPercent": 51.0,
+    "inactiveSessionPercent": 9.8
   },
   {
     "sessionId": "109618b0-465e-42c3-971d-5efb731c7db9",
@@ -670,7 +672,7 @@
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 5,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 11.7
+    "inactiveSessionPercent": 11.8
   },
   {
     "sessionId": "b6c924ee-ef4d-49b3-a8c1-36228614254d",
@@ -704,7 +706,7 @@
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 2,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 5.8
+    "inactiveSessionPercent": 5.9
   },
   {
     "sessionId": "668da0bc-5dc9-4624-b97b-9f7782c067d8",
@@ -718,8 +720,8 @@
     "technicalIssues": 8,
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 4,
-    "silentSessionPercent": 60.2,
-    "inactiveSessionPercent": 41.7
+    "silentSessionPercent": 60.8,
+    "inactiveSessionPercent": 42.2
   },
   {
     "sessionId": "86c5e9b1-8b88-4ef1-85ea-ed20fdb1e242",
@@ -734,7 +736,7 @@
     "feedbackQuality": 3,
     "socioEmotionalTeaching": 5,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 1.9
+    "inactiveSessionPercent": 2.0
   },
   {
     "sessionId": "a7bd509e-d2bc-48dc-aaa0-f37e87dd465c",
@@ -749,7 +751,7 @@
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 4,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 44.7
+    "inactiveSessionPercent": 45.1
   },
   {
     "sessionId": "a1427f31-2be1-426a-bda2-b731828e268c",
@@ -766,8 +768,8 @@
     "technicalIssues": 10,
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 4,
-    "silentSessionPercent": 82.5,
-    "inactiveSessionPercent": 79.6
+    "silentSessionPercent": 83.3,
+    "inactiveSessionPercent": 80.4
   },
   {
     "sessionId": "28368521-6850-48ff-9118-fe2b6c3deebd",
@@ -782,7 +784,7 @@
     "feedbackQuality": 6,
     "socioEmotionalTeaching": 6,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 62.1
+    "inactiveSessionPercent": 62.7
   },
   {
     "sessionId": "5a853974-8759-4d72-8d1f-97f18f815195",
@@ -796,8 +798,8 @@
     "technicalIssues": 10,
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 3,
-    "silentSessionPercent": 48.5,
-    "inactiveSessionPercent": 67.0
+    "silentSessionPercent": 49.0,
+    "inactiveSessionPercent": 67.6
   },
   {
     "sessionId": "ec05db80-1022-44ec-a996-b21da4d63d02",
@@ -813,8 +815,8 @@
     "technicalIssues": 8,
     "feedbackQuality": 5,
     "socioEmotionalTeaching": 3,
-    "silentSessionPercent": 73.8,
-    "inactiveSessionPercent": 12.6
+    "silentSessionPercent": 74.5,
+    "inactiveSessionPercent": 12.7
   },
   {
     "sessionId": "166e8085-e4a6-4532-af98-f4c8799d2d89",
@@ -832,7 +834,7 @@
     "technicalIssues": 10,
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 6,
-    "silentSessionPercent": 93.2,
+    "silentSessionPercent": 93.1,
     "inactiveSessionPercent": 97.1
   },
   {
@@ -850,7 +852,7 @@
     "feedbackQuality": 5,
     "socioEmotionalTeaching": 9,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 86.4
+    "inactiveSessionPercent": 86.3
   },
   {
     "sessionId": "72de5abe-3bf9-4a70-89e1-24662687ee79",
@@ -865,7 +867,7 @@
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 4,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 51.5
+    "inactiveSessionPercent": 52.0
   },
   {
     "sessionId": "98eefc36-4f4b-4ffc-8a5f-b83329abc370",
@@ -880,7 +882,7 @@
     "feedbackQuality": 5,
     "socioEmotionalTeaching": 3,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 46.6
+    "inactiveSessionPercent": 47.1
   },
   {
     "sessionId": "19852ae4-ee73-4eed-bc79-8a48194dfdea",
@@ -894,8 +896,8 @@
     "technicalIssues": 4,
     "feedbackQuality": 3,
     "socioEmotionalTeaching": 4,
-    "silentSessionPercent": 47.6,
-    "inactiveSessionPercent": 20.4
+    "silentSessionPercent": 48.0,
+    "inactiveSessionPercent": 20.6
   },
   {
     "sessionId": "1027ab71-5e4c-4ff7-bb67-e612ea74893f",
@@ -911,8 +913,8 @@
     "technicalIssues": 5,
     "feedbackQuality": 3,
     "socioEmotionalTeaching": 5,
-    "silentSessionPercent": 87.4,
-    "inactiveSessionPercent": 34.0
+    "silentSessionPercent": 88.2,
+    "inactiveSessionPercent": 34.3
   },
   {
     "sessionId": "45904825-e645-4209-96c7-8f740b7e0899",
@@ -927,7 +929,7 @@
     "feedbackQuality": 2,
     "socioEmotionalTeaching": 3,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 6.8
+    "inactiveSessionPercent": 6.9
   },
   {
     "sessionId": "07bb3eb3-e3c4-4112-a85f-325c9d9a3d4f",
@@ -945,7 +947,7 @@
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 4,
     "silentSessionPercent": 95.1,
-    "inactiveSessionPercent": 82.5
+    "inactiveSessionPercent": 82.4
   },
   {
     "sessionId": "05460c14-526e-47e6-ac5c-663e269e58af",
@@ -960,7 +962,7 @@
     "feedbackQuality": 3,
     "socioEmotionalTeaching": 4,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 27.2
+    "inactiveSessionPercent": 27.5
   },
   {
     "sessionId": "2839dff1-aea2-48df-8ea9-93e6565093c5",
@@ -976,8 +978,8 @@
     "technicalIssues": 10,
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 4,
-    "silentSessionPercent": 71.8,
-    "inactiveSessionPercent": 46.6
+    "silentSessionPercent": 72.5,
+    "inactiveSessionPercent": 47.1
   },
   {
     "sessionId": "59bbe187-8290-452f-a3b3-7b47335bf1f6",
@@ -992,7 +994,7 @@
     "feedbackQuality": 5,
     "socioEmotionalTeaching": 4,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 13.6
+    "inactiveSessionPercent": 13.7
   },
   {
     "sessionId": "4f39c2ce-35f6-4b8e-a50b-dd404959bf55",
@@ -1009,8 +1011,8 @@
     "technicalIssues": 10,
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 5,
-    "silentSessionPercent": 86.4,
-    "inactiveSessionPercent": 94.2
+    "silentSessionPercent": 87.3,
+    "inactiveSessionPercent": 94.1
   },
   {
     "sessionId": "582e3ce1-84e7-4f5f-8d35-d18dda64a15f",
@@ -1026,8 +1028,8 @@
     "technicalIssues": 8,
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 4,
-    "silentSessionPercent": 57.3,
-    "inactiveSessionPercent": 52.4
+    "silentSessionPercent": 57.8,
+    "inactiveSessionPercent": 52.9
   },
   {
     "sessionId": "6e1081c5-8155-4127-a27a-026f701ec415",
@@ -1042,7 +1044,7 @@
     "feedbackQuality": 5,
     "socioEmotionalTeaching": 6,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 18.4
+    "inactiveSessionPercent": 18.6
   },
   {
     "sessionId": "bd010d0a-2dfe-4a98-9476-9fe6b7d97e61",
@@ -1059,7 +1061,7 @@
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 4,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 19.4
+    "inactiveSessionPercent": 19.6
   },
   {
     "sessionId": "3ec090ef-0bad-42a5-8ce7-d646ec30bd94",
@@ -1073,7 +1075,7 @@
     "technicalIssues": 5,
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 4,
-    "silentSessionPercent": 53.4,
+    "silentSessionPercent": 53.9,
     "inactiveSessionPercent": 7.8
   },
   {
@@ -1091,8 +1093,8 @@
     "technicalIssues": 5,
     "feedbackQuality": 3,
     "socioEmotionalTeaching": 3,
-    "silentSessionPercent": 85.4,
-    "inactiveSessionPercent": 88.3
+    "silentSessionPercent": 86.3,
+    "inactiveSessionPercent": 88.2
   },
   {
     "sessionId": "804e2908-aa53-4389-abb8-eff666c15d78",
@@ -1107,7 +1109,7 @@
     "feedbackQuality": 3,
     "socioEmotionalTeaching": 4,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 37.9
+    "inactiveSessionPercent": 38.2
   },
   {
     "sessionId": "1ca40035-0917-4b4c-bb49-116472b583ee",
@@ -1121,8 +1123,8 @@
     "technicalIssues": 10,
     "feedbackQuality": 6,
     "socioEmotionalTeaching": 4,
-    "silentSessionPercent": 65.0,
-    "inactiveSessionPercent": 65.0
+    "silentSessionPercent": 65.7,
+    "inactiveSessionPercent": 65.7
   },
   {
     "sessionId": "79353ae0-542e-4a0d-af2f-55e7c5db5214",
@@ -1139,8 +1141,8 @@
     "technicalIssues": 5,
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 3,
-    "silentSessionPercent": 66.0,
-    "inactiveSessionPercent": 77.7
+    "silentSessionPercent": 66.7,
+    "inactiveSessionPercent": 78.4
   },
   {
     "sessionId": "460bc7f4-d8d7-4172-8acb-9a245364c903",
@@ -1149,13 +1151,15 @@
     "subject": "Algebra 2",
     "date": "2023-08-04",
     "duration": "61.8/60",
-    "riskyAreas": [],
+    "riskyAreas": [
+      "Silent"
+    ],
     "instructionalDelivery": 6,
     "technicalIssues": 8,
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 3,
-    "silentSessionPercent": 69.9,
-    "inactiveSessionPercent": 61.2
+    "silentSessionPercent": 70.6,
+    "inactiveSessionPercent": 61.8
   },
   {
     "sessionId": "09330fcb-4750-4262-93c4-9bd8fd116f66",
@@ -1172,8 +1176,8 @@
     "technicalIssues": 10,
     "feedbackQuality": 5,
     "socioEmotionalTeaching": 1,
-    "silentSessionPercent": 56.3,
-    "inactiveSessionPercent": 15.5
+    "silentSessionPercent": 56.9,
+    "inactiveSessionPercent": 15.7
   },
   {
     "sessionId": "2768dff3-4e47-4cce-be0f-5f6cc29e474b",
@@ -1190,8 +1194,8 @@
     "technicalIssues": 10,
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 5,
-    "silentSessionPercent": 79.6,
-    "inactiveSessionPercent": 43.7
+    "silentSessionPercent": 80.4,
+    "inactiveSessionPercent": 44.1
   },
   {
     "sessionId": "8e6a005b-0112-4976-97a7-14415c1ff6b4",
@@ -1207,8 +1211,8 @@
     "technicalIssues": 8,
     "feedbackQuality": 5,
     "socioEmotionalTeaching": 4,
-    "silentSessionPercent": 94.2,
-    "inactiveSessionPercent": 58.3
+    "silentSessionPercent": 94.1,
+    "inactiveSessionPercent": 58.8
   },
   {
     "sessionId": "538dc96b-3acc-41fb-a9c2-6df26cb73757",
@@ -1226,7 +1230,7 @@
     "feedbackQuality": 6,
     "socioEmotionalTeaching": 5,
     "silentSessionPercent": 99.0,
-    "inactiveSessionPercent": 98.1
+    "inactiveSessionPercent": 98.0
   },
   {
     "sessionId": "9c63354c-f46a-4cac-ba95-6aeeef3222e2",
@@ -1243,8 +1247,8 @@
     "technicalIssues": 5,
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 5,
-    "silentSessionPercent": 84.5,
-    "inactiveSessionPercent": 17.5
+    "silentSessionPercent": 85.3,
+    "inactiveSessionPercent": 17.6
   },
   {
     "sessionId": "e3a9f37d-8944-472c-9df6-48403e95e941",
@@ -1260,8 +1264,8 @@
     "technicalIssues": 10,
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 4,
-    "silentSessionPercent": 68.9,
-    "inactiveSessionPercent": 64.1
+    "silentSessionPercent": 69.6,
+    "inactiveSessionPercent": 64.7
   },
   {
     "sessionId": "13821df4-d97a-4c69-84d4-3085367c2304",
@@ -1276,7 +1280,7 @@
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 4,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 28.2
+    "inactiveSessionPercent": 28.4
   },
   {
     "sessionId": "3ad53714-5fcd-4092-abf4-fcc16c472b42",
@@ -1292,8 +1296,8 @@
     "technicalIssues": 10,
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 3,
-    "silentSessionPercent": 64.1,
-    "inactiveSessionPercent": 78.6
+    "silentSessionPercent": 64.7,
+    "inactiveSessionPercent": 79.4
   },
   {
     "sessionId": "261885ea-471d-4c61-a928-9b3c8cb39c5e",
@@ -1310,8 +1314,8 @@
     "technicalIssues": 7,
     "feedbackQuality": 3,
     "socioEmotionalTeaching": 4,
-    "silentSessionPercent": 59.2,
-    "inactiveSessionPercent": 83.5
+    "silentSessionPercent": 59.8,
+    "inactiveSessionPercent": 83.3
   },
   {
     "sessionId": "9da651a1-d037-452d-b9f9-e132e55ba7f9",
@@ -1326,7 +1330,7 @@
     "feedbackQuality": 3,
     "socioEmotionalTeaching": 3,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 29.1
+    "inactiveSessionPercent": 29.4
   },
   {
     "sessionId": "5a27e0e6-53fe-4391-a134-2bad184b3310",
@@ -1342,8 +1346,8 @@
     "technicalIssues": 8,
     "feedbackQuality": 5,
     "socioEmotionalTeaching": 3,
-    "silentSessionPercent": 81.6,
-    "inactiveSessionPercent": 26.2
+    "silentSessionPercent": 82.4,
+    "inactiveSessionPercent": 26.5
   },
   {
     "sessionId": "90306f7e-c7e0-49e3-9121-26cdb98d8041",
@@ -1358,7 +1362,7 @@
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 6,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 33.0
+    "inactiveSessionPercent": 33.3
   },
   {
     "sessionId": "269ab6da-bfc1-4ca0-922a-05dbf9f9ee98",
@@ -1373,7 +1377,7 @@
     "feedbackQuality": 3,
     "socioEmotionalTeaching": 4,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 54.4
+    "inactiveSessionPercent": 54.9
   },
   {
     "sessionId": "1c6ac57a-3ae4-4cd6-ba35-8a1a3c38fd20",
@@ -1388,7 +1392,7 @@
     "feedbackQuality": 5,
     "socioEmotionalTeaching": 5,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 30.1
+    "inactiveSessionPercent": 30.4
   },
   {
     "sessionId": "de20b6cd-b57b-452d-829c-385faf13270b",
@@ -1402,8 +1406,8 @@
     "technicalIssues": 10,
     "feedbackQuality": 3,
     "socioEmotionalTeaching": 4,
-    "silentSessionPercent": 50.5,
-    "inactiveSessionPercent": 35.9
+    "silentSessionPercent": 51.0,
+    "inactiveSessionPercent": 36.3
   },
   {
     "sessionId": "5b1de90d-353b-44e3-b2bd-b83f323fe90c",
@@ -1420,8 +1424,8 @@
     "technicalIssues": 10,
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 3,
-    "silentSessionPercent": 80.6,
-    "inactiveSessionPercent": 89.3
+    "silentSessionPercent": 81.4,
+    "inactiveSessionPercent": 89.2
   },
   {
     "sessionId": "3637a444-ec79-4261-af2f-a274e3a637e1",
@@ -1438,7 +1442,7 @@
     "feedbackQuality": 5,
     "socioEmotionalTeaching": 4,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 39.8
+    "inactiveSessionPercent": 40.2
   },
   {
     "sessionId": "9f7b49d4-7476-43d1-8b87-1b54bd96d11d",
@@ -1453,7 +1457,7 @@
     "feedbackQuality": 3,
     "socioEmotionalTeaching": 4,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 38.8
+    "inactiveSessionPercent": 39.2
   },
   {
     "sessionId": "13ddd32e-d4f1-4bba-abb4-5d02013237a3",
@@ -1469,7 +1473,7 @@
     "technicalIssues": 7,
     "feedbackQuality": 1,
     "socioEmotionalTeaching": 3,
-    "silentSessionPercent": 54.4,
+    "silentSessionPercent": 54.9,
     "inactiveSessionPercent": 2.9
   },
   {
@@ -1486,8 +1490,8 @@
     "technicalIssues": 4,
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 3,
-    "silentSessionPercent": 70.9,
-    "inactiveSessionPercent": 16.5
+    "silentSessionPercent": 71.6,
+    "inactiveSessionPercent": 16.7
   },
   {
     "sessionId": "5f817c22-789d-497a-a074-81ae14bc0c3d",
@@ -1503,8 +1507,8 @@
     "technicalIssues": 10,
     "feedbackQuality": 3,
     "socioEmotionalTeaching": 4,
-    "silentSessionPercent": 58.3,
-    "inactiveSessionPercent": 24.3
+    "silentSessionPercent": 58.8,
+    "inactiveSessionPercent": 24.5
   },
   {
     "sessionId": "67f50239-31d0-4b25-93d5-b7f9d2903945",
@@ -1522,7 +1526,7 @@
     "feedbackQuality": 5,
     "socioEmotionalTeaching": 6,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 56.3
+    "inactiveSessionPercent": 56.9
   },
   {
     "sessionId": "aa8365c5-e8c8-49e2-ac6b-bdc952602f53",
@@ -1554,7 +1558,7 @@
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 3,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 10.7
+    "inactiveSessionPercent": 10.8
   },
   {
     "sessionId": "2950f58d-5fbd-4fb0-927a-9a9495bb9b56",
@@ -1571,7 +1575,7 @@
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 3,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 86.4
+    "inactiveSessionPercent": 86.3
   },
   {
     "sessionId": "abf69844-9421-4ad3-879d-56d50e0d2a99",
@@ -1587,8 +1591,8 @@
     "technicalIssues": 8,
     "feedbackQuality": 3,
     "socioEmotionalTeaching": 5,
-    "silentSessionPercent": 72.8,
-    "inactiveSessionPercent": 55.3
+    "silentSessionPercent": 73.5,
+    "inactiveSessionPercent": 55.9
   },
   {
     "sessionId": "6f824171-7268-4a68-9123-36c972067ad1",
@@ -1604,8 +1608,8 @@
     "technicalIssues": 8,
     "feedbackQuality": 6,
     "socioEmotionalTeaching": 4,
-    "silentSessionPercent": 44.7,
-    "inactiveSessionPercent": 73.8
+    "silentSessionPercent": 45.1,
+    "inactiveSessionPercent": 74.5
   },
   {
     "sessionId": "7686511d-bca3-490c-ae0f-cc4ccba2670a",
@@ -1622,8 +1626,8 @@
     "technicalIssues": 10,
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 5,
-    "silentSessionPercent": 54.4,
-    "inactiveSessionPercent": 74.8
+    "silentSessionPercent": 54.9,
+    "inactiveSessionPercent": 75.5
   },
   {
     "sessionId": "752c4a85-7a2a-4f69-b298-143a62c7277e",
@@ -1639,8 +1643,8 @@
     "technicalIssues": 10,
     "feedbackQuality": 3,
     "socioEmotionalTeaching": 4,
-    "silentSessionPercent": 68.0,
-    "inactiveSessionPercent": 75.7
+    "silentSessionPercent": 68.6,
+    "inactiveSessionPercent": 76.5
   },
   {
     "sessionId": "734760bb-8379-417b-a4e1-d6275b6bbfbb",
@@ -1655,36 +1659,18 @@
     "feedbackQuality": 4,
     "socioEmotionalTeaching": 4,
     "silentSessionPercent": 0.0,
-    "inactiveSessionPercent": 68.9
-  },
-  {
-    "sessionId": "041b0006-f84b-4a68-b684-06de33d4eb3e",
-    "tutorId": 101,
-    "tutor": "879349436",
-    "subject": "Algebra 2",
-    "date": "2024-01-07",
-    "duration": "57.2/60",
-    "riskyAreas": [
-      "Silent",
-      "Student Inactive"
-    ],
-    "instructionalDelivery": 5,
-    "technicalIssues": 8,
-    "feedbackQuality": 5,
-    "socioEmotionalTeaching": 4,
-    "silentSessionPercent": 92.2,
-    "inactiveSessionPercent": 80.6
+    "inactiveSessionPercent": 69.6
   },
   {
     "sessionId": "1607d0d1-4615-4f6f-a6ca-9f8be2194f9a",
-    "tutorId": 102,
+    "tutorId": 101,
     "tutor": "879204470",
     "subject": "Algebra 2",
     "date": "2024-01-08",
     "duration": "60.9/60",
     "riskyAreas": [],
     "instructionalDelivery": 5,
-    "technicalIssues": 7,
+    "technicalIssues": 8,
     "feedbackQuality": 10,
     "socioEmotionalTeaching": 3,
     "silentSessionPercent": 0.0,

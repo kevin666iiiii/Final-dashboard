@@ -196,7 +196,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 18.4,
+          "percentile": 17.6,
           "values": [
             0,
             0,
@@ -280,7 +280,7 @@
       "instructionalDelivery": {
         "rating": 10,
         "allSessionRanking": 96.1,
-        "tutorSessionRanking": 1.0,
+        "tutorSessionRanking": 100.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
         "alignedExplanation": 100.0,
@@ -290,13 +290,13 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 18.4,
-        "tutorSessionRanking": 0.75
+        "allSessionRanking": 17.6,
+        "tutorSessionRanking": 75.0
       },
       "feedbackQuality": {
         "rating": 3,
         "allSessionRanking": 3.9,
-        "tutorSessionRanking": 0.5,
+        "tutorSessionRanking": 50.0,
         "positiveFeedback": 2.76,
         "neutralFeedback": 94.48,
         "negativeFeedback": 2.76,
@@ -308,7 +308,7 @@
       "socialEmotionalTeaching": {
         "rating": 10,
         "allSessionRanking": 99.0,
-        "tutorSessionRanking": 1.0,
+        "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           3,
           0,

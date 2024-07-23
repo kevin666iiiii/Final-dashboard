@@ -220,7 +220,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.5,
+          "percentile": 16.7,
           "values": [
             0,
             0,
@@ -247,7 +247,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.6,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -274,7 +274,7 @@
         {
           "name": "Feedback Quality",
           "score": 5,
-          "percentile": 74.8,
+          "percentile": 75.5,
           "values": [
             0,
             0,
@@ -301,7 +301,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 64.1,
+          "percentile": 63.7,
           "values": [
             1,
             0,
@@ -330,8 +330,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.5,
-        "tutorSessionRanking": 0.56,
+        "allSessionRanking": 16.7,
+        "tutorSessionRanking": 56.25,
         "correctExplanation": 72.73,
         "incorrectExplanation": 27.27,
         "alignedExplanation": 36.36,
@@ -341,13 +341,13 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.6,
-        "tutorSessionRanking": 0.81
+        "allSessionRanking": 46.1,
+        "tutorSessionRanking": 81.25
       },
       "feedbackQuality": {
         "rating": 5,
-        "allSessionRanking": 74.8,
-        "tutorSessionRanking": 0.94,
+        "allSessionRanking": 75.5,
+        "tutorSessionRanking": 93.75,
         "positiveFeedback": 5.21,
         "neutralFeedback": 92.71,
         "negativeFeedback": 2.08,
@@ -358,8 +358,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 64.1,
-        "tutorSessionRanking": 0.31,
+        "allSessionRanking": 63.7,
+        "tutorSessionRanking": 31.25,
         "tutorUtterances": [
           1,
           0,

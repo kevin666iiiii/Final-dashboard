@@ -300,7 +300,7 @@
         {
           "name": "Feedback Quality",
           "score": 4,
-          "percentile": 32.0,
+          "percentile": 32.4,
           "values": [
             3,
             0,
@@ -327,7 +327,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 23.3,
+          "percentile": 23.5,
           "values": [
             2,
             0,
@@ -357,7 +357,7 @@
       "instructionalDelivery": {
         "rating": 3,
         "allSessionRanking": 2.9,
-        "tutorSessionRanking": 1.0,
+        "tutorSessionRanking": 100.0,
         "correctExplanation": 33.33,
         "incorrectExplanation": 66.67,
         "alignedExplanation": 33.33,
@@ -368,12 +368,12 @@
       "techToolUsage": {
         "rating": 1,
         "allSessionRanking": 0.0,
-        "tutorSessionRanking": 1.0
+        "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
         "rating": 4,
-        "allSessionRanking": 32.0,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 32.4,
+        "tutorSessionRanking": 100.0,
         "positiveFeedback": 10.53,
         "neutralFeedback": 86.12,
         "negativeFeedback": 3.35,
@@ -384,8 +384,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 23.3,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 23.5,
+        "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           1,
           2,

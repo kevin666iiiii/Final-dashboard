@@ -124,7 +124,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.5,
+          "percentile": 16.7,
           "values": [
             1,
             1,
@@ -151,7 +151,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 18.4,
+          "percentile": 17.6,
           "values": [
             0,
             0,
@@ -234,8 +234,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.5,
-        "tutorSessionRanking": 0.56,
+        "allSessionRanking": 16.7,
+        "tutorSessionRanking": 56.25,
         "correctExplanation": 50.0,
         "incorrectExplanation": 50.0,
         "alignedExplanation": 50.0,
@@ -245,13 +245,13 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 18.4,
-        "tutorSessionRanking": 0.44
+        "allSessionRanking": 17.6,
+        "tutorSessionRanking": 43.75
       },
       "feedbackQuality": {
         "rating": 1,
         "allSessionRanking": 0.0,
-        "tutorSessionRanking": 0.12,
+        "tutorSessionRanking": 12.5,
         "positiveFeedback": 16.09,
         "neutralFeedback": 82.76,
         "negativeFeedback": 1.15,
@@ -263,7 +263,7 @@
       "socialEmotionalTeaching": {
         "rating": 8,
         "allSessionRanking": 97.1,
-        "tutorSessionRanking": 1.0,
+        "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           4,
           1,

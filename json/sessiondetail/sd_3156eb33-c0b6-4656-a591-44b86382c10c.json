@@ -293,7 +293,7 @@
         {
           "name": "Instruction Delivery",
           "score": 4,
-          "percentile": 9.7,
+          "percentile": 9.8,
           "values": [
             1,
             3,
@@ -320,7 +320,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 18.4,
+          "percentile": 17.6,
           "values": [
             0,
             0,
@@ -374,7 +374,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 23.3,
+          "percentile": 23.5,
           "values": [
             0,
             2,
@@ -403,8 +403,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 4,
-        "allSessionRanking": 9.7,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 9.8,
+        "tutorSessionRanking": 100.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
         "alignedExplanation": 0.0,
@@ -414,13 +414,13 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 18.4,
-        "tutorSessionRanking": 1.0
+        "allSessionRanking": 17.6,
+        "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
         "rating": 3,
         "allSessionRanking": 3.9,
-        "tutorSessionRanking": 1.0,
+        "tutorSessionRanking": 100.0,
         "positiveFeedback": 1.85,
         "neutralFeedback": 95.37,
         "negativeFeedback": 2.78,
@@ -431,8 +431,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 23.3,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 23.5,
+        "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           0,
           0,

@@ -232,18 +232,18 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 38.5,
+          "percentile": 39.8,
           "values": [
             1,
-            4,
-            1,
             3,
+            1,
+            2,
             0,
-            3,
+            2,
             0,
             1,
             0,
-            4,
+            3,
             0,
             0,
             0,
@@ -259,7 +259,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.6,
           "values": [
             0,
             0,
@@ -285,8 +285,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 5,
-          "percentile": 23.1,
+          "score": 4,
+          "percentile": 32.0,
           "values": [
             0,
             0,
@@ -298,7 +298,7 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
@@ -307,7 +307,7 @@
             0,
             0,
             0,
-            4
+            3
           ]
         },
         {
@@ -318,21 +318,21 @@
             2,
             1,
             1,
+            2,
+            2,
+            1,
+            2,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            2,
+            0,
+            2,
             3,
-            2,
-            1,
-            2,
-            1,
-            0,
-            1,
-            0,
-            1,
-            0,
-            1,
-            2,
-            0,
-            2,
-            4,
             2,
             1
           ]
@@ -342,7 +342,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 38.5,
+        "allSessionRanking": 39.8,
         "tutorSessionRanking": 0.75,
         "correctExplanation": 77.78,
         "incorrectExplanation": 22.22,
@@ -353,12 +353,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
+        "allSessionRanking": 46.6,
         "tutorSessionRanking": 1.0
       },
       "feedbackQuality": {
-        "rating": 5,
-        "allSessionRanking": 23.1,
+        "rating": 4,
+        "allSessionRanking": 32.0,
         "tutorSessionRanking": 1.0,
         "positiveFeedback": 2.99,
         "neutralFeedback": 91.04,

@@ -248,23 +248,23 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 38.5,
+          "percentile": 39.8,
           "values": [
             1,
             0,
             0,
+            2,
             3,
-            4,
             1,
             1,
-            4,
-            1,
-            1,
-            0,
-            0,
-            0,
-            0,
             3,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            2,
             0,
             0,
             0,
@@ -275,7 +275,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 19.2,
+          "percentile": 18.4,
           "values": [
             0,
             2,
@@ -301,8 +301,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 6,
-          "percentile": 49.0,
+          "score": 4,
+          "percentile": 32.0,
           "values": [
             0,
             0,
@@ -322,8 +322,8 @@
             0,
             0,
             0,
-            4,
-            4
+            3,
+            3
           ]
         },
         {
@@ -334,8 +334,8 @@
             0,
             0,
             1,
+            2,
             3,
-            4,
             0,
             2,
             2,
@@ -344,7 +344,7 @@
             0,
             1,
             2,
-            4,
+            3,
             1,
             1,
             2,
@@ -358,7 +358,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 38.5,
+        "allSessionRanking": 39.8,
         "tutorSessionRanking": 1.0,
         "correctExplanation": 66.67,
         "incorrectExplanation": 33.33,
@@ -369,12 +369,12 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 19.2,
+        "allSessionRanking": 18.4,
         "tutorSessionRanking": 1.0
       },
       "feedbackQuality": {
-        "rating": 6,
-        "allSessionRanking": 49.0,
+        "rating": 4,
+        "allSessionRanking": 32.0,
         "tutorSessionRanking": 1.0,
         "positiveFeedback": 3.3,
         "neutralFeedback": 90.11,

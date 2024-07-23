@@ -217,10 +217,10 @@
         {
           "name": "Instruction Delivery",
           "score": 4,
-          "percentile": 9.6,
+          "percentile": 9.7,
           "values": [
             1,
-            4,
+            3,
             0,
             2,
             0,
@@ -234,7 +234,7 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
@@ -244,7 +244,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 5,
-          "percentile": 3.8,
+          "percentile": 3.9,
           "values": [
             2,
             2,
@@ -270,10 +270,10 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 8,
-          "percentile": 93.3,
+          "score": 6,
+          "percentile": 94.2,
           "values": [
-            4,
+            3,
             0,
             0,
             0,
@@ -288,11 +288,11 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
-            4
+            3
           ]
         },
         {
@@ -316,9 +316,9 @@
             0,
             1,
             2,
-            4,
-            0,
             3,
+            0,
+            2,
             2
           ]
         }
@@ -327,7 +327,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 4,
-        "allSessionRanking": 9.6,
+        "allSessionRanking": 9.7,
         "tutorSessionRanking": 0.5,
         "correctExplanation": 75.0,
         "incorrectExplanation": 25.0,
@@ -338,12 +338,12 @@
       },
       "techToolUsage": {
         "rating": 5,
-        "allSessionRanking": 3.8,
+        "allSessionRanking": 3.9,
         "tutorSessionRanking": 0.5
       },
       "feedbackQuality": {
-        "rating": 8,
-        "allSessionRanking": 93.3,
+        "rating": 6,
+        "allSessionRanking": 94.2,
         "tutorSessionRanking": 1.0,
         "positiveFeedback": 3.07,
         "neutralFeedback": 92.98,

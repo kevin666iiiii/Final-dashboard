@@ -168,7 +168,7 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 38.5,
+          "percentile": 39.8,
           "values": [
             2,
             2,
@@ -185,7 +185,7 @@
             1,
             1,
             1,
-            4,
+            3,
             1,
             1,
             1,
@@ -195,7 +195,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 7,
-          "percentile": 11.5,
+          "percentile": 11.7,
           "values": [
             2,
             2,
@@ -221,14 +221,14 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 5,
-          "percentile": 23.1,
+          "score": 3,
+          "percentile": 3.9,
           "values": [
             2,
             0,
             2,
             2,
-            4,
+            3,
             0,
             2,
             2,
@@ -249,13 +249,13 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.1,
+          "percentile": 23.3,
           "values": [
             2,
             0,
             1,
+            2,
             3,
-            4,
             2,
             1,
             1,
@@ -263,13 +263,13 @@
             0,
             2,
             1,
-            3,
+            2,
             2,
             2,
             2,
             2,
             1,
-            3,
+            2,
             0
           ]
         }
@@ -278,7 +278,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 38.5,
+        "allSessionRanking": 39.8,
         "tutorSessionRanking": 0.5,
         "correctExplanation": 66.67,
         "incorrectExplanation": 33.33,
@@ -289,13 +289,13 @@
       },
       "techToolUsage": {
         "rating": 7,
-        "allSessionRanking": 11.5,
+        "allSessionRanking": 11.7,
         "tutorSessionRanking": 0.5
       },
       "feedbackQuality": {
-        "rating": 5,
-        "allSessionRanking": 23.1,
-        "tutorSessionRanking": 0.75,
+        "rating": 3,
+        "allSessionRanking": 3.9,
+        "tutorSessionRanking": 0.5,
         "positiveFeedback": 10.43,
         "neutralFeedback": 81.74,
         "negativeFeedback": 7.83,
@@ -306,7 +306,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.1,
+        "allSessionRanking": 23.3,
         "tutorSessionRanking": 0.75,
         "tutorUtterances": [
           0,

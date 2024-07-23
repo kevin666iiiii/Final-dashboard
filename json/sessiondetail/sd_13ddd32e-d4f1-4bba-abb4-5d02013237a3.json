@@ -4,7 +4,9 @@
   "student": 5037654,
   "subject": "Algebra",
   "date": "2024-01-14",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "Feedback"
+  ],
   "sessionGeneral": {
     "aiSummary": "During the one-on-one tutoring session, the tutor and student focused on geometry problems related to rectangles and angles. The student's expectation to understand and complete the homework before lacrosse practice was met as the tutor provided explanations. There were two instances of low interaction due to the student processing questions silently and pausing to sharpen a pencil.",
     "desiredOutcome": "The student's expectation for the session is to work on geometry homework related to rectangles that was assigned over the break. The student wants to understand and complete the homework before their lacrosse practice the next day. The tutor is helping the student with the geometry problems related to rectangles and explaining concepts such as congruent angles and sides in rectangles. The student's expectation for the session seems to be met as the tutor is assisting with the homework and providing explanations for the geometry problems.",
@@ -226,7 +228,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.3,
+          "percentile": 16.5,
           "values": [
             1,
             0,
@@ -244,16 +246,16 @@
             2,
             2,
             0,
-            4,
-            0,
             3,
+            0,
+            2,
             0
           ]
         },
         {
           "name": "Tech & Tool Usage",
           "score": 7,
-          "percentile": 11.5,
+          "percentile": 11.7,
           "values": [
             0,
             0,
@@ -279,8 +281,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 2,
-          "percentile": 1.0,
+          "score": 1,
+          "percentile": 0.0,
           "values": [
             0,
             0,
@@ -298,10 +300,10 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
-            4
+            3
           ]
         },
         {
@@ -309,23 +311,23 @@
           "score": 3,
           "percentile": 2.9,
           "values": [
-            3,
+            2,
             1,
             0,
             0,
             0,
             0,
-            4,
             3,
+            2,
             0,
             0,
             1,
             2,
             2,
             1,
-            3,
             2,
-            3,
+            2,
+            2,
             2,
             1,
             0
@@ -336,7 +338,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.3,
+        "allSessionRanking": 16.5,
         "tutorSessionRanking": 1.0,
         "correctExplanation": 72.73,
         "incorrectExplanation": 27.27,
@@ -347,12 +349,12 @@
       },
       "techToolUsage": {
         "rating": 7,
-        "allSessionRanking": 11.5,
+        "allSessionRanking": 11.7,
         "tutorSessionRanking": 1.0
       },
       "feedbackQuality": {
-        "rating": 2,
-        "allSessionRanking": 1.0,
+        "rating": 1,
+        "allSessionRanking": 0.0,
         "tutorSessionRanking": 1.0,
         "positiveFeedback": 7.69,
         "neutralFeedback": 90.77,

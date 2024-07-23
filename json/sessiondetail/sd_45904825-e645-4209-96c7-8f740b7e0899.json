@@ -238,17 +238,17 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 38.5,
+          "percentile": 39.8,
           "values": [
             0,
             0,
-            3,
+            2,
             0,
             0,
-            4,
-            1,
-            1,
             3,
+            1,
+            1,
+            2,
             0,
             1,
             0,
@@ -265,7 +265,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 19.2,
+          "percentile": 18.4,
           "values": [
             2,
             0,
@@ -291,7 +291,7 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 3,
+          "score": 2,
           "percentile": 1.9,
           "values": [
             0,
@@ -312,7 +312,7 @@
             0,
             0,
             2,
-            4,
+            3,
             2
           ]
         },
@@ -338,8 +338,8 @@
             2,
             1,
             2,
-            4,
-            4,
+            3,
+            3,
             2
           ]
         }
@@ -348,7 +348,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 38.5,
+        "allSessionRanking": 39.8,
         "tutorSessionRanking": 0.75,
         "correctExplanation": 95.65,
         "incorrectExplanation": 4.35,
@@ -359,11 +359,11 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 19.2,
+        "allSessionRanking": 18.4,
         "tutorSessionRanking": 0.5
       },
       "feedbackQuality": {
-        "rating": 3,
+        "rating": 2,
         "allSessionRanking": 1.9,
         "tutorSessionRanking": 0.5,
         "positiveFeedback": 6.56,

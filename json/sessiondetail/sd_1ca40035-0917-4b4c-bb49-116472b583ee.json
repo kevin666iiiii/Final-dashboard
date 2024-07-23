@@ -226,9 +226,9 @@
         {
           "name": "Instruction Delivery",
           "score": 7,
-          "percentile": 56.7,
+          "percentile": 58.3,
           "values": [
-            4,
+            3,
             0,
             0,
             0,
@@ -253,7 +253,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.6,
           "values": [
             0,
             0,
@@ -279,8 +279,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 8,
-          "percentile": 93.3,
+          "score": 6,
+          "percentile": 94.2,
           "values": [
             0,
             0,
@@ -300,14 +300,14 @@
             0,
             0,
             0,
-            4,
-            4
+            3,
+            3
           ]
         },
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.1,
+          "percentile": 23.3,
           "values": [
             0,
             0,
@@ -315,7 +315,7 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
             1,
             0,
@@ -336,7 +336,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 7,
-        "allSessionRanking": 56.7,
+        "allSessionRanking": 58.3,
         "tutorSessionRanking": 1.0,
         "correctExplanation": 83.33,
         "incorrectExplanation": 16.67,
@@ -347,12 +347,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
+        "allSessionRanking": 46.6,
         "tutorSessionRanking": 1.0
       },
       "feedbackQuality": {
-        "rating": 8,
-        "allSessionRanking": 93.3,
+        "rating": 6,
+        "allSessionRanking": 94.2,
         "tutorSessionRanking": 1.0,
         "positiveFeedback": 3.97,
         "neutralFeedback": 93.65,
@@ -364,7 +364,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.1,
+        "allSessionRanking": 23.3,
         "tutorSessionRanking": 1.0,
         "tutorUtterances": [
           0,

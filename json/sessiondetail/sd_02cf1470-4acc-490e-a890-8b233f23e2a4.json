@@ -4,7 +4,9 @@
   "student": 5013622,
   "subject": "Algebra",
   "date": "2023-08-08",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "Student Inactive"
+  ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including systems of equations, exponential functions, linear functions, and SAT preparation. The student's expectations were met as they finished the assessment, reviewed topics, discussed SAT resources, and worked on test-taking strategies. During a low interaction period, the student likely reviewed problems silently before seeking clarification.",
     "desiredOutcome": "The student's expectation for the session is to finish up the assessment, review topics from the assessment, discuss resources for SAT preparation, and work on test-taking strategies. These expectations are addressed by the tutor as they plan to finish the assessment, discuss reviewing topics, mention SAT resources, and offer practice tests and test-taking strategies.",
@@ -273,10 +275,10 @@
         {
           "name": "Instruction Delivery",
           "score": 9,
-          "percentile": 85.6,
+          "percentile": 86.4,
           "values": [
             2,
-            4,
+            3,
             0,
             0,
             0,
@@ -300,7 +302,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 7,
-          "percentile": 11.5,
+          "percentile": 11.7,
           "values": [
             0,
             0,
@@ -326,8 +328,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 5,
-          "percentile": 23.1,
+          "score": 3,
+          "percentile": 3.9,
           "values": [
             2,
             0,
@@ -347,26 +349,26 @@
             2,
             0,
             2,
-            4,
+            3,
             2
           ]
         },
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 64.4,
+          "percentile": 64.1,
           "values": [
-            3,
-            1,
-            2,
-            3,
-            2,
-            3,
-            1,
-            1,
             2,
             1,
-            4,
+            2,
+            2,
+            2,
+            2,
+            1,
+            1,
+            2,
+            1,
+            3,
             1,
             0,
             2,
@@ -374,7 +376,7 @@
             1,
             2,
             1,
-            3,
+            2,
             2
           ]
         }
@@ -383,7 +385,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 9,
-        "allSessionRanking": 85.6,
+        "allSessionRanking": 86.4,
         "tutorSessionRanking": 0.88,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -394,13 +396,13 @@
       },
       "techToolUsage": {
         "rating": 7,
-        "allSessionRanking": 11.5,
+        "allSessionRanking": 11.7,
         "tutorSessionRanking": 0.12
       },
       "feedbackQuality": {
-        "rating": 5,
-        "allSessionRanking": 23.1,
-        "tutorSessionRanking": 0.56,
+        "rating": 3,
+        "allSessionRanking": 3.9,
+        "tutorSessionRanking": 0.38,
         "positiveFeedback": 10.25,
         "neutralFeedback": 85.66,
         "negativeFeedback": 4.1,
@@ -411,7 +413,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 64.4,
+        "allSessionRanking": 64.1,
         "tutorSessionRanking": 0.94,
         "tutorUtterances": [
           3,

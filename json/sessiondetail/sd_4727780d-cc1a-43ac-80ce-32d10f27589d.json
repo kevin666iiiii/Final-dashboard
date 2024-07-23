@@ -258,7 +258,7 @@
         {
           "name": "Instruction Delivery",
           "score": 9,
-          "percentile": 85.6,
+          "percentile": 86.4,
           "values": [
             1,
             0,
@@ -277,7 +277,7 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
             0
           ]
@@ -285,7 +285,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 19.2,
+          "percentile": 18.4,
           "values": [
             0,
             0,
@@ -311,8 +311,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 7,
-          "percentile": 80.8,
+          "score": 5,
+          "percentile": 74.8,
           "values": [
             0,
             0,
@@ -322,18 +322,18 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
-            4,
+            3,
             0,
-            4,
+            3,
             0,
-            4,
+            3,
             0,
             0,
-            4
+            3
           ]
         },
         {
@@ -357,7 +357,7 @@
             0,
             0,
             1,
-            4,
+            3,
             2,
             0,
             1
@@ -368,7 +368,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 9,
-        "allSessionRanking": 85.6,
+        "allSessionRanking": 86.4,
         "tutorSessionRanking": 0.86,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -379,12 +379,12 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 19.2,
+        "allSessionRanking": 18.4,
         "tutorSessionRanking": 0.43
       },
       "feedbackQuality": {
-        "rating": 7,
-        "allSessionRanking": 80.8,
+        "rating": 5,
+        "allSessionRanking": 74.8,
         "tutorSessionRanking": 0.93,
         "positiveFeedback": 4.94,
         "neutralFeedback": 84.57,

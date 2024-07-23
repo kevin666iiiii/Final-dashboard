@@ -1,0 +1,45 @@
+{
+  "id": "878603524",
+  "gender": 1,
+  "tutor": "878603524",
+  "subjects": [
+    "Algebra"
+  ],
+  "tutoringExperience": 3,
+  "sessions": 2,
+  "students": 2,
+  "trackingHistory": [
+    {
+      "sessionId": "68a7c974-3dc5-47b3-a732-63ff32fdad63",
+      "subject": "Algebra",
+      "date": "2023-10-02"
+    },
+    {
+      "sessionId": "6d060d98-d4c0-47a3-b665-24ba27646ed0",
+      "subject": "Algebra",
+      "date": "2024-01-09"
+    }
+  ],
+  "scoreTrend": {
+    "instructionalDelivery": [
+      5,
+      7
+    ],
+    "techToolUsage": [
+      10,
+      10
+    ],
+    "feedbackQuality": [
+      6,
+      6
+    ],
+    "socialEmotionalTeaching": [
+      4,
+      5
+    ],
+    "time": [
+      0,
+      1
+    ]
+  }
+}

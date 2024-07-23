@@ -1,0 +1,45 @@
+{
+  "id": "878953375",
+  "gender": 1,
+  "tutor": "878953375",
+  "subjects": [
+    "Algebra 2"
+  ],
+  "tutoringExperience": 3,
+  "sessions": 2,
+  "students": 2,
+  "trackingHistory": [
+    {
+      "sessionId": "1c29c446-f372-499a-b5cb-48b926257b37",
+      "subject": "Algebra 2",
+      "date": "2023-11-19"
+    },
+    {
+      "sessionId": "b82df5cd-63d7-4820-a8dc-6b882625e975",
+      "subject": "Algebra 2",
+      "date": "2023-12-11"
+    }
+  ],
+  "scoreTrend": {
+    "instructionalDelivery": [
+      6,
+      8
+    ],
+    "techToolUsage": [
+      10,
+      8
+    ],
+    "feedbackQuality": [
+      3,
+      6
+    ],
+    "socialEmotionalTeaching": [
+      5,
+      5
+    ],
+    "time": [
+      0,
+      1
+    ]
+  }
+}

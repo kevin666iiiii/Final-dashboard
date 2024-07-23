@@ -1,0 +1,35 @@
+{
+  "id": "879337056",
+  "gender": 1,
+  "tutor": "879337056",
+  "subjects": [
+    "Algebra"
+  ],
+  "tutoringExperience": 3,
+  "sessions": 1,
+  "students": 1,
+  "trackingHistory": [
+    {
+      "sessionId": "9f7b49d4-7476-43d1-8b87-1b54bd96d11d",
+      "subject": "Algebra",
+      "date": "2024-02-10"
+    }
+  ],
+  "scoreTrend": {
+    "instructionalDelivery": [
+      5
+    ],
+    "techToolUsage": [
+      7
+    ],
+    "feedbackQuality": [
+      4
+    ],
+    "socialEmotionalTeaching": [
+      4
+    ],
+    "time": [
+      0
+    ]
+  }
+}

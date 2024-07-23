@@ -5,6 +5,8 @@
   "subject": "Algebra 2",
   "date": "2024-03-13",
   "riskyAreas": [
+    "tech",
+    "Feedback",
     "Silent",
     "Student Inactive",
     "Short session"
@@ -196,7 +198,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.6,
+          "percentile": 17.5,
           "values": [
             0,
             0,
@@ -290,7 +292,7 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.6,
+        "allSessionRanking": 17.5,
         "tutorSessionRanking": 75.0
       },
       "feedbackQuality": {

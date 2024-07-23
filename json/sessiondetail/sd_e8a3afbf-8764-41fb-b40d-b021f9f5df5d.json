@@ -4,7 +4,10 @@
   "student": 4407840,
   "subject": "Algebra 2",
   "date": "2024-03-04",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "Feedback",
+    "Emotion"
+  ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including completing the square, solving quadratic equations, Galileo's formula for free fall, factoring quadratic expressions, and more. The student's expectation was to review solving equations using square root property or completing the square, which the tutor addressed by guiding the student through the process. During low interaction periods, both the tutor and student engaged in silence to process and understand formulas and equations, allowing for deeper comprehension.",
     "desiredOutcome": "The student's expectation for the session is to review solving equations using square root property or completing the square. The tutor addresses the expectation by guiding the student through the process.",
@@ -271,7 +274,7 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 39.2,
+          "percentile": 38.8,
           "values": [
             0,
             0,
@@ -298,7 +301,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.1,
+          "percentile": 46.6,
           "values": [
             0,
             0,
@@ -352,7 +355,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 23.5,
+          "percentile": 23.3,
           "values": [
             3,
             1,
@@ -381,7 +384,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 39.2,
+        "allSessionRanking": 38.8,
         "tutorSessionRanking": 50.0,
         "correctExplanation": 83.33,
         "incorrectExplanation": 16.67,
@@ -392,7 +395,7 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.1,
+        "allSessionRanking": 46.6,
         "tutorSessionRanking": 70.0
       },
       "feedbackQuality": {
@@ -409,7 +412,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 23.5,
+        "allSessionRanking": 23.3,
         "tutorSessionRanking": 50.0,
         "tutorUtterances": [
           -2,

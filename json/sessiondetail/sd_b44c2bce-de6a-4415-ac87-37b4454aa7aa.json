@@ -4,7 +4,10 @@
   "student": 4976821,
   "subject": "Algebra 2",
   "date": "2023-08-23",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "tech",
+    "Emotion"
+  ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student delved into various topics related to polar coordinates, such as converting between rectangular and polar coordinates, understanding the unit circle, identifying quadrants and angles, graphing polar coordinates, and exploring different types of polar graphs. The student's specific expectation was to grasp how negative radii impact direction in the unit circle, which the tutor addressed through examples and explanations. Throughout the session, there were no periods of low interaction between the tutor and student.",
     "desiredOutcome": "The student's expectation for the session is to understand polar coordinates, specifically how negative radii affect the direction in the unit circle. These expectations are addressed and clarified by the tutor through examples and explanations.",
@@ -259,7 +262,7 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 39.2,
+          "percentile": 38.8,
           "values": [
             1,
             1,
@@ -286,7 +289,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.6,
+          "percentile": 17.5,
           "values": [
             0,
             0,
@@ -313,7 +316,7 @@
         {
           "name": "Feedback Quality",
           "score": 4,
-          "percentile": 32.4,
+          "percentile": 32.0,
           "values": [
             3,
             0,
@@ -340,7 +343,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 23.5,
+          "percentile": 23.3,
           "values": [
             1,
             1,
@@ -369,7 +372,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 39.2,
+        "allSessionRanking": 38.8,
         "tutorSessionRanking": 33.33,
         "correctExplanation": 75.0,
         "incorrectExplanation": 25.0,
@@ -380,12 +383,12 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.6,
+        "allSessionRanking": 17.5,
         "tutorSessionRanking": 33.33
       },
       "feedbackQuality": {
         "rating": 4,
-        "allSessionRanking": 32.4,
+        "allSessionRanking": 32.0,
         "tutorSessionRanking": 66.67,
         "positiveFeedback": 8.39,
         "neutralFeedback": 87.1,
@@ -397,7 +400,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 23.5,
+        "allSessionRanking": 23.3,
         "tutorSessionRanking": 33.33,
         "tutorUtterances": [
           0,

@@ -4,7 +4,9 @@
   "student": 1296722,
   "subject": "Algebra 2",
   "date": "2023-10-10",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "Feedback"
+  ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on reviewing concepts related to solving systems of equations. The student's expectation was to prepare for an upcoming quiz by revisiting topics such as graphing, substitution, and elimination methods. The student actively engaged in problem-solving with the tutor's guidance, ensuring their readiness for the quiz.",
     "desiredOutcome": "The student's expectation for the session is to review and prepare for a quiz on material covered in the previous week. They want to go over the same concepts to ensure they are ready for the quiz the next day. The tutor is helping the student solve problems related to graphing systems of equations. The student is actively engaged in the session, participating in solving the problems and discussing the solutions with the tutor. The tutor is providing guidance and support as the student works through the problems. Overall, the student's expectations for the session seem to be met as they are actively working on the material and getting clarification from the tutor.",
@@ -226,7 +228,7 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 39.2,
+          "percentile": 38.8,
           "values": [
             0,
             0,
@@ -253,7 +255,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.1,
+          "percentile": 46.6,
           "values": [
             0,
             0,
@@ -307,7 +309,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 63.7,
+          "percentile": 64.1,
           "values": [
             1,
             1,
@@ -336,7 +338,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 39.2,
+        "allSessionRanking": 38.8,
         "tutorSessionRanking": 87.5,
         "correctExplanation": 80.0,
         "incorrectExplanation": 20.0,
@@ -347,7 +349,7 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.1,
+        "allSessionRanking": 46.6,
         "tutorSessionRanking": 81.25
       },
       "feedbackQuality": {
@@ -364,7 +366,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 63.7,
+        "allSessionRanking": 64.1,
         "tutorSessionRanking": 31.25,
         "tutorUtterances": [
           4,

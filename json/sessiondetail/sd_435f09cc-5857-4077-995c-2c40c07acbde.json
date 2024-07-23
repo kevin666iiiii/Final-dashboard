@@ -4,7 +4,9 @@
   "student": 4540909,
   "subject": "Algebra 2",
   "date": "2023-12-11",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "Emotion"
+  ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including simplifying square roots, working with complex numbers, solving quadratic equations, and understanding imaginary roots. The student's expectation was to review and understand specific math problems from a previous test, which the tutor addressed through explanations and step-by-step guidance. Throughout the session, there were no periods of low interaction between the tutor and student.",
     "desiredOutcome": "The student's expectation for the session is to review and understand how to solve specific math problems from a previous test, including simplifying square roots and working with complex numbers. These expectations are being addressed and solved by the tutor through explanations and step-by-step guidance.",
@@ -271,7 +273,7 @@
         {
           "name": "Instruction Delivery",
           "score": 7,
-          "percentile": 57.8,
+          "percentile": 57.3,
           "values": [
             0,
             3,
@@ -298,7 +300,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.1,
+          "percentile": 46.6,
           "values": [
             0,
             0,
@@ -325,7 +327,7 @@
         {
           "name": "Feedback Quality",
           "score": 4,
-          "percentile": 32.4,
+          "percentile": 32.0,
           "values": [
             3,
             0,
@@ -352,7 +354,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 23.5,
+          "percentile": 23.3,
           "values": [
             1,
             2,
@@ -381,7 +383,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 7,
-        "allSessionRanking": 57.8,
+        "allSessionRanking": 57.3,
         "tutorSessionRanking": 43.75,
         "correctExplanation": 75.0,
         "incorrectExplanation": 25.0,
@@ -392,12 +394,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.1,
+        "allSessionRanking": 46.6,
         "tutorSessionRanking": 68.75
       },
       "feedbackQuality": {
         "rating": 4,
-        "allSessionRanking": 32.4,
+        "allSessionRanking": 32.0,
         "tutorSessionRanking": 87.5,
         "positiveFeedback": 12.5,
         "neutralFeedback": 84.72,
@@ -409,7 +411,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 23.5,
+        "allSessionRanking": 23.3,
         "tutorSessionRanking": 43.75,
         "tutorUtterances": [
           1,

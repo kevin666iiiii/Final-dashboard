@@ -5,6 +5,9 @@
   "subject": "Algebra 2",
   "date": "2023-11-13",
   "riskyAreas": [
+    "Instru",
+    "tech",
+    "Emotion",
     "Silent"
   ],
   "sessionGeneral": {
@@ -267,7 +270,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.6,
+          "percentile": 17.5,
           "values": [
             0,
             0,
@@ -294,7 +297,7 @@
         {
           "name": "Feedback Quality",
           "score": 5,
-          "percentile": 75.5,
+          "percentile": 74.8,
           "values": [
             0,
             0,
@@ -361,12 +364,12 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.6,
+        "allSessionRanking": 17.5,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
         "rating": 5,
-        "allSessionRanking": 75.5,
+        "allSessionRanking": 74.8,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 4.0,
         "neutralFeedback": 92.8,

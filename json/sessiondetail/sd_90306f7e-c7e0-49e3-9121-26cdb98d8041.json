@@ -4,7 +4,9 @@
   "student": 5438825,
   "subject": "Algebra",
   "date": "2023-10-23",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "tech"
+  ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including the coordinate plane, congruent shapes, triangles, rotational symmetry, and right angles. The student's initial expectation was to transfer their school work to a digital format, which the tutor partially addressed by suggesting using the platform's share and upload feature. The session may have been shorter than usual due to the student not being fully prepared.",
     "desiredOutcome": "The student's expectation for the session is to get help with transferring their paper work onto a digital copy because they are behind in their school work and their teacher is not responding to emails. The student's expectation is partially solved as the tutor suggests using the platform's share and upload feature to help with the digital transfer, but the session may be shorter than usual due to the student not being fully prepared.",
@@ -259,7 +261,7 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 39.2,
+          "percentile": 38.8,
           "values": [
             1,
             0,
@@ -286,7 +288,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.6,
+          "percentile": 17.5,
           "values": [
             0,
             0,
@@ -313,7 +315,7 @@
         {
           "name": "Feedback Quality",
           "score": 4,
-          "percentile": 32.4,
+          "percentile": 32.0,
           "values": [
             2,
             2,
@@ -340,7 +342,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 6,
-          "percentile": 88.2,
+          "percentile": 88.3,
           "values": [
             1,
             2,
@@ -369,7 +371,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 39.2,
+        "allSessionRanking": 38.8,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 80.0,
         "incorrectExplanation": 20.0,
@@ -380,12 +382,12 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.6,
+        "allSessionRanking": 17.5,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
         "rating": 4,
-        "allSessionRanking": 32.4,
+        "allSessionRanking": 32.0,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 9.81,
         "neutralFeedback": 86.08,
@@ -397,7 +399,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 6,
-        "allSessionRanking": 88.2,
+        "allSessionRanking": 88.3,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           3,

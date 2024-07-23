@@ -4,7 +4,11 @@
   "student": 1618865,
   "subject": "Algebra 2",
   "date": "2024-01-02",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "Instru",
+    "Feedback",
+    "Emotion"
+  ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on logarithms, addressing the student's struggles and dislike for the topic. The tutor explained concepts, worked on rewriting expressions, and solving equations. There were periods of low interaction for individual reflection and searching for new questions.",
     "desiredOutcome": "The student's expectation for the session is to work on logarithms, specifically rewriting expressions in logarithmic form and solving logarithmic equations. The student seems to be struggling with the new unit on logarithms and expresses dislike for it. The tutor addresses the student's need by going over examples and explaining concepts related to logarithms. The tutor also asks the student to send over notes from class, indicating a willingness to review additional materials to help the student understand the topic better. Overall, the student's expectations for the session are met as the tutor provides guidance and support in working through logarithmic problems.",
@@ -271,7 +275,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.1,
+          "percentile": 46.6,
           "values": [
             0,
             0,
@@ -325,7 +329,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 23.5,
+          "percentile": 23.3,
           "values": [
             0,
             0,
@@ -365,7 +369,7 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.1,
+        "allSessionRanking": 46.6,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
@@ -382,7 +386,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 23.5,
+        "allSessionRanking": 23.3,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           0,

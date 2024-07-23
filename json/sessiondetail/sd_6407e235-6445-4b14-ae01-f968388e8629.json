@@ -5,6 +5,10 @@
   "subject": "Algebra 2",
   "date": "2024-01-08",
   "riskyAreas": [
+    "Instru",
+    "tech",
+    "Feedback",
+    "Emotion",
     "Silent",
     "Student Inactive"
   ],
@@ -278,7 +282,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.7,
+          "percentile": 16.5,
           "values": [
             0,
             0,
@@ -388,7 +392,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.7,
+        "allSessionRanking": 16.5,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 50.0,
         "incorrectExplanation": 50.0,

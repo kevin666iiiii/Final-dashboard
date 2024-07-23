@@ -4,7 +4,12 @@
   "student": 4423525,
   "subject": "Algebra",
   "date": "2024-02-10",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "Instru",
+    "tech",
+    "Feedback",
+    "Emotion"
+  ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics related to business mathematics, including break-even point calculations, minimum sales price determination, return on investment, and monthly profit calculations. The student's expectation to work on a math problem regarding the break-even point for a manufacturer was met as the tutor provided step-by-step guidance and support throughout the session.",
     "desiredOutcome": "The student's expectation for the session seems to be to work on a math problem related to finding the break-even point for a manufacturer. The student is looking for guidance on setting up and solving the equation to determine the break-even point. The tutor is providing step-by-step instructions and support to help the student understand and solve the problem. The student's expectation for the session appears to be met as they are actively engaged in the problem-solving process with the tutor's assistance.",
@@ -213,7 +218,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.7,
+          "percentile": 16.5,
           "values": [
             0,
             0,
@@ -240,7 +245,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 7,
-          "percentile": 11.8,
+          "percentile": 11.7,
           "values": [
             0,
             0,
@@ -294,7 +299,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 23.5,
+          "percentile": 23.3,
           "values": [
             1,
             0,
@@ -323,7 +328,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.7,
+        "allSessionRanking": 16.5,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 50.0,
         "incorrectExplanation": 50.0,
@@ -334,7 +339,7 @@
       },
       "techToolUsage": {
         "rating": 7,
-        "allSessionRanking": 11.8,
+        "allSessionRanking": 11.7,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
@@ -351,7 +356,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 23.5,
+        "allSessionRanking": 23.3,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           1,

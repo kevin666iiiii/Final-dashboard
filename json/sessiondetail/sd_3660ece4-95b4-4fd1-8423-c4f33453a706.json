@@ -4,7 +4,10 @@
   "student": 5739057,
   "subject": "Algebra 2",
   "date": "2024-03-09",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "tech",
+    "Emotion"
+  ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the student's expectation was to focus on math problems related to graphing equations and understanding slope. The tutor guided the student through solving questions on linear equations, slope, and graphing lines. There were moments of low interaction as both tutor and student silently contemplated and processed information to solve problems.",
     "desiredOutcome": "The student's expectation for the session seems to be to work on math problems related to graphing equations and understanding slope. The student is actively engaged in discussing and solving the math problem with the tutor, seeking clarification on concepts and steps involved in graphing equations. The student also mentions upcoming travel plans that may affect future tutoring sessions. The tutor is addressing the student's questions and guiding them through the problem-solving process, helping them understand the concepts related to slope and graphing equations. Overall, the student's expectations for the session seem to be met as they are actively participating in solving math problems and seeking clarification on concepts.",
@@ -322,7 +325,7 @@
         {
           "name": "Instruction Delivery",
           "score": 7,
-          "percentile": 57.8,
+          "percentile": 57.3,
           "values": [
             0,
             1,
@@ -349,7 +352,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.6,
+          "percentile": 17.5,
           "values": [
             0,
             0,
@@ -376,7 +379,7 @@
         {
           "name": "Feedback Quality",
           "score": 5,
-          "percentile": 75.5,
+          "percentile": 74.8,
           "values": [
             2,
             3,
@@ -432,7 +435,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 7,
-        "allSessionRanking": 57.8,
+        "allSessionRanking": 57.3,
         "tutorSessionRanking": 64.29,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -443,12 +446,12 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.6,
+        "allSessionRanking": 17.5,
         "tutorSessionRanking": 42.86
       },
       "feedbackQuality": {
         "rating": 5,
-        "allSessionRanking": 75.5,
+        "allSessionRanking": 74.8,
         "tutorSessionRanking": 92.86,
         "positiveFeedback": 4.24,
         "neutralFeedback": 91.52,

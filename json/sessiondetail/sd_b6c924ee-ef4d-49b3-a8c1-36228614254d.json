@@ -5,6 +5,7 @@
   "subject": "Algebra",
   "date": "2023-12-28",
   "riskyAreas": [
+    "Feedback",
     "Silent",
     "Student Inactive",
     "Short session"
@@ -221,7 +222,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.1,
+          "percentile": 46.6,
           "values": [
             0,
             0,
@@ -275,7 +276,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 63.7,
+          "percentile": 64.1,
           "values": [
             2,
             2,
@@ -315,7 +316,7 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.1,
+        "allSessionRanking": 46.6,
         "tutorSessionRanking": 83.33
       },
       "feedbackQuality": {
@@ -332,7 +333,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 63.7,
+        "allSessionRanking": 64.1,
         "tutorSessionRanking": 50.0,
         "tutorUtterances": [
           7,

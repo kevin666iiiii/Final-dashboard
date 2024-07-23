@@ -4,7 +4,9 @@
   "student": 5296257,
   "subject": "Algebra 2",
   "date": "2023-09-12",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "tech"
+  ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed topics such as inequalities, interval notation, and solving equations with square roots. The student's expectation was to grasp converting solutions to inequalities and using interval notation accurately, which the tutor addressed through explanations and examples. During a specific low interaction period, lasting from 2220000 to 2340000 milliseconds, both the tutor and student engaged in a moment of silence to process and absorb the information shared.",
     "desiredOutcome": "The student's expectation for the session is to understand how to convert solutions to inequalities and use interval notation correctly. These expectations are addressed and solved by the tutor through explanations and examples.",
@@ -243,7 +245,7 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 39.2,
+          "percentile": 38.8,
           "values": [
             0,
             0,
@@ -270,7 +272,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.6,
+          "percentile": 17.5,
           "values": [
             0,
             0,
@@ -297,7 +299,7 @@
         {
           "name": "Feedback Quality",
           "score": 4,
-          "percentile": 32.4,
+          "percentile": 32.0,
           "values": [
             2,
             0,
@@ -324,7 +326,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 63.7,
+          "percentile": 64.1,
           "values": [
             2,
             1,
@@ -353,7 +355,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 39.2,
+        "allSessionRanking": 38.8,
         "tutorSessionRanking": 83.33,
         "correctExplanation": 83.33,
         "incorrectExplanation": 16.67,
@@ -364,12 +366,12 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.6,
+        "allSessionRanking": 17.5,
         "tutorSessionRanking": 33.33
       },
       "feedbackQuality": {
         "rating": 4,
-        "allSessionRanking": 32.4,
+        "allSessionRanking": 32.0,
         "tutorSessionRanking": 66.67,
         "positiveFeedback": 6.12,
         "neutralFeedback": 88.78,
@@ -381,7 +383,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 63.7,
+        "allSessionRanking": 64.1,
         "tutorSessionRanking": 83.33,
         "tutorUtterances": [
           3,

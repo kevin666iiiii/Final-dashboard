@@ -4,7 +4,9 @@
   "student": 5499514,
   "subject": "Algebra 2",
   "date": "2024-02-20",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "Emotion"
+  ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various physics topics, including momentum, kinematics, force, and velocity. The student's expectation to understand the combination of momentum and kinematics was successfully met. During periods of low interaction, both the tutor and student engaged in silent moments to calculate, process, and confirm their understanding of the concepts.",
     "desiredOutcome": "The student's expectation for the session was to understand how to combine momentum and kinematics concepts. These expectations were met as the tutor guided the student through solving problems involving both momentum and kinematics, helping them understand the concepts and apply them to calculations.",
@@ -226,7 +228,7 @@
         {
           "name": "Instruction Delivery",
           "score": 7,
-          "percentile": 57.8,
+          "percentile": 57.3,
           "values": [
             3,
             0,
@@ -253,7 +255,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.1,
+          "percentile": 46.6,
           "values": [
             0,
             0,
@@ -280,7 +282,7 @@
         {
           "name": "Feedback Quality",
           "score": 6,
-          "percentile": 94.1,
+          "percentile": 93.2,
           "values": [
             0,
             0,
@@ -307,7 +309,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 23.5,
+          "percentile": 23.3,
           "values": [
             0,
             0,
@@ -336,7 +338,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 7,
-        "allSessionRanking": 57.8,
+        "allSessionRanking": 57.3,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 83.33,
         "incorrectExplanation": 16.67,
@@ -347,12 +349,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.1,
+        "allSessionRanking": 46.6,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
         "rating": 6,
-        "allSessionRanking": 94.1,
+        "allSessionRanking": 93.2,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 3.97,
         "neutralFeedback": 93.65,
@@ -364,7 +366,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 23.5,
+        "allSessionRanking": 23.3,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           0,

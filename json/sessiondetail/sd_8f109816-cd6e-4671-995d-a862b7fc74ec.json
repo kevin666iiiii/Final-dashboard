@@ -4,7 +4,11 @@
   "student": 4158799,
   "subject": "Algebra 2",
   "date": "2024-01-28",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "tech",
+    "Feedback",
+    "Emotion"
+  ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including constructing a Voronoi diagram using Geogebra, finding slopes, midpoints, and intersections, labeling equations, and rounding numbers. The student's expectation to work on a project involving a Voronoi diagram using Geogebra was met as they discussed loading the picture, maintaining scale, and starting the project.",
     "desiredOutcome": "The student's expectation for the session is to work on a project involving constructing a Vermont diagram using Geogebra with guidance from the tutor. The expectation seems to be met as the tutor and student discuss loading the picture into Geogebra, maintaining the scale, and beginning the project.",
@@ -235,7 +239,7 @@
         {
           "name": "Instruction Delivery",
           "score": 7,
-          "percentile": 57.8,
+          "percentile": 57.3,
           "values": [
             0,
             0,
@@ -262,7 +266,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 7,
-          "percentile": 11.8,
+          "percentile": 11.7,
           "values": [
             0,
             0,
@@ -316,7 +320,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 23.5,
+          "percentile": 23.3,
           "values": [
             1,
             1,
@@ -345,7 +349,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 7,
-        "allSessionRanking": 57.8,
+        "allSessionRanking": 57.3,
         "tutorSessionRanking": 80.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -356,7 +360,7 @@
       },
       "techToolUsage": {
         "rating": 7,
-        "allSessionRanking": 11.8,
+        "allSessionRanking": 11.7,
         "tutorSessionRanking": 40.0
       },
       "feedbackQuality": {
@@ -373,7 +377,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 23.5,
+        "allSessionRanking": 23.3,
         "tutorSessionRanking": 50.0,
         "tutorUtterances": [
           -1,

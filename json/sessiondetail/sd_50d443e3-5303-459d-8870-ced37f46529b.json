@@ -4,7 +4,10 @@
   "student": 4158799,
   "subject": "Algebra 2",
   "date": "2023-11-29",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "Instru",
+    "Emotion"
+  ],
   "sessionGeneral": {
     "aiSummary": "During the one-on-one tutoring session, the tutor and student delved into various math topics including the vertex form of a parabola, vertical angles, systems of equations, and quadratic equations. The student's expectation was to review SAT math problems and strategies, focusing on no calculator questions and improving problem-solving efficiency. The tutor addressed these expectations by guiding the student through practice problems, providing shortcuts for quicker solutions, and encouraging a more streamlined approach to problem-solving.",
     "desiredOutcome": "Student's expectation for the session was to review SAT math problems and strategies. The student wanted to focus on no calculator questions and improve efficiency in problem-solving. These expectations were addressed as the tutor guided the student through practice problems, provided shortcuts for quicker solutions, and encouraged a more streamlined approach to problem-solving.",
@@ -238,7 +241,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.7,
+          "percentile": 16.5,
           "values": [
             0,
             3,
@@ -265,7 +268,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.1,
+          "percentile": 46.6,
           "values": [
             0,
             0,
@@ -292,7 +295,7 @@
         {
           "name": "Feedback Quality",
           "score": 4,
-          "percentile": 32.4,
+          "percentile": 32.0,
           "values": [
             3,
             3,
@@ -319,7 +322,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 23.5,
+          "percentile": 23.3,
           "values": [
             1,
             0,
@@ -348,7 +351,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.7,
+        "allSessionRanking": 16.5,
         "tutorSessionRanking": 30.0,
         "correctExplanation": 77.78,
         "incorrectExplanation": 22.22,
@@ -359,12 +362,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.1,
+        "allSessionRanking": 46.6,
         "tutorSessionRanking": 80.0
       },
       "feedbackQuality": {
         "rating": 4,
-        "allSessionRanking": 32.4,
+        "allSessionRanking": 32.0,
         "tutorSessionRanking": 70.0,
         "positiveFeedback": 5.08,
         "neutralFeedback": 88.7,
@@ -376,7 +379,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 23.5,
+        "allSessionRanking": 23.3,
         "tutorSessionRanking": 50.0,
         "tutorUtterances": [
           0,

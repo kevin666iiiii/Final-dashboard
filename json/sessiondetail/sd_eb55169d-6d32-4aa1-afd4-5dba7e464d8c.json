@@ -4,7 +4,10 @@
   "student": 4353019,
   "subject": "Algebra 2",
   "date": "2023-12-30",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "Instru",
+    "Emotion"
+  ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student extensively covered various trigonometry topics, including sine, cosine, tangent of specific angles in different quadrants, reference angles, exact values of trigonometric functions, rotating angles, handling negative angles, and applying trigonometric functions to angles in different quadrants. The student's expectations for the session, such as clarifying future scheduling, reviewing cosine calculations in radians, converting between degree and radian measures, and understanding SOHCAHTOA principles, were effectively addressed by the tutor.",
     "desiredOutcome": "Based on the transcript, the student's expectations for the session seem to be:\n\n1. Clarification on the scheduling of future tutoring sessions.\n2. Review and practice trigonometry concepts, specifically focusing on cosine calculations in radians.\n3. Assistance with understanding and converting between degree and radian measures.\n4. Guidance on trigonometric principles, such as SOHCAHTOA.\n\nIt appears that the student's expectations for the session were addressed, as the tutor discussed the scheduling for future sessions and proceeded to review and explain trigonometry concepts, including the conversion between degree and radian measures and the application of SOHCAHTOA in trigonometric calculations. The student also seemed engaged and actively taking notes, indicating that their expectations were being met.",
@@ -235,7 +238,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.7,
+          "percentile": 16.5,
           "values": [
             0,
             0,
@@ -262,7 +265,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.1,
+          "percentile": 46.6,
           "values": [
             0,
             0,
@@ -289,7 +292,7 @@
         {
           "name": "Feedback Quality",
           "score": 4,
-          "percentile": 32.4,
+          "percentile": 32.0,
           "values": [
             0,
             0,
@@ -316,7 +319,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 23.5,
+          "percentile": 23.3,
           "values": [
             1,
             0,
@@ -345,7 +348,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.7,
+        "allSessionRanking": 16.5,
         "tutorSessionRanking": 14.29,
         "correctExplanation": 96.15,
         "incorrectExplanation": 3.85,
@@ -356,12 +359,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.1,
+        "allSessionRanking": 46.6,
         "tutorSessionRanking": 85.71
       },
       "feedbackQuality": {
         "rating": 4,
-        "allSessionRanking": 32.4,
+        "allSessionRanking": 32.0,
         "tutorSessionRanking": 50.0,
         "positiveFeedback": 16.13,
         "neutralFeedback": 77.42,
@@ -373,7 +376,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 23.5,
+        "allSessionRanking": 23.3,
         "tutorSessionRanking": 85.71,
         "tutorUtterances": [
           0,

@@ -5,6 +5,9 @@
   "subject": "Algebra 2",
   "date": "2023-10-28",
   "riskyAreas": [
+    "Instru",
+    "tech",
+    "Emotion",
     "Student Inactive",
     "Short session"
   ],
@@ -278,7 +281,7 @@
         {
           "name": "Feedback Quality",
           "score": 4,
-          "percentile": 32.4,
+          "percentile": 32.0,
           "values": [
             2,
             0,
@@ -350,7 +353,7 @@
       },
       "feedbackQuality": {
         "rating": 4,
-        "allSessionRanking": 32.4,
+        "allSessionRanking": 32.0,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 2.5,
         "neutralFeedback": 91.67,

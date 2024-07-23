@@ -4,7 +4,11 @@
   "student": 179544,
   "subject": "Algebra 2",
   "date": "2023-10-02",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "Instru",
+    "tech",
+    "Feedback"
+  ],
   "sessionGeneral": {
     "aiSummary": "During the one-on-one tutoring session, the tutor and student discussed various topics including identity elements, inverses, exponentiation distribution, closure, commutativity, and set notation in binary operations. The student's expectation was to prepare for a math test, focusing on problem-solving. The tutor guided the student in simplifying equations and utilizing a graphing calculator for solutions.",
     "desiredOutcome": "The student's expectation for the session is to receive help with preparing for a test, specifically with solving math problems. The tutor addresses the student's request by guiding them through simplifying equations and using a graphing calculator for solutions.",
@@ -320,7 +324,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.7,
+          "percentile": 16.5,
           "values": [
             1,
             0,
@@ -401,7 +405,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 63.7,
+          "percentile": 64.1,
           "values": [
             1,
             1,
@@ -430,7 +434,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.7,
+        "allSessionRanking": 16.5,
         "tutorSessionRanking": 56.25,
         "correctExplanation": 60.0,
         "incorrectExplanation": 40.0,
@@ -458,7 +462,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 63.7,
+        "allSessionRanking": 64.1,
         "tutorSessionRanking": 31.25,
         "tutorUtterances": [
           1,

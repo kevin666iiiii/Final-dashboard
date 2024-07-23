@@ -83,8 +83,8 @@
     "tutorId": "878400640",
     "tutor": "878400640",
     "subjects": [
-      "Algebra",
-      "Algebra 2"
+      "Algebra 2",
+      "Algebra"
     ]
   },
   {
@@ -357,6 +357,13 @@
   {
     "tutorId": "879204470",
     "tutor": "879204470",
+    "subjects": [
+      "Algebra 2"
+    ]
+  },
+  {
+    "tutorId": "879349436",
+    "tutor": "879349436",
     "subjects": [
       "Algebra 2"
     ]

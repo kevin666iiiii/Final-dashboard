@@ -5,6 +5,9 @@
   "subject": "Algebra 2",
   "date": "2024-01-02",
   "riskyAreas": [
+    "Instru",
+    "tech",
+    "Emotion",
     "Silent"
   ],
   "sessionGeneral": {
@@ -247,7 +250,7 @@
         {
           "name": "Instruction Delivery",
           "score": 4,
-          "percentile": 9.8,
+          "percentile": 9.7,
           "values": [
             0,
             0,
@@ -301,7 +304,7 @@
         {
           "name": "Feedback Quality",
           "score": 4,
-          "percentile": 32.4,
+          "percentile": 32.0,
           "values": [
             3,
             0,
@@ -357,7 +360,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 4,
-        "allSessionRanking": 9.8,
+        "allSessionRanking": 9.7,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 75.0,
         "incorrectExplanation": 25.0,
@@ -373,7 +376,7 @@
       },
       "feedbackQuality": {
         "rating": 4,
-        "allSessionRanking": 32.4,
+        "allSessionRanking": 32.0,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 2.82,
         "neutralFeedback": 91.55,

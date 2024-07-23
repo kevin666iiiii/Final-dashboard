@@ -5,6 +5,8 @@
   "subject": "Algebra 2",
   "date": "2024-01-03",
   "riskyAreas": [
+    "tech",
+    "Emotion",
     "Student Inactive",
     "Short session"
   ],
@@ -205,7 +207,7 @@
         {
           "name": "Instruction Delivery",
           "score": 7,
-          "percentile": 57.8,
+          "percentile": 57.3,
           "values": [
             0,
             3,
@@ -232,7 +234,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.6,
+          "percentile": 17.5,
           "values": [
             0,
             0,
@@ -259,7 +261,7 @@
         {
           "name": "Feedback Quality",
           "score": 4,
-          "percentile": 32.4,
+          "percentile": 32.0,
           "values": [
             0,
             0,
@@ -286,7 +288,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 23.5,
+          "percentile": 23.3,
           "values": [
             2,
             1,
@@ -315,7 +317,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 7,
-        "allSessionRanking": 57.8,
+        "allSessionRanking": 57.3,
         "tutorSessionRanking": 64.29,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -326,12 +328,12 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.6,
+        "allSessionRanking": 17.5,
         "tutorSessionRanking": 42.86
       },
       "feedbackQuality": {
         "rating": 4,
-        "allSessionRanking": 32.4,
+        "allSessionRanking": 32.0,
         "tutorSessionRanking": 50.0,
         "positiveFeedback": 3.55,
         "neutralFeedback": 89.36,
@@ -343,7 +345,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 23.5,
+        "allSessionRanking": 23.3,
         "tutorSessionRanking": 85.71,
         "tutorUtterances": [
           1,

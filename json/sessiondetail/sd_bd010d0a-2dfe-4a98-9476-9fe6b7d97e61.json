@@ -5,7 +5,9 @@
   "subject": "Algebra 2",
   "date": "2024-03-03",
   "riskyAreas": [
-    "tech"
+    "Instru",
+    "tech",
+    "Emotion"
   ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including troubleshooting camera issues, job experiences, mathematical equations, graphing linear equations, and analyzing absolute value graphs. The student's initial expectation was to fix their camera problem, which was partially resolved with guidance on checking device manager and camera settings.",
@@ -300,7 +302,7 @@
         {
           "name": "Feedback Quality",
           "score": 4,
-          "percentile": 32.4,
+          "percentile": 32.0,
           "values": [
             3,
             0,
@@ -327,7 +329,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 23.5,
+          "percentile": 23.3,
           "values": [
             2,
             0,
@@ -372,7 +374,7 @@
       },
       "feedbackQuality": {
         "rating": 4,
-        "allSessionRanking": 32.4,
+        "allSessionRanking": 32.0,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 10.53,
         "neutralFeedback": 86.12,
@@ -384,7 +386,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 23.5,
+        "allSessionRanking": 23.3,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           1,

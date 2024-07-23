@@ -4,7 +4,11 @@
   "student": 4706852,
   "subject": "Algebra 2",
   "date": "2024-03-10",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "Instru",
+    "Feedback",
+    "Emotion"
+  ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student extensively discussed physics concepts related to forces and circular motion, meeting the student's expectations. The tutor also engaged in casual conversation and assisted with the worksheet and test corrections. There was a brief pause in interaction when the student was searching for a pencil.",
     "desiredOutcome": "Based on the transcript, the student's expectations for the session seem to be focused on discussing personal experiences, sharing anecdotes, and engaging in casual conversation with the tutor. The student also mentions having a worksheet to work on and test corrections to review. The student seems to be seeking help with understanding physics concepts related to forces and circular motion. The student is looking for clarification on how different forces act on an object in circular motion and how to identify and differentiate these forces. The student is also open to discussing and sharing personal interests such as cartoons and experiences with siblings. \n\nThe tutor addresses the student's expectations by engaging in casual conversation, discussing personal experiences, and helping the student with the physics concepts related to forces and circular motion. The tutor also offers assistance with the worksheet and test corrections, indicating that the student's expectations for the session are being met.",
@@ -252,7 +256,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.7,
+          "percentile": 16.5,
           "values": [
             1,
             1,
@@ -279,7 +283,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.1,
+          "percentile": 46.6,
           "values": [
             0,
             0,
@@ -362,7 +366,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.7,
+        "allSessionRanking": 16.5,
         "tutorSessionRanking": 50.0,
         "correctExplanation": 77.78,
         "incorrectExplanation": 22.22,
@@ -373,7 +377,7 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.1,
+        "allSessionRanking": 46.6,
         "tutorSessionRanking": 75.0
       },
       "feedbackQuality": {

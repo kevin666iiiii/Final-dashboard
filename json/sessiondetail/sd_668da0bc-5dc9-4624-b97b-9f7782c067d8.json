@@ -4,7 +4,11 @@
   "student": 6080552,
   "subject": "Algebra",
   "date": "2023-11-20",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "Instru",
+    "tech",
+    "Emotion"
+  ],
   "sessionGeneral": {
     "aiSummary": "During the one-on-one tutoring session, the tutor and student focused on topics such as laws of exponents and subtraction of polynomials. The student's expectation to work on math problems involving exponents was met. There were periods of low interaction where both parties needed time to process information, reflect, and formulate responses.",
     "desiredOutcome": "The student's expectation for the session is to work on math problems involving exponents and learn the laws of exponents. These expectations are being addressed and solved by the tutor during the session.",
@@ -249,7 +253,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.7,
+          "percentile": 16.5,
           "values": [
             2,
             0,
@@ -276,7 +280,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.6,
+          "percentile": 17.5,
           "values": [
             0,
             0,
@@ -303,7 +307,7 @@
         {
           "name": "Feedback Quality",
           "score": 4,
-          "percentile": 32.4,
+          "percentile": 32.0,
           "values": [
             2,
             2,
@@ -330,7 +334,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 23.5,
+          "percentile": 23.3,
           "values": [
             2,
             0,
@@ -359,7 +363,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.7,
+        "allSessionRanking": 16.5,
         "tutorSessionRanking": 25.0,
         "correctExplanation": 80.0,
         "incorrectExplanation": 20.0,
@@ -370,12 +374,12 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.6,
+        "allSessionRanking": 17.5,
         "tutorSessionRanking": 37.5
       },
       "feedbackQuality": {
         "rating": 4,
-        "allSessionRanking": 32.4,
+        "allSessionRanking": 32.0,
         "tutorSessionRanking": 25.0,
         "positiveFeedback": 13.68,
         "neutralFeedback": 82.11,
@@ -387,7 +391,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 23.5,
+        "allSessionRanking": 23.3,
         "tutorSessionRanking": 75.0,
         "tutorUtterances": [
           -1,

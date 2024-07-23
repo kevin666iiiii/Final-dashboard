@@ -5,6 +5,8 @@
   "subject": "Algebra 2",
   "date": "2023-11-10",
   "riskyAreas": [
+    "Feedback",
+    "Emotion",
     "Silent"
   ],
   "sessionGeneral": {
@@ -328,7 +330,7 @@
         {
           "name": "Instruction Delivery",
           "score": 7,
-          "percentile": 57.8,
+          "percentile": 57.3,
           "values": [
             0,
             1,
@@ -355,7 +357,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.1,
+          "percentile": 46.6,
           "values": [
             0,
             0,
@@ -409,7 +411,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 23.5,
+          "percentile": 23.3,
           "values": [
             3,
             2,
@@ -438,7 +440,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 7,
-        "allSessionRanking": 57.8,
+        "allSessionRanking": 57.3,
         "tutorSessionRanking": 43.75,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -449,7 +451,7 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.1,
+        "allSessionRanking": 46.6,
         "tutorSessionRanking": 68.75
       },
       "feedbackQuality": {
@@ -466,7 +468,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 23.5,
+        "allSessionRanking": 23.3,
         "tutorSessionRanking": 43.75,
         "tutorUtterances": [
           0,

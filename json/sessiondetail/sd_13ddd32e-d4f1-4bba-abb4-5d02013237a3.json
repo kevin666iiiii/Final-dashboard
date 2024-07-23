@@ -5,7 +5,10 @@
   "subject": "Algebra",
   "date": "2024-01-14",
   "riskyAreas": [
-    "Feedback"
+    "Instru",
+    "tech",
+    "Feedback",
+    "Emotion"
   ],
   "sessionGeneral": {
     "aiSummary": "During the one-on-one tutoring session, the tutor and student focused on geometry problems related to rectangles and angles. The student's expectation to understand and complete the homework before lacrosse practice was met as the tutor provided explanations. There were two instances of low interaction due to the student processing questions silently and pausing to sharpen a pencil.",
@@ -228,7 +231,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.7,
+          "percentile": 16.5,
           "values": [
             1,
             0,
@@ -255,7 +258,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 7,
-          "percentile": 11.8,
+          "percentile": 11.7,
           "values": [
             0,
             0,
@@ -338,7 +341,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.7,
+        "allSessionRanking": 16.5,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 72.73,
         "incorrectExplanation": 27.27,
@@ -349,7 +352,7 @@
       },
       "techToolUsage": {
         "rating": 7,
-        "allSessionRanking": 11.8,
+        "allSessionRanking": 11.7,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {

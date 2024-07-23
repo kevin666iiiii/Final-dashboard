@@ -5,6 +5,7 @@
   "subject": "Algebra 2",
   "date": "2023-08-02",
   "riskyAreas": [
+    "Feedback",
     "Silent",
     "Student Inactive"
   ],
@@ -231,7 +232,7 @@
         {
           "name": "Instruction Delivery",
           "score": 9,
-          "percentile": 86.3,
+          "percentile": 85.4,
           "values": [
             0,
             0,
@@ -258,7 +259,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.1,
+          "percentile": 46.6,
           "values": [
             0,
             0,
@@ -341,7 +342,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 9,
-        "allSessionRanking": 86.3,
+        "allSessionRanking": 85.4,
         "tutorSessionRanking": 87.5,
         "correctExplanation": 66.67,
         "incorrectExplanation": 33.33,
@@ -352,7 +353,7 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.1,
+        "allSessionRanking": 46.6,
         "tutorSessionRanking": 62.5
       },
       "feedbackQuality": {

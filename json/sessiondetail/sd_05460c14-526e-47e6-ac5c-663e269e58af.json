@@ -4,7 +4,11 @@
   "student": 5472922,
   "subject": "Algebra 2",
   "date": "2023-10-04",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "tech",
+    "Feedback",
+    "Emotion"
+  ],
   "sessionGeneral": {
     "aiSummary": "During the one-on-one tutoring session, the student's expectation of focusing on challenging topics from their math study guide for an upcoming test was met. The tutor and student actively worked on simplifying math problems and identifying properties of numbers. The student engaged in discussions and received explanations and guidance from the tutor to enhance their understanding.",
     "desiredOutcome": "The student's expectation for the session is to work on their nine-week study guide for a math test the next day. They specifically mention that they have a lot of stuff to cover and that they have started on the topics they don't understand. The student expects to focus on the areas of the study guide that are challenging for them and not waste time on topics they already know. The tutor acknowledges this and agrees to work on the areas the student finds difficult. The tutor also mentions that they have only an hour for the session, indicating that the student's expectation of focusing on specific challenging topics aligns with the time constraint. \n\nThroughout the session, the tutor and student work on simplifying math problems and identifying properties of numbers. The student actively participates in solving the problems and engages in discussions with the tutor to understand the concepts better. The tutor provides explanations and guidance to help the student grasp the material. Overall, the student's expectation of receiving help with challenging topics from their study guide is met during the session.",
@@ -212,7 +216,7 @@
         {
           "name": "Instruction Delivery",
           "score": 9,
-          "percentile": 86.3,
+          "percentile": 85.4,
           "values": [
             0,
             3,
@@ -239,7 +243,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.6,
+          "percentile": 17.5,
           "values": [
             0,
             0,
@@ -293,7 +297,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 23.5,
+          "percentile": 23.3,
           "values": [
             1,
             2,
@@ -322,7 +326,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 9,
-        "allSessionRanking": 86.3,
+        "allSessionRanking": 85.4,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -333,7 +337,7 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.6,
+        "allSessionRanking": 17.5,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
@@ -350,7 +354,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 23.5,
+        "allSessionRanking": 23.3,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           0,

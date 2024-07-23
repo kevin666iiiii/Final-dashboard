@@ -6,6 +6,7 @@
   "date": "2024-01-31",
   "riskyAreas": [
     "Instru",
+    "tech",
     "Short session"
   ],
   "sessionGeneral": {
@@ -214,7 +215,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.6,
+          "percentile": 17.5,
           "values": [
             2,
             0,
@@ -241,7 +242,7 @@
         {
           "name": "Feedback Quality",
           "score": 5,
-          "percentile": 75.5,
+          "percentile": 74.8,
           "values": [
             3,
             3,
@@ -268,7 +269,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 6,
-          "percentile": 88.2,
+          "percentile": 88.3,
           "values": [
             2,
             3,
@@ -308,12 +309,12 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.6,
+        "allSessionRanking": 17.5,
         "tutorSessionRanking": 43.75
       },
       "feedbackQuality": {
         "rating": 5,
-        "allSessionRanking": 75.5,
+        "allSessionRanking": 74.8,
         "tutorSessionRanking": 93.75,
         "positiveFeedback": 11.92,
         "neutralFeedback": 83.44,
@@ -325,7 +326,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 6,
-        "allSessionRanking": 88.2,
+        "allSessionRanking": 88.3,
         "tutorSessionRanking": 75.0,
         "tutorUtterances": [
           2,

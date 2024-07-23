@@ -4,7 +4,11 @@
   "student": 5694763,
   "subject": "Algebra 2",
   "date": "2024-01-23",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "Instru",
+    "Feedback",
+    "Emotion"
+  ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including exponential and logarithmic functions, graphing functions, finding asymptotes, and solving equations. The student's expectation was to focus on rewriting exponential functions in log form, which the tutor successfully addressed by guiding the student through the conversion process and helping them solve related math problems.",
     "desiredOutcome": "The student's expectation for the session is to work on math problems related to rewriting exponential functions in log form. The tutor addresses this expectation by guiding the student through the process of converting exponential functions to log form. The student also sends a photo of the math problems they want to work on, indicating a specific focus for the session. The tutor successfully helps the student understand the concept and solve the problems.",
@@ -208,7 +212,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.7,
+          "percentile": 16.5,
           "values": [
             0,
             0,
@@ -235,7 +239,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.1,
+          "percentile": 46.6,
           "values": [
             0,
             0,
@@ -289,7 +293,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 23.5,
+          "percentile": 23.3,
           "values": [
             1,
             0,
@@ -318,7 +322,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.7,
+        "allSessionRanking": 16.5,
         "tutorSessionRanking": 33.33,
         "correctExplanation": 50.0,
         "incorrectExplanation": 50.0,
@@ -329,7 +333,7 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.1,
+        "allSessionRanking": 46.6,
         "tutorSessionRanking": 83.33
       },
       "feedbackQuality": {
@@ -346,7 +350,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 23.5,
+        "allSessionRanking": 23.3,
         "tutorSessionRanking": 33.33,
         "tutorUtterances": [
           3,

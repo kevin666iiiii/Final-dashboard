@@ -5,7 +5,8 @@
   "subject": "Algebra 2",
   "date": "2023-08-04",
   "riskyAreas": [
-    "Silent"
+    "tech",
+    "Emotion"
   ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student delved into various chemistry topics, including chemical and physical changes, properties, bonds, and entropy. The student's initial focus on these concepts was met with detailed explanations and examples. Throughout the session, there were periods of low interaction as the student needed time to process information and reflect on the discussed points, such as diffusion, osmosis, and previous topics.",
@@ -250,7 +251,7 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 39.2,
+          "percentile": 38.8,
           "values": [
             1,
             0,
@@ -277,7 +278,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.6,
+          "percentile": 17.5,
           "values": [
             0,
             2,
@@ -304,7 +305,7 @@
         {
           "name": "Feedback Quality",
           "score": 4,
-          "percentile": 32.4,
+          "percentile": 32.0,
           "values": [
             0,
             0,
@@ -360,7 +361,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 39.2,
+        "allSessionRanking": 38.8,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 66.67,
         "incorrectExplanation": 33.33,
@@ -371,12 +372,12 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.6,
+        "allSessionRanking": 17.5,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
         "rating": 4,
-        "allSessionRanking": 32.4,
+        "allSessionRanking": 32.0,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 3.3,
         "neutralFeedback": 90.11,

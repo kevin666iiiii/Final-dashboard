@@ -57,5 +57,5 @@ jobs:
         git add code/*
         git add 150df.csv
         git add json/*
-        git commit -m "DA classification" || exit 0  # This line prevents the action from failing if no changes.
+        git commit -m "upload" || exit 0  # This line prevents the action from failing if no changes.
         git push https://${{ secrets.NEW_TOKEN }}@github.com/${{ github.repository }} HEAD:${{ github.ref }}

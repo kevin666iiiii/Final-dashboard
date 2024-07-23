@@ -14,14 +14,14 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including solving equations by factoring, identifying factors of a polynomial, determining x-intercepts, finding zeros/roots, and understanding the relationship between roots and factors. The student's expectation was to review factoring equations, which the tutor successfully addressed by guiding them through the process.",
     "desiredOutcome": "The student's expectation for the session is to review and refresh their knowledge on factoring equations. The tutor successfully addressed the student's expectation by guiding them through the process of factoring an equation.",
     "activities": [
-      "Determining x-intercepts of a polynomial function",
       "Scheduling tutoring sessions",
-      "Understanding the relationship between roots and factors of a polynomial",
-      "Solving equations by factoring",
       "Determining the equation from x-intercepts",
-      "Finding zeros/roots/x-intercepts of a polynomial",
       "Confirming session details",
+      "Solving equations by factoring",
       "Identifying mistakes in solutions",
+      "Finding zeros/roots/x-intercepts of a polynomial",
+      "Determining x-intercepts of a polynomial function",
+      "Understanding the relationship between roots and factors of a polynomial",
       "Identifying factors of a polynomial"
     ],
     "interactionTrend": {
@@ -126,7 +126,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.3,
+          "percentile": 16.7,
           "values": [
             1,
             1,
@@ -153,7 +153,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.3,
+          "percentile": 17.6,
           "values": [
             0,
             0,
@@ -236,7 +236,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.3,
+        "allSessionRanking": 16.7,
         "tutorSessionRanking": 56.25,
         "correctExplanation": 50.0,
         "incorrectExplanation": 50.0,
@@ -247,7 +247,7 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.3,
+        "allSessionRanking": 17.6,
         "tutorSessionRanking": 43.75
       },
       "feedbackQuality": {

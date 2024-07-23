@@ -14,15 +14,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various algebra two topics, focusing on system of equations to address the student's learning gap. The student showed engagement and willingness to learn, agreeing to work on more problems for better understanding. Periods of low interaction occurred when the student needed time to process information or solve equations independently, and when the tutor needed time to review the student's work and plan next steps.",
     "desiredOutcome": "The student's expectation for the session was to work on algebra two topics, specifically focusing on system of equations. The student expressed familiarity with some algebra concepts like multi-step equations, absolute values, and compound inequalities. However, they indicated that they had not covered system of equations yet and were open to learning about it. The tutor identified this gap in knowledge and proceeded to explain and work on solving system of equations with the student. The student seemed engaged and willing to learn, as they agreed to work on more problems to solidify their understanding. Overall, the student's expectation for the session was addressed as they received guidance on a new topic in algebra two.",
     "activities": [
-      "Rational equations",
-      "Multi-step equations and inequalities",
-      "System of equations",
-      "Completing the square",
-      "Graphing linear equations",
-      "Factoring polynomials",
       "Compound inequalities",
+      "System of equations",
+      "Factoring polynomials",
+      "Completing the square",
       "Exponents and logarithms",
-      "Absolute values"
+      "Absolute values",
+      "Graphing linear equations",
+      "Multi-step equations and inequalities",
+      "Rational equations"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -338,7 +338,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.3,
+          "percentile": 16.7,
           "values": [
             0,
             0,
@@ -365,7 +365,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -391,8 +391,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 4,
-          "percentile": 31.7,
+          "score": 7,
+          "percentile": 50.0,
           "values": [
             3,
             0,
@@ -419,7 +419,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 24.0,
+          "percentile": 22.5,
           "values": [
             2,
             0,
@@ -448,7 +448,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.3,
+        "allSessionRanking": 16.7,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -459,12 +459,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
+        "allSessionRanking": 46.1,
         "tutorSessionRanking": 83.33
       },
       "feedbackQuality": {
-        "rating": 4,
-        "allSessionRanking": 31.7,
+        "rating": 7,
+        "allSessionRanking": 50.0,
         "tutorSessionRanking": 66.67,
         "positiveFeedback": 4.0,
         "neutralFeedback": 92.33,
@@ -476,7 +476,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 24.0,
+        "allSessionRanking": 22.5,
         "tutorSessionRanking": 66.67,
         "tutorUtterances": [
           0,

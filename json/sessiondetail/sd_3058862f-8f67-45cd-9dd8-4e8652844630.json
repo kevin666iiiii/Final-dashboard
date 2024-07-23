@@ -12,11 +12,11 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on topics such as solving linear systems with multiple variables, identifying graphs of linear equations in three dimensions, and solving systems of equations using elimination and substitution. The student's expectation was met as the tutor guided them through examples, explaining concepts effectively.",
     "desiredOutcome": "The student's expectation for the session was to work on solving linear systems, specifically focusing on understanding when a system has no solution or infinite solutions. The tutor successfully addressed the student's expectation by guiding them through examples and explaining the concepts of dependent and independent solutions. The student seemed satisfied with the explanations provided by the tutor.",
     "activities": [
-      "Identifying the graph of a linear equation in three dimensions",
-      "Solving linear systems with multiple variables",
-      "Identifying the position of a point in three-dimensional space",
       "Identifying the price of items based on a given scenario",
-      "Solving a system of equations using elimination and substitution"
+      "Solving a system of equations using elimination and substitution",
+      "Solving linear systems with multiple variables",
+      "Identifying the graph of a linear equation in three dimensions",
+      "Identifying the position of a point in three-dimensional space"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -195,7 +195,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.3,
+          "percentile": 16.7,
           "values": [
             2,
             0,
@@ -222,7 +222,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -248,8 +248,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 4,
-          "percentile": 31.7,
+          "score": 7,
+          "percentile": 50.0,
           "values": [
             3,
             0,
@@ -276,7 +276,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 64.4,
+          "percentile": 63.7,
           "values": [
             0,
             1,
@@ -305,7 +305,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.3,
+        "allSessionRanking": 16.7,
         "tutorSessionRanking": 56.25,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -316,13 +316,13 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
+        "allSessionRanking": 46.1,
         "tutorSessionRanking": 81.25
       },
       "feedbackQuality": {
-        "rating": 4,
-        "allSessionRanking": 31.7,
-        "tutorSessionRanking": 68.75,
+        "rating": 7,
+        "allSessionRanking": 50.0,
+        "tutorSessionRanking": 75.0,
         "positiveFeedback": 13.43,
         "neutralFeedback": 82.09,
         "negativeFeedback": 4.48,
@@ -333,7 +333,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 64.4,
+        "allSessionRanking": 63.7,
         "tutorSessionRanking": 31.25,
         "tutorUtterances": [
           5,

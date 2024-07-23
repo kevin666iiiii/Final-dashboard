@@ -16,15 +16,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including integrals with natural log functions, differential equations, and directly proportional word problems. The student's expectations were to review concepts, practice problems, and learn tricks. Periods of low interaction occurred as both parties processed information, searched for relevant details, and contemplated solutions.",
     "desiredOutcome": "The student's expectations for the session are to go over different lessons related to integrals, specifically focusing on integrals with natural log functions, finding general and particular solutions, and practicing problems. The student also wants to learn any tricks or issues they may encounter and review concepts before attempting a practice test. The student requests to cover problems from different units, such as directly proportional ones. The tutor is addressing the student's expectations by providing practice problems, explaining concepts, and attempting different types of problems as requested.",
     "activities": [
-      "Reviewing and analyzing differential equations solutions",
-      "Determining the domain of a particular solution to a differential equation",
-      "Solving differential equations using separation of variables",
-      "Integrals with natural log functions and general and particular solutions",
+      "Finding limits in differential equations",
       "Finding a value of k to satisfy a differential equation",
+      "Slope fields and finding solutions",
+      "Determining the domain of a particular solution to a differential equation",
+      "Reviewing and analyzing differential equations solutions",
+      "Solving differential equations using separation of variables",
       "Directly proportional word problems",
       "Solving differential equations with initial values",
-      "Finding limits in differential equations",
-      "Slope fields and finding solutions"
+      "Integrals with natural log functions and general and particular solutions"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -297,7 +297,7 @@
         {
           "name": "Instruction Delivery",
           "score": 4,
-          "percentile": 9.6,
+          "percentile": 9.8,
           "values": [
             1,
             3,
@@ -324,7 +324,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.3,
+          "percentile": 17.6,
           "values": [
             0,
             0,
@@ -350,8 +350,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 3,
-          "percentile": 3.8,
+          "score": 4,
+          "percentile": 3.9,
           "values": [
             0,
             3,
@@ -378,7 +378,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 24.0,
+          "percentile": 22.5,
           "values": [
             0,
             2,
@@ -407,7 +407,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 4,
-        "allSessionRanking": 9.6,
+        "allSessionRanking": 9.8,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -418,12 +418,12 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.3,
+        "allSessionRanking": 17.6,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
-        "rating": 3,
-        "allSessionRanking": 3.8,
+        "rating": 4,
+        "allSessionRanking": 3.9,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 1.85,
         "neutralFeedback": 95.37,
@@ -435,7 +435,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 24.0,
+        "allSessionRanking": 22.5,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           0,

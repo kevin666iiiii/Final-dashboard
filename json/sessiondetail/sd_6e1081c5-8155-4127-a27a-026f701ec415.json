@@ -11,15 +11,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including simplifying radicals, exponent rules, multiplying radicals, combining like terms, factoring, extraneous solutions, quadratic formula, solving equations, and fraction rules. The student's expectation was to simplify and multiply radicals, which the tutor addressed by guiding them through simplifying radicals and combining terms. Throughout the session, there were no periods of low interaction between the tutor and student.",
     "desiredOutcome": "The student's expectation for the session is to simplify radicals and multiply them. The tutor addressed the student's expectation by guiding them through simplifying radicals and combining terms.",
     "activities": [
-      "Simplifying radicals",
-      "Fraction rules",
-      "Solving equations",
       "Exponent rules",
-      "Multiplying radicals",
-      "Quadratic formula",
+      "Solving equations",
+      "Fraction rules",
       "Factoring",
+      "Simplifying radicals",
+      "Multiplying radicals",
+      "Extraneous solutions",
       "Combining like terms",
-      "Extraneous solutions"
+      "Quadratic formula"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -252,7 +252,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.3,
+          "percentile": 16.7,
           "values": [
             0,
             2,
@@ -279,7 +279,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -305,8 +305,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 5,
-          "percentile": 75.0,
+          "score": 8,
+          "percentile": 74.5,
           "values": [
             3,
             0,
@@ -333,7 +333,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 6,
-          "percentile": 88.5,
+          "percentile": 88.2,
           "values": [
             1,
             1,
@@ -362,7 +362,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.3,
+        "allSessionRanking": 16.7,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 80.0,
         "incorrectExplanation": 20.0,
@@ -373,12 +373,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
+        "allSessionRanking": 46.1,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
-        "rating": 5,
-        "allSessionRanking": 75.0,
+        "rating": 8,
+        "allSessionRanking": 74.5,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 8.12,
         "neutralFeedback": 90.0,
@@ -390,7 +390,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 6,
-        "allSessionRanking": 88.5,
+        "allSessionRanking": 88.2,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           1,

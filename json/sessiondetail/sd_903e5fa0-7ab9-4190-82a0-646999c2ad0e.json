@@ -13,15 +13,15 @@
     "aiSummary": "In the tutoring session, the student focused on practicing math problems related to graphing equations and understanding transformations of sine graphs. The tutor guided the student through practice problems, explained concepts, and prompted critical thinking. Periods of low interaction occurred due to initial confusion, silent processing, and collaborative calculation of reference angles.",
     "desiredOutcome": "Based on the transcript, the student's expectation for the session seems to be focused on practicing math problems, specifically related to graphing equations and understanding transformations of sine graphs. The student is engaging in solving practice problems and seeking guidance on how to approach and solve them. The student also seems to be looking for clarification on concepts such as amplitudes, periods, horizontal shifts, and vertical shifts in graphing equations.\n\nThe tutor is addressing the student's expectations by guiding them through the practice problems, explaining concepts related to graphing equations, and providing assistance in understanding transformations of sine graphs. The tutor is actively engaging with the student, asking questions to prompt critical thinking, and providing explanations to help the student grasp the concepts effectively.",
     "activities": [
-      "Determining reference angles and possible quadrants for given cosine values",
       "Writing equations of cosine graphs based on given information",
-      "Reviewing trigonometric concepts and angles in quadrants",
-      "Identifying angles in different quadrants based on trigonometric ratios",
-      "Finding angles on the unit circle and determining reference angles",
+      "Identifying midline, amplitude, and period of sine graphs",
       "Writing equations of sine graphs based on given information",
+      "Finding angles on the unit circle and determining reference angles",
       "Identifying midline, amplitude, and period of cosine graphs",
       "Graphing sine and cosine functions",
-      "Identifying midline, amplitude, and period of sine graphs"
+      "Determining reference angles and possible quadrants for given cosine values",
+      "Identifying angles in different quadrants based on trigonometric ratios",
+      "Reviewing trigonometric concepts and angles in quadrants"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -240,7 +240,7 @@
         {
           "name": "Instruction Delivery",
           "score": 10,
-          "percentile": 96.2,
+          "percentile": 96.1,
           "values": [
             1,
             2,
@@ -267,7 +267,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 7,
-          "percentile": 11.5,
+          "percentile": 11.8,
           "values": [
             0,
             0,
@@ -293,8 +293,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 4,
-          "percentile": 31.7,
+          "score": 7,
+          "percentile": 50.0,
           "values": [
             0,
             0,
@@ -350,7 +350,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 10,
-        "allSessionRanking": 96.2,
+        "allSessionRanking": 96.1,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -361,13 +361,13 @@
       },
       "techToolUsage": {
         "rating": 7,
-        "allSessionRanking": 11.5,
+        "allSessionRanking": 11.8,
         "tutorSessionRanking": 14.29
       },
       "feedbackQuality": {
-        "rating": 4,
-        "allSessionRanking": 31.7,
-        "tutorSessionRanking": 50.0,
+        "rating": 7,
+        "allSessionRanking": 50.0,
+        "tutorSessionRanking": 42.86,
         "positiveFeedback": 6.19,
         "neutralFeedback": 82.47,
         "negativeFeedback": 11.34,

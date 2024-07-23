@@ -11,15 +11,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including simplifying square roots, working with complex numbers, solving quadratic equations, and understanding imaginary roots. The student's expectation was to review and understand specific math problems from a previous test, which the tutor addressed through explanations and step-by-step guidance. Throughout the session, there were no periods of low interaction between the tutor and student.",
     "desiredOutcome": "The student's expectation for the session is to review and understand how to solve specific math problems from a previous test, including simplifying square roots and working with complex numbers. These expectations are being addressed and solved by the tutor through explanations and step-by-step guidance.",
     "activities": [
-      "Finding all solutions of an equation and understanding imaginary roots",
-      "Solving systems of equations graphically and finding points of intersection",
-      "Multiplying complex numbers and simplifying expressions",
+      "Dividing by a complex number and using conjugates",
       "Converting equations to vertex form and understanding perfect square trinomials",
-      "Adding and subtracting complex numbers",
-      "Simplifying square roots and imaginary numbers",
       "Using discriminant to determine number of real solutions in an equation",
+      "Finding all solutions of an equation and understanding imaginary roots",
+      "Adding and subtracting complex numbers",
       "Solving quadratic equations using factoring and completing the square",
-      "Dividing by a complex number and using conjugates"
+      "Solving systems of equations graphically and finding points of intersection",
+      "Simplifying square roots and imaginary numbers",
+      "Multiplying complex numbers and simplifying expressions"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -273,7 +273,7 @@
         {
           "name": "Instruction Delivery",
           "score": 7,
-          "percentile": 56.7,
+          "percentile": 57.8,
           "values": [
             0,
             3,
@@ -300,7 +300,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -326,8 +326,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 4,
-          "percentile": 31.7,
+          "score": 7,
+          "percentile": 50.0,
           "values": [
             3,
             0,
@@ -354,7 +354,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 24.0,
+          "percentile": 22.5,
           "values": [
             1,
             2,
@@ -383,7 +383,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 7,
-        "allSessionRanking": 56.7,
+        "allSessionRanking": 57.8,
         "tutorSessionRanking": 43.75,
         "correctExplanation": 75.0,
         "incorrectExplanation": 25.0,
@@ -394,13 +394,13 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
+        "allSessionRanking": 46.1,
         "tutorSessionRanking": 68.75
       },
       "feedbackQuality": {
-        "rating": 4,
-        "allSessionRanking": 31.7,
-        "tutorSessionRanking": 87.5,
+        "rating": 7,
+        "allSessionRanking": 50.0,
+        "tutorSessionRanking": 93.75,
         "positiveFeedback": 12.5,
         "neutralFeedback": 84.72,
         "negativeFeedback": 2.78,
@@ -411,7 +411,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 24.0,
+        "allSessionRanking": 22.5,
         "tutorSessionRanking": 43.75,
         "tutorUtterances": [
           1,

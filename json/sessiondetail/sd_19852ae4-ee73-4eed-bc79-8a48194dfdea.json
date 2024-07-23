@@ -14,15 +14,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including factoring quadratic equations, imaginary numbers, and solving quadratic equations. The student's expectation to review factoring and address common mistakes was met. There were periods of low interaction due to technical difficulties with the audio connection.",
     "desiredOutcome": "The student's expectation for the session is to review factoring, specifically addressing common mistakes made during factoring problems. This expectation is addressed and corrected by the tutor.",
     "activities": [
-      "Solving quadratics by tables and graphs",
-      "Solving quadratic equations using the quadratic formula",
-      "Simplifying radicals",
-      "Factoring quadratic equations",
+      "Quadratic formula and quadratics circuit",
+      "Solving quadratic equations by factoring",
       "Review practice for complex numbers",
       "Difference between squared and doubled numbers",
-      "Imaginary numbers and operations",
-      "Quadratic formula and quadratics circuit",
-      "Solving quadratic equations by factoring"
+      "Simplifying radicals",
+      "Factoring quadratic equations",
+      "Solving quadratics by tables and graphs",
+      "Solving quadratic equations using the quadratic formula",
+      "Imaginary numbers and operations"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -272,7 +272,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.3,
+          "percentile": 16.7,
           "values": [
             1,
             0,
@@ -325,8 +325,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 3,
-          "percentile": 3.8,
+          "score": 5,
+          "percentile": 9.8,
           "values": [
             2,
             0,
@@ -353,7 +353,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 24.0,
+          "percentile": 22.5,
           "values": [
             0,
             1,
@@ -382,7 +382,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.3,
+        "allSessionRanking": 16.7,
         "tutorSessionRanking": 20.0,
         "correctExplanation": 66.67,
         "incorrectExplanation": 33.33,
@@ -397,8 +397,8 @@
         "tutorSessionRanking": 20.0
       },
       "feedbackQuality": {
-        "rating": 3,
-        "allSessionRanking": 3.8,
+        "rating": 5,
+        "allSessionRanking": 9.8,
         "tutorSessionRanking": 30.0,
         "positiveFeedback": 6.58,
         "neutralFeedback": 89.91,
@@ -410,7 +410,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 24.0,
+        "allSessionRanking": 22.5,
         "tutorSessionRanking": 50.0,
         "tutorUtterances": [
           0,

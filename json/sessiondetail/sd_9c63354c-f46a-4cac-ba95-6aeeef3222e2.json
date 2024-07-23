@@ -14,15 +14,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including polynomial division, the Remainder Theorem, solving polynomial equations, graphing functions, and quadratic functions. The student's expectation of receiving help with long division problems involving polynomials was met. Periods of low interaction occurred due to the need for clarification, reflection on mistakes, disagreement in answers, and finding additional resources.",
     "desiredOutcome": "The student's expectation for the session was to receive help with long division problems involving polynomials. The student wanted clarification on the process and how to express remainders correctly. These expectations were met as the tutor guided the student through the problems, corrected mistakes, and explained how to format the answers with remainders.",
     "activities": [
-      "Applying the Remainder Theorem",
-      "Determining end behavior using positive and negative values",
       "Solving for x and y values in quadratic functions",
-      "Long division method for polynomial division",
-      "Understanding end behavior in graphing functions",
-      "Identifying remainders in polynomial division",
-      "Interpreting vertex form of quadratic functions",
       "Analyzing end behavior in polynomial functions",
-      "Solving for variables in polynomial equations"
+      "Long division method for polynomial division",
+      "Solving for variables in polynomial equations",
+      "Understanding end behavior in graphing functions",
+      "Interpreting vertex form of quadratic functions",
+      "Identifying remainders in polynomial division",
+      "Applying the Remainder Theorem",
+      "Determining end behavior using positive and negative values"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -206,7 +206,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.3,
+          "percentile": 16.7,
           "values": [
             1,
             1,
@@ -233,7 +233,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 5,
-          "percentile": 3.8,
+          "percentile": 3.9,
           "values": [
             0,
             0,
@@ -259,8 +259,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 4,
-          "percentile": 31.7,
+          "score": 7,
+          "percentile": 50.0,
           "values": [
             0,
             0,
@@ -287,7 +287,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 64.4,
+          "percentile": 63.7,
           "values": [
             1,
             2,
@@ -316,7 +316,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.3,
+        "allSessionRanking": 16.7,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 60.0,
         "incorrectExplanation": 40.0,
@@ -327,12 +327,12 @@
       },
       "techToolUsage": {
         "rating": 5,
-        "allSessionRanking": 3.8,
+        "allSessionRanking": 3.9,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
-        "rating": 4,
-        "allSessionRanking": 31.7,
+        "rating": 7,
+        "allSessionRanking": 50.0,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 7.04,
         "neutralFeedback": 84.51,
@@ -344,7 +344,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 64.4,
+        "allSessionRanking": 63.7,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           -1,

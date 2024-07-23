@@ -12,15 +12,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including function operations, definition of a function, composite functions, simplifying expressions, factoring trinomials, applying discounts and coupons, dividing functions, common factors in simplifying, and managing time blocks in sessions. The student's expectation was to better understand function operations, particularly adding and simplifying functions, as well as gaining clarity on the concept of functions and their relationship between variables. The tutor successfully addressed the student's confusion and provided clear explanations, meeting the student's expectations. Throughout the session, there were no periods of low interaction between the tutor and student.",
     "desiredOutcome": "The student's expectation for the session is to understand function operations better, specifically how to add and simplify functions. The student also seeks clarification on the concept of functions and their relationship between variables. The tutor successfully addresses the student's confusion and provides clear explanations, meeting the student's expectations.",
     "activities": [
+      "Function Operations",
+      "Simplifying Expressions",
+      "Managing Time Blocks in Sessions",
       "Factoring Trinomials",
       "Applying Discounts and Coupons",
-      "Simplifying Expressions",
-      "Composite Functions",
-      "Dividing Functions",
-      "Definition of a Function",
-      "Function Operations",
       "Common Factors in Simplifying",
-      "Managing Time Blocks in Sessions"
+      "Composite Functions",
+      "Definition of a Function",
+      "Dividing Functions"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -220,7 +220,7 @@
         {
           "name": "Instruction Delivery",
           "score": 9,
-          "percentile": 84.6,
+          "percentile": 86.3,
           "values": [
             0,
             1,
@@ -247,7 +247,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -273,8 +273,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 3,
-          "percentile": 3.8,
+          "score": 4,
+          "percentile": 3.9,
           "values": [
             3,
             0,
@@ -301,7 +301,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 24.0,
+          "percentile": 22.5,
           "values": [
             3,
             1,
@@ -330,7 +330,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 9,
-        "allSessionRanking": 84.6,
+        "allSessionRanking": 86.3,
         "tutorSessionRanking": 87.5,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -341,13 +341,13 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
+        "allSessionRanking": 46.1,
         "tutorSessionRanking": 68.75
       },
       "feedbackQuality": {
-        "rating": 3,
-        "allSessionRanking": 3.8,
-        "tutorSessionRanking": 37.5,
+        "rating": 4,
+        "allSessionRanking": 3.9,
+        "tutorSessionRanking": 12.5,
         "positiveFeedback": 11.33,
         "neutralFeedback": 87.68,
         "negativeFeedback": 0.99,
@@ -358,7 +358,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 24.0,
+        "allSessionRanking": 22.5,
         "tutorSessionRanking": 43.75,
         "tutorUtterances": [
           1,

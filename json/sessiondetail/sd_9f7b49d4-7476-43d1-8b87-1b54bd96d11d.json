@@ -14,11 +14,11 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics related to business mathematics, including break-even point calculations, minimum sales price determination, return on investment, and monthly profit calculations. The student's expectation to work on a math problem regarding the break-even point for a manufacturer was met as the tutor provided step-by-step guidance and support throughout the session.",
     "desiredOutcome": "The student's expectation for the session seems to be to work on a math problem related to finding the break-even point for a manufacturer. The student is looking for guidance on setting up and solving the equation to determine the break-even point. The tutor is providing step-by-step instructions and support to help the student understand and solve the problem. The student's expectation for the session appears to be met as they are actively engaged in the problem-solving process with the tutor's assistance.",
     "activities": [
-      "Calculating monthly profit for a business selling greeting cards",
+      "Break-even point calculation for a manufacturer",
       "Determining the company's rate of investment based on card production and sales",
       "Calculating return on investment for a manufacturer",
-      "Break-even point calculation for a manufacturer",
-      "Determining the minimum sales price for a manufacturer to break even"
+      "Determining the minimum sales price for a manufacturer to break even",
+      "Calculating monthly profit for a business selling greeting cards"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -218,7 +218,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.3,
+          "percentile": 16.7,
           "values": [
             0,
             0,
@@ -245,7 +245,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 7,
-          "percentile": 11.5,
+          "percentile": 11.8,
           "values": [
             0,
             0,
@@ -271,8 +271,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 3,
-          "percentile": 3.8,
+          "score": 5,
+          "percentile": 9.8,
           "values": [
             0,
             0,
@@ -299,7 +299,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 24.0,
+          "percentile": 22.5,
           "values": [
             1,
             0,
@@ -328,7 +328,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.3,
+        "allSessionRanking": 16.7,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 50.0,
         "incorrectExplanation": 50.0,
@@ -339,12 +339,12 @@
       },
       "techToolUsage": {
         "rating": 7,
-        "allSessionRanking": 11.5,
+        "allSessionRanking": 11.8,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
-        "rating": 3,
-        "allSessionRanking": 3.8,
+        "rating": 5,
+        "allSessionRanking": 9.8,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 4.66,
         "neutralFeedback": 89.12,
@@ -356,7 +356,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 24.0,
+        "allSessionRanking": 22.5,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           1,

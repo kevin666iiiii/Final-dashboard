@@ -14,8 +14,8 @@
     "desiredOutcome": "The student's expectation for the session is to work on math problems involving exponents and learn the laws of exponents. These expectations are being addressed and solved by the tutor during the session.",
     "activities": [
       "Product rule and quotient rule",
-      "Subtraction of polynomials",
-      "Laws of exponents"
+      "Laws of exponents",
+      "Subtraction of polynomials"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -247,7 +247,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.3,
+          "percentile": 16.7,
           "values": [
             2,
             0,
@@ -274,7 +274,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.3,
+          "percentile": 17.6,
           "values": [
             0,
             0,
@@ -300,8 +300,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 4,
-          "percentile": 31.7,
+          "score": 6,
+          "percentile": 27.5,
           "values": [
             2,
             2,
@@ -328,7 +328,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 24.0,
+          "percentile": 22.5,
           "values": [
             2,
             0,
@@ -357,7 +357,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.3,
+        "allSessionRanking": 16.7,
         "tutorSessionRanking": 25.0,
         "correctExplanation": 80.0,
         "incorrectExplanation": 20.0,
@@ -368,12 +368,12 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.3,
+        "allSessionRanking": 17.6,
         "tutorSessionRanking": 37.5
       },
       "feedbackQuality": {
-        "rating": 4,
-        "allSessionRanking": 31.7,
+        "rating": 6,
+        "allSessionRanking": 27.5,
         "tutorSessionRanking": 25.0,
         "positiveFeedback": 13.68,
         "neutralFeedback": 82.11,
@@ -385,7 +385,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 24.0,
+        "allSessionRanking": 22.5,
         "tutorSessionRanking": 75.0,
         "tutorUtterances": [
           -1,

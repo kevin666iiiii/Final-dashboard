@@ -11,9 +11,9 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on topics related to functions, including linear and quadratic functions, domain and range, and piecewise functions. The student's expectation was to review and understand a specific assignment, seeking clarification and corrections. There were low interaction periods due to the tutor waiting for the student's parent to discuss continuing the session the next day.",
     "desiredOutcome": "The student's expectation for the session seems to be to review and understand a specific assignment related to functions and inequalities. The student may be seeking clarification on concepts and corrections made by the teacher. The tutor is addressing these expectations by discussing the content of the assignment, explaining concepts such as linear and quadratic functions, and providing guidance on how to analyze graphs and functions. The tutor is also helping the student understand the difference between linear and quadratic functions and how to apply concepts like the vertical line test. Overall, the tutor is effectively addressing the student's expectations for the session by providing explanations and guidance on the assignment content.",
     "activities": [
+      "Functions - Linear and Quadratic Functions",
       "Functions - Domain and Range",
-      "Functions - Piecewise Functions",
-      "Functions - Linear and Quadratic Functions"
+      "Functions - Piecewise Functions"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -254,7 +254,7 @@
         {
           "name": "Instruction Delivery",
           "score": 7,
-          "percentile": 56.7,
+          "percentile": 57.8,
           "values": [
             1,
             1,
@@ -281,7 +281,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -307,8 +307,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 4,
-          "percentile": 31.7,
+          "score": 6,
+          "percentile": 27.5,
           "values": [
             0,
             3,
@@ -364,7 +364,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 7,
-        "allSessionRanking": 56.7,
+        "allSessionRanking": 57.8,
         "tutorSessionRanking": 80.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -375,13 +375,13 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
+        "allSessionRanking": 46.1,
         "tutorSessionRanking": 70.0
       },
       "feedbackQuality": {
-        "rating": 4,
-        "allSessionRanking": 31.7,
-        "tutorSessionRanking": 80.0,
+        "rating": 6,
+        "allSessionRanking": 27.5,
+        "tutorSessionRanking": 60.0,
         "positiveFeedback": 1.03,
         "neutralFeedback": 94.87,
         "negativeFeedback": 4.1,

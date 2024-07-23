@@ -12,14 +12,14 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student delved into various chemistry topics, including chemical and physical changes, properties, bonds, and entropy. The student's initial focus on these concepts was met with detailed explanations and examples. Throughout the session, there were periods of low interaction as the student needed time to process information and reflect on the discussed points, such as diffusion, osmosis, and previous topics.",
     "desiredOutcome": "The student's expectation for the session seems to be focused on learning about physical and chemical changes in chemistry. These expectations are being met as the tutor is providing explanations and examples related to these topics.",
     "activities": [
-      "Properties of Ionic Compounds",
-      "Entropy and Viscosity",
       "Chemical vs. Physical Changes",
+      "Entropy and Viscosity",
       "Ionic vs. Covalent Bonds",
-      "Intrinsic vs. Extrinsic Properties",
-      "Chemical Properties vs. Physical Properties",
       "Metallic Bonds",
+      "Chemical Properties vs. Physical Properties",
       "Intensive vs. Extensive Properties",
+      "Properties of Ionic Compounds",
+      "Intrinsic vs. Extrinsic Properties",
       "Identifying Intrinsic and Extrinsic Properties"
     ],
     "interactionTrend": {
@@ -251,7 +251,7 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 38.5,
+          "percentile": 39.2,
           "values": [
             1,
             0,
@@ -278,7 +278,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.3,
+          "percentile": 17.6,
           "values": [
             0,
             2,
@@ -304,8 +304,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 4,
-          "percentile": 31.7,
+          "score": 7,
+          "percentile": 50.0,
           "values": [
             0,
             0,
@@ -361,7 +361,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 38.5,
+        "allSessionRanking": 39.2,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 66.67,
         "incorrectExplanation": 33.33,
@@ -372,12 +372,12 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.3,
+        "allSessionRanking": 17.6,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
-        "rating": 4,
-        "allSessionRanking": 31.7,
+        "rating": 7,
+        "allSessionRanking": 50.0,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 3.3,
         "neutralFeedback": 90.11,

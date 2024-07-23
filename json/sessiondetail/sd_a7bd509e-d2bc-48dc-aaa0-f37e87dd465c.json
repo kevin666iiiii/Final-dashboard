@@ -11,15 +11,15 @@
     "aiSummary": "The tutoring session focused on various calculus topics such as finding stationary points, gradients, derivatives, related rates, and integration. The student's initial expectations veered towards non-academic topics, but the tutor redirected the conversation back to calculus questions. There were no specific instances of low interaction between the tutor and student during the session.",
     "desiredOutcome": "The student's expectations for the session seem to be focused on discussing topics unrelated to the academic subject matter, such as daylight saving time, school schedules, and extracurricular activities. The student also mentions sending questions related to calculus for assistance. However, the student's expectations for the session do not seem to align with the tutor's focus on academic content and solving calculus problems. The tutor attempts to redirect the conversation back to the calculus question at the end of the transcript. It appears that the student's expectations for the session are not fully met as they were looking for assistance with calculus questions but ended up discussing other topics.",
     "activities": [
-      "Calculus - Finding the gradient of a curve at given points",
-      "Calculus - Finding derivatives of a curve equation",
-      "Calculus - Finding the rate at which the radius of a balloon is increasing over time",
-      "Calculus - Finding stationary points of a curve",
-      "Calculus - Finding derivatives and second derivatives of a curve equation",
-      "Related rates - Finding the rate at which the radius of a balloon is increasing",
       "Calculus - Integrating to find volume in relation to time",
+      "Calculus - Finding derivatives and second derivatives of a curve equation",
       "Related rates - Finding the radius of a balloon as it inflates",
-      "Calculus - Finding the second derivative of a curve equation"
+      "Calculus - Finding the second derivative of a curve equation",
+      "Calculus - Finding derivatives of a curve equation",
+      "Related rates - Finding the rate at which the radius of a balloon is increasing",
+      "Calculus - Finding stationary points of a curve",
+      "Calculus - Finding the gradient of a curve at given points",
+      "Calculus - Finding the rate at which the radius of a balloon is increasing over time"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -234,7 +234,7 @@
         {
           "name": "Instruction Delivery",
           "score": 9,
-          "percentile": 84.6,
+          "percentile": 86.3,
           "values": [
             0,
             3,
@@ -261,7 +261,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -287,8 +287,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 4,
-          "percentile": 31.7,
+          "score": 7,
+          "percentile": 50.0,
           "values": [
             3,
             3,
@@ -315,7 +315,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 24.0,
+          "percentile": 22.5,
           "values": [
             3,
             2,
@@ -344,7 +344,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 9,
-        "allSessionRanking": 84.6,
+        "allSessionRanking": 86.3,
         "tutorSessionRanking": 87.5,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -355,13 +355,13 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
+        "allSessionRanking": 46.1,
         "tutorSessionRanking": 68.75
       },
       "feedbackQuality": {
-        "rating": 4,
-        "allSessionRanking": 31.7,
-        "tutorSessionRanking": 87.5,
+        "rating": 7,
+        "allSessionRanking": 50.0,
+        "tutorSessionRanking": 93.75,
         "positiveFeedback": 6.83,
         "neutralFeedback": 88.2,
         "negativeFeedback": 4.97,
@@ -372,7 +372,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 24.0,
+        "allSessionRanking": 22.5,
         "tutorSessionRanking": 43.75,
         "tutorUtterances": [
           1,

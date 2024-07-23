@@ -11,15 +11,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various physics topics, including momentum, kinematics, force, and velocity. The student's expectation to understand the combination of momentum and kinematics was successfully met. During periods of low interaction, both the tutor and student engaged in silent moments to calculate, process, and confirm their understanding of the concepts.",
     "desiredOutcome": "The student's expectation for the session was to understand how to combine momentum and kinematics concepts. These expectations were met as the tutor guided the student through solving problems involving both momentum and kinematics, helping them understand the concepts and apply them to calculations.",
     "activities": [
-      "Calculating net force and direction",
-      "Impulse and force relationship",
-      "Momentum and Kinematics combined",
-      "Kinematics equations and variables",
-      "Using momentum to find force and time",
-      "Calculating distance using kinematics equation",
       "Applying friction force in a free body diagram",
+      "Momentum and Kinematics combined",
+      "Impulse and force relationship",
+      "Calculating net force and direction",
+      "Calculating distance using kinematics equation",
+      "Kinematics equations and variables",
+      "Finding velocity change using impulse",
       "Calculating velocity using kinematics",
-      "Finding velocity change using impulse"
+      "Using momentum to find force and time"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -228,7 +228,7 @@
         {
           "name": "Instruction Delivery",
           "score": 7,
-          "percentile": 56.7,
+          "percentile": 57.8,
           "values": [
             3,
             0,
@@ -255,7 +255,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -281,8 +281,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 6,
-          "percentile": 93.3,
+          "score": 10,
+          "percentile": 95.1,
           "values": [
             0,
             0,
@@ -309,7 +309,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 24.0,
+          "percentile": 22.5,
           "values": [
             0,
             0,
@@ -338,7 +338,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 7,
-        "allSessionRanking": 56.7,
+        "allSessionRanking": 57.8,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 83.33,
         "incorrectExplanation": 16.67,
@@ -349,12 +349,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
+        "allSessionRanking": 46.1,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
-        "rating": 6,
-        "allSessionRanking": 93.3,
+        "rating": 10,
+        "allSessionRanking": 95.1,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 3.97,
         "neutralFeedback": 93.65,
@@ -366,7 +366,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 24.0,
+        "allSessionRanking": 22.5,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           0,

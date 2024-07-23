@@ -11,15 +11,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student covered various topics including exponents, quadratic equations, special right triangles, circles, perimeter, area, angles, and geometry formulas. The student's expectations to improve skills in simplifying expressions, solving equations, and finding slope were successfully met. There were no periods of low interaction during the session.",
     "desiredOutcome": "The student's expectations for the session are to understand and improve their skills in simplifying expressions, solving equations, and finding the slope of a line. These expectations are met as the tutor guides the student through simplifying expressions, solving equations for x, and finding the slope of a line using the correct formula. The student also learns about the meanings of terms like \"simplify,\" \"evaluate,\" and \"equivalent\" during the session.",
     "activities": [
-      "Solving Quadratic Equations",
       "Altitudes and Right Triangles",
       "Geometry Formulas and Theorems",
-      "Practice and Review",
-      "Circles - Equations and Properties",
-      "Exponents and Laws of Exponents",
       "Special Right Triangles",
+      "Perimeter and Area of Shapes",
+      "Practice and Review",
+      "Exponents and Laws of Exponents",
+      "Circles - Equations and Properties",
       "Angles and Triangles",
-      "Perimeter and Area of Shapes"
+      "Solving Quadratic Equations"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -237,7 +237,7 @@
         {
           "name": "Instruction Delivery",
           "score": 7,
-          "percentile": 56.7,
+          "percentile": 57.8,
           "values": [
             1,
             1,
@@ -264,7 +264,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -290,8 +290,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 5,
-          "percentile": 75.0,
+          "score": 8,
+          "percentile": 74.5,
           "values": [
             0,
             0,
@@ -318,7 +318,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 24.0,
+          "percentile": 22.5,
           "values": [
             1,
             2,
@@ -347,7 +347,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 7,
-        "allSessionRanking": 56.7,
+        "allSessionRanking": 57.8,
         "tutorSessionRanking": 62.5,
         "correctExplanation": 80.0,
         "incorrectExplanation": 20.0,
@@ -358,12 +358,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
+        "allSessionRanking": 46.1,
         "tutorSessionRanking": 87.5
       },
       "feedbackQuality": {
-        "rating": 5,
-        "allSessionRanking": 75.0,
+        "rating": 8,
+        "allSessionRanking": 74.5,
         "tutorSessionRanking": 75.0,
         "positiveFeedback": 6.25,
         "neutralFeedback": 90.18,
@@ -375,7 +375,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 24.0,
+        "allSessionRanking": 22.5,
         "tutorSessionRanking": 75.0,
         "tutorUtterances": [
           1,

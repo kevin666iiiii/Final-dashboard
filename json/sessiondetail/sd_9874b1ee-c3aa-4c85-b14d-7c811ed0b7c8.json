@@ -14,15 +14,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including compound interest formulas, rounding, and decimal conversions. The student's expectation to review and practice compound interest calculations was met as they actively engaged in a practice problem. Periods of low interaction occurred when the student may have been processing information or waiting for the tutor to continue speaking.",
     "desiredOutcome": "The student's expectation for the session seems to be to review and practice compound interest formulas and calculations. The student also mentions that they are tired and may need a shorter session. The tutor provides a brief explanation of the compound interest formula and guides the student through a practice problem. The student seems engaged and willing to participate in the calculations. Overall, the student's expectation for the session appears to be met as they are actively working on the practice problem with the tutor's guidance.",
     "activities": [
-      "Correcting calculation errors",
-      "Rounding to the nearest cent",
-      "Scheduling future tutoring sessions",
       "Compound interest formula",
+      "Scheduling future tutoring sessions",
+      "Correcting calculation errors",
       "Using parentheses in calculations",
       "Rounding to the nearest hundred",
-      "Compounding frequency (monthly, quarterly, annually)",
       "Calculating compound interest",
-      "Understanding decimal conversions"
+      "Compounding frequency (monthly, quarterly, annually)",
+      "Understanding decimal conversions",
+      "Rounding to the nearest cent"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -173,7 +173,7 @@
         {
           "name": "Instruction Delivery",
           "score": 8,
-          "percentile": 75.0,
+          "percentile": 76.5,
           "values": [
             2,
             2,
@@ -200,7 +200,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 5,
-          "percentile": 3.8,
+          "percentile": 3.9,
           "values": [
             0,
             0,
@@ -226,8 +226,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 3,
-          "percentile": 3.8,
+          "score": 4,
+          "percentile": 3.9,
           "values": [
             0,
             0,
@@ -254,7 +254,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 6,
-          "percentile": 88.5,
+          "percentile": 88.2,
           "values": [
             0,
             0,
@@ -283,7 +283,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 8,
-        "allSessionRanking": 75.0,
+        "allSessionRanking": 76.5,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -294,13 +294,13 @@
       },
       "techToolUsage": {
         "rating": 5,
-        "allSessionRanking": 3.8,
+        "allSessionRanking": 3.9,
         "tutorSessionRanking": 25.0
       },
       "feedbackQuality": {
-        "rating": 3,
-        "allSessionRanking": 3.8,
-        "tutorSessionRanking": 37.5,
+        "rating": 4,
+        "allSessionRanking": 3.9,
+        "tutorSessionRanking": 31.25,
         "positiveFeedback": 22.33,
         "neutralFeedback": 69.9,
         "negativeFeedback": 7.77,
@@ -311,7 +311,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 6,
-        "allSessionRanking": 88.5,
+        "allSessionRanking": 88.2,
         "tutorSessionRanking": 75.0,
         "tutorUtterances": [
           0,

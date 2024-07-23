@@ -14,13 +14,13 @@
     "activities": [
       "Exploring the concept of infinity in mathematics",
       "Discussing emotional themes in media and TV shows",
-      "Learning about stars, supernovas, and celestial bodies",
       "Identifying dimensions and features of parabolic curves",
-      "Understanding domain and range of functions",
-      "Discussing the James Webb telescope and space exploration",
+      "Parabolas and real-world applications",
       "Exploring nebulae and stardust in space",
+      "Discussing the James Webb telescope and space exploration",
       "Graphing parabolic curves and determining key points",
-      "Parabolas and real-world applications"
+      "Understanding domain and range of functions",
+      "Learning about stars, supernovas, and celestial bodies"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -226,7 +226,7 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 38.5,
+          "percentile": 39.2,
           "values": [
             0,
             0,
@@ -253,7 +253,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.3,
+          "percentile": 17.6,
           "values": [
             0,
             2,
@@ -279,8 +279,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 4,
-          "percentile": 31.7,
+          "score": 7,
+          "percentile": 50.0,
           "values": [
             0,
             3,
@@ -307,7 +307,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 24.0,
+          "percentile": 22.5,
           "values": [
             2,
             2,
@@ -336,7 +336,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 38.5,
+        "allSessionRanking": 39.2,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 88.89,
         "incorrectExplanation": 11.11,
@@ -347,12 +347,12 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.3,
+        "allSessionRanking": 17.6,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
-        "rating": 4,
-        "allSessionRanking": 31.7,
+        "rating": 7,
+        "allSessionRanking": 50.0,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 10.71,
         "neutralFeedback": 82.14,
@@ -364,7 +364,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 24.0,
+        "allSessionRanking": 22.5,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           1,

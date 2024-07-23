@@ -11,15 +11,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various statistics topics, including explanatory and response variables, correlation coefficients, and linear relationships. The tutor also addressed the student's academic progress, SAT scores, and upcoming exams, meeting the student's expectations for support and clarification.",
     "desiredOutcome": "The student's expectations for the session seem to be focused on discussing their recent experiences during the break, sharing updates on their academic progress (such as SAT scores and upcoming exams), and seeking guidance on a specific statistics problem related to identifying explanatory and response variables in a study about smoking and Alzheimer's disease. The student also seems to be looking for clarification and confirmation of their understanding of the statistical concepts discussed in class.\n\nThe tutor addressed the student's updates about their break and congratulated them on their USC Thornton audition acceptance. The tutor also engaged in a discussion about the student's SAT scores and upcoming exams, providing support and encouragement. Additionally, the tutor helped the student work through a statistics problem by explaining the concepts of explanatory and response variables and guiding the student through the analysis of the study about smoking and Alzheimer's disease.\n\nOverall, the student's expectations for the session were met as the tutor provided support, clarification, and guidance on the topics discussed, including academic progress and statistical concepts.",
     "activities": [
-      "Identifying explanatory and response variables in different scenarios",
-      "Understanding linear correlations and correlation coefficients",
       "Explanatory and response variables in a study on smoking and Alzheimer's disease",
-      "Explaining the correlation between heights of married men and women",
       "Interpreting scatter plots and correlation coefficients",
       "Determining correlation in a scenario of fixed height differences in marriages",
       "Calculating coefficient of determination and its implications",
+      "Explaining the correlation between heights of married men and women",
+      "Determining the effect of removing an outlier on correlation",
+      "Identifying explanatory and response variables in different scenarios",
       "Discussing linear relationships and correlation coefficients",
-      "Determining the effect of removing an outlier on correlation"
+      "Understanding linear correlations and correlation coefficients"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -198,7 +198,7 @@
         {
           "name": "Instruction Delivery",
           "score": 7,
-          "percentile": 56.7,
+          "percentile": 57.8,
           "values": [
             2,
             2,
@@ -225,7 +225,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -251,8 +251,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 4,
-          "percentile": 31.7,
+          "score": 7,
+          "percentile": 50.0,
           "values": [
             3,
             0,
@@ -279,7 +279,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 64.4,
+          "percentile": 63.7,
           "values": [
             1,
             2,
@@ -308,7 +308,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 7,
-        "allSessionRanking": 56.7,
+        "allSessionRanking": 57.8,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -319,12 +319,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
+        "allSessionRanking": 46.1,
         "tutorSessionRanking": 75.0
       },
       "feedbackQuality": {
-        "rating": 4,
-        "allSessionRanking": 31.7,
+        "rating": 7,
+        "allSessionRanking": 50.0,
         "tutorSessionRanking": 50.0,
         "positiveFeedback": 4.32,
         "neutralFeedback": 94.96,
@@ -336,7 +336,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 64.4,
+        "allSessionRanking": 63.7,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           5,

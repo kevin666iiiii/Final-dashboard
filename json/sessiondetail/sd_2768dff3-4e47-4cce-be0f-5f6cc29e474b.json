@@ -12,15 +12,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on physics topics related to mass, weight, displacement, and projectile motion in preparation for a final exam. The tutor provided explanations and guidance to help the student understand key concepts and improve problem-solving skills. Periods of low interaction allowed for reflection and independent work.",
     "desiredOutcome": "Based on the transcript, the student's expectation for the session seems to be focused on preparing for a physics final exam. The student is working on physics problems related to mass, weight, gravity, acceleration, displacement, and projectile motion. The student is seeking clarification and understanding on these topics to improve their knowledge and problem-solving skills for the upcoming exam.\n\nThroughout the session, the tutor addresses the student's questions and provides explanations and guidance on the physics concepts being discussed. The tutor helps the student understand the relationship between mass and weight, the calculation of weight in different gravitational environments, displacement formulas, and the parabolic path of a projectile. The tutor also assists the student in solving specific physics problems related to velocity and acceleration.\n\nOverall, the student's expectations for the session appear to be met as the tutor is helping them review and understand key physics concepts and practice solving problems that are likely to be on the final exam. The tutor's explanations and guidance seem to be helping the student improve their understanding and problem-solving skills in preparation for the exam.",
     "activities": [
-      "Net force calculation and acceleration determination",
+      "Mass and weight relationship in physics",
       "Velocity components and direction in projectile motion",
-      "Application of trigonometry in physics for velocity components",
-      "Trigonometry application in physics for velocity components",
-      "Projectile motion and parabolic path",
-      "Calculating velocity components using trigonometric functions",
-      "Displacement formula and final position representation",
       "Isolating variables in trigonometric equations for calculation",
-      "Mass and weight relationship in physics"
+      "Trigonometry application in physics for velocity components",
+      "Calculating velocity components using trigonometric functions",
+      "Application of trigonometry in physics for velocity components",
+      "Projectile motion and parabolic path",
+      "Displacement formula and final position representation",
+      "Net force calculation and acceleration determination"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -176,7 +176,7 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 38.5,
+          "percentile": 39.2,
           "values": [
             0,
             1,
@@ -203,7 +203,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -229,8 +229,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 4,
-          "percentile": 31.7,
+          "score": 7,
+          "percentile": 50.0,
           "values": [
             3,
             3,
@@ -257,7 +257,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 64.4,
+          "percentile": 63.7,
           "values": [
             0,
             1,
@@ -286,7 +286,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 38.5,
+        "allSessionRanking": 39.2,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -297,12 +297,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
+        "allSessionRanking": 46.1,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
-        "rating": 4,
-        "allSessionRanking": 31.7,
+        "rating": 7,
+        "allSessionRanking": 50.0,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 9.57,
         "neutralFeedback": 89.57,
@@ -314,7 +314,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 64.4,
+        "allSessionRanking": 63.7,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           5,

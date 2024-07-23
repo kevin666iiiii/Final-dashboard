@@ -11,15 +11,15 @@
     "aiSummary": "During the one-on-one tutoring session, the tutor and student engaged in a wide range of topics including weather, New Year's resolutions, math and econ teachers, a book by Khalil Gibran, identities and trigonometry, Taylor Swift and country music, Soviet movies, beauty standards in different cultures, and European male beauty standards. The student's expectation for casual conversation and sharing personal experiences was successfully met.",
     "desiredOutcome": "The student's expectations for the session seem to be casual conversation and sharing personal experiences. These expectations are met.",
     "activities": [
-      "Discussion about a book by Khalil Gibran",
-      "Weather and temperature discussion",
-      "Discussion about European male beauty standards",
-      "New Year's resolutions",
       "Discussion about Soviet movies and creativity under constraints",
+      "Discussion about European male beauty standards",
       "Discussion about Taylor Swift and country music",
-      "Discussion about identities and trigonometry",
       "Discussion about beauty standards in different cultures",
-      "Discussion about a new math teacher and econ teacher"
+      "Discussion about a new math teacher and econ teacher",
+      "Discussion about a book by Khalil Gibran",
+      "Discussion about identities and trigonometry",
+      "New Year's resolutions",
+      "Weather and temperature discussion"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -243,7 +243,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.3,
+          "percentile": 16.7,
           "values": [
             1,
             1,
@@ -270,7 +270,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -296,8 +296,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 5,
-          "percentile": 75.0,
+          "score": 8,
+          "percentile": 74.5,
           "values": [
             0,
             3,
@@ -324,7 +324,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 6,
-          "percentile": 88.5,
+          "percentile": 88.2,
           "values": [
             2,
             2,
@@ -353,7 +353,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.3,
+        "allSessionRanking": 16.7,
         "tutorSessionRanking": 30.0,
         "correctExplanation": 73.68,
         "incorrectExplanation": 26.32,
@@ -364,12 +364,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
+        "allSessionRanking": 46.1,
         "tutorSessionRanking": 80.0
       },
       "feedbackQuality": {
-        "rating": 5,
-        "allSessionRanking": 75.0,
+        "rating": 8,
+        "allSessionRanking": 74.5,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 8.39,
         "neutralFeedback": 80.65,
@@ -381,7 +381,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 6,
-        "allSessionRanking": 88.5,
+        "allSessionRanking": 88.2,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           -1,

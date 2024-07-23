@@ -6,22 +6,21 @@
   "date": "2023-08-20",
   "riskyAreas": [
     "tech",
-    "Feedback",
     "Silent"
   ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed physics formulas related to acceleration, velocity, and displacement, as well as concepts like constant velocity and acceleration. The student's expectation to revise formulas and focus on free fall graphs was met. There were moments of low interaction as both processed information and formulated responses.",
     "desiredOutcome": "The student's expectation for the session is to revise physics formulas, specifically focusing on the equations related to constant acceleration and free fall graphs. The student wants to spend about five minutes going over the formulas before moving on to the topic of free fall graphs. The student also mentions that they usually go to the gym at 5:30, so they appreciate the tutor accommodating a different time for the session. The tutor addresses the student's request by reviewing the formulas and explaining the concepts related to constant acceleration and velocity as functions of time. The tutor also emphasizes the importance of understanding how these equations change over time. Overall, the student's expectations for revising formulas and discussing free fall graphs are met during the session.",
     "activities": [
-      "Graphing Acceleration as a Function of Time",
-      "Graphing Velocity as a Function of Time",
-      "Understanding Rise over Run and Slope in Graphs",
-      "Comparing Graphs to Equations - Slope and Intercept",
-      "Application of Formulas in Graphing",
-      "Graphing Position/Displacement as a Function of Time",
-      "Understanding Constant Velocity and Acceleration",
       "Physics Formulas - Acceleration, Velocity, Displacement",
-      "Interpreting Free Fall Graphs - Velocity and Position"
+      "Graphing Velocity as a Function of Time",
+      "Understanding Constant Velocity and Acceleration",
+      "Application of Formulas in Graphing",
+      "Comparing Graphs to Equations - Slope and Intercept",
+      "Graphing Acceleration as a Function of Time",
+      "Interpreting Free Fall Graphs - Velocity and Position",
+      "Graphing Position/Displacement as a Function of Time",
+      "Understanding Rise over Run and Slope in Graphs"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -247,7 +246,7 @@
         {
           "name": "Instruction Delivery",
           "score": 8,
-          "percentile": 75.0,
+          "percentile": 76.5,
           "values": [
             2,
             2,
@@ -274,7 +273,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 5,
-          "percentile": 3.8,
+          "percentile": 3.9,
           "values": [
             2,
             0,
@@ -300,8 +299,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 3,
-          "percentile": 3.8,
+          "score": 6,
+          "percentile": 27.5,
           "values": [
             0,
             0,
@@ -328,7 +327,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 64.4,
+          "percentile": 63.7,
           "values": [
             0,
             0,
@@ -357,7 +356,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 8,
-        "allSessionRanking": 75.0,
+        "allSessionRanking": 76.5,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -368,13 +367,13 @@
       },
       "techToolUsage": {
         "rating": 5,
-        "allSessionRanking": 3.8,
+        "allSessionRanking": 3.9,
         "tutorSessionRanking": 20.0
       },
       "feedbackQuality": {
-        "rating": 3,
-        "allSessionRanking": 3.8,
-        "tutorSessionRanking": 30.0,
+        "rating": 6,
+        "allSessionRanking": 27.5,
+        "tutorSessionRanking": 50.0,
         "positiveFeedback": 4.02,
         "neutralFeedback": 92.46,
         "negativeFeedback": 3.52,
@@ -385,7 +384,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 64.4,
+        "allSessionRanking": 63.7,
         "tutorSessionRanking": 80.0,
         "tutorUtterances": [
           0,

@@ -12,14 +12,14 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including scatter plots, linear regression, data types, and more to prepare for an upcoming math test. The student sought guidance on key topics, practice methods, and help with understanding standard deviation. Periods of low interaction were observed for processing information.",
     "desiredOutcome": "The student's expectation for the session is to review and prepare for an upcoming practice test in their math class. They are confused about what topics will be covered on the test and are seeking guidance on what to study. The tutor is helping the student identify key topics to review and suggesting ways to practice, such as redoing old homework problems. The student also expresses difficulty with understanding standard deviation and asks for help with that topic. The tutor agrees to look up how to calculate standard deviation to assist the student further. Overall, the student's expectations for the session are being addressed as the tutor is providing guidance on what to study and offering help with challenging topics.",
     "activities": [
-      "Scatter plots and correlations",
-      "Linear regression",
-      "Transform data",
       "Density curve and normal distribution",
-      "Quantitative data distributions",
+      "Linear regression",
       "Data types and variables",
-      "Measures of center",
       "Analyzing categorical data",
+      "Scatter plots and correlations",
+      "Transform data",
+      "Quantitative data distributions",
+      "Measures of center",
       "Percentile and cumulative relative frequency"
     ],
     "interactionTrend": {
@@ -216,7 +216,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.3,
+          "percentile": 16.7,
           "values": [
             1,
             1,
@@ -243,7 +243,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -269,8 +269,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 5,
-          "percentile": 75.0,
+          "score": 8,
+          "percentile": 74.5,
           "values": [
             0,
             0,
@@ -326,7 +326,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.3,
+        "allSessionRanking": 16.7,
         "tutorSessionRanking": 50.0,
         "correctExplanation": 71.43,
         "incorrectExplanation": 28.57,
@@ -337,13 +337,13 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
+        "allSessionRanking": 46.1,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
-        "rating": 5,
-        "allSessionRanking": 75.0,
-        "tutorSessionRanking": 75.0,
+        "rating": 8,
+        "allSessionRanking": 74.5,
+        "tutorSessionRanking": 50.0,
         "positiveFeedback": 2.78,
         "neutralFeedback": 89.58,
         "negativeFeedback": 7.64,

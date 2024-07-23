@@ -14,15 +14,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including functions, exponential growth and decay, graphing, piecewise functions, function comprehension, function composition, and test preparation. The student sought help with understanding functions, particularly finding f of x values, and the tutor provided step-by-step guidance. Throughout the session, there were periods of low interaction where the student needed time to process questions, calculate answers independently, or reflect on information, leading to moments of silence for individual processing.",
     "desiredOutcome": "The student seems unsure about functions and expects help with finding f of x values. The tutor provides step-by-step guidance, meeting the student's expectations.",
     "activities": [
-      "Graphing - Understanding how to graph basic functions like y=x, y=x^2, etc.",
-      "Functions - Finding f(x), f(x+1), f(-x)",
-      "Function Comprehension - Understanding and applying functions to given values",
-      "Exponential Growth and Decay - Understanding exponential functions",
-      "Test Preparation - Reviewing concepts for an upcoming test",
-      "Functions - Applying function composition f(g(x))",
-      "Functions - Graphing basic functions and understanding piecewise functions",
       "Function Composition - Applying function composition to given functions",
-      "Piecewise Functions - Applying piecewise functions to specific values"
+      "Exponential Growth and Decay - Understanding exponential functions",
+      "Function Comprehension - Understanding and applying functions to given values",
+      "Functions - Finding f(x), f(x+1), f(-x)",
+      "Functions - Graphing basic functions and understanding piecewise functions",
+      "Piecewise Functions - Applying piecewise functions to specific values",
+      "Functions - Applying function composition f(g(x))",
+      "Graphing - Understanding how to graph basic functions like y=x, y=x^2, etc.",
+      "Test Preparation - Reviewing concepts for an upcoming test"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -279,7 +279,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -305,8 +305,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 4,
-          "percentile": 31.7,
+          "score": 6,
+          "percentile": 27.5,
           "values": [
             3,
             0,
@@ -373,12 +373,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
+        "allSessionRanking": 46.1,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
-        "rating": 4,
-        "allSessionRanking": 31.7,
+        "rating": 6,
+        "allSessionRanking": 27.5,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 4.44,
         "neutralFeedback": 94.07,

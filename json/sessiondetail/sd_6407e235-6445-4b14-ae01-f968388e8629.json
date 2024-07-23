@@ -16,15 +16,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics related to uniform circular motion in physics, addressing specific questions and clarifying concepts. The student's expectation for understanding a particular question was met as the tutor explained formulas, concepts, and emphasized the importance of certain variables. During low interaction periods, both tutor and student engaged in contemplation, reflection, and faced technical issues with sharing questions.",
     "desiredOutcome": "The student's expectation for the session is to receive help with understanding a specific question related to uniform circular motion in physics. The student mentions that they don't understand the formula for the first question and express confusion about certain variables and concepts. The tutor addresses the student's confusion by explaining the formula for final velocity, introducing the concept of angular displacement using theta and omega for angular velocity, and clarifying the use of radians instead of degrees. The tutor also emphasizes the importance of memorizing certain Greek letters for the topic. Overall, the student's expectation for clarification on the physics concept is met during the session.",
     "activities": [
-      "Calculating angular displacement and revolutions",
-      "Effective radius calculation for rotational motion",
-      "Uniform circular motion and angular velocity",
-      "Error correction in angular velocity calculation",
-      "Finding average acceleration in circular motion",
       "Solving for angular acceleration in a rotational problem",
-      "Conversion of units for angular velocity",
       "Calculating angular acceleration",
-      "Application of rotational motion equations"
+      "Calculating angular displacement and revolutions",
+      "Finding average acceleration in circular motion",
+      "Error correction in angular velocity calculation",
+      "Effective radius calculation for rotational motion",
+      "Conversion of units for angular velocity",
+      "Application of rotational motion equations",
+      "Uniform circular motion and angular velocity"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -282,7 +282,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.3,
+          "percentile": 16.7,
           "values": [
             0,
             0,
@@ -309,7 +309,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 5,
-          "percentile": 3.8,
+          "percentile": 3.9,
           "values": [
             0,
             0,
@@ -335,8 +335,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 3,
-          "percentile": 3.8,
+          "score": 5,
+          "percentile": 9.8,
           "values": [
             0,
             0,
@@ -392,7 +392,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.3,
+        "allSessionRanking": 16.7,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 50.0,
         "incorrectExplanation": 50.0,
@@ -403,12 +403,12 @@
       },
       "techToolUsage": {
         "rating": 5,
-        "allSessionRanking": 3.8,
+        "allSessionRanking": 3.9,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
-        "rating": 3,
-        "allSessionRanking": 3.8,
+        "rating": 5,
+        "allSessionRanking": 9.8,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 1.91,
         "neutralFeedback": 92.99,

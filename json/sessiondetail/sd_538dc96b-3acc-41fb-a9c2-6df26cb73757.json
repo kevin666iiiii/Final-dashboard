@@ -14,15 +14,15 @@
     "aiSummary": "During the one-on-one tutoring session, the tutor and student engaged in casual conversation, discussed school-related topics, planned for the weekend, and worked on creating and completing multiplication charts. The student's expectation to focus on math charts was met, with periods of low interaction for independent work and focused concentration on tasks.",
     "desiredOutcome": "The student's expectation for the session is to work on math charts related to multiplication, specifically creating their own times tables. This expectation is addressed by the tutor as they agree to work on math charts and begin setting up a grid to fill in numbers and corresponding answers for multiplication.",
     "activities": [
-      "Casual conversation and small talk",
-      "Planning for the upcoming weekend",
-      "Providing positive feedback and motivation to the student",
-      "Wrapping up the tutoring session",
-      "Ending the session and scheduling the next meeting",
-      "Creating multiplication charts for numbers 1-12",
       "Completing multiplication charts for numbers 1-18",
+      "Casual conversation and small talk",
+      "Wrapping up the tutoring session",
+      "Planning for the upcoming weekend",
       "Discussing school and feelings about school",
-      "Encouraging and praising the student's progress"
+      "Encouraging and praising the student's progress",
+      "Creating multiplication charts for numbers 1-12",
+      "Ending the session and scheduling the next meeting",
+      "Providing positive feedback and motivation to the student"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -234,7 +234,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.3,
+          "percentile": 16.7,
           "values": [
             0,
             1,
@@ -261,7 +261,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.3,
+          "percentile": 17.6,
           "values": [
             0,
             0,
@@ -287,8 +287,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 6,
-          "percentile": 93.3,
+          "score": 10,
+          "percentile": 95.1,
           "values": [
             0,
             0,
@@ -315,7 +315,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 64.4,
+          "percentile": 63.7,
           "values": [
             3,
             1,
@@ -344,7 +344,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.3,
+        "allSessionRanking": 16.7,
         "tutorSessionRanking": 33.33,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -355,12 +355,12 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.3,
+        "allSessionRanking": 17.6,
         "tutorSessionRanking": 33.33
       },
       "feedbackQuality": {
-        "rating": 6,
-        "allSessionRanking": 93.3,
+        "rating": 10,
+        "allSessionRanking": 95.1,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 5.21,
         "neutralFeedback": 92.71,
@@ -372,7 +372,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 64.4,
+        "allSessionRanking": 63.7,
         "tutorSessionRanking": 50.0,
         "tutorUtterances": [
           0,

@@ -14,13 +14,13 @@
     "activities": [
       "Calculating the second derivative of a function with respect to a variable",
       "Applying the product rule and chain rule to find the derivative of a trigonometric function",
-      "Finding the equation of the line tangent to a function at a specific point",
       "Using the quotient rule to find the derivative of a function involving a logarithm",
-      "Derivative of cotangent function and applying the chain rule",
-      "Applying the limit definition to find the derivative of a function at a specific point",
-      "Explaining the use of the limit definition in finding the derivative of a function",
+      "Finding the equation of the line tangent to a function at a specific point",
+      "Determining the second derivative of a function using the quotient rule",
       "Identifying the graph of the derivative of a given function",
-      "Determining the second derivative of a function using the quotient rule"
+      "Applying the limit definition to find the derivative of a function at a specific point",
+      "Derivative of cotangent function and applying the chain rule",
+      "Explaining the use of the limit definition in finding the derivative of a function"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -264,7 +264,7 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 38.5,
+          "percentile": 39.2,
           "values": [
             0,
             0,
@@ -291,7 +291,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -317,8 +317,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 4,
-          "percentile": 31.7,
+          "score": 6,
+          "percentile": 27.5,
           "values": [
             0,
             0,
@@ -345,7 +345,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 24.0,
+          "percentile": 22.5,
           "values": [
             1,
             1,
@@ -374,7 +374,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 38.5,
+        "allSessionRanking": 39.2,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 50.0,
         "incorrectExplanation": 50.0,
@@ -385,12 +385,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
+        "allSessionRanking": 46.1,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
-        "rating": 4,
-        "allSessionRanking": 31.7,
+        "rating": 6,
+        "allSessionRanking": 27.5,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 8.18,
         "neutralFeedback": 83.02,
@@ -402,7 +402,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 24.0,
+        "allSessionRanking": 22.5,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           1,

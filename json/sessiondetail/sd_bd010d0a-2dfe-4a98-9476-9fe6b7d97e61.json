@@ -13,15 +13,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including troubleshooting camera issues, job experiences, mathematical equations, graphing linear equations, and analyzing absolute value graphs. The student's initial expectation was to fix their camera problem, which was partially resolved with guidance on checking device manager and camera settings.",
     "desiredOutcome": "The student's expectation for the session is to troubleshoot and fix their camera issue on their new computer. This expectation is partially solved as the tutor guides the student through checking device manager and camera settings.",
     "activities": [
+      "Comparing values in mathematical expressions",
       "Determining the range of values for a given function",
+      "Solving equations in slope-intercept form",
+      "Solving equations involving multiple variables",
+      "Understanding slopes and graphing linear equations",
+      "Identifying and enabling camera settings on a Windows computer",
       "Discussing job experiences and interviews",
       "Troubleshooting camera issues on a new computer",
-      "Solving equations involving multiple variables",
-      "Analyzing absolute value graphs and their characteristics",
-      "Solving equations in slope-intercept form",
-      "Identifying and enabling camera settings on a Windows computer",
-      "Understanding slopes and graphing linear equations",
-      "Comparing values in mathematical expressions"
+      "Analyzing absolute value graphs and their characteristics"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -301,8 +301,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 4,
-          "percentile": 31.7,
+          "score": 7,
+          "percentile": 50.0,
           "values": [
             3,
             0,
@@ -329,7 +329,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 24.0,
+          "percentile": 22.5,
           "values": [
             2,
             0,
@@ -373,8 +373,8 @@
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
-        "rating": 4,
-        "allSessionRanking": 31.7,
+        "rating": 7,
+        "allSessionRanking": 50.0,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 10.53,
         "neutralFeedback": 86.12,
@@ -386,7 +386,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 24.0,
+        "allSessionRanking": 22.5,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           1,

@@ -6,22 +6,21 @@
   "date": "2023-08-08",
   "riskyAreas": [
     "tech",
-    "Feedback",
     "Student Inactive"
   ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including systems of equations, exponential functions, linear functions, and SAT preparation. The student's expectations were met as they finished the assessment, reviewed topics, discussed SAT resources, and worked on test-taking strategies. During a low interaction period, the student likely reviewed problems silently before seeking clarification.",
     "desiredOutcome": "The student's expectation for the session is to finish up the assessment, review topics from the assessment, discuss resources for SAT preparation, and work on test-taking strategies. These expectations are addressed by the tutor as they plan to finish the assessment, discuss reviewing topics, mention SAT resources, and offer practice tests and test-taking strategies.",
     "activities": [
-      "Exponential functions, growth factor",
-      "Linear functions, slope-intercept form",
-      "Exponential growth model, percentage growth",
       "Linear functions, growth rate",
-      "Systems of equations, point of intersection",
       "Systems of equations, elimination method",
-      "SAT practice test, exponential functions",
       "Exponential growth model",
-      "Exponential growth and decay"
+      "Exponential growth and decay",
+      "Systems of equations, point of intersection",
+      "SAT practice test, exponential functions",
+      "Exponential functions, growth factor",
+      "Exponential growth model, percentage growth",
+      "Linear functions, slope-intercept form"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -277,7 +276,7 @@
         {
           "name": "Instruction Delivery",
           "score": 9,
-          "percentile": 84.6,
+          "percentile": 86.3,
           "values": [
             2,
             3,
@@ -304,7 +303,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 7,
-          "percentile": 11.5,
+          "percentile": 11.8,
           "values": [
             0,
             0,
@@ -330,8 +329,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 3,
-          "percentile": 3.8,
+          "score": 6,
+          "percentile": 27.5,
           "values": [
             2,
             0,
@@ -358,7 +357,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 64.4,
+          "percentile": 63.7,
           "values": [
             2,
             1,
@@ -387,7 +386,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 9,
-        "allSessionRanking": 84.6,
+        "allSessionRanking": 86.3,
         "tutorSessionRanking": 87.5,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -398,13 +397,13 @@
       },
       "techToolUsage": {
         "rating": 7,
-        "allSessionRanking": 11.5,
+        "allSessionRanking": 11.8,
         "tutorSessionRanking": 12.5
       },
       "feedbackQuality": {
-        "rating": 3,
-        "allSessionRanking": 3.8,
-        "tutorSessionRanking": 37.5,
+        "rating": 6,
+        "allSessionRanking": 27.5,
+        "tutorSessionRanking": 62.5,
         "positiveFeedback": 10.25,
         "neutralFeedback": 85.66,
         "negativeFeedback": 4.1,
@@ -415,7 +414,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 64.4,
+        "allSessionRanking": 63.7,
         "tutorSessionRanking": 93.75,
         "tutorUtterances": [
           3,

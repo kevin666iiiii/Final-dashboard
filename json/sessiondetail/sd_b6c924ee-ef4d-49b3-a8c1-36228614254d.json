@@ -5,7 +5,6 @@
   "subject": "Algebra",
   "date": "2023-12-28",
   "riskyAreas": [
-    "Feedback",
     "Silent",
     "Student Inactive",
     "Short session"
@@ -15,14 +14,14 @@
     "desiredOutcome": "The student's expectation for the session is to learn more about PI digits, specifically how the numbers progress and their significance in relation to circles. The tutor addresses the student's expectation by explaining the concept of PI, its use in calculating circle properties, and the initial digits of PI.",
     "activities": [
       "Discussion about Christmas gifts",
-      "Introduction to PI and its significance in mathematics",
-      "Explanation of the first few digits of PI",
-      "Discussion on the infinite nature of PI and its irrationality",
-      "Recap of the student's weekend",
-      "Memorization practice of PI digits",
-      "Review and summary of PI concepts",
       "Closure and scheduling for the next session",
-      "Introduction and casual conversation"
+      "Recap of the student's weekend",
+      "Discussion on the infinite nature of PI and its irrationality",
+      "Introduction and casual conversation",
+      "Review and summary of PI concepts",
+      "Introduction to PI and its significance in mathematics",
+      "Memorization practice of PI digits",
+      "Explanation of the first few digits of PI"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -195,7 +194,7 @@
         {
           "name": "Instruction Delivery",
           "score": 10,
-          "percentile": 96.2,
+          "percentile": 96.1,
           "values": [
             2,
             2,
@@ -222,7 +221,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -248,8 +247,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 3,
-          "percentile": 3.8,
+          "score": 6,
+          "percentile": 27.5,
           "values": [
             2,
             3,
@@ -276,7 +275,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 64.4,
+          "percentile": 63.7,
           "values": [
             2,
             2,
@@ -305,7 +304,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 10,
-        "allSessionRanking": 96.2,
+        "allSessionRanking": 96.1,
         "tutorSessionRanking": 83.33,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -316,12 +315,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
+        "allSessionRanking": 46.1,
         "tutorSessionRanking": 83.33
       },
       "feedbackQuality": {
-        "rating": 3,
-        "allSessionRanking": 3.8,
+        "rating": 6,
+        "allSessionRanking": 27.5,
         "tutorSessionRanking": 33.33,
         "positiveFeedback": 12.22,
         "neutralFeedback": 83.33,
@@ -333,7 +332,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 64.4,
+        "allSessionRanking": 63.7,
         "tutorSessionRanking": 50.0,
         "tutorUtterances": [
           7,

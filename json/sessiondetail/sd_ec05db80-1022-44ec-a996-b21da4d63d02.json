@@ -14,15 +14,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various advanced topics in linear algebra, such as diagonalization of matrices, eigenvalues, eigenvectors, and matrix operations. The student's expectations were partially met as they successfully identified eigenvectors and eigenvalues but faced challenges with matrix multiplication. Throughout the session, there were periods of low interaction where the student likely waited for guidance, experienced confusion over calculations, and needed time to process complex equations.",
     "desiredOutcome": "The student's expectation for the session is to understand diagonalizability, find eigenvectors and eigenvalues, and perform matrix operations accurately. These expectations are partially met as the student successfully identifies eigenvectors and eigenvalues but encounters errors in matrix multiplication.",
     "activities": [
-      "Diagonalization of matrices",
-      "Calculating determinants of matrices",
+      "Matrix representation of linear transformations",
       "Geometric multiplicity vs algebraic multiplicity of eigenvalues",
+      "Calculating determinants of matrices",
+      "Finding null spaces of matrices",
       "Determining diagonalizability of linear transformations",
+      "Eigenvalues and eigenvectors",
       "Rank of matrices",
       "Row reduction of matrices",
-      "Finding null spaces of matrices",
-      "Matrix representation of linear transformations",
-      "Eigenvalues and eigenvectors"
+      "Diagonalization of matrices"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -262,7 +262,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.3,
+          "percentile": 17.6,
           "values": [
             2,
             0,
@@ -288,8 +288,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 5,
-          "percentile": 75.0,
+          "score": 8,
+          "percentile": 74.5,
           "values": [
             0,
             0,
@@ -356,12 +356,12 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.3,
+        "allSessionRanking": 17.6,
         "tutorSessionRanking": 50.0
       },
       "feedbackQuality": {
-        "rating": 5,
-        "allSessionRanking": 75.0,
+        "rating": 8,
+        "allSessionRanking": 74.5,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 5.88,
         "neutralFeedback": 92.65,

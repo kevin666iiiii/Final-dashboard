@@ -13,8 +13,8 @@
     "aiSummary": "In the one-on-one tutoring session, the student's expectation to review and practice factoring problems in algebra was met. The tutor covered factoring when the coefficient is one and more complex problems when the coefficient is not one. There were periods of low interaction for various reasons, including processing time, feedback exchange, and brief pauses for mental processing.",
     "desiredOutcome": "The student's expectation for the tutoring session is to review and practice factoring problems in algebra. They seem to be seeking clarification and guidance on how to approach factoring when the coefficient is not equal to one. The tutor addresses the student's request by reviewing factoring problems where a equals one and then introducing more complex problems where a does not equal one. The student actively participates in solving the problems and expresses readiness to move on to the next level after demonstrating understanding. Overall, the student's expectations for the session are met as they receive the review and guidance they were seeking in order to progress in their understanding of factoring.",
     "activities": [
-      "Factoring when a equals one",
-      "Factoring when a does not equal one using the AC method"
+      "Factoring when a does not equal one using the AC method",
+      "Factoring when a equals one"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -236,7 +236,7 @@
         {
           "name": "Instruction Delivery",
           "score": 8,
-          "percentile": 75.0,
+          "percentile": 76.5,
           "values": [
             3,
             0,
@@ -263,7 +263,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.3,
+          "percentile": 17.6,
           "values": [
             0,
             0,
@@ -289,8 +289,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 5,
-          "percentile": 75.0,
+          "score": 9,
+          "percentile": 91.2,
           "values": [
             0,
             0,
@@ -317,7 +317,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 24.0,
+          "percentile": 22.5,
           "values": [
             1,
             3,
@@ -346,7 +346,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 8,
-        "allSessionRanking": 75.0,
+        "allSessionRanking": 76.5,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -357,13 +357,13 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.3,
+        "allSessionRanking": 17.6,
         "tutorSessionRanking": 50.0
       },
       "feedbackQuality": {
-        "rating": 5,
-        "allSessionRanking": 75.0,
-        "tutorSessionRanking": 75.0,
+        "rating": 9,
+        "allSessionRanking": 91.2,
+        "tutorSessionRanking": 100.0,
         "positiveFeedback": 10.28,
         "neutralFeedback": 85.98,
         "negativeFeedback": 3.74,
@@ -374,7 +374,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 24.0,
+        "allSessionRanking": 22.5,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           1,

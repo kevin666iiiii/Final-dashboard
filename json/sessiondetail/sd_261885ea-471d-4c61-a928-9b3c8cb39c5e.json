@@ -15,15 +15,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various math problems related to optimization, derivatives, and maximizing/minimizing values. The student's expectation was to understand how to find the maximum product of numbers, seeking clarification on concepts like derivatives. Despite a technical issue causing a period of low interaction, the tutor addressed the student's questions and confusions, helping them gain a better understanding of the math problems.",
     "desiredOutcome": "The student's expectation for the session seems to be to understand and work through math problems related to finding maximum product of numbers. The student also seems to be seeking clarification on certain concepts and methods used in the problems. The tutor addressed the student's questions and confusions, providing explanations and working through examples. The student's expectations for the session were partially met as they gained understanding of the math problems but still had some confusion about certain concepts like derivatives.",
     "activities": [
-      "Applying derivatives in optimization problems",
-      "Exploring minimum and maximum values in optimization problems",
-      "Finding the dimensions of a rectangle with a perimeter of 200ft for maximum area",
-      "Finding two positive numbers such that their product is 192 and the sum is a minimum",
-      "Solving for two positive numbers with a given product and sum for optimization",
-      "Solving for two numbers whose sum is 60 and their product is a maximum",
-      "Optimizing the sum and product of two positive numbers",
       "Working with derivatives in optimization problems",
-      "Creating a rectangular field along the river with minimum amount of fencing"
+      "Applying derivatives in optimization problems",
+      "Solving for two numbers whose sum is 60 and their product is a maximum",
+      "Finding the dimensions of a rectangle with a perimeter of 200ft for maximum area",
+      "Exploring minimum and maximum values in optimization problems",
+      "Optimizing the sum and product of two positive numbers",
+      "Solving for two positive numbers with a given product and sum for optimization",
+      "Creating a rectangular field along the river with minimum amount of fencing",
+      "Finding two positive numbers such that their product is 192 and the sum is a minimum"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -171,7 +171,7 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 38.5,
+          "percentile": 39.2,
           "values": [
             2,
             2,
@@ -198,7 +198,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 7,
-          "percentile": 11.5,
+          "percentile": 11.8,
           "values": [
             2,
             2,
@@ -224,8 +224,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 3,
-          "percentile": 3.8,
+          "score": 5,
+          "percentile": 9.8,
           "values": [
             2,
             0,
@@ -252,7 +252,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 24.0,
+          "percentile": 22.5,
           "values": [
             2,
             0,
@@ -281,7 +281,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 38.5,
+        "allSessionRanking": 39.2,
         "tutorSessionRanking": 50.0,
         "correctExplanation": 66.67,
         "incorrectExplanation": 33.33,
@@ -292,12 +292,12 @@
       },
       "techToolUsage": {
         "rating": 7,
-        "allSessionRanking": 11.5,
+        "allSessionRanking": 11.8,
         "tutorSessionRanking": 50.0
       },
       "feedbackQuality": {
-        "rating": 3,
-        "allSessionRanking": 3.8,
+        "rating": 5,
+        "allSessionRanking": 9.8,
         "tutorSessionRanking": 50.0,
         "positiveFeedback": 10.43,
         "neutralFeedback": 81.74,
@@ -309,7 +309,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 24.0,
+        "allSessionRanking": 22.5,
         "tutorSessionRanking": 75.0,
         "tutorUtterances": [
           0,

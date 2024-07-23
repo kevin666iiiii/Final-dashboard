@@ -13,13 +13,13 @@
     "aiSummary": "The tutoring session covered various math topics such as percent change, graph interpretation, exponential rules, and probability calculations. The student actively engaged with the tutor, seeking clarification on problem-solving approaches. Periods of low interaction occurred as the student processed information, worked independently, and reflected on solutions.",
     "desiredOutcome": "The student's expectation for the session seems to be to review and work on practice problems related to math concepts, specifically focusing on topics like percent changes, exponential rules, and using a graphing calculator. The student also seems to be seeking clarification on how to approach certain types of problems and is actively engaging in the discussion with the tutor. The tutor is addressing the student's questions and providing explanations and guidance on how to solve the math problems effectively. Overall, the student's expectations for the session appear to be met as they are actively participating and receiving support from the tutor.",
     "activities": [
-      "Multiplying exponents with fractional exponents",
-      "Percent change rule",
       "Interpreting data from a graph",
-      "Solving equations with variables and exponents",
       "Determining if a system of equations has infinite solutions",
-      "Solving a system of equations with variables",
+      "Multiplying exponents with fractional exponents",
+      "Solving equations with variables and exponents",
       "Probability calculation",
+      "Percent change rule",
+      "Solving a system of equations with variables",
       "Calculating powers of i in complex numbers",
       "Conversion problem involving miles, days, and hours"
     ],
@@ -358,7 +358,7 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 38.5,
+          "percentile": 39.2,
           "values": [
             1,
             0,
@@ -385,7 +385,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -411,8 +411,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 4,
-          "percentile": 31.7,
+          "score": 8,
+          "percentile": 74.5,
           "values": [
             3,
             0,
@@ -439,7 +439,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 24.0,
+          "percentile": 22.5,
           "values": [
             1,
             0,
@@ -468,7 +468,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 38.5,
+        "allSessionRanking": 39.2,
         "tutorSessionRanking": 35.71,
         "correctExplanation": 77.78,
         "incorrectExplanation": 22.22,
@@ -479,13 +479,13 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
+        "allSessionRanking": 46.1,
         "tutorSessionRanking": 85.71
       },
       "feedbackQuality": {
-        "rating": 4,
-        "allSessionRanking": 31.7,
-        "tutorSessionRanking": 50.0,
+        "rating": 8,
+        "allSessionRanking": 74.5,
+        "tutorSessionRanking": 78.57,
         "positiveFeedback": 9.14,
         "neutralFeedback": 85.14,
         "negativeFeedback": 5.71,
@@ -496,7 +496,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 24.0,
+        "allSessionRanking": 22.5,
         "tutorSessionRanking": 85.71,
         "tutorUtterances": [
           -1,

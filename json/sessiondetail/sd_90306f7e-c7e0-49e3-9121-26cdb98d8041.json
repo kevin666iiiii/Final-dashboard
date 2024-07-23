@@ -11,15 +11,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including the coordinate plane, congruent shapes, triangles, rotational symmetry, and right angles. The student's initial expectation was to transfer their school work to a digital format, which the tutor partially addressed by suggesting using the platform's share and upload feature. The session may have been shorter than usual due to the student not being fully prepared.",
     "desiredOutcome": "The student's expectation for the session is to get help with transferring their paper work onto a digital copy because they are behind in their school work and their teacher is not responding to emails. The student's expectation is partially solved as the tutor suggests using the platform's share and upload feature to help with the digital transfer, but the session may be shorter than usual due to the student not being fully prepared.",
     "activities": [
-      "Understanding angles and side lengths in triangles",
-      "Identifying congruent shapes in the coordinate plane",
       "Identifying congruent triangles based on side lengths and angles",
-      "Explaining congruence in squares and right angles",
+      "Identifying congruent shapes in the coordinate plane",
+      "Explaining congruence and side lengths",
+      "Understanding angles and side lengths in triangles",
+      "Coordinate plane and congruent shapes",
       "Naming triangles and understanding side lengths",
       "Understanding right angles and congruence",
-      "Rotational symmetry and line of reflection",
-      "Explaining congruence and side lengths",
-      "Coordinate plane and congruent shapes"
+      "Explaining congruence in squares and right angles",
+      "Rotational symmetry and line of reflection"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -261,7 +261,7 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 38.5,
+          "percentile": 39.2,
           "values": [
             1,
             0,
@@ -288,7 +288,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.3,
+          "percentile": 17.6,
           "values": [
             0,
             0,
@@ -314,8 +314,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 4,
-          "percentile": 31.7,
+          "score": 6,
+          "percentile": 27.5,
           "values": [
             2,
             2,
@@ -342,7 +342,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 6,
-          "percentile": 88.5,
+          "percentile": 88.2,
           "values": [
             1,
             2,
@@ -371,7 +371,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 38.5,
+        "allSessionRanking": 39.2,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 80.0,
         "incorrectExplanation": 20.0,
@@ -382,12 +382,12 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.3,
+        "allSessionRanking": 17.6,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
-        "rating": 4,
-        "allSessionRanking": 31.7,
+        "rating": 6,
+        "allSessionRanking": 27.5,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 9.81,
         "neutralFeedback": 86.08,
@@ -399,7 +399,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 6,
-        "allSessionRanking": 88.5,
+        "allSessionRanking": 88.2,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           3,

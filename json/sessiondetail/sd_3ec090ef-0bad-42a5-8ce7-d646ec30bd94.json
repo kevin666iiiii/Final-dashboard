@@ -12,15 +12,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including solving rational equations, adding and subtracting rational expressions, identifying like terms, multiplying binomials, factoring and foiling polynomials, and creating polynomial equations. The student's expectation was to learn how to solve rational equations by adding and subtracting rational expressions, which the tutor addressed by guiding the student through examples and explaining the process of identifying like terms. There were two instances of low interaction between the student and tutor, during which the student briefly stepped away to allow the tutor time to work on the problem silently and to independently work on the problem before sharing the answer.",
     "desiredOutcome": "The student's expectation for the session is to learn how to solve rational equations by adding and subtracting rational expressions. These expectations are addressed as the tutor guides the student through examples and explains the process of identifying like terms and adding them based on their degrees.",
     "activities": [
-      "Checking polynomial equations",
-      "Multiplying binomials",
-      "Identifying like terms in polynomials",
       "Adding and subtracting rational expressions",
       "Solving rational equations",
-      "Identifying like terms",
-      "Foiling polynomials",
+      "Multiplying binomials",
+      "Checking polynomial equations",
       "Creating polynomial equations",
-      "Factoring polynomials"
+      "Factoring polynomials",
+      "Identifying like terms",
+      "Identifying like terms in polynomials",
+      "Foiling polynomials"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -238,7 +238,7 @@
         {
           "name": "Instruction Delivery",
           "score": 7,
-          "percentile": 56.7,
+          "percentile": 57.8,
           "values": [
             3,
             1,
@@ -265,7 +265,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 5,
-          "percentile": 3.8,
+          "percentile": 3.9,
           "values": [
             0,
             0,
@@ -291,8 +291,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 4,
-          "percentile": 31.7,
+          "score": 6,
+          "percentile": 27.5,
           "values": [
             0,
             0,
@@ -319,7 +319,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 24.0,
+          "percentile": 22.5,
           "values": [
             1,
             1,
@@ -348,7 +348,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 7,
-        "allSessionRanking": 56.7,
+        "allSessionRanking": 57.8,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 84.21,
         "incorrectExplanation": 15.79,
@@ -359,12 +359,12 @@
       },
       "techToolUsage": {
         "rating": 5,
-        "allSessionRanking": 3.8,
+        "allSessionRanking": 3.9,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
-        "rating": 4,
-        "allSessionRanking": 31.7,
+        "rating": 6,
+        "allSessionRanking": 27.5,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 2.75,
         "neutralFeedback": 93.58,
@@ -376,7 +376,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 24.0,
+        "allSessionRanking": 22.5,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           -1,

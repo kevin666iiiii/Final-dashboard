@@ -210,7 +210,7 @@ export default {
   },
   methods: {
     getTableData(){
-      readJSON('/json/sessionList.json').then(resp=>{
+      readJSON(`./json/sessionList.json`).then(resp=>{
         this.tableData = [];
 
         //获取表格数据

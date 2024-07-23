@@ -132,7 +132,7 @@ export default {
   methods: {
     loadData() {
       //let jsonPath = '/json/tutordetail/td.json';
-      let jsonPath = `/json/tutordetail/td_${this.tutorId}.json`;
+      let jsonPath = `./json/tutordetail/td_${this.tutorId}.json`;
       readJSON(jsonPath).then(resp=>{
         this.detailInfo = resp.data;
         this.initChart();

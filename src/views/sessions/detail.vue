@@ -490,7 +490,7 @@ export default {
   methods: {
     loadData() {
       //let jsonPath = '/json/sessiondetail/sd.json';
-      let jsonPath = `/json/sessiondetail/sd_${this.sessionId}.json`;
+      let jsonPath = `./json/sessiondetail/sd_${this.sessionId}.json`;
       readJSON(jsonPath).then(resp=>{
         this.detailInfo = resp.data;
         this.renderChart();

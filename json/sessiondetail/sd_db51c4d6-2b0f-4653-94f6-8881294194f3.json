@@ -13,14 +13,8 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on quadratic equations, word problems, systems of equations, and time management. The student aimed to enhance math understanding, reduce errors, and gain confidence before tests. Despite some periods of low interaction for various reasons, the tutor addressed the student's concerns and provided guidance on the topics discussed.",
     "desiredOutcome": "The student's expectation for the session is to improve their understanding and performance in math, specifically focusing on reducing careless errors and becoming more comfortable with the concepts before tests. They also express a need for practice and assistance with nonlinear systems and specific math formulas. The tutor addresses the student's concerns and provides explanations and guidance on the topics discussed. The student's expectations for the session are partially met as they receive clarification on the formula they were confused about and start working on practice problems related to their current math topics.",
     "activities": [
-      "Quadratic Equations and Word Problems",
-      "Quadratic Equations and Word Problems",
-      "Quadratic Equations and Word Problems",
-      "Quadratic Equations and Word Problems",
       "Systems of Equations",
-      "Systems of Equations",
-      "Systems of Equations",
-      "Systems of Equations",
+      "Quadratic Equations and Word Problems",
       "Scheduling and Time Management"
     ],
     "interactionTrend": {
@@ -330,7 +324,7 @@
         {
           "name": "Instruction Delivery",
           "score": 7,
-          "percentile": 57.3,
+          "percentile": 56.7,
           "values": [
             0,
             1,
@@ -357,7 +351,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.6,
+          "percentile": 47.1,
           "values": [
             0,
             0,
@@ -384,7 +378,7 @@
         {
           "name": "Feedback Quality",
           "score": 3,
-          "percentile": 3.9,
+          "percentile": 3.8,
           "values": [
             0,
             2,
@@ -411,7 +405,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 23.3,
+          "percentile": 24.0,
           "values": [
             3,
             2,
@@ -440,7 +434,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 7,
-        "allSessionRanking": 57.3,
+        "allSessionRanking": 56.7,
         "tutorSessionRanking": 43.75,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -451,12 +445,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.6,
+        "allSessionRanking": 47.1,
         "tutorSessionRanking": 68.75
       },
       "feedbackQuality": {
         "rating": 3,
-        "allSessionRanking": 3.9,
+        "allSessionRanking": 3.8,
         "tutorSessionRanking": 37.5,
         "positiveFeedback": 5.53,
         "neutralFeedback": 90.78,
@@ -468,7 +462,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 23.3,
+        "allSessionRanking": 24.0,
         "tutorSessionRanking": 43.75,
         "tutorUtterances": [
           0,

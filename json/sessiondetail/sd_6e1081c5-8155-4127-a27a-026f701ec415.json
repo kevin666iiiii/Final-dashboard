@@ -12,14 +12,14 @@
     "desiredOutcome": "The student's expectation for the session is to simplify radicals and multiply them. The tutor addressed the student's expectation by guiding them through simplifying radicals and combining terms.",
     "activities": [
       "Simplifying radicals",
+      "Fraction rules",
+      "Solving equations",
       "Exponent rules",
       "Multiplying radicals",
-      "Combining like terms",
-      "Factoring",
-      "Extraneous solutions",
       "Quadratic formula",
-      "Solving equations",
-      "Fraction rules"
+      "Factoring",
+      "Combining like terms",
+      "Extraneous solutions"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -252,7 +252,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.5,
+          "percentile": 16.3,
           "values": [
             0,
             2,
@@ -279,7 +279,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.6,
+          "percentile": 47.1,
           "values": [
             0,
             0,
@@ -306,7 +306,7 @@
         {
           "name": "Feedback Quality",
           "score": 5,
-          "percentile": 74.8,
+          "percentile": 75.0,
           "values": [
             3,
             0,
@@ -333,7 +333,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 6,
-          "percentile": 88.3,
+          "percentile": 88.5,
           "values": [
             1,
             1,
@@ -362,7 +362,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.5,
+        "allSessionRanking": 16.3,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 80.0,
         "incorrectExplanation": 20.0,
@@ -373,12 +373,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.6,
+        "allSessionRanking": 47.1,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
         "rating": 5,
-        "allSessionRanking": 74.8,
+        "allSessionRanking": 75.0,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 8.12,
         "neutralFeedback": 90.0,
@@ -390,7 +390,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 6,
-        "allSessionRanking": 88.3,
+        "allSessionRanking": 88.5,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           1,

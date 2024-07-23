@@ -13,15 +13,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics related to linear equations. The student's expectation included addressing test results and test-taking anxiety, partially fulfilled by the tutor's inquiry and support. Periods of low interaction occurred due to waiting for topic selection, technical issues, processing information, and formulating responses.",
     "desiredOutcome": "The student's expectation for the session seems to be discussing their recent test results and seeking guidance on test-taking anxiety and strategies for improvement. These expectations are partially addressed as the tutor inquires about the test and offers support for test anxiety.",
     "activities": [
-      "Graphing linear equations",
-      "Identifying x and y intercepts",
       "Understanding standard form of linear equations",
       "Graphing horizontal and vertical lines",
-      "Solving for x and y intercepts",
-      "Identifying slope of horizontal and vertical lines",
       "Applying slope-intercept form in graphing",
-      "Finding x and y intercepts efficiently",
-      "Graphing equations with specific intercepts"
+      "Identifying slope of horizontal and vertical lines",
+      "Graphing linear equations",
+      "Graphing equations with specific intercepts",
+      "Identifying x and y intercepts",
+      "Solving for x and y intercepts",
+      "Finding x and y intercepts efficiently"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -266,7 +266,7 @@
         {
           "name": "Instruction Delivery",
           "score": 8,
-          "percentile": 75.7,
+          "percentile": 75.0,
           "values": [
             0,
             1,
@@ -293,7 +293,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.6,
+          "percentile": 47.1,
           "values": [
             0,
             0,
@@ -320,7 +320,7 @@
         {
           "name": "Feedback Quality",
           "score": 3,
-          "percentile": 3.9,
+          "percentile": 3.8,
           "values": [
             3,
             3,
@@ -347,7 +347,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 23.3,
+          "percentile": 24.0,
           "values": [
             2,
             3,
@@ -376,7 +376,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 8,
-        "allSessionRanking": 75.7,
+        "allSessionRanking": 75.0,
         "tutorSessionRanking": 62.5,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -387,12 +387,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.6,
+        "allSessionRanking": 47.1,
         "tutorSessionRanking": 68.75
       },
       "feedbackQuality": {
         "rating": 3,
-        "allSessionRanking": 3.9,
+        "allSessionRanking": 3.8,
         "tutorSessionRanking": 37.5,
         "positiveFeedback": 3.52,
         "neutralFeedback": 93.83,
@@ -404,7 +404,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 23.3,
+        "allSessionRanking": 24.0,
         "tutorSessionRanking": 43.75,
         "tutorUtterances": [
           1,

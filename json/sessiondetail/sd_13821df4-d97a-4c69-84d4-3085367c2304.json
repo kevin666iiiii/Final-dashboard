@@ -12,15 +12,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed topics such as parabolas, graphing curves, domain and range of functions, infinity in mathematics, space exploration, stars, and emotional themes in media. The student sought help with a math project on parabolas, expressing confusion about the requirements and seeking guidance, while the tutor provided clarification, brainstormed ideas, and offered assistance despite limited access to necessary resources.",
     "desiredOutcome": "The student's expectation for the session is to get help with understanding and completing a math project related to parabolas that they were assigned in class. They express confusion about the project requirements and seek guidance on how to approach it. The tutor attempts to clarify the task, brainstorm ideas for real-world examples of parabolic curves, and offers assistance in creating the project. The student also mentions that they have a specific image in mind for the project but are unable to share it due to restrictions on their school computer. The tutor tries to help the student visualize and work through the project despite not having access to the image. Overall, the student's expectation for the session is to receive guidance and support in completing the math project on parabolas. The tutor addresses these expectations by discussing possible ideas, offering suggestions, and trying to assist the student in understanding and completing the assignment.",
     "activities": [
-      "Parabolas and real-world applications",
-      "Identifying dimensions and features of parabolic curves",
-      "Graphing parabolic curves and determining key points",
-      "Understanding domain and range of functions",
       "Exploring the concept of infinity in mathematics",
-      "Discussing the James Webb telescope and space exploration",
+      "Discussing emotional themes in media and TV shows",
       "Learning about stars, supernovas, and celestial bodies",
+      "Identifying dimensions and features of parabolic curves",
+      "Understanding domain and range of functions",
+      "Discussing the James Webb telescope and space exploration",
       "Exploring nebulae and stardust in space",
-      "Discussing emotional themes in media and TV shows"
+      "Graphing parabolic curves and determining key points",
+      "Parabolas and real-world applications"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -226,7 +226,7 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 38.8,
+          "percentile": 38.5,
           "values": [
             0,
             0,
@@ -253,7 +253,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.5,
+          "percentile": 17.3,
           "values": [
             0,
             2,
@@ -280,7 +280,7 @@
         {
           "name": "Feedback Quality",
           "score": 4,
-          "percentile": 32.0,
+          "percentile": 31.7,
           "values": [
             0,
             3,
@@ -307,7 +307,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 23.3,
+          "percentile": 24.0,
           "values": [
             2,
             2,
@@ -336,7 +336,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 38.8,
+        "allSessionRanking": 38.5,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 88.89,
         "incorrectExplanation": 11.11,
@@ -347,12 +347,12 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.5,
+        "allSessionRanking": 17.3,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
         "rating": 4,
-        "allSessionRanking": 32.0,
+        "allSessionRanking": 31.7,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 10.71,
         "neutralFeedback": 82.14,
@@ -364,7 +364,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 23.3,
+        "allSessionRanking": 24.0,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           1,

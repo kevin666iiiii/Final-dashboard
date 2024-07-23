@@ -14,13 +14,13 @@
     "activities": [
       "Scatter plots and correlations",
       "Linear regression",
-      "Data types and variables",
-      "Analyzing categorical data",
-      "Quantitative data distributions",
-      "Measures of center",
       "Transform data",
-      "Percentile and cumulative relative frequency",
-      "Density curve and normal distribution"
+      "Density curve and normal distribution",
+      "Quantitative data distributions",
+      "Data types and variables",
+      "Measures of center",
+      "Analyzing categorical data",
+      "Percentile and cumulative relative frequency"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -216,7 +216,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.5,
+          "percentile": 16.3,
           "values": [
             1,
             1,
@@ -243,7 +243,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.6,
+          "percentile": 47.1,
           "values": [
             0,
             0,
@@ -270,7 +270,7 @@
         {
           "name": "Feedback Quality",
           "score": 5,
-          "percentile": 74.8,
+          "percentile": 75.0,
           "values": [
             0,
             0,
@@ -326,7 +326,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.5,
+        "allSessionRanking": 16.3,
         "tutorSessionRanking": 50.0,
         "correctExplanation": 71.43,
         "incorrectExplanation": 28.57,
@@ -337,12 +337,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.6,
+        "allSessionRanking": 47.1,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
         "rating": 5,
-        "allSessionRanking": 74.8,
+        "allSessionRanking": 75.0,
         "tutorSessionRanking": 75.0,
         "positiveFeedback": 2.78,
         "neutralFeedback": 89.58,

@@ -13,13 +13,6 @@
     "desiredOutcome": "The student's expectation for the session is to learn how to divide polynomials using long division. The tutor successfully addresses the student's expectation by explaining the process step by step.",
     "activities": [
       "Polynomial Division - Long Division Method",
-      "Polynomial Division - Synthetic Division Method",
-      "Polynomial Division - Synthetic Division Method",
-      "Polynomial Division - Synthetic Division Method",
-      "Polynomial Division - Synthetic Division Method",
-      "Polynomial Division - Synthetic Division Method",
-      "Polynomial Division - Synthetic Division Method",
-      "Polynomial Division - Synthetic Division Method",
       "Polynomial Division - Synthetic Division Method"
     ],
     "interactionTrend": {
@@ -232,7 +225,7 @@
         {
           "name": "Instruction Delivery",
           "score": 7,
-          "percentile": 57.3,
+          "percentile": 56.7,
           "values": [
             0,
             0,
@@ -259,7 +252,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.6,
+          "percentile": 47.1,
           "values": [
             0,
             0,
@@ -286,7 +279,7 @@
         {
           "name": "Feedback Quality",
           "score": 4,
-          "percentile": 32.0,
+          "percentile": 31.7,
           "values": [
             3,
             0,
@@ -342,7 +335,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 7,
-        "allSessionRanking": 57.3,
+        "allSessionRanking": 56.7,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 66.67,
         "incorrectExplanation": 33.33,
@@ -353,12 +346,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.6,
+        "allSessionRanking": 47.1,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
         "rating": 4,
-        "allSessionRanking": 32.0,
+        "allSessionRanking": 31.7,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 3.76,
         "neutralFeedback": 92.48,

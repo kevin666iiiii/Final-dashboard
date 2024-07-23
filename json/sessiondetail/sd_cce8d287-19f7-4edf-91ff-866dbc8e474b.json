@@ -12,13 +12,6 @@
     "desiredOutcome": "The student's expectation for the session is to understand how to convert solutions to inequalities and use interval notation correctly. These expectations are addressed and solved by the tutor through explanations and examples.",
     "activities": [
       "Inequalities and Interval Notation",
-      "Solving Equations with Square Roots",
-      "Solving Equations with Square Roots",
-      "Solving Equations with Square Roots",
-      "Solving Equations with Square Roots",
-      "Solving Equations with Square Roots",
-      "Solving Equations with Square Roots",
-      "Solving Equations with Square Roots",
       "Solving Equations with Square Roots"
     ],
     "interactionTrend": {
@@ -245,7 +238,7 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 38.8,
+          "percentile": 38.5,
           "values": [
             0,
             0,
@@ -272,7 +265,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.5,
+          "percentile": 17.3,
           "values": [
             0,
             0,
@@ -299,7 +292,7 @@
         {
           "name": "Feedback Quality",
           "score": 4,
-          "percentile": 32.0,
+          "percentile": 31.7,
           "values": [
             2,
             0,
@@ -326,7 +319,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 64.1,
+          "percentile": 64.4,
           "values": [
             2,
             1,
@@ -355,7 +348,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 38.8,
+        "allSessionRanking": 38.5,
         "tutorSessionRanking": 83.33,
         "correctExplanation": 83.33,
         "incorrectExplanation": 16.67,
@@ -366,12 +359,12 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.5,
+        "allSessionRanking": 17.3,
         "tutorSessionRanking": 33.33
       },
       "feedbackQuality": {
         "rating": 4,
-        "allSessionRanking": 32.0,
+        "allSessionRanking": 31.7,
         "tutorSessionRanking": 66.67,
         "positiveFeedback": 6.12,
         "neutralFeedback": 88.78,
@@ -383,7 +376,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 64.1,
+        "allSessionRanking": 64.4,
         "tutorSessionRanking": 83.33,
         "tutorUtterances": [
           3,

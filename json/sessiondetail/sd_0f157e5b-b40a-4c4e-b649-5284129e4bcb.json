@@ -15,12 +15,6 @@
     "desiredOutcome": "The student's expectation for the session is to work on math problems related to the unit circle, specifically focusing on finding the exact values of trigonometric functions. The student seems to be catching up on current homework and is seeking help with understanding concepts related to rotations and trigonometric functions. The tutor is addressing the student's expectation by explaining the concept of cosine in relation to the unit circle and guiding the student through solving specific math problems.",
     "activities": [
       "Unit Circle and Trigonometric Functions (Cosine)",
-      "Unit Circle and Trigonometric Functions (Cosine)",
-      "Unit Circle and Trigonometric Functions (Cosine)",
-      "Unit Circle and Trigonometric Functions (Cosine)",
-      "Unit Circle and Trigonometric Functions (Cosine)",
-      "Unit Circle and Trigonometric Functions (Cosine)",
-      "Unit Circle and Trigonometric Functions (Tangent)",
       "Unit Circle and Trigonometric Functions (Tangent)",
       "Unit Circle and Trigonometric Functions (Sine)"
     ],
@@ -207,7 +201,7 @@
         {
           "name": "Instruction Delivery",
           "score": 7,
-          "percentile": 57.3,
+          "percentile": 56.7,
           "values": [
             0,
             3,
@@ -234,7 +228,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.5,
+          "percentile": 17.3,
           "values": [
             0,
             0,
@@ -261,7 +255,7 @@
         {
           "name": "Feedback Quality",
           "score": 4,
-          "percentile": 32.0,
+          "percentile": 31.7,
           "values": [
             0,
             0,
@@ -288,7 +282,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 23.3,
+          "percentile": 24.0,
           "values": [
             2,
             1,
@@ -317,7 +311,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 7,
-        "allSessionRanking": 57.3,
+        "allSessionRanking": 56.7,
         "tutorSessionRanking": 64.29,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -328,12 +322,12 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.5,
+        "allSessionRanking": 17.3,
         "tutorSessionRanking": 42.86
       },
       "feedbackQuality": {
         "rating": 4,
-        "allSessionRanking": 32.0,
+        "allSessionRanking": 31.7,
         "tutorSessionRanking": 50.0,
         "positiveFeedback": 3.55,
         "neutralFeedback": 89.36,
@@ -345,7 +339,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 23.3,
+        "allSessionRanking": 24.0,
         "tutorSessionRanking": 85.71,
         "tutorUtterances": [
           1,

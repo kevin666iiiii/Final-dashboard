@@ -15,14 +15,6 @@
     "aiSummary": "During the one-on-one tutoring session, the tutor and student focused on arithmetic and geometric sequences, addressing nine related questions. The student's initial expectation was to understand a math problem about weekly payments, and with the tutor's guidance, the student successfully worked through the problem, gaining clarity and comprehension. Periods of low interaction occurred as the student processed information, gathered thoughts, and reviewed lesson content silently.",
     "desiredOutcome": "The student's expectation for the session seems to be to understand and work through a math problem related to calculating weekly payments. The student expresses uncertainty but is willing to try their best to follow along and comprehend the material. The tutor helps clarify the problem and guides the student through the calculations, leading to a better understanding of the task at hand. The student's expectation of gaining clarity and working through the problem seems to be met during the session.",
     "activities": [
-      "Arithmetic and Geometric Sequences",
-      "Arithmetic and Geometric Sequences",
-      "Arithmetic and Geometric Sequences",
-      "Arithmetic and Geometric Sequences",
-      "Arithmetic and Geometric Sequences",
-      "Arithmetic and Geometric Sequences",
-      "Arithmetic and Geometric Sequences",
-      "Arithmetic and Geometric Sequences",
       "Arithmetic and Geometric Sequences"
     ],
     "interactionTrend": {
@@ -218,7 +210,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.6,
+          "percentile": 47.1,
           "values": [
             0,
             0,
@@ -245,7 +237,7 @@
         {
           "name": "Feedback Quality",
           "score": 5,
-          "percentile": 74.8,
+          "percentile": 75.0,
           "values": [
             0,
             0,
@@ -272,7 +264,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 23.3,
+          "percentile": 24.0,
           "values": [
             1,
             0,
@@ -312,12 +304,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.6,
+        "allSessionRanking": 47.1,
         "tutorSessionRanking": 83.33
       },
       "feedbackQuality": {
         "rating": 5,
-        "allSessionRanking": 74.8,
+        "allSessionRanking": 75.0,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 2.06,
         "neutralFeedback": 91.75,
@@ -329,7 +321,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 23.3,
+        "allSessionRanking": 24.0,
         "tutorSessionRanking": 66.67,
         "tutorUtterances": [
           -1,

@@ -12,14 +12,14 @@
     "desiredOutcome": "The student's expectations for the session were to review trigonometry concepts, solve math problems involving combinations, and apply formulas to find the radius of a cone. These expectations were met as the tutor guided the student through the trigonometry question, helped with the combinations problem, and corrected a mistake while finding the radius of the cone.",
     "activities": [
       "Trigonometry - Sine, Cosine, and Tangent",
+      "Geometry - Distance between Points in a Right Triangle",
       "Permutations and Combinations",
       "Geometry - Volume of a Cone",
-      "Geometry - Distance between Points in a Right Triangle",
-      "Geometry - Finding Midpoint of a Line Segment",
-      "Algebra - Factoring Quadratic Expressions",
       "Algebra - Finding Slope of a Line",
+      "Algebra - Factoring Quadratic Expressions",
       "Probability",
-      "Geometry - Circumference and Radius of a Circle"
+      "Geometry - Circumference and Radius of a Circle",
+      "Geometry - Finding Midpoint of a Line Segment"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -222,7 +222,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.5,
+          "percentile": 16.3,
           "values": [
             0,
             0,
@@ -249,7 +249,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.6,
+          "percentile": 47.1,
           "values": [
             0,
             0,
@@ -276,7 +276,7 @@
         {
           "name": "Feedback Quality",
           "score": 5,
-          "percentile": 74.8,
+          "percentile": 75.0,
           "values": [
             0,
             0,
@@ -303,7 +303,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 64.1,
+          "percentile": 64.4,
           "values": [
             1,
             0,
@@ -332,7 +332,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.5,
+        "allSessionRanking": 16.3,
         "tutorSessionRanking": 56.25,
         "correctExplanation": 72.73,
         "incorrectExplanation": 27.27,
@@ -343,12 +343,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.6,
+        "allSessionRanking": 47.1,
         "tutorSessionRanking": 81.25
       },
       "feedbackQuality": {
         "rating": 5,
-        "allSessionRanking": 74.8,
+        "allSessionRanking": 75.0,
         "tutorSessionRanking": 93.75,
         "positiveFeedback": 5.21,
         "neutralFeedback": 92.71,
@@ -360,7 +360,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 64.1,
+        "allSessionRanking": 64.4,
         "tutorSessionRanking": 31.25,
         "tutorUtterances": [
           1,

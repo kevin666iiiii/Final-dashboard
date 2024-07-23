@@ -14,14 +14,14 @@
     "desiredOutcome": "The student's expectations for the session are to review and gain a better understanding of graphing logarithmic functions, specifically focusing on graphing log base three of negative x without a calculator. The student also seeks clarification on the effects of transformations on the graph and wants to match equations with their graphs. These expectations are addressed and resolved during the session as the tutor provides guidance on graphing the logarithmic function, explains the impact of transformations, and assists in matching equations with their graphs.",
     "activities": [
       "Composition of functions",
-      "Inverse functions",
-      "One-to-one functions",
-      "Logarithmic functions",
-      "Graphing logarithmic functions",
-      "Identifying parent functions and transformations",
-      "Finding domain and range of functions",
+      "Finding values for exponential functions to intersect logarithmic functions",
       "Matching equations with graphs",
-      "Finding values for exponential functions to intersect logarithmic functions"
+      "Identifying parent functions and transformations",
+      "Inverse functions",
+      "Graphing logarithmic functions",
+      "Finding domain and range of functions",
+      "Logarithmic functions",
+      "One-to-one functions"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -242,7 +242,7 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 38.8,
+          "percentile": 38.5,
           "values": [
             0,
             0,
@@ -269,7 +269,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.5,
+          "percentile": 17.3,
           "values": [
             2,
             0,
@@ -352,7 +352,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 38.8,
+        "allSessionRanking": 38.5,
         "tutorSessionRanking": 75.0,
         "correctExplanation": 95.65,
         "incorrectExplanation": 4.35,
@@ -363,7 +363,7 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.5,
+        "allSessionRanking": 17.3,
         "tutorSessionRanking": 50.0
       },
       "feedbackQuality": {

@@ -11,15 +11,10 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on algebraic substitution and calculations. The student's expectation was to review and solve a set of 20 questions, covering topics such as the substitution method for solving linear equations, graphing systems of linear inequalities and equations, and identifying feasible regions for linear programming. Throughout the session, there were no periods of low interaction between the tutor and student.",
     "desiredOutcome": "The student's expectation for the session is to review and solve a set of 20 questions, focusing on algebraic substitution and calculations. These expectations are being met during the session.",
     "activities": [
-      "Substitution method for solving linear equations",
-      "Graphing system of linear inequalities",
       "Graphing system of linear equations",
-      "Substitution method for solving linear equations",
       "Graphing system of linear inequalities",
-      "Substitution method for solving linear equations",
-      "Graphing system of linear inequalities",
-      "Substitution method for solving linear equations",
-      "Identifying feasible regions for linear programming"
+      "Identifying feasible regions for linear programming",
+      "Substitution method for solving linear equations"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -243,7 +238,7 @@
         {
           "name": "Instruction Delivery",
           "score": 4,
-          "percentile": 9.7,
+          "percentile": 9.6,
           "values": [
             3,
             0,
@@ -270,7 +265,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.6,
+          "percentile": 47.1,
           "values": [
             0,
             0,
@@ -297,7 +292,7 @@
         {
           "name": "Feedback Quality",
           "score": 4,
-          "percentile": 32.0,
+          "percentile": 31.7,
           "values": [
             3,
             0,
@@ -324,7 +319,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 6,
-          "percentile": 88.3,
+          "percentile": 88.5,
           "values": [
             1,
             2,
@@ -353,7 +348,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 4,
-        "allSessionRanking": 9.7,
+        "allSessionRanking": 9.6,
         "tutorSessionRanking": 25.0,
         "correctExplanation": 80.0,
         "incorrectExplanation": 20.0,
@@ -364,12 +359,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.6,
+        "allSessionRanking": 47.1,
         "tutorSessionRanking": 81.25
       },
       "feedbackQuality": {
         "rating": 4,
-        "allSessionRanking": 32.0,
+        "allSessionRanking": 31.7,
         "tutorSessionRanking": 68.75,
         "positiveFeedback": 4.14,
         "neutralFeedback": 95.17,
@@ -381,7 +376,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 6,
-        "allSessionRanking": 88.3,
+        "allSessionRanking": 88.5,
         "tutorSessionRanking": 75.0,
         "tutorUtterances": [
           2,

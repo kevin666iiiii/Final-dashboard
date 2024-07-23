@@ -13,14 +13,6 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on trigonometric ratios in radian measure, specifically working on finding exact values of trigonometric functions. The student actively engaged with the material, asking questions, making corrections, and demonstrating a clear expectation of learning and improving their understanding of trigonometry concepts. Throughout the session, there were no periods of low interaction between the tutor and student.",
     "desiredOutcome": "The student's expectation for the session seems to be to understand and solve trigonometry problems involving finding exact values of trigonometric functions in radians. The student is following along with the tutor's explanations and calculations, asking questions when needed and making corrections when errors are pointed out. The student's expectation of learning and improving their understanding of trigonometry concepts seems to be met during the session.",
     "activities": [
-      "Trigonometric ratios in radian measure",
-      "Trigonometric ratios in radian measure",
-      "Trigonometric ratios in radian measure",
-      "Trigonometric ratios in radian measure",
-      "Trigonometric ratios in radian measure",
-      "Trigonometric ratios in radian measure",
-      "Trigonometric ratios in radian measure",
-      "Trigonometric ratios in radian measure",
       "Trigonometric ratios in radian measure"
     ],
     "interactionTrend": {
@@ -260,7 +252,7 @@
         {
           "name": "Instruction Delivery",
           "score": 9,
-          "percentile": 85.4,
+          "percentile": 84.6,
           "values": [
             1,
             0,
@@ -287,7 +279,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.5,
+          "percentile": 17.3,
           "values": [
             0,
             0,
@@ -314,7 +306,7 @@
         {
           "name": "Feedback Quality",
           "score": 5,
-          "percentile": 74.8,
+          "percentile": 75.0,
           "values": [
             0,
             0,
@@ -370,7 +362,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 9,
-        "allSessionRanking": 85.4,
+        "allSessionRanking": 84.6,
         "tutorSessionRanking": 85.71,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -381,12 +373,12 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.5,
+        "allSessionRanking": 17.3,
         "tutorSessionRanking": 42.86
       },
       "feedbackQuality": {
         "rating": 5,
-        "allSessionRanking": 74.8,
+        "allSessionRanking": 75.0,
         "tutorSessionRanking": 92.86,
         "positiveFeedback": 4.94,
         "neutralFeedback": 84.57,

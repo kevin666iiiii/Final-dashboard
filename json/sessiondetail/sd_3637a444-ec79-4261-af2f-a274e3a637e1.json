@@ -14,14 +14,14 @@
     "desiredOutcome": "The student's expectation for the session is to understand how to calculate the probability by finding the areas of different parts of a dartboard. The tutor guides the student through calculating the areas and simplifying fractions to determine the probability accurately. The student's expectation is met as they successfully calculate the probability of hitting the bullseye.",
     "activities": [
       "Probability and area of circles",
-      "Area of shapes and perimeter",
-      "Prime numbers and probability",
       "Order of operations and decimals",
-      "Finding missing sides of shapes",
-      "Calculating area of rectangles",
+      "Homework assignment on various math topics",
       "Calculating perimeter of shapes",
       "Solving for unknown variables in shapes",
-      "Homework assignment on various math topics"
+      "Calculating area of rectangles",
+      "Prime numbers and probability",
+      "Area of shapes and perimeter",
+      "Finding missing sides of shapes"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -200,7 +200,7 @@
         {
           "name": "Instruction Delivery",
           "score": 7,
-          "percentile": 57.3,
+          "percentile": 56.7,
           "values": [
             0,
             0,
@@ -227,7 +227,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.5,
+          "percentile": 17.3,
           "values": [
             0,
             0,
@@ -254,7 +254,7 @@
         {
           "name": "Feedback Quality",
           "score": 5,
-          "percentile": 74.8,
+          "percentile": 75.0,
           "values": [
             0,
             3,
@@ -281,7 +281,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 23.3,
+          "percentile": 24.0,
           "values": [
             2,
             2,
@@ -310,7 +310,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 7,
-        "allSessionRanking": 57.3,
+        "allSessionRanking": 56.7,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -321,12 +321,12 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.5,
+        "allSessionRanking": 17.3,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
         "rating": 5,
-        "allSessionRanking": 74.8,
+        "allSessionRanking": 75.0,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 3.01,
         "neutralFeedback": 92.77,
@@ -338,7 +338,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 23.3,
+        "allSessionRanking": 24.0,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           0,

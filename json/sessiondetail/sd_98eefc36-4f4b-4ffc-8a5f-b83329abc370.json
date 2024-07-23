@@ -13,14 +13,12 @@
     "desiredOutcome": "The student's expectation for the session seems to be to go over practice problems, specifically focusing on algebra problems they had trouble with. They also mentioned feeling nervous about an upcoming test and expressed a desire to improve their understanding of the material. The tutor attempted to address these expectations by trying to access the student's provided practice problems and working through a sample algebra problem together. However, due to technical difficulties and distractions, the session did not fully meet the student's expectations.",
     "activities": [
       "Algebra - Composite functions, foiling, square roots",
-      "Geometry - Square pyramid, slant height, edge of the base",
-      "Trigonometry - Law of cosines, finding missing sides and angles",
-      "Algebra - Applying formulas, solving for unknowns",
-      "Geometry - Applying Pythagorean theorem, finding side lengths",
       "Trigonometry - Law of sines, finding missing angles",
+      "Geometry - Square pyramid, slant height, edge of the base",
+      "Algebra - Applying formulas, solving for unknowns",
       "Algebra - Graphs, increasing and decreasing functions",
       "Trigonometry - Law of cosines, finding missing sides and angles",
-      "Algebra - Applying formulas, solving for unknowns"
+      "Geometry - Applying Pythagorean theorem, finding side lengths"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -241,7 +239,7 @@
         {
           "name": "Instruction Delivery",
           "score": 7,
-          "percentile": 57.3,
+          "percentile": 56.7,
           "values": [
             0,
             0,
@@ -268,7 +266,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.5,
+          "percentile": 17.3,
           "values": [
             2,
             0,
@@ -295,7 +293,7 @@
         {
           "name": "Feedback Quality",
           "score": 5,
-          "percentile": 74.8,
+          "percentile": 75.0,
           "values": [
             2,
             2,
@@ -351,7 +349,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 7,
-        "allSessionRanking": 57.3,
+        "allSessionRanking": 56.7,
         "tutorSessionRanking": 62.5,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -362,12 +360,12 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.5,
+        "allSessionRanking": 17.3,
         "tutorSessionRanking": 37.5
       },
       "feedbackQuality": {
         "rating": 5,
-        "allSessionRanking": 74.8,
+        "allSessionRanking": 75.0,
         "tutorSessionRanking": 75.0,
         "positiveFeedback": 12.5,
         "neutralFeedback": 79.61,

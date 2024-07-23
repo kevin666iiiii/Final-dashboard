@@ -11,15 +11,15 @@
     "aiSummary": "During the one-on-one tutoring session, the tutor and student discussed a range of topics including international studies, language selection, acceptance into the Croft Institute, Spanish language comparison, study abroad plans in Mexico and Spain, Baylor University scholarship, math and theology final exam preparation, and symmetry in graphs. The student's expectations were met as they celebrated their acceptance into the Croft Institute, received guidance on study abroad, clarified confusion about a Baylor University email, and discussed language choices for international studies. There were no periods of low interaction between the tutor and student during the session.",
     "desiredOutcome": "Student's expectations: Celebrating acceptance into Croft Institute, seeking guidance on study abroad, confused about Baylor University email, discussing language choice for international studies.\n\nExpectations addressed: Congratulations acknowledged, study abroad discussed, Baylor email clarified, language choice discussed.",
     "activities": [
-      "International Studies and Language Selection",
-      "Acceptance into Croft Institute of International Studies",
       "Comparison of Spanish in Latin America and Spain",
-      "Study Abroad Plans in Mexico and Spain",
-      "Baylor University Scholarship and Honors College Acceptance",
+      "International Studies and Language Selection",
       "Math Final Preparation",
+      "Identifying Symmetry in Graphs",
       "Theology Final Exam Content",
+      "Study Abroad Plans in Mexico and Spain",
       "Confusion in Math Final Problem Solving",
-      "Identifying Symmetry in Graphs"
+      "Baylor University Scholarship and Honors College Acceptance",
+      "Acceptance into Croft Institute of International Studies"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -270,7 +270,7 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 38.8,
+          "percentile": 38.5,
           "values": [
             0,
             1,
@@ -297,7 +297,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.6,
+          "percentile": 47.1,
           "values": [
             0,
             0,
@@ -324,7 +324,7 @@
         {
           "name": "Feedback Quality",
           "score": 4,
-          "percentile": 32.0,
+          "percentile": 31.7,
           "values": [
             2,
             0,
@@ -380,7 +380,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 38.8,
+        "allSessionRanking": 38.5,
         "tutorSessionRanking": 60.0,
         "correctExplanation": 92.86,
         "incorrectExplanation": 7.14,
@@ -391,12 +391,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.6,
+        "allSessionRanking": 47.1,
         "tutorSessionRanking": 80.0
       },
       "feedbackQuality": {
         "rating": 4,
-        "allSessionRanking": 32.0,
+        "allSessionRanking": 31.7,
         "tutorSessionRanking": 70.0,
         "positiveFeedback": 6.43,
         "neutralFeedback": 83.13,

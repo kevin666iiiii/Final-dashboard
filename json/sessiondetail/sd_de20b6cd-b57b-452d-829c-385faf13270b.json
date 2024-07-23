@@ -13,14 +13,9 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on logarithms, addressing the student's struggles and dislike for the topic. The tutor explained concepts, worked on rewriting expressions, and solving equations. There were periods of low interaction for individual reflection and searching for new questions.",
     "desiredOutcome": "The student's expectation for the session is to work on logarithms, specifically rewriting expressions in logarithmic form and solving logarithmic equations. The student seems to be struggling with the new unit on logarithms and expresses dislike for it. The tutor addresses the student's need by going over examples and explaining concepts related to logarithms. The tutor also asks the student to send over notes from class, indicating a willingness to review additional materials to help the student understand the topic better. Overall, the student's expectations for the session are met as the tutor provides guidance and support in working through logarithmic problems.",
     "activities": [
+      "Logarithmic expressions - calculating the value or explaining why it does not make sense",
       "Logarithms - rewriting in the form log b of x equals l",
       "Logarithms - rewriting in the form base to the power of log equals x",
-      "Logarithmic expressions - calculating the value or explaining why it does not make sense",
-      "Logarithmic expressions - calculating the value or explaining why it does not make sense",
-      "Properties of logs - using rules such as log of one is zero and log of the same number as base is one",
-      "Properties of logs - using rules such as log of one is zero and log of the same number as base is one",
-      "Properties of logs - using rules such as log of one is zero and log of the same number as base is one",
-      "Properties of logs - using rules such as log of one is zero and log of the same number as base is one",
       "Properties of logs - using rules such as log of one is zero and log of the same number as base is one"
     ],
     "interactionTrend": {
@@ -275,7 +270,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.6,
+          "percentile": 47.1,
           "values": [
             0,
             0,
@@ -302,7 +297,7 @@
         {
           "name": "Feedback Quality",
           "score": 3,
-          "percentile": 3.9,
+          "percentile": 3.8,
           "values": [
             3,
             0,
@@ -329,7 +324,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 23.3,
+          "percentile": 24.0,
           "values": [
             0,
             0,
@@ -369,12 +364,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.6,
+        "allSessionRanking": 47.1,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
         "rating": 3,
-        "allSessionRanking": 3.9,
+        "allSessionRanking": 3.8,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 9.79,
         "neutralFeedback": 84.62,
@@ -386,7 +381,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 23.3,
+        "allSessionRanking": 24.0,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           0,

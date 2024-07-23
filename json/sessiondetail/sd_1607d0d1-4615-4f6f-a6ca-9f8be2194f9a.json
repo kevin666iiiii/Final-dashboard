@@ -13,15 +13,15 @@
     "aiSummary": "In a one-on-one tutoring session focused on math concepts related to exponents, the student's goal was to prepare for a midterm exam and improve their grades. The tutor addressed various topics, ensuring the student's understanding. There were moments of low interaction when the student paused for the tutor to respond.",
     "desiredOutcome": "The student's expectation for the session is to receive help with preparing for a math midterm exam. They want to improve their grade and are looking for a tutor who can explain concepts in a way that is easy for them to understand. The student also mentions that they have a 504 plan, which allows for extra time and the use of a calculator during exams. The student's expectation is partially solved as they are able to discuss their previous tutoring experience and share study materials with the tutor. The tutor also reassures the student that they will find a way to explain the material in a way that works for them.",
     "activities": [
-      "Exponents and negative exponents",
       "Simplifying expressions with exponents",
-      "Rules of exponents",
-      "Multiplying and dividing terms with exponents",
       "Reciprocals and negative exponents",
-      "Fractional exponents",
-      "Simplifying expressions with coefficients and exponents",
+      "Exponents and negative exponents",
+      "Multiplying and dividing terms with exponents",
       "Applying rules of exponents to simplify expressions",
-      "Practice with exponents and negative exponents"
+      "Rules of exponents",
+      "Practice with exponents and negative exponents",
+      "Simplifying expressions with coefficients and exponents",
+      "Fractional exponents"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -247,7 +247,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.5,
+          "percentile": 16.3,
           "values": [
             1,
             1,
@@ -274,7 +274,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.5,
+          "percentile": 17.3,
           "values": [
             0,
             0,
@@ -357,7 +357,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.5,
+        "allSessionRanking": 16.3,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 74.07,
         "incorrectExplanation": 25.93,
@@ -368,7 +368,7 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.5,
+        "allSessionRanking": 17.3,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {

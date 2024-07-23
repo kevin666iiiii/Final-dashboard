@@ -13,15 +13,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including constructing a Voronoi diagram using Geogebra, finding slopes, midpoints, and intersections, labeling equations, and rounding numbers. The student's expectation to work on a project involving a Voronoi diagram using Geogebra was met as they discussed loading the picture, maintaining scale, and starting the project.",
     "desiredOutcome": "The student's expectation for the session is to work on a project involving constructing a Vermont diagram using Geogebra with guidance from the tutor. The expectation seems to be met as the tutor and student discuss loading the picture into Geogebra, maintaining the scale, and beginning the project.",
     "activities": [
-      "Constructing a Voronoi diagram using Geogebra",
+      "Snapping points to intersections in Geogebra",
       "Finding the slope of a line by hand and in Geogebra",
-      "Finding the midpoint of a line segment",
-      "Labeling equations and lines in Geogebra",
-      "Rounding numbers to three significant figures",
-      "Using Geogebra tools to find intersections",
       "Creating segments instead of full lines in Geogebra",
+      "Using Geogebra tools to find intersections",
+      "Constructing a Voronoi diagram using Geogebra",
+      "Labeling equations and lines in Geogebra",
       "Using Geogebra to automatically create a Voronoi diagram",
-      "Snapping points to intersections in Geogebra"
+      "Finding the midpoint of a line segment",
+      "Rounding numbers to three significant figures"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -239,7 +239,7 @@
         {
           "name": "Instruction Delivery",
           "score": 7,
-          "percentile": 57.3,
+          "percentile": 56.7,
           "values": [
             0,
             0,
@@ -266,7 +266,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 7,
-          "percentile": 11.7,
+          "percentile": 11.5,
           "values": [
             0,
             0,
@@ -293,7 +293,7 @@
         {
           "name": "Feedback Quality",
           "score": 3,
-          "percentile": 3.9,
+          "percentile": 3.8,
           "values": [
             3,
             2,
@@ -320,7 +320,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 23.3,
+          "percentile": 24.0,
           "values": [
             1,
             1,
@@ -349,7 +349,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 7,
-        "allSessionRanking": 57.3,
+        "allSessionRanking": 56.7,
         "tutorSessionRanking": 80.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -360,12 +360,12 @@
       },
       "techToolUsage": {
         "rating": 7,
-        "allSessionRanking": 11.7,
+        "allSessionRanking": 11.5,
         "tutorSessionRanking": 40.0
       },
       "feedbackQuality": {
         "rating": 3,
-        "allSessionRanking": 3.9,
+        "allSessionRanking": 3.8,
         "tutorSessionRanking": 30.0,
         "positiveFeedback": 5.83,
         "neutralFeedback": 87.73,
@@ -377,7 +377,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 23.3,
+        "allSessionRanking": 24.0,
         "tutorSessionRanking": 50.0,
         "tutorUtterances": [
           -1,

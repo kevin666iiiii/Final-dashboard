@@ -12,14 +12,9 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed topics related to domain and rational functions, addressing the student's struggles with homework due the next day. The tutor engaged the student by providing a refresher on the domain of square roots and suggested problem-solving methods. Periods of silence were observed for individual calculations.",
     "desiredOutcome": "The student's expectation for the session is to work on homework related to domain and rational functions. They mention that they fell asleep during the last class and need help with the homework due the next day. The student seems to be struggling with finding the correct login and expresses frustration about it. The tutor starts by discussing swimming and then transitions to the math topic of domain of square roots. The student confirms that they have covered this topic before in algebra two but need a refresher. The tutor explains the concept and suggests a method for solving the problem. The student seems engaged and willing to learn during the session. Overall, the student's expectation for the session is to receive help with their homework and clarify concepts they may have missed in previous classes, and these expectations are being addressed by the tutor.",
     "activities": [
-      "Domain and range of square root functions",
       "Domain restrictions in rational functions",
-      "Identifying holes and vertical asymptotes in rational functions",
       "Finding holes and vertical asymptotes in rational functions",
-      "Identifying holes and vertical asymptotes in rational functions",
-      "Finding holes and vertical asymptotes in rational functions",
-      "Identifying holes and vertical asymptotes in rational functions",
-      "Finding holes and vertical asymptotes in rational functions",
+      "Domain and range of square root functions",
       "Identifying holes and vertical asymptotes in rational functions"
     ],
     "interactionTrend": {
@@ -306,7 +301,7 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 38.8,
+          "percentile": 38.5,
           "values": [
             0,
             0,
@@ -333,7 +328,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.6,
+          "percentile": 47.1,
           "values": [
             0,
             0,
@@ -360,7 +355,7 @@
         {
           "name": "Feedback Quality",
           "score": 3,
-          "percentile": 3.9,
+          "percentile": 3.8,
           "values": [
             2,
             2,
@@ -416,7 +411,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 38.8,
+        "allSessionRanking": 38.5,
         "tutorSessionRanking": 35.71,
         "correctExplanation": 77.78,
         "incorrectExplanation": 22.22,
@@ -427,12 +422,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.6,
+        "allSessionRanking": 47.1,
         "tutorSessionRanking": 85.71
       },
       "feedbackQuality": {
         "rating": 3,
-        "allSessionRanking": 3.9,
+        "allSessionRanking": 3.8,
         "tutorSessionRanking": 14.29,
         "positiveFeedback": 5.53,
         "neutralFeedback": 87.23,

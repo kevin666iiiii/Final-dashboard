@@ -14,11 +14,10 @@
     "desiredOutcome": "The student's expectation for the session is to go over their math grades, specifically focusing on understanding and correcting mistakes in their homework. They also mention preparing for a quiz and seeking help with upcoming homework. The tutor addresses the student's concerns about grades and emphasizes the importance of understanding the material for long-term learning. The tutor then proceeds to explain a math problem related to rewriting numbers using powers of 64, guiding the student through the process. Overall, the student's expectations for the session are addressed as the tutor helps them with their current math challenges and provides guidance on learning the material effectively.",
     "activities": [
       "Exponential notation and rewriting numbers using powers",
-      "Exponential notation and rewriting numbers using powers",
+      "Understanding square roots and exponentiation",
       "Radical notation and simplifying expressions",
-      "Arithmetic sequences and finding the nth term",
       "Understanding area and square roots",
-      "Understanding square roots and exponentiation"
+      "Arithmetic sequences and finding the nth term"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -220,7 +219,7 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 38.8,
+          "percentile": 38.5,
           "values": [
             0,
             0,
@@ -247,7 +246,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.5,
+          "percentile": 17.3,
           "values": [
             0,
             0,
@@ -274,7 +273,7 @@
         {
           "name": "Feedback Quality",
           "score": 3,
-          "percentile": 3.9,
+          "percentile": 3.8,
           "values": [
             2,
             2,
@@ -301,7 +300,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 64.1,
+          "percentile": 64.4,
           "values": [
             2,
             1,
@@ -330,7 +329,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 38.8,
+        "allSessionRanking": 38.5,
         "tutorSessionRanking": 25.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -341,12 +340,12 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.5,
+        "allSessionRanking": 17.3,
         "tutorSessionRanking": 25.0
       },
       "feedbackQuality": {
         "rating": 3,
-        "allSessionRanking": 3.9,
+        "allSessionRanking": 3.8,
         "tutorSessionRanking": 37.5,
         "positiveFeedback": 10.28,
         "neutralFeedback": 86.92,
@@ -358,7 +357,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 64.1,
+        "allSessionRanking": 64.4,
         "tutorSessionRanking": 93.75,
         "tutorUtterances": [
           6,

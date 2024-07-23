@@ -11,14 +11,14 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed topics such as imaginary numbers, simplifying square roots, using the quadratic formula, and operations with complex numbers. The student's expectation was to review and understand these concepts. Throughout the session, there were periods of low interaction for reflection, silent problem-solving, and processing of concepts.",
     "desiredOutcome": "The student's expectation for the session is to review and understand complex numbers, including imaginary numbers and simplifying square roots. The tutor addresses the student's questions and confusions, helping them understand the concepts.",
     "activities": [
-      "Imaginary Numbers and Simplifying Square Roots",
-      "Using the Quadratic Formula",
       "Adding and Subtracting Complex Numbers",
       "Multiplying Complex Numbers",
-      "Dividing Complex Numbers",
-      "Simplifying Powers of Imaginary Numbers",
       "Multiplying Negative Square Roots",
+      "Simplifying Powers of Imaginary Numbers",
+      "Dividing Complex Numbers",
+      "Using the Quadratic Formula",
       "Scheduling Next Tutoring Session",
+      "Imaginary Numbers and Simplifying Square Roots",
       "Finalizing Next Tutoring Session Date"
     ],
     "interactionTrend": {
@@ -240,7 +240,7 @@
         {
           "name": "Instruction Delivery",
           "score": 9,
-          "percentile": 85.4,
+          "percentile": 84.6,
           "values": [
             0,
             0,
@@ -267,7 +267,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.6,
+          "percentile": 47.1,
           "values": [
             0,
             0,
@@ -294,7 +294,7 @@
         {
           "name": "Feedback Quality",
           "score": 4,
-          "percentile": 32.0,
+          "percentile": 31.7,
           "values": [
             3,
             0,
@@ -321,7 +321,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 64.1,
+          "percentile": 64.4,
           "values": [
             1,
             0,
@@ -350,7 +350,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 9,
-        "allSessionRanking": 85.4,
+        "allSessionRanking": 84.6,
         "tutorSessionRanking": 87.5,
         "correctExplanation": 80.0,
         "incorrectExplanation": 20.0,
@@ -361,12 +361,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.6,
+        "allSessionRanking": 47.1,
         "tutorSessionRanking": 62.5
       },
       "feedbackQuality": {
         "rating": 4,
-        "allSessionRanking": 32.0,
+        "allSessionRanking": 31.7,
         "tutorSessionRanking": 75.0,
         "positiveFeedback": 5.92,
         "neutralFeedback": 88.76,
@@ -378,7 +378,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 64.1,
+        "allSessionRanking": 64.4,
         "tutorSessionRanking": 50.0,
         "tutorUtterances": [
           1,

@@ -15,14 +15,14 @@
     "desiredOutcome": "The student's expectation for the session is to understand diagonalizability, find eigenvectors and eigenvalues, and perform matrix operations accurately. These expectations are partially met as the student successfully identifies eigenvectors and eigenvalues but encounters errors in matrix multiplication.",
     "activities": [
       "Diagonalization of matrices",
-      "Eigenvalues and eigenvectors",
-      "Rank of matrices",
-      "Determining diagonalizability of linear transformations",
-      "Matrix representation of linear transformations",
       "Calculating determinants of matrices",
+      "Geometric multiplicity vs algebraic multiplicity of eigenvalues",
+      "Determining diagonalizability of linear transformations",
+      "Rank of matrices",
       "Row reduction of matrices",
       "Finding null spaces of matrices",
-      "Geometric multiplicity vs algebraic multiplicity of eigenvalues"
+      "Matrix representation of linear transformations",
+      "Eigenvalues and eigenvectors"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -262,7 +262,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.5,
+          "percentile": 17.3,
           "values": [
             2,
             0,
@@ -289,7 +289,7 @@
         {
           "name": "Feedback Quality",
           "score": 5,
-          "percentile": 74.8,
+          "percentile": 75.0,
           "values": [
             0,
             0,
@@ -356,12 +356,12 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.5,
+        "allSessionRanking": 17.3,
         "tutorSessionRanking": 50.0
       },
       "feedbackQuality": {
         "rating": 5,
-        "allSessionRanking": 74.8,
+        "allSessionRanking": 75.0,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 5.88,
         "neutralFeedback": 92.65,

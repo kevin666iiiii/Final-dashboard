@@ -11,11 +11,11 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including long division with polynomials, solving rational expressions, finding LCD for fractions, solving complex fractions, and systems of equations with three variables. The student's expectation was to focus on quadratic rational expressions, which the tutor addressed through examples and explanations. Throughout the session, there were several periods of low interaction where pauses occurred due to reasons such as the student typing out a word problem, searching for another problem, processing complex equations, making calculation errors, struggling to articulate thoughts, and clarifying errors in factoring and simplifying. These pauses allowed both the tutor and student to reflect, think, and clarify their understanding of the math concepts discussed.",
     "desiredOutcome": "The student's expectation for the session was to review long division with polynomials, specifically focusing on solving quadratic rational expressions. The tutor addressed these expectations by going over examples and explaining the concepts.",
     "activities": [
-      "Long division with polynomials",
+      "Systems of equations with three variables",
       "Solving rational expressions",
+      "Long division with polynomials",
       "Finding LCD for fractions",
-      "Solving complex fractions",
-      "Systems of equations with three variables"
+      "Solving complex fractions"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -332,7 +332,7 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 38.8,
+          "percentile": 38.5,
           "values": [
             0,
             0,
@@ -359,7 +359,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.6,
+          "percentile": 47.1,
           "values": [
             0,
             0,
@@ -413,7 +413,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 64.1,
+          "percentile": 64.4,
           "values": [
             2,
             3,
@@ -442,7 +442,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 38.8,
+        "allSessionRanking": 38.5,
         "tutorSessionRanking": 50.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -453,7 +453,7 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.6,
+        "allSessionRanking": 47.1,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
@@ -470,7 +470,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 64.1,
+        "allSessionRanking": 64.4,
         "tutorSessionRanking": 75.0,
         "tutorUtterances": [
           0,

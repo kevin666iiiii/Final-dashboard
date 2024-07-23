@@ -15,15 +15,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including linear modeling, inverse functions, cost analysis, profit calculation, and function evaluation. The student's expectation was to review test questions on these topics, which the tutor addressed by explaining and solving the questions. Throughout the session, there were periods of low interaction due to reasons such as the student searching for questions, technical difficulties with the writing tool, and the tutor being muted.",
     "desiredOutcome": "The student's expectation for the session is to review test questions on linear modeling and inverse functions. The tutor addresses the student's request by explaining and solving the test questions.",
     "activities": [
+      "Rate of change calculation and function evaluation",
+      "Inverse equations in different forms",
+      "Inverse function interpretation and equation solving",
+      "Distance modeling and slope-intercept form",
       "Linear modeling and inverse functions",
       "Cost analysis and profit calculation",
-      "Distance modeling and point-slope form",
-      "Distance modeling and slope-intercept form",
       "One-to-one functions and graphing inverses",
-      "Graphing inverses and identifying one-to-one functions",
-      "Inverse equations in different forms",
-      "Rate of change calculation and function evaluation",
-      "Inverse function interpretation and equation solving"
+      "Distance modeling and point-slope form",
+      "Graphing inverses and identifying one-to-one functions"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -254,7 +254,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 5,
-          "percentile": 3.9,
+          "percentile": 3.8,
           "values": [
             2,
             0,
@@ -281,7 +281,7 @@
         {
           "name": "Feedback Quality",
           "score": 4,
-          "percentile": 32.0,
+          "percentile": 31.7,
           "values": [
             2,
             0,
@@ -348,12 +348,12 @@
       },
       "techToolUsage": {
         "rating": 5,
-        "allSessionRanking": 3.9,
+        "allSessionRanking": 3.8,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
         "rating": 4,
-        "allSessionRanking": 32.0,
+        "allSessionRanking": 31.7,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 2.5,
         "neutralFeedback": 91.67,

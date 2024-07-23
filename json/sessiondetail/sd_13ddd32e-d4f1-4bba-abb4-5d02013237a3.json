@@ -14,14 +14,6 @@
     "aiSummary": "During the one-on-one tutoring session, the tutor and student focused on geometry problems related to rectangles and angles. The student's expectation to understand and complete the homework before lacrosse practice was met as the tutor provided explanations. There were two instances of low interaction due to the student processing questions silently and pausing to sharpen a pencil.",
     "desiredOutcome": "The student's expectation for the session is to work on geometry homework related to rectangles that was assigned over the break. The student wants to understand and complete the homework before their lacrosse practice the next day. The tutor is helping the student with the geometry problems related to rectangles and explaining concepts such as congruent angles and sides in rectangles. The student's expectation for the session seems to be met as the tutor is assisting with the homework and providing explanations for the geometry problems.",
     "activities": [
-      "Rectangles and angles",
-      "Rectangles and angles",
-      "Rectangles and angles",
-      "Rectangles and angles",
-      "Rectangles and angles",
-      "Rectangles and angles",
-      "Rectangles and angles",
-      "Rectangles and angles",
       "Rectangles and angles"
     ],
     "interactionTrend": {
@@ -231,7 +223,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.5,
+          "percentile": 16.3,
           "values": [
             1,
             0,
@@ -258,7 +250,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 7,
-          "percentile": 11.7,
+          "percentile": 11.5,
           "values": [
             0,
             0,
@@ -341,7 +333,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.5,
+        "allSessionRanking": 16.3,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 72.73,
         "incorrectExplanation": 27.27,
@@ -352,7 +344,7 @@
       },
       "techToolUsage": {
         "rating": 7,
-        "allSessionRanking": 11.7,
+        "allSessionRanking": 11.5,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {

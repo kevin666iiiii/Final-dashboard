@@ -13,14 +13,6 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on properties of exponents, addressing the student's missed lesson. The tutor explained rules and worked through examples, with the student showing engagement. Periods of low interaction occurred as both processed responses, dealt with confusion, searched for practice problems, and took time for reflection and clarification.",
     "desiredOutcome": "The student's expectation for the session was to catch up on a missed lesson on properties of exponents. The tutor addressed the topic by explaining the rules and working through examples with the student. The student seemed engaged and responsive to the tutor's explanations.",
     "activities": [
-      "Properties of exponents",
-      "Properties of exponents",
-      "Properties of exponents",
-      "Properties of exponents",
-      "Properties of exponents",
-      "Properties of exponents",
-      "Properties of exponents",
-      "Properties of exponents",
       "Properties of exponents"
     ],
     "interactionTrend": {
@@ -248,7 +240,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.5,
+          "percentile": 16.3,
           "values": [
             0,
             0,
@@ -275,7 +267,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.6,
+          "percentile": 47.1,
           "values": [
             0,
             0,
@@ -302,7 +294,7 @@
         {
           "name": "Feedback Quality",
           "score": 4,
-          "percentile": 32.0,
+          "percentile": 31.7,
           "values": [
             0,
             0,
@@ -329,7 +321,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 23.3,
+          "percentile": 24.0,
           "values": [
             2,
             1,
@@ -358,7 +350,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.5,
+        "allSessionRanking": 16.3,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 80.0,
         "incorrectExplanation": 20.0,
@@ -369,12 +361,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.6,
+        "allSessionRanking": 47.1,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
         "rating": 4,
-        "allSessionRanking": 32.0,
+        "allSessionRanking": 31.7,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 3.09,
         "neutralFeedback": 90.72,
@@ -386,7 +378,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 23.3,
+        "allSessionRanking": 24.0,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           -1,

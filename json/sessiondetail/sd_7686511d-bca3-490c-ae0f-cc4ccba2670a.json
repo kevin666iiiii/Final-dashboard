@@ -14,14 +14,14 @@
     "desiredOutcome": "The student's expectation for the session is to review material for a test the next day, specifically focusing on graphing polynomial functions and determining behavior as x approaches infinity. These expectations are addressed and clarified during the session.",
     "activities": [
       "Graphing polynomial functions with positive and negative leading coefficients",
-      "Symmetry of graphs for even and odd functions",
-      "Multiplicity of zeros in polynomial functions",
       "Behavior of graphs near critical points for even and odd functions",
-      "Maximum number of x-intercepts in a polynomial function",
       "Behavior of graphs for odd degree polynomial functions with negative leading coefficients",
-      "Behavior of graphs for even degree polynomial functions with positive leading coefficients",
+      "Multiplicity of zeros in polynomial functions",
+      "Symmetry of graphs for even and odd functions",
+      "Degree of polynomial functions based on the highest exponent",
+      "Maximum number of x-intercepts in a polynomial function",
       "Correspondence of real zeros to x-intercepts in polynomial functions",
-      "Degree of polynomial functions based on the highest exponent"
+      "Behavior of graphs for even degree polynomial functions with positive leading coefficients"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -230,7 +230,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.5,
+          "percentile": 16.3,
           "values": [
             0,
             1,
@@ -257,7 +257,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.6,
+          "percentile": 47.1,
           "values": [
             0,
             0,
@@ -284,7 +284,7 @@
         {
           "name": "Feedback Quality",
           "score": 4,
-          "percentile": 32.0,
+          "percentile": 31.7,
           "values": [
             3,
             0,
@@ -311,7 +311,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 64.1,
+          "percentile": 64.4,
           "values": [
             0,
             1,
@@ -340,7 +340,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.5,
+        "allSessionRanking": 16.3,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 66.67,
         "incorrectExplanation": 33.33,
@@ -351,12 +351,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.6,
+        "allSessionRanking": 47.1,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
         "rating": 4,
-        "allSessionRanking": 32.0,
+        "allSessionRanking": 31.7,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 5.04,
         "neutralFeedback": 92.81,
@@ -368,7 +368,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 64.1,
+        "allSessionRanking": 64.4,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           3,

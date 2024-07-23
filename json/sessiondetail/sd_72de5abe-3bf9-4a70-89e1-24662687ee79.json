@@ -12,15 +12,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics related to completing the square, including quadratic equations, circles in standard form, and complex numbers. The student's expectation was to practice completing the square, and the tutor guided them through exercises, with moments of low interaction occurring when the student struggled with a math problem.",
     "desiredOutcome": "The student's expectation for the session is to practice completing the square and solve quadratic equations using that method. The tutor addresses this expectation by providing explanations and guiding the student through completing the square exercises. The student seems engaged and understanding the concepts presented.",
     "activities": [
+      "Scheduling future tutoring sessions",
+      "Rationalizing square roots in completing the square",
       "Completing the square for quadratic equations",
+      "Handling complex numbers in completing the square",
       "Completing the square for circles in standard form",
       "Solving quadratic equations with fractions using completing the square",
-      "Understanding imaginary numbers in completing the square",
-      "Rationalizing square roots in completing the square",
       "Applying completing the square to find centers and radii of circles",
-      "Simplifying radicals in completing the square",
-      "Handling complex numbers in completing the square",
-      "Scheduling future tutoring sessions"
+      "Understanding imaginary numbers in completing the square",
+      "Simplifying radicals in completing the square"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -240,7 +240,7 @@
         {
           "name": "Instruction Delivery",
           "score": 4,
-          "percentile": 9.7,
+          "percentile": 9.6,
           "values": [
             0,
             0,
@@ -267,7 +267,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.6,
+          "percentile": 47.1,
           "values": [
             0,
             0,
@@ -294,7 +294,7 @@
         {
           "name": "Feedback Quality",
           "score": 4,
-          "percentile": 32.0,
+          "percentile": 31.7,
           "values": [
             0,
             0,
@@ -321,7 +321,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 23.3,
+          "percentile": 24.0,
           "values": [
             0,
             2,
@@ -350,7 +350,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 4,
-        "allSessionRanking": 9.7,
+        "allSessionRanking": 9.6,
         "tutorSessionRanking": 12.5,
         "correctExplanation": 66.67,
         "incorrectExplanation": 33.33,
@@ -361,12 +361,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.6,
+        "allSessionRanking": 47.1,
         "tutorSessionRanking": 68.75
       },
       "feedbackQuality": {
         "rating": 4,
-        "allSessionRanking": 32.0,
+        "allSessionRanking": 31.7,
         "tutorSessionRanking": 87.5,
         "positiveFeedback": 3.06,
         "neutralFeedback": 94.39,
@@ -378,7 +378,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 23.3,
+        "allSessionRanking": 24.0,
         "tutorSessionRanking": 43.75,
         "tutorUtterances": [
           1,

@@ -14,13 +14,6 @@
     "desiredOutcome": "The student's expectation for the tutoring session is to review and practice factoring problems in algebra. They seem to be seeking clarification and guidance on how to approach factoring when the coefficient is not equal to one. The tutor addresses the student's request by reviewing factoring problems where a equals one and then introducing more complex problems where a does not equal one. The student actively participates in solving the problems and expresses readiness to move on to the next level after demonstrating understanding. Overall, the student's expectations for the session are met as they receive the review and guidance they were seeking in order to progress in their understanding of factoring.",
     "activities": [
       "Factoring when a equals one",
-      "Factoring when a equals one",
-      "Factoring when a equals one",
-      "Factoring when a equals one",
-      "Factoring when a does not equal one using the AC method",
-      "Factoring when a does not equal one using the AC method",
-      "Factoring when a does not equal one using the AC method",
-      "Factoring when a does not equal one using the AC method",
       "Factoring when a does not equal one using the AC method"
     ],
     "interactionTrend": {
@@ -243,7 +236,7 @@
         {
           "name": "Instruction Delivery",
           "score": 8,
-          "percentile": 75.7,
+          "percentile": 75.0,
           "values": [
             3,
             0,
@@ -270,7 +263,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.5,
+          "percentile": 17.3,
           "values": [
             0,
             0,
@@ -297,7 +290,7 @@
         {
           "name": "Feedback Quality",
           "score": 5,
-          "percentile": 74.8,
+          "percentile": 75.0,
           "values": [
             0,
             0,
@@ -324,7 +317,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 23.3,
+          "percentile": 24.0,
           "values": [
             1,
             3,
@@ -353,7 +346,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 8,
-        "allSessionRanking": 75.7,
+        "allSessionRanking": 75.0,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -364,12 +357,12 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.5,
+        "allSessionRanking": 17.3,
         "tutorSessionRanking": 50.0
       },
       "feedbackQuality": {
         "rating": 5,
-        "allSessionRanking": 74.8,
+        "allSessionRanking": 75.0,
         "tutorSessionRanking": 75.0,
         "positiveFeedback": 10.28,
         "neutralFeedback": 85.98,
@@ -381,7 +374,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 23.3,
+        "allSessionRanking": 24.0,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           1,

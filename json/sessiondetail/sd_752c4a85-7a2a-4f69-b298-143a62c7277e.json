@@ -13,15 +13,11 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student delved into topics such as spanning sets, linear combinations, linear independence, basis, subspaces, and matrix row reduction. The student's expectation was to work on offline exercises related to these concepts. During periods of low interaction, both parties engaged in silent contemplation to process and understand the discussed concepts effectively.",
     "desiredOutcome": "The student's expectation for the session is to work on specific offline exercises from chapter two, focusing on proving concepts related to spanning sets and linear independence. These expectations are addressed as the tutor guides the student through the proofs and explanations for the exercises, ensuring understanding and clarity.",
     "activities": [
-      "Spanning sets and linear combinations",
-      "Spanning sets and linear combinations",
       "Linear independence and basis",
-      "Linear independence and basis",
-      "Basis and dimension of subspaces",
+      "Matrix row reduction and basis determination",
       "Basis and dimension of subspaces",
       "Extending bases of subspaces",
-      "Extending bases of subspaces",
-      "Matrix row reduction and basis determination"
+      "Spanning sets and linear combinations"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -270,7 +266,7 @@
         {
           "name": "Instruction Delivery",
           "score": 8,
-          "percentile": 75.7,
+          "percentile": 75.0,
           "values": [
             0,
             0,
@@ -297,7 +293,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.6,
+          "percentile": 47.1,
           "values": [
             0,
             0,
@@ -324,7 +320,7 @@
         {
           "name": "Feedback Quality",
           "score": 3,
-          "percentile": 3.9,
+          "percentile": 3.8,
           "values": [
             0,
             0,
@@ -351,7 +347,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 23.3,
+          "percentile": 24.0,
           "values": [
             1,
             0,
@@ -380,7 +376,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 8,
-        "allSessionRanking": 75.7,
+        "allSessionRanking": 75.0,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -391,12 +387,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.6,
+        "allSessionRanking": 47.1,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
         "rating": 3,
-        "allSessionRanking": 3.9,
+        "allSessionRanking": 3.8,
         "tutorSessionRanking": 50.0,
         "positiveFeedback": 7.69,
         "neutralFeedback": 86.54,
@@ -408,7 +404,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 23.3,
+        "allSessionRanking": 24.0,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           1,

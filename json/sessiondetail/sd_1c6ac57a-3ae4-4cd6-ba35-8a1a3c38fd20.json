@@ -9,15 +9,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including factoring quadratic expressions, identifying the axis of symmetry, and graphing quadratic functions. The student's expectation was to focus on factoring techniques, which the tutor successfully addressed. There were two instances of low interaction due to unclear responses and pauses for clarification and simplification.",
     "desiredOutcome": "The student's expectation for the session seems to be to work on factoring algebraic expressions using techniques like finding the greatest common factor and factoring by grouping. The tutor successfully addressed these expectations by guiding the student through the process and helping them arrive at the correct answers.",
     "activities": [
-      "Factoring quadratic expressions",
-      "Factoring by grouping",
       "Difference of cubes",
-      "Factoring with greatest common factor",
-      "Factoring trinomials",
       "Identifying axis of symmetry",
-      "Graphing quadratic functions",
       "Solving quadratic inequalities",
-      "Using the quadratic formula"
+      "Factoring by grouping",
+      "Factoring with greatest common factor",
+      "Using the quadratic formula",
+      "Graphing quadratic functions",
+      "Factoring quadratic expressions",
+      "Factoring trinomials"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -223,7 +223,7 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 38.8,
+          "percentile": 38.5,
           "values": [
             0,
             0,
@@ -250,7 +250,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.6,
+          "percentile": 47.1,
           "values": [
             0,
             0,
@@ -277,7 +277,7 @@
         {
           "name": "Feedback Quality",
           "score": 5,
-          "percentile": 74.8,
+          "percentile": 75.0,
           "values": [
             0,
             0,
@@ -304,7 +304,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 64.1,
+          "percentile": 64.4,
           "values": [
             0,
             1,
@@ -333,7 +333,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 38.8,
+        "allSessionRanking": 38.5,
         "tutorSessionRanking": 83.33,
         "correctExplanation": 87.5,
         "incorrectExplanation": 12.5,
@@ -344,12 +344,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.6,
+        "allSessionRanking": 47.1,
         "tutorSessionRanking": 83.33
       },
       "feedbackQuality": {
         "rating": 5,
-        "allSessionRanking": 74.8,
+        "allSessionRanking": 75.0,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 3.45,
         "neutralFeedback": 91.38,
@@ -361,7 +361,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 64.1,
+        "allSessionRanking": 64.4,
         "tutorSessionRanking": 83.33,
         "tutorUtterances": [
           0,

@@ -12,14 +12,14 @@
     "aiSummary": "In the one-on-one tutoring session, the student's expectation was to review specific chemistry topics such as ionic character, potential energy curves, and bond dissociation energies. The tutor effectively addressed the student's questions, provided explanations, corrections, and additional materials, meeting the student's expectations for clarification and guidance.",
     "desiredOutcome": "The student's expectation for the session seems to be to go over specific questions related to chemistry, particularly focusing on topics like ionic character, potential energy curves, lattice energy, and bond dissociation energies. The student is looking for clarification on their answers and guidance on how to approach these types of questions. The tutor is addressing the student's questions and providing explanations and corrections where needed. The tutor is also offering to send additional materials and seems willing to help the student understand the concepts better. Overall, the student's expectations for the session are being met as the tutor is actively engaging with the student's questions and providing explanations and guidance.",
     "activities": [
-      "Ionic character in compounds",
       "Bond dissociation energy and lattice energy",
-      "Lattice energy and ionic character",
-      "Alloy hardness and atomic size",
-      "Brittleness in ionic crystals",
-      "Potential energy in a system of two atoms",
       "Alloy composition and resistance to rust",
+      "Potential energy in a system of two atoms",
+      "Alloy hardness and atomic size",
+      "Lattice energy and ionic character",
+      "Ionic character in compounds",
       "Steel composition and prevention of rust",
+      "Brittleness in ionic crystals",
       "Bond order and molecular geometry"
     ],
     "interactionTrend": {
@@ -256,7 +256,7 @@
         {
           "name": "Instruction Delivery",
           "score": 9,
-          "percentile": 85.4,
+          "percentile": 84.6,
           "values": [
             1,
             0,
@@ -283,7 +283,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 5,
-          "percentile": 3.9,
+          "percentile": 3.8,
           "values": [
             0,
             2,
@@ -310,7 +310,7 @@
         {
           "name": "Feedback Quality",
           "score": 4,
-          "percentile": 32.0,
+          "percentile": 31.7,
           "values": [
             0,
             0,
@@ -337,7 +337,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 23.3,
+          "percentile": 24.0,
           "values": [
             1,
             1,
@@ -366,7 +366,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 9,
-        "allSessionRanking": 85.4,
+        "allSessionRanking": 84.6,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -377,12 +377,12 @@
       },
       "techToolUsage": {
         "rating": 5,
-        "allSessionRanking": 3.9,
+        "allSessionRanking": 3.8,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
         "rating": 4,
-        "allSessionRanking": 32.0,
+        "allSessionRanking": 31.7,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 1.64,
         "neutralFeedback": 96.17,
@@ -394,7 +394,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 23.3,
+        "allSessionRanking": 24.0,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           0,

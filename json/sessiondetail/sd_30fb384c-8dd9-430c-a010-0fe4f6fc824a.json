@@ -12,15 +12,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including solving inequalities with quadratic equations, creating number lines, and finding inverse functions. The student's expectation was to learn how to solve such inequalities, which the tutor successfully addressed by explaining concepts and providing guidance. During low interaction periods, both parties engaged in silent moments to allow for independent thinking, processing information, and overcoming hesitations.",
     "desiredOutcome": "The student's expectation for the session is to learn how to solve inequalities involving quadratic equations. The tutor successfully addresses the student's expectation by explaining how to factor and solve the inequalities, as well as how to check solutions using a number line.",
     "activities": [
-      "Solving inequalities with quadratic equations",
-      "Creating number line and checking points for inequalities",
+      "Scheduling tutoring sessions",
       "Interval notation for inequality solutions",
       "Multiplying functions and composition of functions",
-      "Finding the inverse of functions",
-      "Interchanging x and y for inverse functions",
       "Solving equations for inverse functions",
       "Graphing inverse functions",
-      "Scheduling tutoring sessions"
+      "Solving inequalities with quadratic equations",
+      "Creating number line and checking points for inequalities",
+      "Interchanging x and y for inverse functions",
+      "Finding the inverse of functions"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -243,7 +243,7 @@
         {
           "name": "Instruction Delivery",
           "score": 8,
-          "percentile": 75.7,
+          "percentile": 75.0,
           "values": [
             0,
             0,
@@ -270,7 +270,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.6,
+          "percentile": 47.1,
           "values": [
             0,
             0,
@@ -297,7 +297,7 @@
         {
           "name": "Feedback Quality",
           "score": 4,
-          "percentile": 32.0,
+          "percentile": 31.7,
           "values": [
             0,
             0,
@@ -324,7 +324,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 64.1,
+          "percentile": 64.4,
           "values": [
             1,
             2,
@@ -353,7 +353,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 8,
-        "allSessionRanking": 75.7,
+        "allSessionRanking": 75.0,
         "tutorSessionRanking": 50.0,
         "correctExplanation": 75.0,
         "incorrectExplanation": 25.0,
@@ -364,12 +364,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.6,
+        "allSessionRanking": 47.1,
         "tutorSessionRanking": 62.5
       },
       "feedbackQuality": {
         "rating": 4,
-        "allSessionRanking": 32.0,
+        "allSessionRanking": 31.7,
         "tutorSessionRanking": 75.0,
         "positiveFeedback": 9.95,
         "neutralFeedback": 82.09,
@@ -381,7 +381,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 64.1,
+        "allSessionRanking": 64.4,
         "tutorSessionRanking": 50.0,
         "tutorUtterances": [
           0,

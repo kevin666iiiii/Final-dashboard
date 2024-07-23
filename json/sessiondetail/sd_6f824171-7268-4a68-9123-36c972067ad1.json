@@ -13,15 +13,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on essential geometry concepts, clarifying terms, and working on practice problems related to circles and arcs. Periods of low interaction occurred due to technical difficulties with screen sharing and to allow time for individual processing and understanding.",
     "desiredOutcome": "Based on the transcript, the student's expectations for the session seem to be:\n\n1. Reviewing and clarifying concepts related to geometry, specifically focusing on essential geometric terms and concepts.\n2. Addressing specific questions or confusions the student had, such as understanding bisector midpoint vertex on a diagram.\n3. Working on practice problems related to geometry, such as identifying portions of a circle and understanding arcs.\n4. Potentially reviewing and discussing the student's work on a Delta Math assignment.\n\nIt appears that the tutor is addressing the student's expectations by reviewing essential geometric terms and concepts, discussing specific questions about bisector midpoint vertex, and working on practice problems related to circles and arcs. The tutor also mentions potentially reviewing the Delta Math assignment after completing the current session.",
     "activities": [
-      "Geometry - Bisectors and Midpoints",
-      "Geometry - Arcs in Circles",
-      "Geometry - Perpendicular Relationships",
-      "Geometry - Complementary and Supplementary Angles",
-      "Geometry - Properties of Perpendicular Lines",
-      "Geometry - Equilateral and Isosceles Triangles",
       "Geometry - Triangle Construction",
+      "Geometry - Compass and Straight Edge Construction",
+      "Geometry - Bisectors and Midpoints",
+      "Geometry - Complementary and Supplementary Angles",
+      "Geometry - Arcs in Circles",
       "Geometry - Triangle Congruence",
-      "Geometry - Compass and Straight Edge Construction"
+      "Geometry - Equilateral and Isosceles Triangles",
+      "Geometry - Properties of Perpendicular Lines",
+      "Geometry - Perpendicular Relationships"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -293,7 +293,7 @@
         {
           "name": "Instruction Delivery",
           "score": 7,
-          "percentile": 57.3,
+          "percentile": 56.7,
           "values": [
             0,
             0,
@@ -320,7 +320,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.5,
+          "percentile": 17.3,
           "values": [
             0,
             0,
@@ -347,7 +347,7 @@
         {
           "name": "Feedback Quality",
           "score": 6,
-          "percentile": 93.2,
+          "percentile": 93.3,
           "values": [
             0,
             3,
@@ -374,7 +374,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 23.3,
+          "percentile": 24.0,
           "values": [
             0,
             0,
@@ -403,7 +403,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 7,
-        "allSessionRanking": 57.3,
+        "allSessionRanking": 56.7,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
@@ -414,12 +414,12 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.5,
+        "allSessionRanking": 17.3,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
         "rating": 6,
-        "allSessionRanking": 93.2,
+        "allSessionRanking": 93.3,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 3.43,
         "neutralFeedback": 93.63,
@@ -431,7 +431,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 23.3,
+        "allSessionRanking": 24.0,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           1,

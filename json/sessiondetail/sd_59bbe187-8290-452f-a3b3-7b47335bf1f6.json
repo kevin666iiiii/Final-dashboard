@@ -11,15 +11,8 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on pre-calculus topics, specifically exponential and logarithmic equations. The student's expectation of working on these problems and receiving guidance was met. They also engaged in casual conversation, although there were moments of low interaction when the student struggled with calculations, leading to confusion and silence.",
     "desiredOutcome": "The student's expectation for the session seems to be to work on pre-calculus problems and receive guidance on solving equations. The student also seems to enjoy discussing unrelated topics and sharing personal anecdotes with the tutor. The tutor is providing assistance with solving equations and engaging in casual conversation with the student. The student's expectation of working on pre-calculus problems is being met, and the tutor is providing guidance and support in solving the equations.",
     "activities": [
-      "Pre-calculus - Exponential Equations",
-      "Pre-calculus - Exponential Equations",
       "Pre-calculus - Logarithmic Equations",
-      "Pre-calculus - Logarithmic Equations",
-      "Pre-calculus - Logarithmic Equations",
-      "Pre-calculus - Logarithmic Equations",
-      "Pre-calculus - Logarithmic Equations",
-      "Pre-calculus - Logarithmic Equations",
-      "Pre-calculus - Logarithmic Equations"
+      "Pre-calculus - Exponential Equations"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -245,7 +238,7 @@
         {
           "name": "Instruction Delivery",
           "score": 7,
-          "percentile": 57.3,
+          "percentile": 56.7,
           "values": [
             2,
             2,
@@ -272,7 +265,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.6,
+          "percentile": 47.1,
           "values": [
             0,
             0,
@@ -299,7 +292,7 @@
         {
           "name": "Feedback Quality",
           "score": 5,
-          "percentile": 74.8,
+          "percentile": 75.0,
           "values": [
             0,
             3,
@@ -326,7 +319,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 23.3,
+          "percentile": 24.0,
           "values": [
             3,
             2,
@@ -355,7 +348,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 7,
-        "allSessionRanking": 57.3,
+        "allSessionRanking": 56.7,
         "tutorSessionRanking": 100.0,
         "correctExplanation": 50.0,
         "incorrectExplanation": 50.0,
@@ -366,12 +359,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.6,
+        "allSessionRanking": 47.1,
         "tutorSessionRanking": 75.0
       },
       "feedbackQuality": {
         "rating": 5,
-        "allSessionRanking": 74.8,
+        "allSessionRanking": 75.0,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 13.21,
         "neutralFeedback": 81.13,
@@ -383,7 +376,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 23.3,
+        "allSessionRanking": 24.0,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           1,

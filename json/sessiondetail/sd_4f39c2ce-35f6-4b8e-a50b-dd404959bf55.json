@@ -13,15 +13,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed special right triangles, trigonometric functions, the unit circle, and solving problems using trigonometry. The student's expectation was to learn about these topics, and the tutor addressed this by explaining concepts and relationships in special right triangles. Periods of low interaction occurred for various reasons, including allowing time for independent thinking, waiting for each other to speak, and pausing to process information.",
     "desiredOutcome": "The student's expectation for the session is to learn about special right triangles and trigonometry, specifically focusing on solving problems using trigonometric functions. The tutor addresses the student's expectation by explaining the concepts of trigonometry and how to find relationships between angle measurements and side lengths in special right triangles.",
     "activities": [
-      "Special right triangles and their angles",
-      "Trigonometric functions (sine, cosine, tangent)",
-      "Unit circle and its relationship to trigonometric functions",
-      "Special values for sine and cosine of common angles (30, 45, 60 degrees)",
-      "Using trigonometric functions to find side lengths in right triangles",
-      "Memorization technique for special values of sine and cosine",
       "Solving for missing side lengths using trigonometric functions",
+      "Using trigonometric functions to find side lengths in right triangles",
+      "Understanding the significance of special values in trigonometry",
+      "Unit circle and its relationship to trigonometric functions",
+      "Trigonometric functions (sine, cosine, tangent)",
+      "Memorization technique for special values of sine and cosine",
       "Application of trigonometry in finding side lengths in triangles",
-      "Understanding the significance of special values in trigonometry"
+      "Special right triangles and their angles",
+      "Special values for sine and cosine of common angles (30, 45, 60 degrees)"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -275,7 +275,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.6,
+          "percentile": 47.1,
           "values": [
             0,
             0,
@@ -302,7 +302,7 @@
         {
           "name": "Feedback Quality",
           "score": 4,
-          "percentile": 32.0,
+          "percentile": 31.7,
           "values": [
             2,
             0,
@@ -329,7 +329,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 64.1,
+          "percentile": 64.4,
           "values": [
             0,
             2,
@@ -369,12 +369,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.6,
+        "allSessionRanking": 47.1,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
         "rating": 4,
-        "allSessionRanking": 32.0,
+        "allSessionRanking": 31.7,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 6.72,
         "neutralFeedback": 89.08,
@@ -386,7 +386,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 64.1,
+        "allSessionRanking": 64.4,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           0,

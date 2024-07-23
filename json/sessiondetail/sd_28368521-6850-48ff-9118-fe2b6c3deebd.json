@@ -11,8 +11,8 @@
     "activities": [
       "Exponent rules and simplifying expressions with exponents",
       "Adding and subtracting polynomials",
-      "Simplifying expressions with radicals and perfect squares",
-      "Simplifying expressions with cube roots and perfect cubes"
+      "Simplifying expressions with cube roots and perfect cubes",
+      "Simplifying expressions with radicals and perfect squares"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -245,7 +245,7 @@
         {
           "name": "Instruction Delivery",
           "score": 8,
-          "percentile": 75.7,
+          "percentile": 75.0,
           "values": [
             2,
             3,
@@ -272,7 +272,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 46.6,
+          "percentile": 47.1,
           "values": [
             0,
             0,
@@ -299,7 +299,7 @@
         {
           "name": "Feedback Quality",
           "score": 6,
-          "percentile": 93.2,
+          "percentile": 93.3,
           "values": [
             0,
             0,
@@ -326,7 +326,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 6,
-          "percentile": 88.3,
+          "percentile": 88.5,
           "values": [
             2,
             1,
@@ -355,7 +355,7 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 8,
-        "allSessionRanking": 75.7,
+        "allSessionRanking": 75.0,
         "tutorSessionRanking": 83.33,
         "correctExplanation": 75.0,
         "incorrectExplanation": 25.0,
@@ -366,12 +366,12 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 46.6,
+        "allSessionRanking": 47.1,
         "tutorSessionRanking": 83.33
       },
       "feedbackQuality": {
         "rating": 6,
-        "allSessionRanking": 93.2,
+        "allSessionRanking": 93.3,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 7.74,
         "neutralFeedback": 88.1,
@@ -383,7 +383,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 6,
-        "allSessionRanking": 88.3,
+        "allSessionRanking": 88.5,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           2,

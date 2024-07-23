@@ -15,13 +15,6 @@
     "desiredOutcome": "The student's expectation for the session is to review and understand concepts related to angular speed, linear speed, and arc length for an upcoming quiz. They mention that they don't understand the material and express a need for clarification and explanation. The student also mentions that they have already attempted some homework problems but still need help understanding them. The student is looking for guidance in understanding the formulas and concepts related to linear speed, specifically how to calculate it using the formula involving radius and angular speed. The student is proactive in sharing their screen and homework assignment to seek assistance from the tutor. The tutor's explanation and guidance are crucial for the student to grasp the concepts and solve the homework problems effectively.",
     "activities": [
       "Angular speed, linear speed, arc length",
-      "Angular speed, linear speed",
-      "Angular speed, linear speed",
-      "Angular speed, linear speed",
-      "Angular speed, linear speed",
-      "Angular speed, linear speed",
-      "Angular speed, linear speed",
-      "Angular speed, linear speed",
       "Angular speed, linear speed"
     ],
     "interactionTrend": {
@@ -270,7 +263,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.5,
+          "percentile": 17.3,
           "values": [
             0,
             0,
@@ -297,7 +290,7 @@
         {
           "name": "Feedback Quality",
           "score": 5,
-          "percentile": 74.8,
+          "percentile": 75.0,
           "values": [
             0,
             0,
@@ -364,12 +357,12 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.5,
+        "allSessionRanking": 17.3,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
         "rating": 5,
-        "allSessionRanking": 74.8,
+        "allSessionRanking": 75.0,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 4.0,
         "neutralFeedback": 92.8,

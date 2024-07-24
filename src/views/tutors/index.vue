@@ -102,7 +102,7 @@ export default {
   },
   methods: {
     getTableData(){
-      readJSON(`./json/tutorList.json`).then(resp=>{
+      readJSON('/json/tutorList.json').then(resp=>{
         this.tableData = [];
 
         //获取表格数据

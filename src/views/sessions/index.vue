@@ -91,11 +91,13 @@
         </template>
 
         <span slot="riskyAreasTh">
-          <a-tooltip>
+          <a-tooltip overlayClassName="draw_atooltip">
             <template slot="title">
-              Tooltip will show when mouse enter.
+              Tags indicating potential issues in a session,
+              identified when performance on certain key
+            metrics falls below a 30% threshold.
             </template>
-            <span>RiskyAreas</span>
+            <span>Risk Areas</span>
           </a-tooltip>
         </span>
 
@@ -210,7 +212,7 @@ export default {
   },
   methods: {
     getTableData(){
-      readJSON(`./json/sessionList.json`).then(resp=>{
+      readJSON('/json/sessionList.json').then(resp=>{
         this.tableData = [];
 
         //获取表格数据

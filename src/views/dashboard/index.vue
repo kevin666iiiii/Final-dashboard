@@ -118,6 +118,7 @@ export default {
 
   .navigator{
     margin-top: 80px;
+    padding-left: 60px;
   }
 
   .nav-item{
@@ -125,6 +126,7 @@ export default {
     font-size: 20px;
     font-weight: bold;
     color: #9e9ea2;
+    text-align: left;
   }
 
   .nav-item-icon{

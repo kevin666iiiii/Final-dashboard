@@ -39,8 +39,13 @@
       <div class="info-card-avatar">
 <!--        <a-avatar src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png" />-->
 <!--        <a-avatar :size="89" icon="user" />-->
-        <a-avatar v-if="detailInfo.gender === 1" :size="89" src="/imgs/teacher-male.png" />
-        <a-avatar v-if="detailInfo.gender === 2" :size="89" src="/imgs/teacher-female.png" />
+        <span v-if="detailInfo.gender >= 1 && detailInfo.gender <= 2">
+          <a-avatar v-if="detailInfo.gender === 1" :size="89" src="/imgs/teacher-male.png" />
+          <a-avatar v-if="detailInfo.gender === 2" :size="89" src="/imgs/teacher-female.png" />
+        </span>
+        <span v-else>
+          <a-avatar :size="89" icon="user" />
+        </span>
       </div>
 
       <div class="info-card-person">
@@ -71,14 +76,22 @@
     <div class="data-container">
 
       <div class="history-card">
-        <h2>Tracking History</h2>
+
+        <a-tooltip overlayClassName="draw_atooltip" placement="bottom">
+          <template slot="title">
+            List of the tutor's session history with the same student
+          </template>
+          <h2 style="display: inline">Tracking History</h2>
+        </a-tooltip>
+
+
         <a-divider />
 
         <div>
           <strong>Student Name:</strong>
           <a-select default-value="Lucy" style="width: 120px;margin-left: 20px">
-            <a-select-option value="lucy">
-              Lucy
+            <a-select-option value="All">
+              All
             </a-select-option>
           </a-select>
         </div>
@@ -99,7 +112,14 @@
         </div>
       </div>
       <div class="trend-card">
-        <h2>Score Trend</h2>
+
+        <a-tooltip overlayClassName="draw_atooltip" placement="bottom">
+          <template slot="title">
+            The chart below shows the tutor's performance trends over time across different metrics based on multiple past sessions.
+          </template>
+          <h2 style="display: inline">Score Trend</h2>
+        </a-tooltip>
+
         <a-divider />
         <div style="padding: 30px">
           <div id="echartsDom" style="width: 100%; height: 400px;"></div>
@@ -132,7 +152,7 @@ export default {
   methods: {
     loadData() {
       //let jsonPath = '/json/tutordetail/td.json';
-      let jsonPath = `./json/tutordetail/td_${this.tutorId}.json`;
+      let jsonPath = `/json/tutordetail/td_${this.tutorId}.json`;
       readJSON(jsonPath).then(resp=>{
         this.detailInfo = resp.data;
         this.initChart();
@@ -150,7 +170,7 @@ export default {
           data: legendData
         },
         xAxis: {
-          name: 'Time（Minutes）',
+          name: 'Session',
           nameLocation: 'middle',
           nameGap: 40,
           nameTextStyle: {
@@ -162,7 +182,7 @@ export default {
           data: this.detailInfo.scoreTrend.time
         },
         yAxis: {
-          name: 'Number of Utterances',
+          name: 'Score',
           nameLocation: 'middle',
           nameTextStyle: {
             fontWeight:'bold',
@@ -175,25 +195,21 @@ export default {
           {
             name: legendData[0],
             type: 'line',
-            stack: 'Total',
             data: this.detailInfo.scoreTrend.instructionalDelivery
           },
           {
             name: legendData[1],
             type: 'line',
-            stack: 'Total',
             data: this.detailInfo.scoreTrend.techToolUsage
           },
           {
             name: legendData[2],
             type: 'line',
-            stack: 'Total',
             data: this.detailInfo.scoreTrend.feedbackQuality
           },
           {
             name: legendData[3],
             type: 'line',
-            stack: 'Total',
             data: this.detailInfo.scoreTrend.socialEmotionalTeaching
           }
         ]

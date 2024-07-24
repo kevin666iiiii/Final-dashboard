@@ -6,9 +6,15 @@
 
         <div class="form-item-title">
           <div>
-            <strong>
-              Instructional Delivery
-            </strong>
+            <a-tooltip overlayClassName="draw_atooltip">
+              <template slot="title">
+                Assesses how effectively the tutor delivers instructions, including explanations and questions to engage the student.
+              </template>
+              <strong>
+                Instructional Delivery
+              </strong>
+            </a-tooltip>
+
           </div>
           <div>
             <span>0-10</span>
@@ -24,9 +30,15 @@
       <div class="form-item">
         <div class="form-item-title">
           <div>
-            <strong>
-              Technical Issues
-            </strong>
+            <a-tooltip overlayClassName="draw_atooltip">
+              <template slot="title">
+                Measures the duration of technical diffculties experienced by the tutor.
+              </template>
+              <strong>
+                Technical Issues
+              </strong>
+            </a-tooltip>
+
           </div>
           <div>
             <span>0-10</span>
@@ -42,9 +54,14 @@
       <div class="form-item">
         <div class="form-item-title">
           <div>
-            <strong>
-              Feedback Quality
-            </strong>
+            <a-tooltip overlayClassName="draw_atooltip">
+              <template slot="title">
+                Measures the tone and effectiveness of the feedback provided by the tutor, including both postive and negative feedback.
+              </template>
+              <strong>
+                Feedback Quality
+              </strong>
+            </a-tooltip>
           </div>
           <div>
             <span>0-10</span>
@@ -60,9 +77,14 @@
       <div class="form-item">
         <div class="form-item-title">
           <div>
-            <strong>
-              Socio-Emotional Teaching
-            </strong>
+            <a-tooltip overlayClassName="draw_atooltip">
+              <template slot="title">
+                Assesses how well the tutor supports and engages students emotionally by analyzing the tone and sentiment of interactions.
+              </template>
+              <strong>
+                Socio-Emotional Teaching
+              </strong>
+            </a-tooltip>
           </div>
           <div>
             <span>0-10</span>
@@ -87,7 +109,7 @@
                 <span class="checkbox-title">Slient Sessions</span>
               </div>
               <div>
-                <span class="checkbox-desc">More than 30% of the time is in silence</span>
+                <span class="checkbox-desc">The top 30th percentile of sessions with long duration of silence</span>
               </div>
             </div>
           </div>
@@ -101,7 +123,7 @@
               <span class="checkbox-title">Student Inactive Sessions</span>
             </div>
             <div>
-              <span class="checkbox-desc">More than 30% of the time is not talking</span>
+              <span class="checkbox-desc">The top 30th percentile of sessions where students' talking is minimal</span>
             </div>
           </div>
         </div>
@@ -115,11 +137,11 @@
               </strong>
             </div>
             <div>
-              <span>0 - 60 mins</span>
+              <span>0 - 90 mins</span>
             </div>
           </div>
           <div>
-            <a-slider range :min="0" :max="60"  v-model="formData.timeRange" />
+            <a-slider range :min="0" :max="90"  v-model="formData.timeRange" />
           </div>
         </div>
 

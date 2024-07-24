@@ -2,7 +2,7 @@
   <div class="content-container">
 
     <div class="content-top">
-      <h1 class="title">Welcome,Administrator!</h1>
+      <h1 class="title">Welcome, Administrator!</h1>
       <a-button type="default"><a-icon type="upload"/>Click to Upload</a-button>
     </div>
 

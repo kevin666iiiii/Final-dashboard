@@ -5,8 +5,8 @@
   "subject": "Algebra 2",
   "date": "2023-10-28",
   "riskyAreas": [
-    "Instru",
-    "tech",
+    "Instruction",
+    "Technology",
     "Emotion",
     "Student Inactive",
     "Short session"
@@ -15,14 +15,14 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including linear modeling, inverse functions, cost analysis, profit calculation, and function evaluation. The student's expectation was to review test questions on these topics, which the tutor addressed by explaining and solving the questions. Throughout the session, there were periods of low interaction due to reasons such as the student searching for questions, technical difficulties with the writing tool, and the tutor being muted.",
     "desiredOutcome": "The student's expectation for the session is to review test questions on linear modeling and inverse functions. The tutor addresses the student's request by explaining and solving the test questions.",
     "activities": [
-      "Linear modeling and inverse functions",
-      "Inverse equations in different forms",
-      "Distance modeling and slope-intercept form",
-      "Inverse function interpretation and equation solving",
-      "Graphing inverses and identifying one-to-one functions",
-      "Distance modeling and point-slope form",
       "One-to-one functions and graphing inverses",
       "Cost analysis and profit calculation",
+      "Graphing inverses and identifying one-to-one functions",
+      "Inverse function interpretation and equation solving",
+      "Distance modeling and slope-intercept form",
+      "Linear modeling and inverse functions",
+      "Distance modeling and point-slope form",
+      "Inverse equations in different forms",
       "Rate of change calculation and function evaluation"
     ],
     "interactionTrend": {
@@ -281,7 +281,7 @@
         {
           "name": "Feedback Quality",
           "score": 7,
-          "percentile": 50.0,
+          "percentile": 49.0,
           "values": [
             2,
             0,
@@ -353,7 +353,7 @@
       },
       "feedbackQuality": {
         "rating": 7,
-        "allSessionRanking": 50.0,
+        "allSessionRanking": 49.0,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 2.5,
         "neutralFeedback": 91.67,

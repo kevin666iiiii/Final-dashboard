@@ -12,14 +12,14 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on physics topics related to mass, weight, displacement, and projectile motion in preparation for a final exam. The tutor provided explanations and guidance to help the student understand key concepts and improve problem-solving skills. Periods of low interaction allowed for reflection and independent work.",
     "desiredOutcome": "Based on the transcript, the student's expectation for the session seems to be focused on preparing for a physics final exam. The student is working on physics problems related to mass, weight, gravity, acceleration, displacement, and projectile motion. The student is seeking clarification and understanding on these topics to improve their knowledge and problem-solving skills for the upcoming exam.\n\nThroughout the session, the tutor addresses the student's questions and provides explanations and guidance on the physics concepts being discussed. The tutor helps the student understand the relationship between mass and weight, the calculation of weight in different gravitational environments, displacement formulas, and the parabolic path of a projectile. The tutor also assists the student in solving specific physics problems related to velocity and acceleration.\n\nOverall, the student's expectations for the session appear to be met as the tutor is helping them review and understand key physics concepts and practice solving problems that are likely to be on the final exam. The tutor's explanations and guidance seem to be helping the student improve their understanding and problem-solving skills in preparation for the exam.",
     "activities": [
-      "Mass and weight relationship in physics",
-      "Velocity components and direction in projectile motion",
-      "Isolating variables in trigonometric equations for calculation",
-      "Trigonometry application in physics for velocity components",
-      "Calculating velocity components using trigonometric functions",
       "Application of trigonometry in physics for velocity components",
-      "Projectile motion and parabolic path",
+      "Trigonometry application in physics for velocity components",
+      "Velocity components and direction in projectile motion",
       "Displacement formula and final position representation",
+      "Projectile motion and parabolic path",
+      "Mass and weight relationship in physics",
+      "Isolating variables in trigonometric equations for calculation",
+      "Calculating velocity components using trigonometric functions",
       "Net force calculation and acceleration determination"
     ],
     "interactionTrend": {
@@ -230,7 +230,7 @@
         {
           "name": "Feedback Quality",
           "score": 7,
-          "percentile": 50.0,
+          "percentile": 49.0,
           "values": [
             3,
             3,
@@ -302,7 +302,7 @@
       },
       "feedbackQuality": {
         "rating": 7,
-        "allSessionRanking": 50.0,
+        "allSessionRanking": 49.0,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 9.57,
         "neutralFeedback": 89.57,

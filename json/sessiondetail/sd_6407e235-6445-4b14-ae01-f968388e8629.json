@@ -5,8 +5,8 @@
   "subject": "Algebra 2",
   "date": "2024-01-08",
   "riskyAreas": [
-    "Instru",
-    "tech",
+    "Instruction",
+    "Technology",
     "Feedback",
     "Emotion",
     "Silent",
@@ -16,15 +16,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics related to uniform circular motion in physics, addressing specific questions and clarifying concepts. The student's expectation for understanding a particular question was met as the tutor explained formulas, concepts, and emphasized the importance of certain variables. During low interaction periods, both tutor and student engaged in contemplation, reflection, and faced technical issues with sharing questions.",
     "desiredOutcome": "The student's expectation for the session is to receive help with understanding a specific question related to uniform circular motion in physics. The student mentions that they don't understand the formula for the first question and express confusion about certain variables and concepts. The tutor addresses the student's confusion by explaining the formula for final velocity, introducing the concept of angular displacement using theta and omega for angular velocity, and clarifying the use of radians instead of degrees. The tutor also emphasizes the importance of memorizing certain Greek letters for the topic. Overall, the student's expectation for clarification on the physics concept is met during the session.",
     "activities": [
-      "Solving for angular acceleration in a rotational problem",
-      "Calculating angular acceleration",
-      "Calculating angular displacement and revolutions",
-      "Finding average acceleration in circular motion",
-      "Error correction in angular velocity calculation",
-      "Effective radius calculation for rotational motion",
-      "Conversion of units for angular velocity",
       "Application of rotational motion equations",
-      "Uniform circular motion and angular velocity"
+      "Effective radius calculation for rotational motion",
+      "Uniform circular motion and angular velocity",
+      "Conversion of units for angular velocity",
+      "Finding average acceleration in circular motion",
+      "Solving for angular acceleration in a rotational problem",
+      "Error correction in angular velocity calculation",
+      "Calculating angular acceleration",
+      "Calculating angular displacement and revolutions"
     ],
     "interactionTrend": {
       "tutorUtterances": [

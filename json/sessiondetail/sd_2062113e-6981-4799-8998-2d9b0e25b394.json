@@ -13,15 +13,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics related to linear equations. The student's expectation included addressing test results and test-taking anxiety, partially fulfilled by the tutor's inquiry and support. Periods of low interaction occurred due to waiting for topic selection, technical issues, processing information, and formulating responses.",
     "desiredOutcome": "The student's expectation for the session seems to be discussing their recent test results and seeking guidance on test-taking anxiety and strategies for improvement. These expectations are partially addressed as the tutor inquires about the test and offers support for test anxiety.",
     "activities": [
-      "Graphing horizontal and vertical lines",
-      "Understanding standard form of linear equations",
+      "Applying slope-intercept form in graphing",
       "Identifying x and y intercepts",
       "Solving for x and y intercepts",
-      "Identifying slope of horizontal and vertical lines",
-      "Finding x and y intercepts efficiently",
-      "Graphing linear equations",
       "Graphing equations with specific intercepts",
-      "Applying slope-intercept form in graphing"
+      "Identifying slope of horizontal and vertical lines",
+      "Understanding standard form of linear equations",
+      "Graphing horizontal and vertical lines",
+      "Graphing linear equations",
+      "Finding x and y intercepts efficiently"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -347,7 +347,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.5,
+          "percentile": 23.5,
           "values": [
             2,
             3,
@@ -404,7 +404,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.5,
+        "allSessionRanking": 23.5,
         "tutorSessionRanking": 43.75,
         "tutorUtterances": [
           1,

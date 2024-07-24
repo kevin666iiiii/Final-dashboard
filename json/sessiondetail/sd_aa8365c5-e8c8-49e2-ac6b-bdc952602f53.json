@@ -11,15 +11,15 @@
     "aiSummary": "In the one-on-one tutoring session, the student and tutor discussed various topics including transformations of functions, function notation, identifying asymptotes, rational functions, polynomial equations, and complex numbers. The student's expectation was to understand and practice transformations, focusing on function notation and applying transformations correctly. The tutor successfully addressed the student's questions and guided them through the concepts, meeting the student's expectations.",
     "desiredOutcome": "The student's expectation for the session seems to be to understand and practice transformations of functions, specifically focusing on function notation and applying transformations in the correct order. The student is seeking clarification on how to write functions using function notation and wants to ensure they understand the concept by working through different examples. The tutor is addressing the student's questions and guiding them through the process of applying transformations correctly in function notation. Overall, the student's expectations for the session are being met as they are actively engaging with the material and seeking clarification on specific concepts.",
     "activities": [
-      "Scheduling tutoring session for test review",
-      "Transformations of functions, vertical and horizontal dilation",
+      "Using synthetic division to find zeros of polynomials",
       "Solving polynomial equations using rational root theorem and synthetic division",
-      "Function notation, writing functions in terms of parent functions",
-      "Identifying non-real zeros in complex numbers",
-      "Identifying horizontal and vertical asymptotes, holes in graphs",
-      "Finding domain of rational functions, determining continuity",
       "Factoring polynomials using grouping method",
-      "Using synthetic division to find zeros of polynomials"
+      "Finding domain of rational functions, determining continuity",
+      "Identifying non-real zeros in complex numbers",
+      "Transformations of functions, vertical and horizontal dilation",
+      "Function notation, writing functions in terms of parent functions",
+      "Scheduling tutoring session for test review",
+      "Identifying horizontal and vertical asymptotes, holes in graphs"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -288,7 +288,7 @@
         {
           "name": "Feedback Quality",
           "score": 6,
-          "percentile": 27.5,
+          "percentile": 26.5,
           "values": [
             0,
             0,
@@ -360,7 +360,7 @@
       },
       "feedbackQuality": {
         "rating": 6,
-        "allSessionRanking": 27.5,
+        "allSessionRanking": 26.5,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 2.99,
         "neutralFeedback": 91.04,

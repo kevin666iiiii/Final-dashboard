@@ -5,7 +5,7 @@
   "subject": "Algebra 2",
   "date": "2024-01-25",
   "riskyAreas": [
-    "Instru",
+    "Instruction",
     "Emotion",
     "Silent"
   ],
@@ -294,7 +294,7 @@
         {
           "name": "Feedback Quality",
           "score": 7,
-          "percentile": 50.0,
+          "percentile": 49.0,
           "values": [
             0,
             0,
@@ -321,7 +321,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.5,
+          "percentile": 23.5,
           "values": [
             2,
             1,
@@ -366,7 +366,7 @@
       },
       "feedbackQuality": {
         "rating": 7,
-        "allSessionRanking": 50.0,
+        "allSessionRanking": 49.0,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 3.09,
         "neutralFeedback": 90.72,
@@ -378,7 +378,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.5,
+        "allSessionRanking": 23.5,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           -1,

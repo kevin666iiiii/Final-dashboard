@@ -11,15 +11,15 @@
     "aiSummary": "The tutoring session focused on various calculus topics such as finding stationary points, gradients, derivatives, related rates, and integration. The student's initial expectations veered towards non-academic topics, but the tutor redirected the conversation back to calculus questions. There were no specific instances of low interaction between the tutor and student during the session.",
     "desiredOutcome": "The student's expectations for the session seem to be focused on discussing topics unrelated to the academic subject matter, such as daylight saving time, school schedules, and extracurricular activities. The student also mentions sending questions related to calculus for assistance. However, the student's expectations for the session do not seem to align with the tutor's focus on academic content and solving calculus problems. The tutor attempts to redirect the conversation back to the calculus question at the end of the transcript. It appears that the student's expectations for the session are not fully met as they were looking for assistance with calculus questions but ended up discussing other topics.",
     "activities": [
-      "Calculus - Integrating to find volume in relation to time",
+      "Calculus - Finding stationary points of a curve",
       "Calculus - Finding derivatives and second derivatives of a curve equation",
-      "Related rates - Finding the radius of a balloon as it inflates",
       "Calculus - Finding the second derivative of a curve equation",
       "Calculus - Finding derivatives of a curve equation",
       "Related rates - Finding the rate at which the radius of a balloon is increasing",
-      "Calculus - Finding stationary points of a curve",
       "Calculus - Finding the gradient of a curve at given points",
-      "Calculus - Finding the rate at which the radius of a balloon is increasing over time"
+      "Calculus - Finding the rate at which the radius of a balloon is increasing over time",
+      "Calculus - Integrating to find volume in relation to time",
+      "Related rates - Finding the radius of a balloon as it inflates"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -288,7 +288,7 @@
         {
           "name": "Feedback Quality",
           "score": 7,
-          "percentile": 50.0,
+          "percentile": 49.0,
           "values": [
             3,
             3,
@@ -315,7 +315,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.5,
+          "percentile": 23.5,
           "values": [
             3,
             2,
@@ -360,7 +360,7 @@
       },
       "feedbackQuality": {
         "rating": 7,
-        "allSessionRanking": 50.0,
+        "allSessionRanking": 49.0,
         "tutorSessionRanking": 93.75,
         "positiveFeedback": 6.83,
         "neutralFeedback": 88.2,
@@ -372,7 +372,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.5,
+        "allSessionRanking": 23.5,
         "tutorSessionRanking": 43.75,
         "tutorUtterances": [
           1,

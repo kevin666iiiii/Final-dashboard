@@ -5,8 +5,8 @@
   "subject": "Algebra 2",
   "date": "2024-01-02",
   "riskyAreas": [
-    "Instru",
-    "tech",
+    "Instruction",
+    "Technology",
     "Emotion",
     "Silent"
   ],
@@ -14,15 +14,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including solving linear equations, factoring, and understanding slope-intercept form. The student's expectation was to focus on linear equations with infinite solutions, which the tutor helped clarify. There were periods of low interaction for reflection, gathering thoughts, and processing information.",
     "desiredOutcome": "The student's expectation for the session is to practice solving linear equations, specifically focusing on the topic of solving linear equations with infinite solutions. The student also mentions having notes from their teacher and additional problems to work on. The tutor helps the student work through some practice problems and clarifies concepts related to linear equations with infinite solutions. Overall, the student's expectations for the session seem to be met as they receive guidance on the topic they are studying for their upcoming algebra test.",
     "activities": [
-      "Understanding slope-intercept form of a linear equation",
-      "Identifying slope and y-intercept in an equation",
       "Finding the average value of a function",
-      "Factoring",
       "Solving linear equations",
-      "Interpreting graphs of linear functions",
-      "Understanding the concept of functions and inputs/outputs",
+      "Factoring",
+      "Identifying slope and y-intercept in an equation",
       "Applying the point-slope formula",
-      "Finding the midpoint of a line segment"
+      "Understanding the concept of functions and inputs/outputs",
+      "Interpreting graphs of linear functions",
+      "Finding the midpoint of a line segment",
+      "Understanding slope-intercept form of a linear equation"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -304,7 +304,7 @@
         {
           "name": "Feedback Quality",
           "score": 6,
-          "percentile": 27.5,
+          "percentile": 26.5,
           "values": [
             3,
             0,
@@ -376,7 +376,7 @@
       },
       "feedbackQuality": {
         "rating": 6,
-        "allSessionRanking": 27.5,
+        "allSessionRanking": 26.5,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 2.82,
         "neutralFeedback": 91.55,

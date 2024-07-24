@@ -5,7 +5,7 @@
   "subject": "Algebra 2",
   "date": "2024-02-26",
   "riskyAreas": [
-    "tech",
+    "Technology",
     "Feedback",
     "Silent"
   ],
@@ -13,15 +13,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed topics such as the equation of an ellipse, focal points, and circle-related concepts. The student's main focus was on understanding ellipses and the tutor effectively explained the concepts, utilizing visual aids and engaging in dialogue. Periods of low interaction occurred for reflection, processing, and visualization purposes.",
     "desiredOutcome": "The student's expectation for the session is to review and understand how to find the equation of an ellipse. The student seems to have forgotten the equation from the previous session and is seeking clarification on the concepts of a squared and b squared in relation to ellipses. The tutor is guiding the student through understanding the shape of an ellipse compared to a circle and the differences in the distances from the center, helping the student grasp the concept of semi-major and semi-minor axes. The tutor is effectively addressing the student's expectation by providing a visual explanation and engaging in a dialogue to enhance understanding.",
     "activities": [
-      "Solving for a squared and b squared in an ellipse",
-      "Calculating distance between two points",
-      "Constant in an ellipse equation",
       "Equation of an ellipse",
-      "Finding the radius of a circle",
-      "Standard equation of a circle",
-      "Focal points in an ellipse",
+      "Constant in an ellipse equation",
       "Midpoint formula",
-      "Finding the equation of a semicircle"
+      "Finding the equation of a semicircle",
+      "Focal points in an ellipse",
+      "Solving for a squared and b squared in an ellipse",
+      "Standard equation of a circle",
+      "Finding the radius of a circle",
+      "Calculating distance between two points"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -380,7 +380,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.6,
+          "percentile": 18.6,
           "values": [
             0,
             0,
@@ -474,7 +474,7 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.6,
+        "allSessionRanking": 18.6,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {

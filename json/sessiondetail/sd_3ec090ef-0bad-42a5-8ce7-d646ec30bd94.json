@@ -5,7 +5,7 @@
   "subject": "Algebra",
   "date": "2024-02-26",
   "riskyAreas": [
-    "tech",
+    "Technology",
     "Emotion"
   ],
   "sessionGeneral": {
@@ -13,13 +13,13 @@
     "desiredOutcome": "The student's expectation for the session is to learn how to solve rational equations by adding and subtracting rational expressions. These expectations are addressed as the tutor guides the student through examples and explains the process of identifying like terms and adding them based on their degrees.",
     "activities": [
       "Adding and subtracting rational expressions",
-      "Solving rational equations",
-      "Multiplying binomials",
-      "Checking polynomial equations",
+      "Identifying like terms",
       "Creating polynomial equations",
       "Factoring polynomials",
-      "Identifying like terms",
+      "Multiplying binomials",
       "Identifying like terms in polynomials",
+      "Solving rational equations",
+      "Checking polynomial equations",
       "Foiling polynomials"
     ],
     "interactionTrend": {
@@ -292,7 +292,7 @@
         {
           "name": "Feedback Quality",
           "score": 6,
-          "percentile": 27.5,
+          "percentile": 26.5,
           "values": [
             0,
             0,
@@ -319,7 +319,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.5,
+          "percentile": 23.5,
           "values": [
             1,
             1,
@@ -364,7 +364,7 @@
       },
       "feedbackQuality": {
         "rating": 6,
-        "allSessionRanking": 27.5,
+        "allSessionRanking": 26.5,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 2.75,
         "neutralFeedback": 93.58,
@@ -376,7 +376,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.5,
+        "allSessionRanking": 23.5,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           -1,

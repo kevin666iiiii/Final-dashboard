@@ -13,9 +13,9 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on quadratic equations, word problems, systems of equations, and time management. The student aimed to enhance math understanding, reduce errors, and gain confidence before tests. Despite some periods of low interaction for various reasons, the tutor addressed the student's concerns and provided guidance on the topics discussed.",
     "desiredOutcome": "The student's expectation for the session is to improve their understanding and performance in math, specifically focusing on reducing careless errors and becoming more comfortable with the concepts before tests. They also express a need for practice and assistance with nonlinear systems and specific math formulas. The tutor addresses the student's concerns and provides explanations and guidance on the topics discussed. The student's expectations for the session are partially met as they receive clarification on the formula they were confused about and start working on practice problems related to their current math topics.",
     "activities": [
-      "Scheduling and Time Management",
+      "Quadratic Equations and Word Problems",
       "Systems of Equations",
-      "Quadratic Equations and Word Problems"
+      "Scheduling and Time Management"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -405,7 +405,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.5,
+          "percentile": 23.5,
           "values": [
             3,
             2,
@@ -462,7 +462,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.5,
+        "allSessionRanking": 23.5,
         "tutorSessionRanking": 43.75,
         "tutorUtterances": [
           0,

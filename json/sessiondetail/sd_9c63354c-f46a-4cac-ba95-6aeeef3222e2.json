@@ -5,8 +5,8 @@
   "subject": "Algebra 2",
   "date": "2023-11-08",
   "riskyAreas": [
-    "Instru",
-    "tech",
+    "Instruction",
+    "Technology",
     "Silent",
     "Short session"
   ],
@@ -14,15 +14,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including polynomial division, the Remainder Theorem, solving polynomial equations, graphing functions, and quadratic functions. The student's expectation of receiving help with long division problems involving polynomials was met. Periods of low interaction occurred due to the need for clarification, reflection on mistakes, disagreement in answers, and finding additional resources.",
     "desiredOutcome": "The student's expectation for the session was to receive help with long division problems involving polynomials. The student wanted clarification on the process and how to express remainders correctly. These expectations were met as the tutor guided the student through the problems, corrected mistakes, and explained how to format the answers with remainders.",
     "activities": [
-      "Solving for x and y values in quadratic functions",
-      "Analyzing end behavior in polynomial functions",
-      "Long division method for polynomial division",
-      "Solving for variables in polynomial equations",
-      "Understanding end behavior in graphing functions",
-      "Interpreting vertex form of quadratic functions",
-      "Identifying remainders in polynomial division",
       "Applying the Remainder Theorem",
-      "Determining end behavior using positive and negative values"
+      "Interpreting vertex form of quadratic functions",
+      "Long division method for polynomial division",
+      "Analyzing end behavior in polynomial functions",
+      "Understanding end behavior in graphing functions",
+      "Determining end behavior using positive and negative values",
+      "Identifying remainders in polynomial division",
+      "Solving for x and y values in quadratic functions",
+      "Solving for variables in polynomial equations"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -260,7 +260,7 @@
         {
           "name": "Feedback Quality",
           "score": 7,
-          "percentile": 50.0,
+          "percentile": 49.0,
           "values": [
             0,
             0,
@@ -332,7 +332,7 @@
       },
       "feedbackQuality": {
         "rating": 7,
-        "allSessionRanking": 50.0,
+        "allSessionRanking": 49.0,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 7.04,
         "neutralFeedback": 84.51,

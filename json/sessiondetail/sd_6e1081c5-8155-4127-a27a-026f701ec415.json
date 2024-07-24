@@ -5,21 +5,21 @@
   "subject": "Algebra 2",
   "date": "2023-11-08",
   "riskyAreas": [
-    "Instru"
+    "Instruction"
   ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including simplifying radicals, exponent rules, multiplying radicals, combining like terms, factoring, extraneous solutions, quadratic formula, solving equations, and fraction rules. The student's expectation was to simplify and multiply radicals, which the tutor addressed by guiding them through simplifying radicals and combining terms. Throughout the session, there were no periods of low interaction between the tutor and student.",
     "desiredOutcome": "The student's expectation for the session is to simplify radicals and multiply them. The tutor addressed the student's expectation by guiding them through simplifying radicals and combining terms.",
     "activities": [
+      "Combining like terms",
       "Exponent rules",
-      "Solving equations",
+      "Simplifying radicals",
       "Fraction rules",
       "Factoring",
-      "Simplifying radicals",
       "Multiplying radicals",
-      "Extraneous solutions",
-      "Combining like terms",
-      "Quadratic formula"
+      "Quadratic formula",
+      "Solving equations",
+      "Extraneous solutions"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -306,7 +306,7 @@
         {
           "name": "Feedback Quality",
           "score": 8,
-          "percentile": 74.5,
+          "percentile": 73.5,
           "values": [
             3,
             0,
@@ -378,7 +378,7 @@
       },
       "feedbackQuality": {
         "rating": 8,
-        "allSessionRanking": 74.5,
+        "allSessionRanking": 73.5,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 8.12,
         "neutralFeedback": 90.0,

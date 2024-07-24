@@ -5,7 +5,7 @@
   "subject": "Algebra 2",
   "date": "2024-02-12",
   "riskyAreas": [
-    "tech",
+    "Technology",
     "Emotion",
     "Short session"
   ],
@@ -13,14 +13,14 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including alternate interior and exterior angles, supplementary angles, corresponding angles, vertical angles, solving equations with variables, manipulating equations, complementary angles, parallel lines, and angles. The student's expectation of going over worksheets related to classifying angle pairs was met as the tutor guided them through the problems. There was a period of low interaction due to a lack of clear communication, resulting in silence between the tutor and student.",
     "desiredOutcome": "The student's expectation for the session seems to be to go over worksheets related to classifying angle pairs. The tutor is helping the student understand the relationships between different angle pairs and how to classify them correctly. The student's expectation of working on specific worksheets is being met as the tutor guides them through the problems and clarifies any confusion.",
     "activities": [
-      "Complementary Angles",
-      "Review and Recap",
-      "Supplementary Angles",
-      "Solving Equations with Variables",
-      "Alternate Interior and Exterior Angles",
       "Corresponding Angles",
+      "Review and Recap",
       "Parallel Lines and Angles",
+      "Complementary Angles",
+      "Supplementary Angles",
       "Vertical Angles",
+      "Alternate Interior and Exterior Angles",
+      "Solving Equations with Variables",
       "Manipulating Equations to Solve for Variables"
     ],
     "interactionTrend": {
@@ -223,7 +223,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.6,
+          "percentile": 18.6,
           "values": [
             0,
             0,
@@ -250,7 +250,7 @@
         {
           "name": "Feedback Quality",
           "score": 6,
-          "percentile": 27.5,
+          "percentile": 26.5,
           "values": [
             0,
             0,
@@ -277,7 +277,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.5,
+          "percentile": 23.5,
           "values": [
             0,
             1,
@@ -317,12 +317,12 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.6,
+        "allSessionRanking": 18.6,
         "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
         "rating": 6,
-        "allSessionRanking": 27.5,
+        "allSessionRanking": 26.5,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 5.52,
         "neutralFeedback": 85.52,
@@ -334,7 +334,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.5,
+        "allSessionRanking": 23.5,
         "tutorSessionRanking": 75.0,
         "tutorUtterances": [
           1,

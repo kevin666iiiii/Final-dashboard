@@ -5,21 +5,21 @@
   "subject": "Algebra 2",
   "date": "2024-01-23",
   "riskyAreas": [
-    "Instru"
+    "Instruction"
   ],
   "sessionGeneral": {
     "aiSummary": "During the one-on-one tutoring session, the tutor and student engaged in a wide range of topics including weather, New Year's resolutions, math and econ teachers, a book by Khalil Gibran, identities and trigonometry, Taylor Swift and country music, Soviet movies, beauty standards in different cultures, and European male beauty standards. The student's expectation for casual conversation and sharing personal experiences was successfully met.",
     "desiredOutcome": "The student's expectations for the session seem to be casual conversation and sharing personal experiences. These expectations are met.",
     "activities": [
-      "Discussion about Soviet movies and creativity under constraints",
-      "Discussion about European male beauty standards",
-      "Discussion about Taylor Swift and country music",
-      "Discussion about beauty standards in different cultures",
-      "Discussion about a new math teacher and econ teacher",
       "Discussion about a book by Khalil Gibran",
-      "Discussion about identities and trigonometry",
+      "Discussion about Taylor Swift and country music",
+      "Weather and temperature discussion",
       "New Year's resolutions",
-      "Weather and temperature discussion"
+      "Discussion about Soviet movies and creativity under constraints",
+      "Discussion about a new math teacher and econ teacher",
+      "Discussion about identities and trigonometry",
+      "Discussion about beauty standards in different cultures",
+      "Discussion about European male beauty standards"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -297,7 +297,7 @@
         {
           "name": "Feedback Quality",
           "score": 8,
-          "percentile": 74.5,
+          "percentile": 73.5,
           "values": [
             0,
             3,
@@ -369,7 +369,7 @@
       },
       "feedbackQuality": {
         "rating": 8,
-        "allSessionRanking": 74.5,
+        "allSessionRanking": 73.5,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 8.39,
         "neutralFeedback": 80.65,

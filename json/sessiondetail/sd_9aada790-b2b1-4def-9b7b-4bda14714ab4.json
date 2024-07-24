@@ -12,14 +12,14 @@
     "desiredOutcome": "The student's expectation for the session is to review and understand complex numbers, including imaginary numbers and simplifying square roots. The tutor addresses the student's questions and confusions, helping them understand the concepts.",
     "activities": [
       "Using the Quadratic Formula",
-      "Multiplying Negative Square Roots",
-      "Scheduling Next Tutoring Session",
-      "Adding and Subtracting Complex Numbers",
-      "Simplifying Powers of Imaginary Numbers",
-      "Imaginary Numbers and Simplifying Square Roots",
+      "Multiplying Complex Numbers",
       "Finalizing Next Tutoring Session Date",
       "Dividing Complex Numbers",
-      "Multiplying Complex Numbers"
+      "Adding and Subtracting Complex Numbers",
+      "Multiplying Negative Square Roots",
+      "Scheduling Next Tutoring Session",
+      "Simplifying Powers of Imaginary Numbers",
+      "Imaginary Numbers and Simplifying Square Roots"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -294,7 +294,7 @@
         {
           "name": "Feedback Quality",
           "score": 7,
-          "percentile": 50.0,
+          "percentile": 49.0,
           "values": [
             3,
             0,
@@ -366,7 +366,7 @@
       },
       "feedbackQuality": {
         "rating": 7,
-        "allSessionRanking": 50.0,
+        "allSessionRanking": 49.0,
         "tutorSessionRanking": 87.5,
         "positiveFeedback": 5.92,
         "neutralFeedback": 88.76,

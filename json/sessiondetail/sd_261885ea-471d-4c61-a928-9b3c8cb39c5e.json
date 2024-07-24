@@ -5,7 +5,7 @@
   "subject": "Algebra 2",
   "date": "2023-12-26",
   "riskyAreas": [
-    "tech",
+    "Technology",
     "Feedback",
     "Emotion",
     "Student Inactive",
@@ -15,15 +15,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various math problems related to optimization, derivatives, and maximizing/minimizing values. The student's expectation was to understand how to find the maximum product of numbers, seeking clarification on concepts like derivatives. Despite a technical issue causing a period of low interaction, the tutor addressed the student's questions and confusions, helping them gain a better understanding of the math problems.",
     "desiredOutcome": "The student's expectation for the session seems to be to understand and work through math problems related to finding maximum product of numbers. The student also seems to be seeking clarification on certain concepts and methods used in the problems. The tutor addressed the student's questions and confusions, providing explanations and working through examples. The student's expectations for the session were partially met as they gained understanding of the math problems but still had some confusion about certain concepts like derivatives.",
     "activities": [
-      "Working with derivatives in optimization problems",
-      "Applying derivatives in optimization problems",
       "Solving for two numbers whose sum is 60 and their product is a maximum",
-      "Finding the dimensions of a rectangle with a perimeter of 200ft for maximum area",
-      "Exploring minimum and maximum values in optimization problems",
+      "Working with derivatives in optimization problems",
       "Optimizing the sum and product of two positive numbers",
-      "Solving for two positive numbers with a given product and sum for optimization",
       "Creating a rectangular field along the river with minimum amount of fencing",
-      "Finding two positive numbers such that their product is 192 and the sum is a minimum"
+      "Finding two positive numbers such that their product is 192 and the sum is a minimum",
+      "Exploring minimum and maximum values in optimization problems",
+      "Finding the dimensions of a rectangle with a perimeter of 200ft for maximum area",
+      "Solving for two positive numbers with a given product and sum for optimization",
+      "Applying derivatives in optimization problems"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -252,7 +252,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.5,
+          "percentile": 23.5,
           "values": [
             2,
             0,
@@ -309,7 +309,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.5,
+        "allSessionRanking": 23.5,
         "tutorSessionRanking": 75.0,
         "tutorUtterances": [
           0,

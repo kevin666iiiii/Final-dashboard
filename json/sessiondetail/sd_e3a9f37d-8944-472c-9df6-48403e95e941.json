@@ -12,15 +12,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various calculus topics, including finding tangent lines, derivatives of trigonometric functions, and second derivatives. The student's expectations were met as they worked on unit worksheets. Periods of low interaction occurred due to confusion, reevaluation, reflection, and uncertainty in understanding concepts.",
     "desiredOutcome": "The student's expectation for the session is to work on unit worksheets, specifically focusing on finding the equation of a tangent line and derivatives of trigonometric functions. These expectations are met as the tutor guides the student through solving these types of problems.",
     "activities": [
-      "Calculating the second derivative of a function with respect to a variable",
-      "Applying the product rule and chain rule to find the derivative of a trigonometric function",
       "Using the quotient rule to find the derivative of a function involving a logarithm",
       "Finding the equation of the line tangent to a function at a specific point",
       "Determining the second derivative of a function using the quotient rule",
-      "Identifying the graph of the derivative of a given function",
-      "Applying the limit definition to find the derivative of a function at a specific point",
+      "Applying the product rule and chain rule to find the derivative of a trigonometric function",
       "Derivative of cotangent function and applying the chain rule",
-      "Explaining the use of the limit definition in finding the derivative of a function"
+      "Identifying the graph of the derivative of a given function",
+      "Calculating the second derivative of a function with respect to a variable",
+      "Explaining the use of the limit definition in finding the derivative of a function",
+      "Applying the limit definition to find the derivative of a function at a specific point"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -318,7 +318,7 @@
         {
           "name": "Feedback Quality",
           "score": 6,
-          "percentile": 27.5,
+          "percentile": 26.5,
           "values": [
             0,
             0,
@@ -345,7 +345,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.5,
+          "percentile": 23.5,
           "values": [
             1,
             1,
@@ -390,7 +390,7 @@
       },
       "feedbackQuality": {
         "rating": 6,
-        "allSessionRanking": 27.5,
+        "allSessionRanking": 26.5,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 8.18,
         "neutralFeedback": 83.02,
@@ -402,7 +402,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.5,
+        "allSessionRanking": 23.5,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           1,

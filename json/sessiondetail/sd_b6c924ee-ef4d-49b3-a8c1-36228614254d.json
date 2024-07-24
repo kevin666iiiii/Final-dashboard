@@ -13,15 +13,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including casual conversation, Christmas gifts, and the significance of PI in mathematics. The student's expectation was to learn more about PI digits and their relation to circles, which the tutor addressed by explaining PI's concept, use in circle calculations, and the initial digits of PI. Periods of low interaction occurred as the tutor gathered materials, encountered technical issues, processed information, and the student wrote down or struggled to recall PI digits.",
     "desiredOutcome": "The student's expectation for the session is to learn more about PI digits, specifically how the numbers progress and their significance in relation to circles. The tutor addresses the student's expectation by explaining the concept of PI, its use in calculating circle properties, and the initial digits of PI.",
     "activities": [
+      "Introduction and casual conversation",
+      "Introduction to PI and its significance in mathematics",
+      "Explanation of the first few digits of PI",
       "Discussion about Christmas gifts",
+      "Discussion on the infinite nature of PI and its irrationality",
+      "Review and summary of PI concepts",
       "Closure and scheduling for the next session",
       "Recap of the student's weekend",
-      "Discussion on the infinite nature of PI and its irrationality",
-      "Introduction and casual conversation",
-      "Review and summary of PI concepts",
-      "Introduction to PI and its significance in mathematics",
-      "Memorization practice of PI digits",
-      "Explanation of the first few digits of PI"
+      "Memorization practice of PI digits"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -248,7 +248,7 @@
         {
           "name": "Feedback Quality",
           "score": 6,
-          "percentile": 27.5,
+          "percentile": 26.5,
           "values": [
             2,
             3,
@@ -320,7 +320,7 @@
       },
       "feedbackQuality": {
         "rating": 6,
-        "allSessionRanking": 27.5,
+        "allSessionRanking": 26.5,
         "tutorSessionRanking": 33.33,
         "positiveFeedback": 12.22,
         "neutralFeedback": 83.33,

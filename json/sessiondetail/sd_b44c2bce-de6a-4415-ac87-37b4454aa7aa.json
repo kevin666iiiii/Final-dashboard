@@ -5,22 +5,22 @@
   "subject": "Algebra 2",
   "date": "2023-08-23",
   "riskyAreas": [
-    "tech",
+    "Technology",
     "Emotion"
   ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student delved into various topics related to polar coordinates, such as converting between rectangular and polar coordinates, understanding the unit circle, identifying quadrants and angles, graphing polar coordinates, and exploring different types of polar graphs. The student's specific expectation was to grasp how negative radii impact direction in the unit circle, which the tutor addressed through examples and explanations. Throughout the session, there were no periods of low interaction between the tutor and student.",
     "desiredOutcome": "The student's expectation for the session is to understand polar coordinates, specifically how negative radii affect the direction in the unit circle. These expectations are addressed and clarified by the tutor through examples and explanations.",
     "activities": [
-      "Explaining the range of inverse tangent function",
-      "Determining angles in different quadrants for polar coordinates",
-      "Identifying quadrants and angles in polar coordinates",
-      "Converting polar coordinates to rectangular coordinates",
+      "Graphing polar coordinates and understanding polar graphs",
       "Understanding the unit circle and angles in polar coordinates",
-      "Converting rectangular coordinates to polar coordinates",
+      "Identifying quadrants and angles in polar coordinates",
+      "Determining angles in different quadrants for polar coordinates",
       "Exploring different types of polar graphs",
-      "Applying unit circle knowledge to polar coordinates",
-      "Graphing polar coordinates and understanding polar graphs"
+      "Converting rectangular coordinates to polar coordinates",
+      "Explaining the range of inverse tangent function",
+      "Converting polar coordinates to rectangular coordinates",
+      "Applying unit circle knowledge to polar coordinates"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -289,7 +289,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.6,
+          "percentile": 18.6,
           "values": [
             0,
             0,
@@ -316,7 +316,7 @@
         {
           "name": "Feedback Quality",
           "score": 7,
-          "percentile": 50.0,
+          "percentile": 49.0,
           "values": [
             3,
             0,
@@ -343,7 +343,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.5,
+          "percentile": 23.5,
           "values": [
             1,
             1,
@@ -383,12 +383,12 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.6,
+        "allSessionRanking": 18.6,
         "tutorSessionRanking": 33.33
       },
       "feedbackQuality": {
         "rating": 7,
-        "allSessionRanking": 50.0,
+        "allSessionRanking": 49.0,
         "tutorSessionRanking": 66.67,
         "positiveFeedback": 8.39,
         "neutralFeedback": 87.1,
@@ -400,7 +400,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.5,
+        "allSessionRanking": 23.5,
         "tutorSessionRanking": 33.33,
         "tutorUtterances": [
           0,

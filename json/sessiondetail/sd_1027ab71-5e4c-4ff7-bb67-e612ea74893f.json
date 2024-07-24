@@ -5,22 +5,22 @@
   "subject": "Algebra 2",
   "date": "2023-08-20",
   "riskyAreas": [
-    "tech",
+    "Technology",
     "Silent"
   ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed physics formulas related to acceleration, velocity, and displacement, as well as concepts like constant velocity and acceleration. The student's expectation to revise formulas and focus on free fall graphs was met. There were moments of low interaction as both processed information and formulated responses.",
     "desiredOutcome": "The student's expectation for the session is to revise physics formulas, specifically focusing on the equations related to constant acceleration and free fall graphs. The student wants to spend about five minutes going over the formulas before moving on to the topic of free fall graphs. The student also mentions that they usually go to the gym at 5:30, so they appreciate the tutor accommodating a different time for the session. The tutor addresses the student's request by reviewing the formulas and explaining the concepts related to constant acceleration and velocity as functions of time. The tutor also emphasizes the importance of understanding how these equations change over time. Overall, the student's expectations for revising formulas and discussing free fall graphs are met during the session.",
     "activities": [
-      "Physics Formulas - Acceleration, Velocity, Displacement",
-      "Graphing Velocity as a Function of Time",
-      "Understanding Constant Velocity and Acceleration",
-      "Application of Formulas in Graphing",
+      "Understanding Rise over Run and Slope in Graphs",
       "Comparing Graphs to Equations - Slope and Intercept",
-      "Graphing Acceleration as a Function of Time",
       "Interpreting Free Fall Graphs - Velocity and Position",
       "Graphing Position/Displacement as a Function of Time",
-      "Understanding Rise over Run and Slope in Graphs"
+      "Graphing Velocity as a Function of Time",
+      "Application of Formulas in Graphing",
+      "Graphing Acceleration as a Function of Time",
+      "Understanding Constant Velocity and Acceleration",
+      "Physics Formulas - Acceleration, Velocity, Displacement"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -300,7 +300,7 @@
         {
           "name": "Feedback Quality",
           "score": 6,
-          "percentile": 27.5,
+          "percentile": 26.5,
           "values": [
             0,
             0,
@@ -372,7 +372,7 @@
       },
       "feedbackQuality": {
         "rating": 6,
-        "allSessionRanking": 27.5,
+        "allSessionRanking": 26.5,
         "tutorSessionRanking": 50.0,
         "positiveFeedback": 4.02,
         "neutralFeedback": 92.46,

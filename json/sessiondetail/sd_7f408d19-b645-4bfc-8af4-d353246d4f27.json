@@ -5,7 +5,7 @@
   "subject": "Algebra 2",
   "date": "2023-12-05",
   "riskyAreas": [
-    "Instru",
+    "Instruction",
     "Emotion",
     "Short session"
   ],
@@ -13,14 +13,14 @@
     "aiSummary": "During the one-on-one tutoring session, the tutor and student discussed various topics including trigonometric identities, equations, inequalities, and strategies for studying trigonometry. The student's expectation was to review and solve math problems focusing on factoring and solving equations, which the tutor addressed by guiding the student through the problem-solving process.",
     "desiredOutcome": "The student's expectation for the session is to review and solve math problems from a recent test, particularly focusing on factoring and solving equations. These expectations are addressed as the tutor guides the student through the problem-solving process.",
     "activities": [
-      "Solving trigonometric inequalities",
-      "Planning study schedule during break",
-      "Trigonometric identities and equations",
-      "Scheduling future tutoring sessions",
-      "Applying trigonometric identities to solve equations",
-      "Preparing for upcoming study sessions and exams",
       "Understanding the range of sine function",
+      "Planning study schedule during break",
+      "Preparing for upcoming study sessions and exams",
       "Identifying extraneous solutions in trigonometric equations",
+      "Applying trigonometric identities to solve equations",
+      "Scheduling future tutoring sessions",
+      "Solving trigonometric inequalities",
+      "Trigonometric identities and equations",
       "Strategies for creating study notes for trigonometry"
     ],
     "interactionTrend": {
@@ -254,7 +254,7 @@
         {
           "name": "Feedback Quality",
           "score": 7,
-          "percentile": 50.0,
+          "percentile": 49.0,
           "values": [
             0,
             0,
@@ -326,7 +326,7 @@
       },
       "feedbackQuality": {
         "rating": 7,
-        "allSessionRanking": 50.0,
+        "allSessionRanking": 49.0,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 8.33,
         "neutralFeedback": 84.26,

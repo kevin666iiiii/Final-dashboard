@@ -5,8 +5,8 @@
   "subject": "Linear Algebra",
   "date": "2023-11-12",
   "riskyAreas": [
-    "Instru",
-    "tech",
+    "Instruction",
+    "Technology",
     "Emotion",
     "Silent"
   ],
@@ -14,15 +14,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various advanced topics in linear algebra, such as diagonalization of matrices, eigenvalues, eigenvectors, and matrix operations. The student's expectations were partially met as they successfully identified eigenvectors and eigenvalues but faced challenges with matrix multiplication. Throughout the session, there were periods of low interaction where the student likely waited for guidance, experienced confusion over calculations, and needed time to process complex equations.",
     "desiredOutcome": "The student's expectation for the session is to understand diagonalizability, find eigenvectors and eigenvalues, and perform matrix operations accurately. These expectations are partially met as the student successfully identifies eigenvectors and eigenvalues but encounters errors in matrix multiplication.",
     "activities": [
-      "Matrix representation of linear transformations",
-      "Geometric multiplicity vs algebraic multiplicity of eigenvalues",
-      "Calculating determinants of matrices",
-      "Finding null spaces of matrices",
-      "Determining diagonalizability of linear transformations",
+      "Diagonalization of matrices",
       "Eigenvalues and eigenvectors",
+      "Finding null spaces of matrices",
+      "Geometric multiplicity vs algebraic multiplicity of eigenvalues",
       "Rank of matrices",
-      "Row reduction of matrices",
-      "Diagonalization of matrices"
+      "Determining diagonalizability of linear transformations",
+      "Calculating determinants of matrices",
+      "Matrix representation of linear transformations",
+      "Row reduction of matrices"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -262,7 +262,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.6,
+          "percentile": 18.6,
           "values": [
             2,
             0,
@@ -289,7 +289,7 @@
         {
           "name": "Feedback Quality",
           "score": 8,
-          "percentile": 74.5,
+          "percentile": 73.5,
           "values": [
             0,
             0,
@@ -356,12 +356,12 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.6,
+        "allSessionRanking": 18.6,
         "tutorSessionRanking": 50.0
       },
       "feedbackQuality": {
         "rating": 8,
-        "allSessionRanking": 74.5,
+        "allSessionRanking": 73.5,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 5.88,
         "neutralFeedback": 92.65,

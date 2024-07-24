@@ -13,14 +13,14 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics related to linear equations, including definitions, slope, solving equations, patterns, and graphing. The student's expectation was to review and understand linear equations, particularly in the context of word problems. Throughout the session, there were periods of low interaction where both parties paused to gather thoughts, check information, work on problems, or reflect on answers.",
     "desiredOutcome": "The student's expectation for the session is to review and understand linear equations. The student seems to be seeking clarification on how to approach and solve linear equations, particularly in the context of word problems. The tutor is addressing the student's expectation by explaining the concept of linear equations, their representation on a graph, and how to interpret and work with them mathematically. The tutor is also providing examples and explanations to help the student understand the topic better.",
     "activities": [
-      "Linear equations definition and characteristics",
+      "Introduction and casual conversation",
+      "Wrapping up the session and discussing future topics",
       "Exploring linear equations in tables and graphing lines",
+      "Slope and its significance in linear equations",
+      "Identifying patterns in linear equations",
+      "Linear equations definition and characteristics",
       "Practice solving linear equations with given x values",
       "Using the formula Y = mx + b to solve linear equations",
-      "Introduction and casual conversation",
-      "Identifying patterns in linear equations",
-      "Slope and its significance in linear equations",
-      "Wrapping up the session and discussing future topics",
       "Applying linear equations to find y values for given x values"
     ],
     "interactionTrend": {
@@ -239,7 +239,7 @@
         {
           "name": "Feedback Quality",
           "score": 7,
-          "percentile": 50.0,
+          "percentile": 49.0,
           "values": [
             3,
             0,
@@ -311,7 +311,7 @@
       },
       "feedbackQuality": {
         "rating": 7,
-        "allSessionRanking": 50.0,
+        "allSessionRanking": 49.0,
         "tutorSessionRanking": 66.67,
         "positiveFeedback": 8.26,
         "neutralFeedback": 88.99,

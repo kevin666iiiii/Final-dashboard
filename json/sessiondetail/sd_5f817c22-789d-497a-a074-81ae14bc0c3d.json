@@ -5,7 +5,7 @@
   "subject": "Algebra",
   "date": "2024-02-28",
   "riskyAreas": [
-    "Instru",
+    "Instruction",
     "Feedback",
     "Emotion",
     "Short session"
@@ -14,15 +14,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various chemistry topics, focusing on calculating moles and related concepts. The tutor successfully guided the student through solving problems, particularly on potassium iodide. Periods of low interaction occurred for the student to process information, calculate silently, and ensure accurate final answers.",
     "desiredOutcome": "The student's expectation for the session was to receive help with chemistry problems, specifically related to calculating the number of moles. The tutor successfully addressed the student's expectation by guiding them through the process of calculating the number of moles for potassium iodide. The tutor explained the concept of moles, atomic mass, and molar mass, helping the student understand and solve the problem.",
     "activities": [
-      "Calculating moles from mass and atomic mass",
-      "Converting mass to moles using the factor label method",
-      "Calculating moles from grams using molar mass",
-      "Applying logic to calculate total doses for a given lethal dose",
       "Moles and Avogadro's number",
+      "Applying logic to calculate total doses for a given lethal dose",
+      "Determining lethal dose based on weight and dosage",
+      "Calculating molar mass of substances",
+      "Converting mass to moles using the factor label method",
+      "Calculating moles from mass and atomic mass",
       "Determining the element with the greatest mass",
       "Comparing masses of different elements",
-      "Calculating molar mass of substances",
-      "Determining lethal dose based on weight and dosage"
+      "Calculating moles from grams using molar mass"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -256,7 +256,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.5,
+          "percentile": 23.5,
           "values": [
             0,
             1,
@@ -313,7 +313,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.5,
+        "allSessionRanking": 23.5,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           1,

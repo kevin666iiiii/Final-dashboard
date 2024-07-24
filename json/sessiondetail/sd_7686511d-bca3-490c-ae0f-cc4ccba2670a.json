@@ -5,7 +5,7 @@
   "subject": "Algebra 2",
   "date": "2024-03-14",
   "riskyAreas": [
-    "Instru",
+    "Instruction",
     "Student Inactive",
     "Short session"
   ],
@@ -13,15 +13,15 @@
     "aiSummary": "During the one-on-one tutoring session, the tutor and student delved into various topics such as graphing polynomial functions, symmetry of graphs, multiplicity of zeros, and behavior of graphs near critical points. The student's expectation was to review material for an upcoming test, particularly focusing on graphing polynomial functions and behavior as x approaches infinity. Periods of low interaction occurred when the student was searching for test materials and needed time to recall questions, prompting brief pauses in conversation.",
     "desiredOutcome": "The student's expectation for the session is to review material for a test the next day, specifically focusing on graphing polynomial functions and determining behavior as x approaches infinity. These expectations are addressed and clarified during the session.",
     "activities": [
-      "Degree of polynomial functions based on the highest exponent",
-      "Behavior of graphs for odd degree polynomial functions with negative leading coefficients",
-      "Multiplicity of zeros in polynomial functions",
       "Correspondence of real zeros to x-intercepts in polynomial functions",
       "Graphing polynomial functions with positive and negative leading coefficients",
-      "Behavior of graphs near critical points for even and odd functions",
       "Behavior of graphs for even degree polynomial functions with positive leading coefficients",
+      "Maximum number of x-intercepts in a polynomial function",
+      "Multiplicity of zeros in polynomial functions",
       "Symmetry of graphs for even and odd functions",
-      "Maximum number of x-intercepts in a polynomial function"
+      "Behavior of graphs for odd degree polynomial functions with negative leading coefficients",
+      "Behavior of graphs near critical points for even and odd functions",
+      "Degree of polynomial functions based on the highest exponent"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -284,7 +284,7 @@
         {
           "name": "Feedback Quality",
           "score": 7,
-          "percentile": 50.0,
+          "percentile": 49.0,
           "values": [
             3,
             0,
@@ -356,7 +356,7 @@
       },
       "feedbackQuality": {
         "rating": 7,
-        "allSessionRanking": 50.0,
+        "allSessionRanking": 49.0,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 5.04,
         "neutralFeedback": 92.81,

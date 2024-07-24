@@ -5,7 +5,7 @@
   "subject": "Algebra 2",
   "date": "2024-01-23",
   "riskyAreas": [
-    "Instru",
+    "Instruction",
     "Feedback",
     "Emotion"
   ],
@@ -13,14 +13,14 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including exponential and logarithmic functions, graphing functions, finding asymptotes, and solving equations. The student's expectation was to focus on rewriting exponential functions in log form, which the tutor successfully addressed by guiding the student through the conversion process and helping them solve related math problems.",
     "desiredOutcome": "The student's expectation for the session is to work on math problems related to rewriting exponential functions in log form. The tutor addresses this expectation by guiding the student through the process of converting exponential functions to log form. The student also sends a photo of the math problems they want to work on, indicating a specific focus for the session. The tutor successfully helps the student understand the concept and solve the problems.",
     "activities": [
+      "Solving equations for X and understanding linear equations",
+      "Finding horizontal asymptotes and graphing exponential functions",
       "Writing equations for graphs and finding inverses of functions",
       "Understanding logarithmic functions and solving equations",
-      "Finding horizontal asymptotes and graphing exponential functions",
-      "Exponential functions and logarithmic form conversion",
-      "Graphing functions and finding asymptotes",
-      "Solving equations for X and understanding linear equations",
-      "Applying inverse functions and graphing functions",
       "Graphing inverse functions and finding points on graphs",
+      "Graphing functions and finding asymptotes",
+      "Exponential functions and logarithmic form conversion",
+      "Applying inverse functions and graphing functions",
       "Understanding and solving exponential functions"
     ],
     "interactionTrend": {
@@ -293,7 +293,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.5,
+          "percentile": 23.5,
           "values": [
             1,
             0,
@@ -350,7 +350,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.5,
+        "allSessionRanking": 23.5,
         "tutorSessionRanking": 33.33,
         "tutorUtterances": [
           3,

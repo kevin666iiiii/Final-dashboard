@@ -12,12 +12,12 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on graphing parabolas, identifying key features such as vertex and axis of symmetry, understanding transformations of graphs, and writing function rules based on given points. The tutor successfully guided the student through examples, explanations, and step-by-step instructions, leading to active student participation and improvement in graphing skills.",
     "desiredOutcome": "The student's expectation for the session seems to be focused on understanding and applying concepts related to graphing parabolas, including identifying vertex, axis of symmetry, direction of opening, minimum/maximum values, domain, and range. The student also seems interested in learning about transformations of graphs and how coefficients affect the shape of the parabola. The tutor successfully addresses these expectations by guiding the student through various examples, explaining key concepts, and providing step-by-step instructions on how to analyze and graph parabolas. The student actively participates in the session by answering questions and demonstrating understanding of the material. Overall, the session appears to meet the student's expectations by helping them improve their skills in graphing and analyzing parabolas.",
     "activities": [
-      "Graphing parabolas, identifying vertex, determining direction of the graph, understanding axis of symmetry, finding domain and range",
-      "Writing function rules based on transformations of graphs, understanding horizontal stretches and shifts",
-      "Graphing parabolas, identifying minimum and maximum values, determining direction of the graph",
       "Graphing parabolas, identifying vertex, determining direction of the graph, understanding axis of symmetry",
-      "Writing function rules based on vertex points of parabolas, understanding how to construct equations from given points",
-      "Identifying transformations of graphs, understanding horizontal and vertical shifts, reflections, and stretches"
+      "Graphing parabolas, identifying minimum and maximum values, determining direction of the graph",
+      "Writing function rules based on transformations of graphs, understanding horizontal stretches and shifts",
+      "Identifying transformations of graphs, understanding horizontal and vertical shifts, reflections, and stretches",
+      "Graphing parabolas, identifying vertex, determining direction of the graph, understanding axis of symmetry, finding domain and range",
+      "Writing function rules based on vertex points of parabolas, understanding how to construct equations from given points"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -187,7 +187,7 @@
         {
           "name": "Feedback Quality",
           "score": 8,
-          "percentile": 74.5,
+          "percentile": 73.5,
           "values": [
             0,
             0,
@@ -214,7 +214,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.5,
+          "percentile": 23.5,
           "values": [
             0,
             2,
@@ -259,7 +259,7 @@
       },
       "feedbackQuality": {
         "rating": 8,
-        "allSessionRanking": 74.5,
+        "allSessionRanking": 73.5,
         "tutorSessionRanking": 75.0,
         "positiveFeedback": 11.54,
         "neutralFeedback": 80.77,
@@ -271,7 +271,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.5,
+        "allSessionRanking": 23.5,
         "tutorSessionRanking": 75.0,
         "tutorUtterances": [
           2,

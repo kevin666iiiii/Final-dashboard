@@ -5,22 +5,22 @@
   "subject": "Algebra 2",
   "date": "2024-01-28",
   "riskyAreas": [
-    "tech",
+    "Technology",
     "Emotion"
   ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including constructing a Voronoi diagram using Geogebra, finding slopes, midpoints, and intersections, labeling equations, and rounding numbers. The student's expectation to work on a project involving a Voronoi diagram using Geogebra was met as they discussed loading the picture, maintaining scale, and starting the project.",
     "desiredOutcome": "The student's expectation for the session is to work on a project involving constructing a Vermont diagram using Geogebra with guidance from the tutor. The expectation seems to be met as the tutor and student discuss loading the picture into Geogebra, maintaining the scale, and beginning the project.",
     "activities": [
+      "Snapping points to intersections in Geogebra",
+      "Finding the slope of a line by hand and in Geogebra",
+      "Rounding numbers to three significant figures",
+      "Constructing a Voronoi diagram using Geogebra",
       "Creating segments instead of full lines in Geogebra",
       "Using Geogebra to automatically create a Voronoi diagram",
-      "Finding the slope of a line by hand and in Geogebra",
-      "Constructing a Voronoi diagram using Geogebra",
-      "Using Geogebra tools to find intersections",
+      "Finding the midpoint of a line segment",
       "Labeling equations and lines in Geogebra",
-      "Rounding numbers to three significant figures",
-      "Snapping points to intersections in Geogebra",
-      "Finding the midpoint of a line segment"
+      "Using Geogebra tools to find intersections"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -292,7 +292,7 @@
         {
           "name": "Feedback Quality",
           "score": 6,
-          "percentile": 27.5,
+          "percentile": 26.5,
           "values": [
             3,
             2,
@@ -319,7 +319,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.5,
+          "percentile": 23.5,
           "values": [
             1,
             1,
@@ -364,7 +364,7 @@
       },
       "feedbackQuality": {
         "rating": 6,
-        "allSessionRanking": 27.5,
+        "allSessionRanking": 26.5,
         "tutorSessionRanking": 50.0,
         "positiveFeedback": 5.83,
         "neutralFeedback": 87.73,
@@ -376,7 +376,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.5,
+        "allSessionRanking": 23.5,
         "tutorSessionRanking": 50.0,
         "tutorUtterances": [
           -1,

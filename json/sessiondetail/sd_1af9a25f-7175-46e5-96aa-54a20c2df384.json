@@ -13,15 +13,15 @@
     "aiSummary": "In the one-on-one tutoring session, the student's expectations were to learn about simplifying radicals, particularly square roots and cube roots, and to receive ACT exam preparation. The tutor addressed the ACT tutoring request and introduced the concept of simplifying radicals. Periods of low interaction occurred for reflection, processing, and independent thinking during the session.",
     "desiredOutcome": "The student's expectation for the session is to learn how to simplify radicals, specifically square roots and cube roots. They also express interest in receiving tutoring for the ACT exam in the future. The tutor addresses the student's request for ACT tutoring and assures them that they can find materials online. The student's expectation for learning about simplifying radicals is partially met as they are introduced to the concept and given examples to practice.",
     "activities": [
-      "Planning for future tutoring sessions",
-      "Multiplying square roots with numbers",
-      "Perfect squares and simplifying square roots",
-      "ACT preparation",
-      "Simplifying radicals",
       "Identifying perfect squares for simplifying square roots",
+      "Simplifying radicals",
       "Adding and subtracting square roots",
+      "Combining square roots with multiplication",
+      "Planning for future tutoring sessions",
+      "ACT preparation",
       "Simplifying square roots with variables",
-      "Combining square roots with multiplication"
+      "Perfect squares and simplifying square roots",
+      "Multiplying square roots with numbers"
     ],
     "interactionTrend": {
       "tutorUtterances": [

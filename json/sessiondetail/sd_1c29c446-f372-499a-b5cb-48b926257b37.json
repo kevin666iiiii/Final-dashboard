@@ -11,10 +11,10 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including long division with polynomials, solving rational expressions, finding LCD for fractions, solving complex fractions, and systems of equations with three variables. The student's expectation was to focus on quadratic rational expressions, which the tutor addressed through examples and explanations. Throughout the session, there were several periods of low interaction where pauses occurred due to reasons such as the student typing out a word problem, searching for another problem, processing complex equations, making calculation errors, struggling to articulate thoughts, and clarifying errors in factoring and simplifying. These pauses allowed both the tutor and student to reflect, think, and clarify their understanding of the math concepts discussed.",
     "desiredOutcome": "The student's expectation for the session was to review long division with polynomials, specifically focusing on solving quadratic rational expressions. The tutor addressed these expectations by going over examples and explaining the concepts.",
     "activities": [
-      "Long division with polynomials",
-      "Systems of equations with three variables",
       "Solving complex fractions",
       "Solving rational expressions",
+      "Systems of equations with three variables",
+      "Long division with polynomials",
       "Finding LCD for fractions"
     ],
     "interactionTrend": {

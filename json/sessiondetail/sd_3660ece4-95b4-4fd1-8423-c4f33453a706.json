@@ -5,16 +5,16 @@
   "subject": "Algebra 2",
   "date": "2024-03-09",
   "riskyAreas": [
-    "tech",
+    "Technology",
     "Emotion"
   ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the student's expectation was to focus on math problems related to graphing equations and understanding slope. The tutor guided the student through solving questions on linear equations, slope, and graphing lines. There were moments of low interaction as both tutor and student silently contemplated and processed information to solve problems.",
     "desiredOutcome": "The student's expectation for the session seems to be to work on math problems related to graphing equations and understanding slope. The student is actively engaged in discussing and solving the math problem with the tutor, seeking clarification on concepts and steps involved in graphing equations. The student also mentions upcoming travel plans that may affect future tutoring sessions. The tutor is addressing the student's questions and guiding them through the problem-solving process, helping them understand the concepts related to slope and graphing equations. Overall, the student's expectations for the session seem to be met as they are actively participating in solving math problems and seeking clarification on concepts.",
     "activities": [
+      "Calculating time, distance, and speed for two individuals",
       "Solving linear equations and graphing lines",
       "Calculating slope and y-intercept, graphing linear equations",
-      "Calculating time, distance, and speed for two individuals",
       "Determining the equation and slope-intercept form for a linear equation"
     ],
     "interactionTrend": {
@@ -352,7 +352,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.6,
+          "percentile": 18.6,
           "values": [
             0,
             0,
@@ -379,7 +379,7 @@
         {
           "name": "Feedback Quality",
           "score": 8,
-          "percentile": 74.5,
+          "percentile": 73.5,
           "values": [
             2,
             3,
@@ -446,12 +446,12 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.6,
+        "allSessionRanking": 18.6,
         "tutorSessionRanking": 42.86
       },
       "feedbackQuality": {
         "rating": 8,
-        "allSessionRanking": 74.5,
+        "allSessionRanking": 73.5,
         "tutorSessionRanking": 78.57,
         "positiveFeedback": 4.24,
         "neutralFeedback": 91.52,

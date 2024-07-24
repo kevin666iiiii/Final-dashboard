@@ -5,21 +5,21 @@
   "subject": "Algebra 2",
   "date": "2023-11-29",
   "riskyAreas": [
-    "Instru",
+    "Instruction",
     "Emotion"
   ],
   "sessionGeneral": {
     "aiSummary": "During the one-on-one tutoring session, the tutor and student delved into various math topics including the vertex form of a parabola, vertical angles, systems of equations, and quadratic equations. The student's expectation was to review SAT math problems and strategies, focusing on no calculator questions and improving problem-solving efficiency. The tutor addressed these expectations by guiding the student through practice problems, providing shortcuts for quicker solutions, and encouraging a more streamlined approach to problem-solving.",
     "desiredOutcome": "Student's expectation for the session was to review SAT math problems and strategies. The student wanted to focus on no calculator questions and improve efficiency in problem-solving. These expectations were addressed as the tutor guided the student through practice problems, provided shortcuts for quicker solutions, and encouraged a more streamlined approach to problem-solving.",
     "activities": [
-      "Using symmetry to find the vertex of a parabola",
-      "Calculating the y-coordinate of the vertex using the x-coordinate and the given equation",
-      "Determining the distance between x-intercepts and relating it to the vertex of a parabola",
-      "Understanding vertical angles and their properties",
-      "Solving systems of equations to find parallel lines",
-      "Vertex form of a parabola and finding the vertex",
-      "Applying the concept of symmetry to determine the x-coordinate of the vertex",
       "Applying the concept of symmetry and x-intercepts to find the vertex of a parabola",
+      "Using symmetry to find the vertex of a parabola",
+      "Understanding vertical angles and their properties",
+      "Applying the concept of symmetry to determine the x-coordinate of the vertex",
+      "Calculating the y-coordinate of the vertex using the x-coordinate and the given equation",
+      "Solving systems of equations to find parallel lines",
+      "Determining the distance between x-intercepts and relating it to the vertex of a parabola",
+      "Vertex form of a parabola and finding the vertex",
       "Identifying the relationship between zeros and x-intercepts in a quadratic equation"
     ],
     "interactionTrend": {
@@ -295,7 +295,7 @@
         {
           "name": "Feedback Quality",
           "score": 6,
-          "percentile": 27.5,
+          "percentile": 26.5,
           "values": [
             3,
             3,
@@ -322,7 +322,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.5,
+          "percentile": 23.5,
           "values": [
             1,
             0,
@@ -367,7 +367,7 @@
       },
       "feedbackQuality": {
         "rating": 6,
-        "allSessionRanking": 27.5,
+        "allSessionRanking": 26.5,
         "tutorSessionRanking": 50.0,
         "positiveFeedback": 5.08,
         "neutralFeedback": 88.7,
@@ -379,7 +379,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.5,
+        "allSessionRanking": 23.5,
         "tutorSessionRanking": 50.0,
         "tutorUtterances": [
           0,

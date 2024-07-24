@@ -5,21 +5,21 @@
   "subject": "Algebra 2",
   "date": "2023-12-05",
   "riskyAreas": [
-    "Instru"
+    "Instruction"
   ],
   "sessionGeneral": {
     "aiSummary": "During the one-on-one tutoring session, the tutor and student covered various topics including trigonometry, permutations, geometry, algebra, and probability. The student's expectations to review trigonometry concepts, solve combination problems, and find the radius of a cone were successfully met. There were no specific instances of low interaction during the session.",
     "desiredOutcome": "The student's expectations for the session were to review trigonometry concepts, solve math problems involving combinations, and apply formulas to find the radius of a cone. These expectations were met as the tutor guided the student through the trigonometry question, helped with the combinations problem, and corrected a mistake while finding the radius of the cone.",
     "activities": [
       "Algebra - Factoring Quadratic Expressions",
+      "Probability",
       "Geometry - Distance between Points in a Right Triangle",
-      "Geometry - Finding Midpoint of a Line Segment",
       "Trigonometry - Sine, Cosine, and Tangent",
       "Geometry - Circumference and Radius of a Circle",
       "Permutations and Combinations",
-      "Algebra - Finding Slope of a Line",
       "Geometry - Volume of a Cone",
-      "Probability"
+      "Geometry - Finding Midpoint of a Line Segment",
+      "Algebra - Finding Slope of a Line"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -276,7 +276,7 @@
         {
           "name": "Feedback Quality",
           "score": 9,
-          "percentile": 91.2,
+          "percentile": 90.2,
           "values": [
             0,
             0,
@@ -348,7 +348,7 @@
       },
       "feedbackQuality": {
         "rating": 9,
-        "allSessionRanking": 91.2,
+        "allSessionRanking": 90.2,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 5.21,
         "neutralFeedback": 92.71,

@@ -5,7 +5,7 @@
   "subject": "Algebra",
   "date": "2023-10-02",
   "riskyAreas": [
-    "Instru",
+    "Instruction",
     "Emotion",
     "Silent"
   ],
@@ -13,15 +13,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various math topics including intercepts, limits, domains, ranges, and asymptotes. The student's goal was to grasp new concepts and prepare for an upcoming test. The tutor effectively addressed the student's expectations by breaking down complex problems and providing guidance. During one period, there was low interaction due to the tutor's frustration with technology.",
     "desiredOutcome": "The student's expectation for the session is to review and understand piecewise functions and limits in math, particularly focusing on a new concept they haven't covered before. They also mention struggling with some parts of the material and express a desire to prepare for an upcoming test. The tutor helps the student break down the piecewise function and provides guidance on how to approach the problem. The student's expectations for the session are addressed as the tutor assists them in understanding the new concept and offers support for their upcoming test preparation.",
     "activities": [
-      "Determining the range of a rational function with horizontal asymptotes",
-      "Graphing piecewise functions and determining limits",
-      "Finding the domain and range of a quadratic function",
-      "Determining the range of a rational function using graphing calculator",
       "Finding the domain and range of rational functions",
+      "Determining the range of a rational function with horizontal asymptotes",
+      "Solving for x intercepts and y intercepts in a function",
+      "Finding the domain and range of a quadratic function",
+      "Graphing rational functions and identifying vertical asymptotes",
       "Identifying horizontal asymptotes in rational functions",
       "Solving for x intercepts and y intercepts in a rational function",
-      "Graphing rational functions and identifying vertical asymptotes",
-      "Solving for x intercepts and y intercepts in a function"
+      "Graphing piecewise functions and determining limits",
+      "Determining the range of a rational function using graphing calculator"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -322,7 +322,7 @@
         {
           "name": "Feedback Quality",
           "score": 8,
-          "percentile": 74.5,
+          "percentile": 73.5,
           "values": [
             3,
             0,
@@ -349,7 +349,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.5,
+          "percentile": 23.5,
           "values": [
             2,
             1,
@@ -394,7 +394,7 @@
       },
       "feedbackQuality": {
         "rating": 8,
-        "allSessionRanking": 74.5,
+        "allSessionRanking": 73.5,
         "tutorSessionRanking": 100.0,
         "positiveFeedback": 3.36,
         "neutralFeedback": 92.62,
@@ -406,7 +406,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.5,
+        "allSessionRanking": 23.5,
         "tutorSessionRanking": 50.0,
         "tutorUtterances": [
           3,

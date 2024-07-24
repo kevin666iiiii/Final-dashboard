@@ -13,11 +13,11 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student delved into topics such as spanning sets, linear combinations, linear independence, basis, subspaces, and matrix row reduction. The student's expectation was to work on offline exercises related to these concepts. During periods of low interaction, both parties engaged in silent contemplation to process and understand the discussed concepts effectively.",
     "desiredOutcome": "The student's expectation for the session is to work on specific offline exercises from chapter two, focusing on proving concepts related to spanning sets and linear independence. These expectations are addressed as the tutor guides the student through the proofs and explanations for the exercises, ensuring understanding and clarity.",
     "activities": [
-      "Matrix row reduction and basis determination",
+      "Basis and dimension of subspaces",
       "Extending bases of subspaces",
+      "Matrix row reduction and basis determination",
       "Spanning sets and linear combinations",
-      "Linear independence and basis",
-      "Basis and dimension of subspaces"
+      "Linear independence and basis"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -347,7 +347,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.5,
+          "percentile": 23.5,
           "values": [
             1,
             0,
@@ -404,7 +404,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.5,
+        "allSessionRanking": 23.5,
         "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           1,

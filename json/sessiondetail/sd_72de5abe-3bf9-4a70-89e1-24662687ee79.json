@@ -5,22 +5,22 @@
   "subject": "Algebra 2",
   "date": "2023-08-11",
   "riskyAreas": [
-    "Instru",
+    "Instruction",
     "Emotion"
   ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics related to completing the square, including quadratic equations, circles in standard form, and complex numbers. The student's expectation was to practice completing the square, and the tutor guided them through exercises, with moments of low interaction occurring when the student struggled with a math problem.",
     "desiredOutcome": "The student's expectation for the session is to practice completing the square and solve quadratic equations using that method. The tutor addresses this expectation by providing explanations and guiding the student through completing the square exercises. The student seems engaged and understanding the concepts presented.",
     "activities": [
-      "Understanding imaginary numbers in completing the square",
-      "Applying completing the square to find centers and radii of circles",
-      "Completing the square for quadratic equations",
-      "Scheduling future tutoring sessions",
       "Handling complex numbers in completing the square",
-      "Rationalizing square roots in completing the square",
-      "Completing the square for circles in standard form",
       "Simplifying radicals in completing the square",
-      "Solving quadratic equations with fractions using completing the square"
+      "Applying completing the square to find centers and radii of circles",
+      "Scheduling future tutoring sessions",
+      "Completing the square for quadratic equations",
+      "Understanding imaginary numbers in completing the square",
+      "Solving quadratic equations with fractions using completing the square",
+      "Rationalizing square roots in completing the square",
+      "Completing the square for circles in standard form"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -294,7 +294,7 @@
         {
           "name": "Feedback Quality",
           "score": 6,
-          "percentile": 27.5,
+          "percentile": 26.5,
           "values": [
             0,
             0,
@@ -321,7 +321,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.5,
+          "percentile": 23.5,
           "values": [
             0,
             2,
@@ -366,7 +366,7 @@
       },
       "feedbackQuality": {
         "rating": 6,
-        "allSessionRanking": 27.5,
+        "allSessionRanking": 26.5,
         "tutorSessionRanking": 62.5,
         "positiveFeedback": 3.06,
         "neutralFeedback": 94.39,
@@ -378,7 +378,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.5,
+        "allSessionRanking": 23.5,
         "tutorSessionRanking": 43.75,
         "tutorUtterances": [
           1,

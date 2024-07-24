@@ -5,8 +5,8 @@
   "subject": "Algebra 2",
   "date": "2023-11-13",
   "riskyAreas": [
-    "Instru",
-    "tech",
+    "Instruction",
+    "Technology",
     "Feedback",
     "Emotion"
   ],
@@ -14,14 +14,14 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including factoring quadratic equations, imaginary numbers, and solving quadratic equations. The student's expectation to review factoring and address common mistakes was met. There were periods of low interaction due to technical difficulties with the audio connection.",
     "desiredOutcome": "The student's expectation for the session is to review factoring, specifically addressing common mistakes made during factoring problems. This expectation is addressed and corrected by the tutor.",
     "activities": [
-      "Quadratic formula and quadratics circuit",
+      "Solving quadratic equations using the quadratic formula",
       "Solving quadratic equations by factoring",
-      "Review practice for complex numbers",
       "Difference between squared and doubled numbers",
       "Simplifying radicals",
-      "Factoring quadratic equations",
+      "Quadratic formula and quadratics circuit",
       "Solving quadratics by tables and graphs",
-      "Solving quadratic equations using the quadratic formula",
+      "Review practice for complex numbers",
+      "Factoring quadratic equations",
       "Imaginary numbers and operations"
     ],
     "interactionTrend": {
@@ -353,7 +353,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.5,
+          "percentile": 23.5,
           "values": [
             0,
             1,
@@ -410,7 +410,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.5,
+        "allSessionRanking": 23.5,
         "tutorSessionRanking": 50.0,
         "tutorUtterances": [
           0,

@@ -11,15 +11,15 @@
     "aiSummary": "During the one-on-one tutoring session, the tutor and student discussed a range of topics including international studies, language selection, acceptance into the Croft Institute, Spanish language comparison, study abroad plans in Mexico and Spain, Baylor University scholarship, math and theology final exam preparation, and symmetry in graphs. The student's expectations were met as they celebrated their acceptance into the Croft Institute, received guidance on study abroad, clarified confusion about a Baylor University email, and discussed language choices for international studies. There were no periods of low interaction between the tutor and student during the session.",
     "desiredOutcome": "Student's expectations: Celebrating acceptance into Croft Institute, seeking guidance on study abroad, confused about Baylor University email, discussing language choice for international studies.\n\nExpectations addressed: Congratulations acknowledged, study abroad discussed, Baylor email clarified, language choice discussed.",
     "activities": [
-      "Theology Final Exam Content",
-      "Comparison of Spanish in Latin America and Spain",
       "Acceptance into Croft Institute of International Studies",
       "Baylor University Scholarship and Honors College Acceptance",
+      "Study Abroad Plans in Mexico and Spain",
       "Math Final Preparation",
       "Confusion in Math Final Problem Solving",
+      "International Studies and Language Selection",
+      "Comparison of Spanish in Latin America and Spain",
       "Identifying Symmetry in Graphs",
-      "Study Abroad Plans in Mexico and Spain",
-      "International Studies and Language Selection"
+      "Theology Final Exam Content"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -324,7 +324,7 @@
         {
           "name": "Feedback Quality",
           "score": 6,
-          "percentile": 27.5,
+          "percentile": 26.5,
           "values": [
             2,
             0,
@@ -396,7 +396,7 @@
       },
       "feedbackQuality": {
         "rating": 6,
-        "allSessionRanking": 27.5,
+        "allSessionRanking": 26.5,
         "tutorSessionRanking": 50.0,
         "positiveFeedback": 6.43,
         "neutralFeedback": 83.13,

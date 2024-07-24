@@ -5,7 +5,7 @@
   "subject": "Algebra 2",
   "date": "2023-11-02",
   "riskyAreas": [
-    "tech",
+    "Technology",
     "Feedback",
     "Emotion"
   ],
@@ -13,15 +13,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including composition of functions, inverse functions, one-to-one functions, logarithmic functions, graphing logarithmic functions, identifying parent functions and transformations, finding domain and range of functions, matching equations with graphs, and finding values for exponential functions to intersect logarithmic functions. The student's expectations were met as they reviewed and gained a better understanding of graphing logarithmic functions, specifically focusing on graphing log base three of negative x without a calculator, clarified the effects of transformations on the graph, and matched equations with their graphs. Throughout the session, there were no periods of low interaction between the tutor and student.",
     "desiredOutcome": "The student's expectations for the session are to review and gain a better understanding of graphing logarithmic functions, specifically focusing on graphing log base three of negative x without a calculator. The student also seeks clarification on the effects of transformations on the graph and wants to match equations with their graphs. These expectations are addressed and resolved during the session as the tutor provides guidance on graphing the logarithmic function, explains the impact of transformations, and assists in matching equations with their graphs.",
     "activities": [
-      "Graphing logarithmic functions",
+      "Finding domain and range of functions",
+      "Inverse functions",
+      "One-to-one functions",
+      "Composition of functions",
+      "Identifying parent functions and transformations",
       "Matching equations with graphs",
       "Logarithmic functions",
-      "One-to-one functions",
-      "Identifying parent functions and transformations",
-      "Inverse functions",
-      "Finding values for exponential functions to intersect logarithmic functions",
-      "Composition of functions",
-      "Finding domain and range of functions"
+      "Graphing logarithmic functions",
+      "Finding values for exponential functions to intersect logarithmic functions"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -269,7 +269,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.6,
+          "percentile": 18.6,
           "values": [
             2,
             0,
@@ -363,7 +363,7 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.6,
+        "allSessionRanking": 18.6,
         "tutorSessionRanking": 50.0
       },
       "feedbackQuality": {

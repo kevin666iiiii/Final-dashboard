@@ -5,8 +5,8 @@
   "subject": "Algebra",
   "date": "2023-11-08",
   "riskyAreas": [
-    "Instru",
-    "tech",
+    "Instruction",
+    "Technology",
     "Silent",
     "Student Inactive"
   ],
@@ -14,15 +14,15 @@
     "aiSummary": "During the one-on-one tutoring session, the tutor and student engaged in casual conversation, discussed school-related topics, planned for the weekend, and worked on creating and completing multiplication charts. The student's expectation to focus on math charts was met, with periods of low interaction for independent work and focused concentration on tasks.",
     "desiredOutcome": "The student's expectation for the session is to work on math charts related to multiplication, specifically creating their own times tables. This expectation is addressed by the tutor as they agree to work on math charts and begin setting up a grid to fill in numbers and corresponding answers for multiplication.",
     "activities": [
-      "Completing multiplication charts for numbers 1-18",
-      "Casual conversation and small talk",
       "Wrapping up the tutoring session",
+      "Providing positive feedback and motivation to the student",
+      "Completing multiplication charts for numbers 1-18",
       "Planning for the upcoming weekend",
       "Discussing school and feelings about school",
-      "Encouraging and praising the student's progress",
-      "Creating multiplication charts for numbers 1-12",
       "Ending the session and scheduling the next meeting",
-      "Providing positive feedback and motivation to the student"
+      "Casual conversation and small talk",
+      "Encouraging and praising the student's progress",
+      "Creating multiplication charts for numbers 1-12"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -261,7 +261,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.6,
+          "percentile": 18.6,
           "values": [
             0,
             0,
@@ -355,7 +355,7 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.6,
+        "allSessionRanking": 18.6,
         "tutorSessionRanking": 33.33
       },
       "feedbackQuality": {

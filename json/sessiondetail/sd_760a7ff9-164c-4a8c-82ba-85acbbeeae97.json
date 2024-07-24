@@ -11,15 +11,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student covered various topics including exponents, quadratic equations, special right triangles, circles, perimeter, area, angles, and geometry formulas. The student's expectations to improve skills in simplifying expressions, solving equations, and finding slope were successfully met. There were no periods of low interaction during the session.",
     "desiredOutcome": "The student's expectations for the session are to understand and improve their skills in simplifying expressions, solving equations, and finding the slope of a line. These expectations are met as the tutor guides the student through simplifying expressions, solving equations for x, and finding the slope of a line using the correct formula. The student also learns about the meanings of terms like \"simplify,\" \"evaluate,\" and \"equivalent\" during the session.",
     "activities": [
-      "Altitudes and Right Triangles",
-      "Geometry Formulas and Theorems",
       "Special Right Triangles",
+      "Altitudes and Right Triangles",
       "Perimeter and Area of Shapes",
-      "Practice and Review",
+      "Solving Quadratic Equations",
       "Exponents and Laws of Exponents",
+      "Geometry Formulas and Theorems",
+      "Practice and Review",
       "Circles - Equations and Properties",
-      "Angles and Triangles",
-      "Solving Quadratic Equations"
+      "Angles and Triangles"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -291,7 +291,7 @@
         {
           "name": "Feedback Quality",
           "score": 8,
-          "percentile": 74.5,
+          "percentile": 73.5,
           "values": [
             0,
             0,
@@ -318,7 +318,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.5,
+          "percentile": 23.5,
           "values": [
             1,
             2,
@@ -363,7 +363,7 @@
       },
       "feedbackQuality": {
         "rating": 8,
-        "allSessionRanking": 74.5,
+        "allSessionRanking": 73.5,
         "tutorSessionRanking": 75.0,
         "positiveFeedback": 6.25,
         "neutralFeedback": 90.18,
@@ -375,7 +375,7 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.5,
+        "allSessionRanking": 23.5,
         "tutorSessionRanking": 75.0,
         "tutorUtterances": [
           1,

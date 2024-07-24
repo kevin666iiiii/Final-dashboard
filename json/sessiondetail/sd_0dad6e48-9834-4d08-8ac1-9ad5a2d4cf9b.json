@@ -5,7 +5,7 @@
   "subject": "Algebra 2",
   "date": "2024-03-13",
   "riskyAreas": [
-    "tech",
+    "Technology",
     "Feedback",
     "Silent",
     "Student Inactive",
@@ -15,15 +15,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on specific topics related to the student's upcoming quiz, such as end behavior of functions, identifying odd and even functions, and local maximum and minimum points. The student's expectation of receiving help with practice questions was being met as they worked through the questions together. During a low interaction period, lasting from 1380000 to 1680000 milliseconds, the student briefly spoke with their mom, causing a momentary pause in the session.",
     "desiredOutcome": "The student's expectation for the session is to receive help with practice questions for a quiz they have the next day. They are looking for guidance on specific topics related to the practice quiz. The tutor is working towards meeting this expectation by asking the student to load up the questions and share their screen so they can work through them together. The student's expectation seems to be on track to being solved during the session.",
     "activities": [
-      "Understanding the behavior of functions as x approaches negative infinity",
+      "Understanding the behavior of functions as x approaches infinity",
       "Identifying local maximum and minimum points in a function",
       "End behavior of a function with an even degree and positive coefficient",
       "End behavior of a function with an odd degree and positive coefficient",
-      "End behavior of a function with an odd degree and negative coefficient",
+      "Understanding the behavior of functions as x approaches negative infinity",
       "Identifying odd and even functions",
-      "Understanding the behavior of functions as x approaches infinity",
+      "End behavior of a function with an even degree and negative coefficient",
       "Determining the end behavior of a polynomial function",
-      "End behavior of a function with an even degree and negative coefficient"
+      "End behavior of a function with an odd degree and negative coefficient"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -198,7 +198,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 17.6,
+          "percentile": 18.6,
           "values": [
             0,
             0,
@@ -292,7 +292,7 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 17.6,
+        "allSessionRanking": 18.6,
         "tutorSessionRanking": 75.0
       },
       "feedbackQuality": {

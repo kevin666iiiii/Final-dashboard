@@ -1,0 +1,75 @@
+{
+  "id": "879103251",
+  "gender": 1,
+  "tutor": "879103251",
+  "subjects": [
+    "Algebra 2"
+  ],
+  "tutoringExperience": 3,
+  "sessions": 5,
+  "students": 4,
+  "trackingHistory": [
+    {
+      "sessionId": "e8a3afbf-8764-41fb-b40d-b021f9f5df5d",
+      "subject": "Algebra 2",
+      "date": "2024-03-04"
+    },
+    {
+      "sessionId": "212c14d1-9c9c-4ad6-a2d1-1b0bc324da26",
+      "subject": "Algebra 2",
+      "date": "2024-02-07"
+    },
+    {
+      "sessionId": "109618b0-465e-42c3-971d-5efb731c7db9",
+      "subject": "Algebra 2",
+      "date": "2023-11-21"
+    },
+    {
+      "sessionId": "5a853974-8759-4d72-8d1f-97f18f815195",
+      "subject": "Algebra 2",
+      "date": "2023-09-03"
+    },
+    {
+      "sessionId": "19852ae4-ee73-4eed-bc79-8a48194dfdea",
+      "subject": "Algebra 2",
+      "date": "2023-11-13"
+    }
+  ],
+  "scoreTrend": {
+    "instructionalDelivery": [
+      6,
+      6,
+      9,
+      7,
+      5
+    ],
+    "techToolUsage": [
+      10,
+      10,
+      10,
+      10,
+      4
+    ],
+    "feedbackQuality": [
+      4,
+      6,
+      6,
+      5,
+      4
+    ],
+    "socialEmotionalTeaching": [
+      4,
+      5,
+      5,
+      3,
+      4
+    ],
+    "time": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+}

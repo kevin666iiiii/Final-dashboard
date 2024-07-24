@@ -1,0 +1,45 @@
+{
+  "id": "879296905",
+  "gender": 1,
+  "tutor": "879296905",
+  "subjects": [
+    "Linear Algebra"
+  ],
+  "tutoringExperience": 3,
+  "sessions": 2,
+  "students": 1,
+  "trackingHistory": [
+    {
+      "sessionId": "ec05db80-1022-44ec-a996-b21da4d63d02",
+      "subject": "Linear Algebra",
+      "date": "2023-11-12"
+    },
+    {
+      "sessionId": "752c4a85-7a2a-4f69-b298-143a62c7277e",
+      "subject": "Linear Algebra",
+      "date": "2023-09-17"
+    }
+  ],
+  "scoreTrend": {
+    "instructionalDelivery": [
+      3,
+      8
+    ],
+    "techToolUsage": [
+      8,
+      10
+    ],
+    "feedbackQuality": [
+      7,
+      4
+    ],
+    "socialEmotionalTeaching": [
+      3,
+      4
+    ],
+    "time": [
+      0,
+      1
+    ]
+  }
+}

@@ -13,15 +13,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics related to linear equations, including definitions, slope, solving equations, patterns, and graphing. The student's expectation was to review and understand linear equations, particularly in the context of word problems. Throughout the session, there were periods of low interaction where both parties paused to gather thoughts, check information, work on problems, or reflect on answers.",
     "desiredOutcome": "The student's expectation for the session is to review and understand linear equations. The student seems to be seeking clarification on how to approach and solve linear equations, particularly in the context of word problems. The tutor is addressing the student's expectation by explaining the concept of linear equations, their representation on a graph, and how to interpret and work with them mathematically. The tutor is also providing examples and explanations to help the student understand the topic better.",
     "activities": [
-      "Introduction and casual conversation",
-      "Wrapping up the session and discussing future topics",
-      "Exploring linear equations in tables and graphing lines",
-      "Slope and its significance in linear equations",
-      "Identifying patterns in linear equations",
       "Linear equations definition and characteristics",
-      "Practice solving linear equations with given x values",
       "Using the formula Y = mx + b to solve linear equations",
-      "Applying linear equations to find y values for given x values"
+      "Introduction and casual conversation",
+      "Practice solving linear equations with given x values",
+      "Identifying patterns in linear equations",
+      "Exploring linear equations in tables and graphing lines",
+      "Applying linear equations to find y values for given x values",
+      "Wrapping up the session and discussing future topics",
+      "Slope and its significance in linear equations"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -148,11 +148,11 @@
         38
       ],
       "analysis": [
-        "Both tutor and student paused to gather their thoughts and process the information discussed.",
-        "The tutor needed to check on something, causing a brief pause in the session.",
-        "The student needed time to work on finding y values for specified x values.",
-        "Both tutor and student were processing information and reflecting on the correctness of answers.",
-        "The student was struggling to solve the equations correctly, leading to a moment of silence."
+        "8-10 min: Both tutor and student paused to gather their thoughts and process the information discussed.",
+        "20-23 min: The tutor needed to check on something, causing a brief pause in the session.",
+        "23-26 min: The student needed time to work on finding y values for specified x values.",
+        "26-28 min: Both tutor and student were processing information and reflecting on the correctness of answers.",
+        "32-34 min: The student was struggling to solve the equations correctly, leading to a moment of silence."
       ]
     }
   },

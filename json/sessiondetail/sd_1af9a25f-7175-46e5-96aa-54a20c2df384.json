@@ -13,15 +13,15 @@
     "aiSummary": "In the one-on-one tutoring session, the student's expectations were to learn about simplifying radicals, particularly square roots and cube roots, and to receive ACT exam preparation. The tutor addressed the ACT tutoring request and introduced the concept of simplifying radicals. Periods of low interaction occurred for reflection, processing, and independent thinking during the session.",
     "desiredOutcome": "The student's expectation for the session is to learn how to simplify radicals, specifically square roots and cube roots. They also express interest in receiving tutoring for the ACT exam in the future. The tutor addresses the student's request for ACT tutoring and assures them that they can find materials online. The student's expectation for learning about simplifying radicals is partially met as they are introduced to the concept and given examples to practice.",
     "activities": [
-      "Identifying perfect squares for simplifying square roots",
-      "Simplifying radicals",
-      "Adding and subtracting square roots",
-      "Combining square roots with multiplication",
-      "Planning for future tutoring sessions",
       "ACT preparation",
+      "Planning for future tutoring sessions",
+      "Simplifying radicals",
+      "Multiplying square roots with numbers",
+      "Combining square roots with multiplication",
       "Simplifying square roots with variables",
-      "Perfect squares and simplifying square roots",
-      "Multiplying square roots with numbers"
+      "Identifying perfect squares for simplifying square roots",
+      "Adding and subtracting square roots",
+      "Perfect squares and simplifying square roots"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -193,13 +193,13 @@
         53
       ],
       "analysis": [
-        "The tutor and student had a period of silence to process and reflect on information.",
-        "The student was processing the instruction to simplify the problem before continuing the session.",
-        "The tutor and student had a period of silence to allow time for processing and thinking.",
-        "The tutor and student had a period of silence to allow the student to process information.",
-        "The tutor and student were likely calculating and processing the division of variables.",
-        "The tutor and student had a period of silence to allow the student to think independently.",
-        "The student was processing the problem and thinking through the solution silently."
+        "10-12 min: The tutor and student had a period of silence to process and reflect on information.",
+        "22-24 min: The student was processing the instruction to simplify the problem before continuing the session.",
+        "28-30 min: The tutor and student had a period of silence to allow time for processing and thinking.",
+        "35-37 min: The tutor and student had a period of silence to allow the student to process information.",
+        "39-41 min: The tutor and student were likely calculating and processing the division of variables.",
+        "46-48 min: The tutor and student had a period of silence to allow the student to think independently.",
+        "49-51 min: The student was processing the problem and thinking through the solution silently."
       ]
     }
   },

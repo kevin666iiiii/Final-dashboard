@@ -14,15 +14,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including factoring quadratic equations, imaginary numbers, and solving quadratic equations. The student's expectation to review factoring and address common mistakes was met. There were periods of low interaction due to technical difficulties with the audio connection.",
     "desiredOutcome": "The student's expectation for the session is to review factoring, specifically addressing common mistakes made during factoring problems. This expectation is addressed and corrected by the tutor.",
     "activities": [
-      "Solving quadratic equations using the quadratic formula",
       "Solving quadratic equations by factoring",
-      "Difference between squared and doubled numbers",
+      "Review practice for complex numbers",
       "Simplifying radicals",
       "Quadratic formula and quadratics circuit",
       "Solving quadratics by tables and graphs",
-      "Review practice for complex numbers",
+      "Solving quadratic equations using the quadratic formula",
       "Factoring quadratic equations",
-      "Imaginary numbers and operations"
+      "Imaginary numbers and operations",
+      "Difference between squared and doubled numbers"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -239,7 +239,7 @@
         68
       ],
       "analysis": [
-        "Technical difficulties with audio connection caused a period of silence between the tutor and student."
+        "0-1 min: Technical difficulties with audio connection caused a period of silence between the tutor and student."
       ]
     }
   },

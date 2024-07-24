@@ -12,15 +12,15 @@
     "aiSummary": "In the one-on-one tutoring session, the student's expectation was to review specific chemistry topics such as ionic character, potential energy curves, and bond dissociation energies. The tutor effectively addressed the student's questions, provided explanations, corrections, and additional materials, meeting the student's expectations for clarification and guidance.",
     "desiredOutcome": "The student's expectation for the session seems to be to go over specific questions related to chemistry, particularly focusing on topics like ionic character, potential energy curves, lattice energy, and bond dissociation energies. The student is looking for clarification on their answers and guidance on how to approach these types of questions. The tutor is addressing the student's questions and providing explanations and corrections where needed. The tutor is also offering to send additional materials and seems willing to help the student understand the concepts better. Overall, the student's expectations for the session are being met as the tutor is actively engaging with the student's questions and providing explanations and guidance.",
     "activities": [
-      "Lattice energy and ionic character",
-      "Alloy composition and resistance to rust",
       "Bond dissociation energy and lattice energy",
-      "Alloy hardness and atomic size",
-      "Brittleness in ionic crystals",
-      "Ionic character in compounds",
+      "Lattice energy and ionic character",
       "Steel composition and prevention of rust",
-      "Bond order and molecular geometry",
-      "Potential energy in a system of two atoms"
+      "Ionic character in compounds",
+      "Potential energy in a system of two atoms",
+      "Alloy composition and resistance to rust",
+      "Brittleness in ionic crystals",
+      "Alloy hardness and atomic size",
+      "Bond order and molecular geometry"
     ],
     "interactionTrend": {
       "tutorUtterances": [

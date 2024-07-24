@@ -15,11 +15,11 @@
     "activities": [
       "Table of values for a non-closed operation with identity and inverses",
       "Identity element in binary operations",
-      "Exponentiation distribution in binary operations",
-      "Set notation and infinite sets",
       "Binary operations and finding inverses",
+      "Set notation and infinite sets",
       "Closure, commutativity, identity, and inverse in binary operations",
-      "Inverse in binary operations"
+      "Inverse in binary operations",
+      "Exponentiation distribution in binary operations"
     ],
     "interactionTrend": {
       "tutorUtterances": [

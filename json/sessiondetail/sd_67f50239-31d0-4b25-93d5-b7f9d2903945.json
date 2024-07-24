@@ -13,14 +13,14 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student covered topics including rational functions, trigonometric functions, and rational equations. The student's goal was to complete a quiz and grasp new concepts, particularly seeking help with understanding and using a calculator for graph matching. Despite feeling tired, the student received support and encouragement from the tutor throughout the session.",
     "desiredOutcome": "The student's expectation for the session is to complete a quiz and move on to new material. They are seeking help with understanding concepts and using a calculator for graph matching. The student also expresses feeling tired and having had a rough night, but is trying to push through. The tutor is providing support and encouragement throughout the session. The student's expectations for completing the quiz and receiving assistance with fractions and graph matching are being addressed in the session.",
     "activities": [
-      "Trigonometric Functions - Finding Period and Amplitude",
-      "Trigonometric Functions - Midline of Trigonometric Graphs",
-      "Rational Equations - Finding Vertical Asymptotes",
-      "Rational Equations - Finding Domain",
-      "Rational Equations - Isolating Variables",
       "Rational Functions - Finding Y-intercept and Rational Functions - Matching Rational Functions to Graphs",
+      "Trigonometric Functions - Finding Period and Amplitude",
+      "Rational Equations - Finding Vertical Asymptotes",
       "Trigonometric Functions - Matching Trigonometric Functions to Graphs",
-      "Rational Functions - Finding Y-intercept"
+      "Rational Equations - Isolating Variables",
+      "Rational Functions - Finding Y-intercept",
+      "Trigonometric Functions - Midline of Trigonometric Graphs",
+      "Rational Equations - Finding Domain"
     ],
     "interactionTrend": {
       "tutorUtterances": [

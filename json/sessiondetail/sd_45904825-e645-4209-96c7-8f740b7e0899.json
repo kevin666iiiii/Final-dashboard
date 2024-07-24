@@ -14,14 +14,14 @@
     "desiredOutcome": "The student's expectations for the session are to review and gain a better understanding of graphing logarithmic functions, specifically focusing on graphing log base three of negative x without a calculator. The student also seeks clarification on the effects of transformations on the graph and wants to match equations with their graphs. These expectations are addressed and resolved during the session as the tutor provides guidance on graphing the logarithmic function, explains the impact of transformations, and assists in matching equations with their graphs.",
     "activities": [
       "Finding domain and range of functions",
-      "Inverse functions",
-      "One-to-one functions",
       "Composition of functions",
-      "Identifying parent functions and transformations",
+      "Finding values for exponential functions to intersect logarithmic functions",
+      "Graphing logarithmic functions",
       "Matching equations with graphs",
       "Logarithmic functions",
-      "Graphing logarithmic functions",
-      "Finding values for exponential functions to intersect logarithmic functions"
+      "Inverse functions",
+      "One-to-one functions",
+      "Identifying parent functions and transformations"
     ],
     "interactionTrend": {
       "tutorUtterances": [

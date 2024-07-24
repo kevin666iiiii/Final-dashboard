@@ -12,15 +12,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student extensively covered various trigonometry topics, including sine, cosine, tangent of specific angles in different quadrants, reference angles, exact values of trigonometric functions, rotating angles, handling negative angles, and applying trigonometric functions to angles in different quadrants. The student's expectations for the session, such as clarifying future scheduling, reviewing cosine calculations in radians, converting between degree and radian measures, and understanding SOHCAHTOA principles, were effectively addressed by the tutor.",
     "desiredOutcome": "Based on the transcript, the student's expectations for the session seem to be:\n\n1. Clarification on the scheduling of future tutoring sessions.\n2. Review and practice trigonometry concepts, specifically focusing on cosine calculations in radians.\n3. Assistance with understanding and converting between degree and radian measures.\n4. Guidance on trigonometric principles, such as SOHCAHTOA.\n\nIt appears that the student's expectations for the session were addressed, as the tutor discussed the scheduling for future sessions and proceeded to review and explain trigonometry concepts, including the conversion between degree and radian measures and the application of SOHCAHTOA in trigonometric calculations. The student also seemed engaged and actively taking notes, indicating that their expectations were being met.",
     "activities": [
-      "Trigonometry - Understanding reference angles and their values",
-      "Trigonometry - Calculating trigonometric values for angles close to axis positions",
+      "Trigonometry - Handling negative angles and determining trigonometric values",
       "Trigonometry - Solving trigonometric problems involving rotations and exact values",
-      "Trigonometry - Sine and Cosine of specific angles in different quadrants",
-      "Trigonometry - Calculating exact values of trigonometric functions for given angles",
       "Trigonometry - Rotating angles around the unit circle and determining trigonometric values",
-      "Trigonometry - Applying trigonometric functions to angles in different quadrants",
+      "Trigonometry - Calculating trigonometric values for angles close to axis positions",
+      "Trigonometry - Understanding reference angles and their values",
       "Trigonometry - Tangent of specific angles in different quadrants",
-      "Trigonometry - Handling negative angles and determining trigonometric values"
+      "Trigonometry - Calculating exact values of trigonometric functions for given angles",
+      "Trigonometry - Applying trigonometric functions to angles in different quadrants",
+      "Trigonometry - Sine and Cosine of specific angles in different quadrants"
     ],
     "interactionTrend": {
       "tutorUtterances": [

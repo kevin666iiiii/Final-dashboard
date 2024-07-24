@@ -14,14 +14,14 @@
     "desiredOutcome": "The student's expectation for the session is to understand how to calculate the probability by finding the areas of different parts of a dartboard. The tutor guides the student through calculating the areas and simplifying fractions to determine the probability accurately. The student's expectation is met as they successfully calculate the probability of hitting the bullseye.",
     "activities": [
       "Solving for unknown variables in shapes",
-      "Area of shapes and perimeter",
       "Calculating area of rectangles",
-      "Calculating perimeter of shapes",
-      "Order of operations and decimals",
-      "Probability and area of circles",
       "Homework assignment on various math topics",
+      "Calculating perimeter of shapes",
+      "Area of shapes and perimeter",
+      "Prime numbers and probability",
+      "Order of operations and decimals",
       "Finding missing sides of shapes",
-      "Prime numbers and probability"
+      "Probability and area of circles"
     ],
     "interactionTrend": {
       "tutorUtterances": [

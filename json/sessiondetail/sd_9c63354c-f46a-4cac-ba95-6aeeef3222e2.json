@@ -14,15 +14,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including polynomial division, the Remainder Theorem, solving polynomial equations, graphing functions, and quadratic functions. The student's expectation of receiving help with long division problems involving polynomials was met. Periods of low interaction occurred due to the need for clarification, reflection on mistakes, disagreement in answers, and finding additional resources.",
     "desiredOutcome": "The student's expectation for the session was to receive help with long division problems involving polynomials. The student wanted clarification on the process and how to express remainders correctly. These expectations were met as the tutor guided the student through the problems, corrected mistakes, and explained how to format the answers with remainders.",
     "activities": [
-      "Applying the Remainder Theorem",
-      "Interpreting vertex form of quadratic functions",
-      "Long division method for polynomial division",
-      "Analyzing end behavior in polynomial functions",
-      "Understanding end behavior in graphing functions",
       "Determining end behavior using positive and negative values",
-      "Identifying remainders in polynomial division",
+      "Long division method for polynomial division",
+      "Solving for variables in polynomial equations",
       "Solving for x and y values in quadratic functions",
-      "Solving for variables in polynomial equations"
+      "Analyzing end behavior in polynomial functions",
+      "Applying the Remainder Theorem",
+      "Identifying remainders in polynomial division",
+      "Interpreting vertex form of quadratic functions",
+      "Understanding end behavior in graphing functions"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -170,10 +170,10 @@
         45
       ],
       "analysis": [
-        "The student needed clarification on the concept, leading to a moment of reflection and silence.",
-        "The tutor and student had a period of silence to process the mistake made in calculation. \n\n",
-        "The tutor and student had a period of silence due to a disagreement in their answers.",
-        "The tutor needed to find a different resource, causing a brief pause in the session."
+        "5-7 min: The student needed clarification on the concept, leading to a moment of reflection and silence.",
+        "19-21 min: The tutor and student had a period of silence to process the mistake made in calculation. \n\n",
+        "21-23 min: The tutor and student had a period of silence due to a disagreement in their answers.",
+        "29-32 min: The tutor needed to find a different resource, causing a brief pause in the session."
       ]
     }
   },

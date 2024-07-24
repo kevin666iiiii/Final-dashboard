@@ -11,14 +11,14 @@
     "aiSummary": "In the one-on-one tutoring session, the student and tutor discussed various topics including transformations of functions, function notation, identifying asymptotes, rational functions, polynomial equations, and complex numbers. The student's expectation was to understand and practice transformations, focusing on function notation and applying transformations correctly. The tutor successfully addressed the student's questions and guided them through the concepts, meeting the student's expectations.",
     "desiredOutcome": "The student's expectation for the session seems to be to understand and practice transformations of functions, specifically focusing on function notation and applying transformations in the correct order. The student is seeking clarification on how to write functions using function notation and wants to ensure they understand the concept by working through different examples. The tutor is addressing the student's questions and guiding them through the process of applying transformations correctly in function notation. Overall, the student's expectations for the session are being met as they are actively engaging with the material and seeking clarification on specific concepts.",
     "activities": [
-      "Using synthetic division to find zeros of polynomials",
-      "Solving polynomial equations using rational root theorem and synthetic division",
-      "Factoring polynomials using grouping method",
-      "Finding domain of rational functions, determining continuity",
+      "Scheduling tutoring session for test review",
       "Identifying non-real zeros in complex numbers",
       "Transformations of functions, vertical and horizontal dilation",
+      "Finding domain of rational functions, determining continuity",
+      "Solving polynomial equations using rational root theorem and synthetic division",
+      "Factoring polynomials using grouping method",
       "Function notation, writing functions in terms of parent functions",
-      "Scheduling tutoring session for test review",
+      "Using synthetic division to find zeros of polynomials",
       "Identifying horizontal and vertical asymptotes, holes in graphs"
     ],
     "interactionTrend": {

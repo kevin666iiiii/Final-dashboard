@@ -11,15 +11,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on reviewing concepts related to solving systems of equations. The student's expectation was to prepare for an upcoming quiz by revisiting topics such as graphing, substitution, and elimination methods. The student actively engaged in problem-solving with the tutor's guidance, ensuring their readiness for the quiz.",
     "desiredOutcome": "The student's expectation for the session is to review and prepare for a quiz on material covered in the previous week. They want to go over the same concepts to ensure they are ready for the quiz the next day. The tutor is helping the student solve problems related to graphing systems of equations. The student is actively engaged in the session, participating in solving the problems and discussing the solutions with the tutor. The tutor is providing guidance and support as the student works through the problems. Overall, the student's expectations for the session seem to be met as they are actively working on the material and getting clarification from the tutor.",
     "activities": [
-      "Solving systems of equations by graphing",
-      "Applying elimination method to solve systems of equations",
-      "Determining the number of solutions in a system of equations",
       "Standardizing equations for solving systems of equations",
-      "Identifying infinite solutions in a system of equations",
-      "Solving systems of equations by elimination",
-      "Identifying the number of solutions in a system of equations",
       "Solving word problems involving systems of equations",
-      "Solving systems of equations by substitution"
+      "Applying elimination method to solve systems of equations",
+      "Solving systems of equations by substitution",
+      "Identifying infinite solutions in a system of equations",
+      "Identifying the number of solutions in a system of equations",
+      "Determining the number of solutions in a system of equations",
+      "Solving systems of equations by elimination",
+      "Solving systems of equations by graphing"
     ],
     "interactionTrend": {
       "tutorUtterances": [

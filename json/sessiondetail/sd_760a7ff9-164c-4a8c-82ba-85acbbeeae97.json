@@ -12,14 +12,14 @@
     "desiredOutcome": "The student's expectations for the session are to understand and improve their skills in simplifying expressions, solving equations, and finding the slope of a line. These expectations are met as the tutor guides the student through simplifying expressions, solving equations for x, and finding the slope of a line using the correct formula. The student also learns about the meanings of terms like \"simplify,\" \"evaluate,\" and \"equivalent\" during the session.",
     "activities": [
       "Special Right Triangles",
-      "Altitudes and Right Triangles",
-      "Perimeter and Area of Shapes",
-      "Solving Quadratic Equations",
-      "Exponents and Laws of Exponents",
       "Geometry Formulas and Theorems",
+      "Exponents and Laws of Exponents",
+      "Angles and Triangles",
+      "Solving Quadratic Equations",
       "Practice and Review",
+      "Altitudes and Right Triangles",
       "Circles - Equations and Properties",
-      "Angles and Triangles"
+      "Perimeter and Area of Shapes"
     ],
     "interactionTrend": {
       "tutorUtterances": [

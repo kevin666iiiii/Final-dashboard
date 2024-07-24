@@ -13,15 +13,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various math topics including intercepts, limits, domains, ranges, and asymptotes. The student's goal was to grasp new concepts and prepare for an upcoming test. The tutor effectively addressed the student's expectations by breaking down complex problems and providing guidance. During one period, there was low interaction due to the tutor's frustration with technology.",
     "desiredOutcome": "The student's expectation for the session is to review and understand piecewise functions and limits in math, particularly focusing on a new concept they haven't covered before. They also mention struggling with some parts of the material and express a desire to prepare for an upcoming test. The tutor helps the student break down the piecewise function and provides guidance on how to approach the problem. The student's expectations for the session are addressed as the tutor assists them in understanding the new concept and offers support for their upcoming test preparation.",
     "activities": [
-      "Finding the domain and range of rational functions",
       "Determining the range of a rational function with horizontal asymptotes",
+      "Finding the domain and range of rational functions",
+      "Solving for x intercepts and y intercepts in a rational function",
       "Solving for x intercepts and y intercepts in a function",
+      "Graphing piecewise functions and determining limits",
+      "Determining the range of a rational function using graphing calculator",
       "Finding the domain and range of a quadratic function",
       "Graphing rational functions and identifying vertical asymptotes",
-      "Identifying horizontal asymptotes in rational functions",
-      "Solving for x intercepts and y intercepts in a rational function",
-      "Graphing piecewise functions and determining limits",
-      "Determining the range of a rational function using graphing calculator"
+      "Identifying horizontal asymptotes in rational functions"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -235,7 +235,7 @@
         67
       ],
       "analysis": [
-        "Tutor's frustration with technology led to a period of silence during the session."
+        "60-64 min: Tutor's frustration with technology led to a period of silence during the session."
       ]
     }
   },

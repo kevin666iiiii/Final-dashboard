@@ -13,15 +13,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on essential geometry concepts, clarifying terms, and working on practice problems related to circles and arcs. Periods of low interaction occurred due to technical difficulties with screen sharing and to allow time for individual processing and understanding.",
     "desiredOutcome": "Based on the transcript, the student's expectations for the session seem to be:\n\n1. Reviewing and clarifying concepts related to geometry, specifically focusing on essential geometric terms and concepts.\n2. Addressing specific questions or confusions the student had, such as understanding bisector midpoint vertex on a diagram.\n3. Working on practice problems related to geometry, such as identifying portions of a circle and understanding arcs.\n4. Potentially reviewing and discussing the student's work on a Delta Math assignment.\n\nIt appears that the tutor is addressing the student's expectations by reviewing essential geometric terms and concepts, discussing specific questions about bisector midpoint vertex, and working on practice problems related to circles and arcs. The tutor also mentions potentially reviewing the Delta Math assignment after completing the current session.",
     "activities": [
-      "Geometry - Compass and Straight Edge Construction",
+      "Geometry - Triangle Congruence",
       "Geometry - Arcs in Circles",
-      "Geometry - Perpendicular Relationships",
-      "Geometry - Bisectors and Midpoints",
-      "Geometry - Complementary and Supplementary Angles",
       "Geometry - Equilateral and Isosceles Triangles",
       "Geometry - Triangle Construction",
-      "Geometry - Triangle Congruence",
-      "Geometry - Properties of Perpendicular Lines"
+      "Geometry - Compass and Straight Edge Construction",
+      "Geometry - Complementary and Supplementary Angles",
+      "Geometry - Properties of Perpendicular Lines",
+      "Geometry - Bisectors and Midpoints",
+      "Geometry - Perpendicular Relationships"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -259,8 +259,8 @@
         75
       ],
       "analysis": [
-        "Technical difficulties with screen sharing interrupted the discussion, causing a moment of silence.",
-        "The tutor and student had a period of silence to allow for individual processing and understanding."
+        "54-56 min: Technical difficulties with screen sharing interrupted the discussion, causing a moment of silence.",
+        "68-70 min: The tutor and student had a period of silence to allow for individual processing and understanding."
       ]
     }
   },

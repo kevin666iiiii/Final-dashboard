@@ -12,10 +12,10 @@
     "desiredOutcome": "The student's expectation for the session was to review long division with polynomials, specifically focusing on solving quadratic rational expressions. The tutor addressed these expectations by going over examples and explaining the concepts.",
     "activities": [
       "Solving complex fractions",
-      "Solving rational expressions",
-      "Systems of equations with three variables",
+      "Finding LCD for fractions",
       "Long division with polynomials",
-      "Finding LCD for fractions"
+      "Solving rational expressions",
+      "Systems of equations with three variables"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -292,14 +292,14 @@
         88
       ],
       "analysis": [
-        "The student was typing out a word problem to share with the tutor, causing a pause. \n\n(15 words)",
-        "The tutor and student were searching for another word problem to work on together.",
-        "The student presented a complex equation, causing both to pause and think silently.",
-        "The tutor and student were likely processing the math problem and searching for the next step.",
-        "The student made a calculation error, leading to confusion and a moment of silence.",
-        "The student struggled to articulate their thoughts, leading to a momentary pause for clarity.",
-        "Confusion arose due to errors in factoring and simplifying, leading to a pause for clarification.",
-        "The tutor and student had a period of silence to process the complex algebraic expressions."
+        "18-20 min: The student was typing out a word problem to share with the tutor, causing a pause. \n\n(15 words)",
+        "30-32 min: The tutor and student were searching for another word problem to work on together.",
+        "45-47 min: The student presented a complex equation, causing both to pause and think silently.",
+        "47-49 min: The tutor and student were likely processing the math problem and searching for the next step.",
+        "51-53 min: The student made a calculation error, leading to confusion and a moment of silence.",
+        "70-72 min: The student struggled to articulate their thoughts, leading to a momentary pause for clarity.",
+        "72-74 min: Confusion arose due to errors in factoring and simplifying, leading to a pause for clarification.",
+        "77-79 min: The tutor and student had a period of silence to process the complex algebraic expressions."
       ]
     }
   },

@@ -14,8 +14,8 @@
     "aiSummary": "In the one-on-one tutoring session, the student's expectation was to review and understand concepts related to angular speed, linear speed, and arc length for an upcoming quiz. The tutor and student discussed various questions focusing on angular speed and linear speed. Periods of low interaction occurred due to reasons such as organizing thoughts, bathroom breaks, confusion over units, and processing information.",
     "desiredOutcome": "The student's expectation for the session is to review and understand concepts related to angular speed, linear speed, and arc length for an upcoming quiz. They mention that they don't understand the material and express a need for clarification and explanation. The student also mentions that they have already attempted some homework problems but still need help understanding them. The student is looking for guidance in understanding the formulas and concepts related to linear speed, specifically how to calculate it using the formula involving radius and angular speed. The student is proactive in sharing their screen and homework assignment to seek assistance from the tutor. The tutor's explanation and guidance are crucial for the student to grasp the concepts and solve the homework problems effectively.",
     "activities": [
-      "Angular speed, linear speed",
-      "Angular speed, linear speed, arc length"
+      "Angular speed, linear speed, arc length",
+      "Angular speed, linear speed"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -199,11 +199,11 @@
         57
       ],
       "analysis": [
-        "The student was organizing their thoughts and the tutor was waiting for clarification.",
-        "The student went to the bathroom, leading to a period of silence in the session.",
-        "The tutor and student had a period of silence to process and gather their thoughts.",
-        "Confusion over units led to a pause as both tutor and student processed the information.",
-        "The tutor and student had a period of silence due to confusion over unit conversions."
+        "4-6 min: The student was organizing their thoughts and the tutor was waiting for clarification.",
+        "26-29 min: The student went to the bathroom, leading to a period of silence in the session.",
+        "40-42 min: The tutor and student had a period of silence to process and gather their thoughts.",
+        "42-45 min: Confusion over units led to a pause as both tutor and student processed the information.",
+        "52-54 min: The tutor and student had a period of silence due to confusion over unit conversions."
       ]
     }
   },

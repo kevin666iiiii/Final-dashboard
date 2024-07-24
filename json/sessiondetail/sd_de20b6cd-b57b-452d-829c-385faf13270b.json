@@ -13,10 +13,10 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on logarithms, addressing the student's struggles and dislike for the topic. The tutor explained concepts, worked on rewriting expressions, and solving equations. There were periods of low interaction for individual reflection and searching for new questions.",
     "desiredOutcome": "The student's expectation for the session is to work on logarithms, specifically rewriting expressions in logarithmic form and solving logarithmic equations. The student seems to be struggling with the new unit on logarithms and expresses dislike for it. The tutor addresses the student's need by going over examples and explaining concepts related to logarithms. The tutor also asks the student to send over notes from class, indicating a willingness to review additional materials to help the student understand the topic better. Overall, the student's expectations for the session are met as the tutor provides guidance and support in working through logarithmic problems.",
     "activities": [
-      "Logarithms - rewriting in the form base to the power of log equals x",
       "Properties of logs - using rules such as log of one is zero and log of the same number as base is one",
-      "Logarithms - rewriting in the form log b of x equals l",
-      "Logarithmic expressions - calculating the value or explaining why it does not make sense"
+      "Logarithmic expressions - calculating the value or explaining why it does not make sense",
+      "Logarithms - rewriting in the form base to the power of log equals x",
+      "Logarithms - rewriting in the form log b of x equals l"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -209,8 +209,8 @@
         60
       ],
       "analysis": [
-        "The tutor was searching for a new question to continue the lesson, causing silence.",
-        "The tutor and student had a period of silence to allow time for individual reflection."
+        "43-45 min: The tutor was searching for a new question to continue the lesson, causing silence.",
+        "49-51 min: The tutor and student had a period of silence to allow time for individual reflection."
       ]
     }
   },

@@ -11,8 +11,8 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on algebraic substitution and calculations. The student's expectation was to review and solve a set of 20 questions, covering topics such as the substitution method for solving linear equations, graphing systems of linear inequalities and equations, and identifying feasible regions for linear programming. Throughout the session, there were no periods of low interaction between the tutor and student.",
     "desiredOutcome": "The student's expectation for the session is to review and solve a set of 20 questions, focusing on algebraic substitution and calculations. These expectations are being met during the session.",
     "activities": [
-      "Graphing system of linear inequalities",
       "Graphing system of linear equations",
+      "Graphing system of linear inequalities",
       "Identifying feasible regions for linear programming",
       "Substitution method for solving linear equations"
     ],

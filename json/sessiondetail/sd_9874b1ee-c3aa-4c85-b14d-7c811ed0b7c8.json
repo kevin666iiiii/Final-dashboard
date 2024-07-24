@@ -14,15 +14,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including compound interest formulas, rounding, and decimal conversions. The student's expectation to review and practice compound interest calculations was met as they actively engaged in a practice problem. Periods of low interaction occurred when the student may have been processing information or waiting for the tutor to continue speaking.",
     "desiredOutcome": "The student's expectation for the session seems to be to review and practice compound interest formulas and calculations. The student also mentions that they are tired and may need a shorter session. The tutor provides a brief explanation of the compound interest formula and guides the student through a practice problem. The student seems engaged and willing to participate in the calculations. Overall, the student's expectation for the session appears to be met as they are actively working on the practice problem with the tutor's guidance.",
     "activities": [
+      "Compounding frequency (monthly, quarterly, annually)",
       "Calculating compound interest",
-      "Rounding to the nearest hundred",
+      "Using parentheses in calculations",
       "Correcting calculation errors",
+      "Compound interest formula",
       "Scheduling future tutoring sessions",
       "Rounding to the nearest cent",
       "Understanding decimal conversions",
-      "Compounding frequency (monthly, quarterly, annually)",
-      "Compound interest formula",
-      "Using parentheses in calculations"
+      "Rounding to the nearest hundred"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -140,7 +140,7 @@
         35
       ],
       "analysis": [
-        "The student may be processing information or waiting for the tutor to continue speaking."
+        "0-5 min: The student may be processing information or waiting for the tutor to continue speaking."
       ]
     }
   },

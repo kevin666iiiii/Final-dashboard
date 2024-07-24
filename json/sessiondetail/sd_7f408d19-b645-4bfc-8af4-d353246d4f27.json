@@ -13,15 +13,15 @@
     "aiSummary": "During the one-on-one tutoring session, the tutor and student discussed various topics including trigonometric identities, equations, inequalities, and strategies for studying trigonometry. The student's expectation was to review and solve math problems focusing on factoring and solving equations, which the tutor addressed by guiding the student through the problem-solving process.",
     "desiredOutcome": "The student's expectation for the session is to review and solve math problems from a recent test, particularly focusing on factoring and solving equations. These expectations are addressed as the tutor guides the student through the problem-solving process.",
     "activities": [
-      "Understanding the range of sine function",
+      "Trigonometric identities and equations",
+      "Identifying extraneous solutions in trigonometric equations",
+      "Solving trigonometric inequalities",
+      "Applying trigonometric identities to solve equations",
       "Planning study schedule during break",
       "Preparing for upcoming study sessions and exams",
-      "Identifying extraneous solutions in trigonometric equations",
-      "Applying trigonometric identities to solve equations",
       "Scheduling future tutoring sessions",
-      "Solving trigonometric inequalities",
-      "Trigonometric identities and equations",
-      "Strategies for creating study notes for trigonometry"
+      "Strategies for creating study notes for trigonometry",
+      "Understanding the range of sine function"
     ],
     "interactionTrend": {
       "tutorUtterances": [

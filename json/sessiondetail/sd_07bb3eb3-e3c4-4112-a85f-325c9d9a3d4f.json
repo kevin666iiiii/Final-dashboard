@@ -14,14 +14,14 @@
     "desiredOutcome": "The student's expectation for the session seems to be to review and work on practice problems related to math concepts, specifically focusing on topics like percent changes, exponential rules, and using a graphing calculator. The student also seems to be seeking clarification on how to approach certain types of problems and is actively engaging in the discussion with the tutor. The tutor is addressing the student's questions and providing explanations and guidance on how to solve the math problems effectively. Overall, the student's expectations for the session appear to be met as they are actively participating and receiving support from the tutor.",
     "activities": [
       "Determining if a system of equations has infinite solutions",
-      "Percent change rule",
-      "Calculating powers of i in complex numbers",
-      "Probability calculation",
-      "Conversion problem involving miles, days, and hours",
-      "Interpreting data from a graph",
-      "Multiplying exponents with fractional exponents",
+      "Solving a system of equations with variables",
       "Solving equations with variables and exponents",
-      "Solving a system of equations with variables"
+      "Calculating powers of i in complex numbers",
+      "Interpreting data from a graph",
+      "Percent change rule",
+      "Probability calculation",
+      "Multiplying exponents with fractional exponents",
+      "Conversion problem involving miles, days, and hours"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -316,16 +316,16 @@
         94
       ],
       "analysis": [
-        "The student was thinking about the answer to question 25 before responding.",
-        "The student needed time to work through the problem independently before seeking guidance.",
-        "The student struggled with converting miles to days and hours, leading to a pause.",
-        "The tutor took a break to get water, leading to a brief pause in conversation.",
-        "The tutor and student had a period of silence to reflect on personal preferences respectfully.",
-        "The student needed a moment to gather their thoughts and process the information given.",
-        "The student needed time to process and think before responding to the tutor's question.",
-        "Silence occurred as the student processed information before attempting the next math problems.",
-        "The tutor paused to recall the definition of probability, leading to a moment of silence.",
-        "The student was processing the tutor's explanation and attempting to apply it independently."
+        "2-4 min: The student was thinking about the answer to question 25 before responding.",
+        "5-7 min: The student needed time to work through the problem independently before seeking guidance.",
+        "20-36 min: The student struggled with converting miles to days and hours, leading to a pause.",
+        "39-41 min: The tutor took a break to get water, leading to a brief pause in conversation.",
+        "48-50 min: The tutor and student had a period of silence to reflect on personal preferences respectfully.",
+        "51-53 min: The student needed a moment to gather their thoughts and process the information given.",
+        "63-65 min: The student needed time to process and think before responding to the tutor's question.",
+        "71-75 min: Silence occurred as the student processed information before attempting the next math problems.",
+        "75-79 min: The tutor paused to recall the definition of probability, leading to a moment of silence.",
+        "81-83 min: The student was processing the tutor's explanation and attempting to apply it independently."
       ]
     }
   },

@@ -14,8 +14,8 @@
     "desiredOutcome": "The student's expectation for the session is to improve their understanding and performance in math, specifically focusing on reducing careless errors and becoming more comfortable with the concepts before tests. They also express a need for practice and assistance with nonlinear systems and specific math formulas. The tutor addresses the student's concerns and provides explanations and guidance on the topics discussed. The student's expectations for the session are partially met as they receive clarification on the formula they were confused about and start working on practice problems related to their current math topics.",
     "activities": [
       "Quadratic Equations and Word Problems",
-      "Systems of Equations",
-      "Scheduling and Time Management"
+      "Scheduling and Time Management",
+      "Systems of Equations"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -283,15 +283,15 @@
         85
       ],
       "analysis": [
-        "The student needed time to gather their thoughts and formulate a response to the question.",
-        "The student needed a moment to collect their thoughts and process the tutor's explanation.",
-        "The silence occurred due to the student's uncertainty and struggle with mathematical calculations and concepts.",
-        "The student struggled to articulate their thoughts, leading to a pause for clarity.",
-        "The tutor and student were processing the calculation and verifying the accuracy of their answer.",
-        "The tutor and student had a period of silence to process and reflect on the discrepancy.",
-        "The tutor and student were likely processing information or thinking about the next steps silently.",
-        "The tutor and student were silent to allow the student to reevaluate their calculation mistake.",
-        "The tutor had to end the session abruptly, shifting the focus away from the topic."
+        "25-28 min: The student needed time to gather their thoughts and formulate a response to the question.",
+        "34-36 min: The student needed a moment to collect their thoughts and process the tutor's explanation.",
+        "41-43 min: The silence occurred due to the student's uncertainty and struggle with mathematical calculations and concepts.",
+        "47-55 min: The student struggled to articulate their thoughts, leading to a pause for clarity.",
+        "61-63 min: The tutor and student were processing the calculation and verifying the accuracy of their answer.",
+        "69-73 min: The tutor and student had a period of silence to process and reflect on the discrepancy.",
+        "73-76 min: The tutor and student were likely processing information or thinking about the next steps silently.",
+        "76-78 min: The tutor and student were silent to allow the student to reevaluate their calculation mistake.",
+        "80-83 min: The tutor had to end the session abruptly, shifting the focus away from the topic."
       ]
     }
   },

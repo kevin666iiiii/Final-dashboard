@@ -14,9 +14,9 @@
     "desiredOutcome": "The student's expectation for the session is to work on specific offline exercises from chapter two, focusing on proving concepts related to spanning sets and linear independence. These expectations are addressed as the tutor guides the student through the proofs and explanations for the exercises, ensuring understanding and clarity.",
     "activities": [
       "Basis and dimension of subspaces",
-      "Extending bases of subspaces",
       "Matrix row reduction and basis determination",
       "Spanning sets and linear combinations",
+      "Extending bases of subspaces",
       "Linear independence and basis"
     ],
     "interactionTrend": {
@@ -231,9 +231,9 @@
         67
       ],
       "analysis": [
-        "The tutor and student had a period of silence to process and understand the concept discussed.",
-        "The tutor and student were likely processing information and formulating their thoughts silently.",
-        "The tutor and student were contemplating the best approach to extend a basis for w."
+        "4-6 min: The tutor and student had a period of silence to process and understand the concept discussed.",
+        "11-13 min: The tutor and student were likely processing information and formulating their thoughts silently.",
+        "26-30 min: The tutor and student were contemplating the best approach to extend a basis for w."
       ]
     }
   },

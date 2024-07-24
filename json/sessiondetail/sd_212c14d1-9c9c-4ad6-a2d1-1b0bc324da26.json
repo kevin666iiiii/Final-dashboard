@@ -9,14 +9,14 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on reviewing a test review assignment covering various math topics such as simplifying radicals, identifying perfect cubes, and understanding negative exponents. The tutor effectively addressed the student's expectations by providing step-by-step explanations and guidance on approaching different math problems.",
     "desiredOutcome": "Based on the transcript, the student's expectation for the session is to review and work on a test review assignment. The student mentions that the assignment includes problems from numbers two through 70, focusing on even numbers. The student also seeks clarification on how to approach specific math problems, such as calculating square roots and cubic roots. Additionally, the student asks about using perfect cubes in calculations. The student seems to be looking for guidance and clarification on math concepts to help them understand and solve the problems on the test review assignment.\n\nThe tutor addresses the student's expectations by going through the math problems step by step, explaining concepts such as calculating square roots, using perfect cubes, and understanding how to approach different types of radical expressions. The tutor also provides guidance on how to handle specific problems from the test review assignment, ensuring that the student gains a better understanding of the material. Overall, the tutor effectively addresses the student's expectations for the session by providing clear explanations and guidance on the math concepts covered in the assignment.",
     "activities": [
+      "Graphing functions and determining domain and range",
+      "Simplifying radicals with large numbers",
       "Simplifying radicals with negative numbers and decimals",
       "Understanding negative exponents and real numbers",
-      "Simplifying radicals with negative numbers",
       "Identifying perfect cubes and simplifying radicals",
+      "Simplifying radicals with perfect cubes",
       "Simplifying radicals with perfect squares",
-      "Simplifying radicals with large numbers",
-      "Graphing functions and determining domain and range",
-      "Simplifying radicals with perfect cubes"
+      "Simplifying radicals with negative numbers"
     ],
     "interactionTrend": {
       "tutorUtterances": [

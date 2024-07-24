@@ -11,15 +11,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various physics topics, including momentum, kinematics, force, and velocity. The student's expectation to understand the combination of momentum and kinematics was successfully met. During periods of low interaction, both the tutor and student engaged in silent moments to calculate, process, and confirm their understanding of the concepts.",
     "desiredOutcome": "The student's expectation for the session was to understand how to combine momentum and kinematics concepts. These expectations were met as the tutor guided the student through solving problems involving both momentum and kinematics, helping them understand the concepts and apply them to calculations.",
     "activities": [
-      "Calculating distance using kinematics equation",
-      "Calculating velocity using kinematics",
-      "Applying friction force in a free body diagram",
+      "Impulse and force relationship",
       "Using momentum to find force and time",
-      "Momentum and Kinematics combined",
-      "Finding velocity change using impulse",
+      "Calculating distance using kinematics equation",
+      "Applying friction force in a free body diagram",
       "Calculating net force and direction",
+      "Finding velocity change using impulse",
       "Kinematics equations and variables",
-      "Impulse and force relationship"
+      "Momentum and Kinematics combined",
+      "Calculating velocity using kinematics"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -191,11 +191,11 @@
         53
       ],
       "analysis": [
-        "The tutor and student had a period of silence to calculate and verify the answer.",
-        "The tutor and student had a period of silence to process and confirm the calculation result.",
-        "The tutor and student had a period of silence to allow time for calculations and thinking.",
-        "The tutor and student were likely thinking and processing the information before continuing the discussion.",
-        "The student needed time to calculate and process information before sharing their answer."
+        "5-7 min: The tutor and student had a period of silence to calculate and verify the answer.",
+        "15-17 min: The tutor and student had a period of silence to process and confirm the calculation result.",
+        "32-34 min: The tutor and student had a period of silence to allow time for calculations and thinking.",
+        "37-39 min: The tutor and student were likely thinking and processing the information before continuing the discussion.",
+        "49-51 min: The student needed time to calculate and process information before sharing their answer."
       ]
     }
   },

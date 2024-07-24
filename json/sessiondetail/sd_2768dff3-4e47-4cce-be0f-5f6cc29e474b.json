@@ -14,13 +14,13 @@
     "activities": [
       "Application of trigonometry in physics for velocity components",
       "Trigonometry application in physics for velocity components",
-      "Velocity components and direction in projectile motion",
-      "Displacement formula and final position representation",
       "Projectile motion and parabolic path",
-      "Mass and weight relationship in physics",
-      "Isolating variables in trigonometric equations for calculation",
       "Calculating velocity components using trigonometric functions",
-      "Net force calculation and acceleration determination"
+      "Displacement formula and final position representation",
+      "Mass and weight relationship in physics",
+      "Velocity components and direction in projectile motion",
+      "Net force calculation and acceleration determination",
+      "Isolating variables in trigonometric equations for calculation"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -141,9 +141,9 @@
         36
       ],
       "analysis": [
-        "The student was unsure of what to do next, leading to a moment of silence.",
-        "The tutor and student had a period of silence to allow time for reflection and processing.",
-        "The tutor allowed the student time to work independently on finding the equations discussed."
+        "20-22 min: The student was unsure of what to do next, leading to a moment of silence.",
+        "27-29 min: The tutor and student had a period of silence to allow time for reflection and processing.",
+        "30-33 min: The tutor allowed the student time to work independently on finding the equations discussed."
       ]
     }
   },

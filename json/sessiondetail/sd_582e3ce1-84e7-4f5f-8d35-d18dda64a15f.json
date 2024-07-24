@@ -13,15 +13,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including alternate interior and exterior angles, supplementary angles, corresponding angles, vertical angles, solving equations with variables, manipulating equations, complementary angles, parallel lines, and angles. The student's expectation of going over worksheets related to classifying angle pairs was met as the tutor guided them through the problems. There was a period of low interaction due to a lack of clear communication, resulting in silence between the tutor and student.",
     "desiredOutcome": "The student's expectation for the session seems to be to go over worksheets related to classifying angle pairs. The tutor is helping the student understand the relationships between different angle pairs and how to classify them correctly. The student's expectation of working on specific worksheets is being met as the tutor guides them through the problems and clarifies any confusion.",
     "activities": [
+      "Manipulating Equations to Solve for Variables",
       "Corresponding Angles",
-      "Review and Recap",
-      "Parallel Lines and Angles",
-      "Complementary Angles",
       "Supplementary Angles",
-      "Vertical Angles",
+      "Complementary Angles",
       "Alternate Interior and Exterior Angles",
+      "Vertical Angles",
+      "Parallel Lines and Angles",
       "Solving Equations with Variables",
-      "Manipulating Equations to Solve for Variables"
+      "Review and Recap"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -163,7 +163,7 @@
         43
       ],
       "analysis": [
-        "The tutor and student had a period of silence due to a lack of clear communication."
+        "37-39 min: The tutor and student had a period of silence due to a lack of clear communication."
       ]
     }
   },

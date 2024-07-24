@@ -14,9 +14,9 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on math problems related to the unit circle, specifically on finding exact values of trigonometric functions. The student sought help with understanding concepts related to rotations and trigonometric functions. The tutor addressed the student's expectations by explaining cosine in relation to the unit circle and guiding through problem-solving.",
     "desiredOutcome": "The student's expectation for the session is to work on math problems related to the unit circle, specifically focusing on finding the exact values of trigonometric functions. The student seems to be catching up on current homework and is seeking help with understanding concepts related to rotations and trigonometric functions. The tutor is addressing the student's expectation by explaining the concept of cosine in relation to the unit circle and guiding the student through solving specific math problems.",
     "activities": [
+      "Unit Circle and Trigonometric Functions (Sine)",
       "Unit Circle and Trigonometric Functions (Cosine)",
-      "Unit Circle and Trigonometric Functions (Tangent)",
-      "Unit Circle and Trigonometric Functions (Sine)"
+      "Unit Circle and Trigonometric Functions (Tangent)"
     ],
     "interactionTrend": {
       "tutorUtterances": [

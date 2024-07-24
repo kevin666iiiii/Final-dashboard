@@ -12,14 +12,14 @@
     "desiredOutcome": "The student's expectations for the session seem to be casual conversation and sharing personal experiences. These expectations are met.",
     "activities": [
       "Discussion about a book by Khalil Gibran",
-      "Discussion about Taylor Swift and country music",
-      "Weather and temperature discussion",
       "New Year's resolutions",
-      "Discussion about Soviet movies and creativity under constraints",
-      "Discussion about a new math teacher and econ teacher",
       "Discussion about identities and trigonometry",
-      "Discussion about beauty standards in different cultures",
-      "Discussion about European male beauty standards"
+      "Discussion about a new math teacher and econ teacher",
+      "Discussion about Taylor Swift and country music",
+      "Discussion about Soviet movies and creativity under constraints",
+      "Weather and temperature discussion",
+      "Discussion about European male beauty standards",
+      "Discussion about beauty standards in different cultures"
     ],
     "interactionTrend": {
       "tutorUtterances": [

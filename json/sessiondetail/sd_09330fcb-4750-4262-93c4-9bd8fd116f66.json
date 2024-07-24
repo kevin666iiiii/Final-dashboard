@@ -14,13 +14,13 @@
     "activities": [
       "Scatter plots and correlations",
       "Linear regression",
-      "Density curve and normal distribution",
-      "Analyzing categorical data",
-      "Quantitative data distributions",
-      "Data types and variables",
-      "Transform data",
       "Percentile and cumulative relative frequency",
-      "Measures of center"
+      "Data types and variables",
+      "Analyzing categorical data",
+      "Measures of center",
+      "Density curve and normal distribution",
+      "Transform data",
+      "Quantitative data distributions"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -183,7 +183,7 @@
         50
       ],
       "analysis": [
-        "The tutor and student had a period of silence to process and absorb the information."
+        "2-5 min: The tutor and student had a period of silence to process and absorb the information."
       ]
     }
   },

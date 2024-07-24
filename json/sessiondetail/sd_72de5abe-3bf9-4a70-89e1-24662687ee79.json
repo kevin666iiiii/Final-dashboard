@@ -12,15 +12,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics related to completing the square, including quadratic equations, circles in standard form, and complex numbers. The student's expectation was to practice completing the square, and the tutor guided them through exercises, with moments of low interaction occurring when the student struggled with a math problem.",
     "desiredOutcome": "The student's expectation for the session is to practice completing the square and solve quadratic equations using that method. The tutor addresses this expectation by providing explanations and guiding the student through completing the square exercises. The student seems engaged and understanding the concepts presented.",
     "activities": [
-      "Handling complex numbers in completing the square",
-      "Simplifying radicals in completing the square",
       "Applying completing the square to find centers and radii of circles",
-      "Scheduling future tutoring sessions",
-      "Completing the square for quadratic equations",
       "Understanding imaginary numbers in completing the square",
       "Solving quadratic equations with fractions using completing the square",
+      "Handling complex numbers in completing the square",
+      "Scheduling future tutoring sessions",
+      "Completing the square for circles in standard form",
       "Rationalizing square roots in completing the square",
-      "Completing the square for circles in standard form"
+      "Simplifying radicals in completing the square",
+      "Completing the square for quadratic equations"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -207,7 +207,7 @@
         58
       ],
       "analysis": [
-        "The student struggled with the math problem, leading to a moment of silence for reflection."
+        "17-19 min: The student struggled with the math problem, leading to a moment of silence for reflection."
       ]
     }
   },

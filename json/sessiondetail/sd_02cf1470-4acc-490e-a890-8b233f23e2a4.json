@@ -12,15 +12,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including systems of equations, exponential functions, linear functions, and SAT preparation. The student's expectations were met as they finished the assessment, reviewed topics, discussed SAT resources, and worked on test-taking strategies. During a low interaction period, the student likely reviewed problems silently before seeking clarification.",
     "desiredOutcome": "The student's expectation for the session is to finish up the assessment, review topics from the assessment, discuss resources for SAT preparation, and work on test-taking strategies. These expectations are addressed by the tutor as they plan to finish the assessment, discuss reviewing topics, mention SAT resources, and offer practice tests and test-taking strategies.",
     "activities": [
-      "Systems of equations, point of intersection",
-      "Linear functions, slope-intercept form",
-      "Exponential functions, growth factor",
       "Exponential growth model, percentage growth",
-      "SAT practice test, exponential functions",
-      "Systems of equations, elimination method",
+      "Exponential functions, growth factor",
+      "Linear functions, slope-intercept form",
+      "Systems of equations, point of intersection",
       "Exponential growth and decay",
+      "Linear functions, growth rate",
       "Exponential growth model",
-      "Linear functions, growth rate"
+      "Systems of equations, elimination method",
+      "SAT practice test, exponential functions"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -243,7 +243,7 @@
         70
       ],
       "analysis": [
-        "The student was likely reviewing the problem silently before asking for help or clarification."
+        "27-29 min: The student was likely reviewing the problem silently before asking for help or clarification."
       ]
     }
   },

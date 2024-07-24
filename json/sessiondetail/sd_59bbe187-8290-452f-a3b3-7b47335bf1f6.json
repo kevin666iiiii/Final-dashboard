@@ -11,8 +11,8 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on pre-calculus topics, specifically exponential and logarithmic equations. The student's expectation of working on these problems and receiving guidance was met. They also engaged in casual conversation, although there were moments of low interaction when the student struggled with calculations, leading to confusion and silence.",
     "desiredOutcome": "The student's expectation for the session seems to be to work on pre-calculus problems and receive guidance on solving equations. The student also seems to enjoy discussing unrelated topics and sharing personal anecdotes with the tutor. The tutor is providing assistance with solving equations and engaging in casual conversation with the student. The student's expectation of working on pre-calculus problems is being met, and the tutor is providing guidance and support in solving the equations.",
     "activities": [
-      "Pre-calculus - Logarithmic Equations",
-      "Pre-calculus - Exponential Equations"
+      "Pre-calculus - Exponential Equations",
+      "Pre-calculus - Logarithmic Equations"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -205,7 +205,7 @@
         60
       ],
       "analysis": [
-        "The student struggled with the calculation, leading to a moment of confusion and silence."
+        "18-20 min: The student struggled with the calculation, leading to a moment of confusion and silence."
       ]
     }
   },

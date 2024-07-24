@@ -14,15 +14,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including solving equations by factoring, identifying factors of a polynomial, determining x-intercepts, finding zeros/roots, and understanding the relationship between roots and factors. The student's expectation was to review factoring equations, which the tutor successfully addressed by guiding them through the process.",
     "desiredOutcome": "The student's expectation for the session is to review and refresh their knowledge on factoring equations. The tutor successfully addressed the student's expectation by guiding them through the process of factoring an equation.",
     "activities": [
-      "Determining x-intercepts of a polynomial function",
-      "Finding zeros/roots/x-intercepts of a polynomial",
-      "Identifying mistakes in solutions",
-      "Solving equations by factoring",
-      "Understanding the relationship between roots and factors of a polynomial",
-      "Scheduling tutoring sessions",
-      "Confirming session details",
       "Identifying factors of a polynomial",
-      "Determining the equation from x-intercepts"
+      "Confirming session details",
+      "Understanding the relationship between roots and factors of a polynomial",
+      "Solving equations by factoring",
+      "Finding zeros/roots/x-intercepts of a polynomial",
+      "Determining x-intercepts of a polynomial function",
+      "Identifying mistakes in solutions",
+      "Determining the equation from x-intercepts",
+      "Scheduling tutoring sessions"
     ],
     "interactionTrend": {
       "tutorUtterances": [

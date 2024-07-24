@@ -15,15 +15,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including linear modeling, inverse functions, cost analysis, profit calculation, and function evaluation. The student's expectation was to review test questions on these topics, which the tutor addressed by explaining and solving the questions. Throughout the session, there were periods of low interaction due to reasons such as the student searching for questions, technical difficulties with the writing tool, and the tutor being muted.",
     "desiredOutcome": "The student's expectation for the session is to review test questions on linear modeling and inverse functions. The tutor addresses the student's request by explaining and solving the test questions.",
     "activities": [
-      "One-to-one functions and graphing inverses",
       "Cost analysis and profit calculation",
+      "Distance modeling and point-slope form",
+      "Distance modeling and slope-intercept form",
+      "One-to-one functions and graphing inverses",
+      "Linear modeling and inverse functions",
+      "Rate of change calculation and function evaluation",
       "Graphing inverses and identifying one-to-one functions",
       "Inverse function interpretation and equation solving",
-      "Distance modeling and slope-intercept form",
-      "Linear modeling and inverse functions",
-      "Distance modeling and point-slope form",
-      "Inverse equations in different forms",
-      "Rate of change calculation and function evaluation"
+      "Inverse equations in different forms"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -192,9 +192,9 @@
         52
       ],
       "analysis": [
-        "The student was likely searching for the questions to upload for discussion.",
-        "Technical difficulties with writing tool caused a brief pause in the tutoring session.",
-        "The tutor was muted, leading to a period of silence in the session."
+        "3-5 min: The student was likely searching for the questions to upload for discussion.",
+        "7-9 min: Technical difficulties with writing tool caused a brief pause in the tutoring session.",
+        "37-39 min: The tutor was muted, leading to a period of silence in the session."
       ]
     }
   },

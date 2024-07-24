@@ -15,14 +15,14 @@
     "desiredOutcome": "The student seems unsure about functions and expects help with finding f of x values. The tutor provides step-by-step guidance, meeting the student's expectations.",
     "activities": [
       "Function Composition - Applying function composition to given functions",
-      "Function Comprehension - Understanding and applying functions to given values",
       "Functions - Applying function composition f(g(x))",
-      "Graphing - Understanding how to graph basic functions like y=x, y=x^2, etc.",
-      "Piecewise Functions - Applying piecewise functions to specific values",
       "Test Preparation - Reviewing concepts for an upcoming test",
+      "Exponential Growth and Decay - Understanding exponential functions",
+      "Graphing - Understanding how to graph basic functions like y=x, y=x^2, etc.",
       "Functions - Finding f(x), f(x+1), f(-x)",
       "Functions - Graphing basic functions and understanding piecewise functions",
-      "Exponential Growth and Decay - Understanding exponential functions"
+      "Function Comprehension - Understanding and applying functions to given values",
+      "Piecewise Functions - Applying piecewise functions to specific values"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -215,11 +215,11 @@
         60
       ],
       "analysis": [
-        "The student needed time to process the question and calculate the answer independently.",
-        "The student struggled with the next problem, leading to a moment of uncertainty and silence.",
-        "The tutor and student had a period of silence to allow time for individual reflection.",
-        "The tutor and student had a period of silence to allow the student to process information.",
-        "The tutor and student had a period of silence to allow time for processing information."
+        "14-16 min: The student needed time to process the question and calculate the answer independently.",
+        "28-31 min: The student struggled with the next problem, leading to a moment of uncertainty and silence.",
+        "31-34 min: The tutor and student had a period of silence to allow time for individual reflection.",
+        "39-41 min: The tutor and student had a period of silence to allow the student to process information.",
+        "55-57 min: The tutor and student had a period of silence to allow time for processing information."
       ]
     }
   },

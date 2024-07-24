@@ -13,15 +13,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed topics such as the equation of an ellipse, focal points, and circle-related concepts. The student's main focus was on understanding ellipses and the tutor effectively explained the concepts, utilizing visual aids and engaging in dialogue. Periods of low interaction occurred for reflection, processing, and visualization purposes.",
     "desiredOutcome": "The student's expectation for the session is to review and understand how to find the equation of an ellipse. The student seems to have forgotten the equation from the previous session and is seeking clarification on the concepts of a squared and b squared in relation to ellipses. The tutor is guiding the student through understanding the shape of an ellipse compared to a circle and the differences in the distances from the center, helping the student grasp the concept of semi-major and semi-minor axes. The tutor is effectively addressing the student's expectation by providing a visual explanation and engaging in a dialogue to enhance understanding.",
     "activities": [
-      "Equation of an ellipse",
-      "Constant in an ellipse equation",
-      "Midpoint formula",
-      "Finding the equation of a semicircle",
-      "Focal points in an ellipse",
-      "Solving for a squared and b squared in an ellipse",
       "Standard equation of a circle",
-      "Finding the radius of a circle",
-      "Calculating distance between two points"
+      "Solving for a squared and b squared in an ellipse",
+      "Constant in an ellipse equation",
+      "Finding the equation of a semicircle",
+      "Equation of an ellipse",
+      "Calculating distance between two points",
+      "Focal points in an ellipse",
+      "Midpoint formula",
+      "Finding the radius of a circle"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -316,11 +316,11 @@
         94
       ],
       "analysis": [
-        "The student's brief response may have indicated understanding, leading to a moment of reflection.",
-        "The tutor paused to allow the student time to process and understand the concept explained.",
-        "The tutor and student had a period of silence to independently verify their understanding.",
-        "The tutor and student were processing and trying to recall the mathematical operation involving exponents.",
-        "The student was likely trying to visualize and draw the figure, leading to silence."
+        "0-1 min: The student's brief response may have indicated understanding, leading to a moment of reflection.",
+        "11-13 min: The tutor paused to allow the student time to process and understand the concept explained.",
+        "52-55 min: The tutor and student had a period of silence to independently verify their understanding.",
+        "60-62 min: The tutor and student were processing and trying to recall the mathematical operation involving exponents.",
+        "68-70 min: The student was likely trying to visualize and draw the figure, leading to silence."
       ]
     }
   },

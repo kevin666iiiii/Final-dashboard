@@ -15,14 +15,14 @@
     "desiredOutcome": "The student's expectation for the session is to practice solving linear equations, specifically focusing on the topic of solving linear equations with infinite solutions. The student also mentions having notes from their teacher and additional problems to work on. The tutor helps the student work through some practice problems and clarifies concepts related to linear equations with infinite solutions. Overall, the student's expectations for the session seem to be met as they receive guidance on the topic they are studying for their upcoming algebra test.",
     "activities": [
       "Finding the average value of a function",
-      "Solving linear equations",
-      "Factoring",
-      "Identifying slope and y-intercept in an equation",
-      "Applying the point-slope formula",
-      "Understanding the concept of functions and inputs/outputs",
-      "Interpreting graphs of linear functions",
+      "Understanding slope-intercept form of a linear equation",
       "Finding the midpoint of a line segment",
-      "Understanding slope-intercept form of a linear equation"
+      "Factoring",
+      "Understanding the concept of functions and inputs/outputs",
+      "Identifying slope and y-intercept in an equation",
+      "Interpreting graphs of linear functions",
+      "Applying the point-slope formula",
+      "Solving linear equations"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -215,9 +215,9 @@
         60
       ],
       "analysis": [
-        "The student paused to reflect on wanting to do more review problems like the current one.",
-        "The tutor and student had a period of silence to gather their thoughts and refocus.",
-        "The student was processing the information and needed time to think and respond."
+        "15-17 min: The student paused to reflect on wanting to do more review problems like the current one.",
+        "22-24 min: The tutor and student had a period of silence to gather their thoughts and refocus.",
+        "50-52 min: The student was processing the information and needed time to think and respond."
       ]
     }
   },

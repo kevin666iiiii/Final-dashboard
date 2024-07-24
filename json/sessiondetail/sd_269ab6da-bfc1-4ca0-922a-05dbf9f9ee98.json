@@ -12,15 +12,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including function operations, definition of a function, composite functions, simplifying expressions, factoring trinomials, applying discounts and coupons, dividing functions, common factors in simplifying, and managing time blocks in sessions. The student's expectation was to better understand function operations, particularly adding and simplifying functions, as well as gaining clarity on the concept of functions and their relationship between variables. The tutor successfully addressed the student's confusion and provided clear explanations, meeting the student's expectations. Throughout the session, there were no periods of low interaction between the tutor and student.",
     "desiredOutcome": "The student's expectation for the session is to understand function operations better, specifically how to add and simplify functions. The student also seeks clarification on the concept of functions and their relationship between variables. The tutor successfully addresses the student's confusion and provides clear explanations, meeting the student's expectations.",
     "activities": [
-      "Factoring Trinomials",
       "Applying Discounts and Coupons",
       "Definition of a Function",
+      "Dividing Functions",
+      "Common Factors in Simplifying",
+      "Function Operations",
       "Managing Time Blocks in Sessions",
       "Composite Functions",
-      "Common Factors in Simplifying",
-      "Simplifying Expressions",
-      "Dividing Functions",
-      "Function Operations"
+      "Factoring Trinomials",
+      "Simplifying Expressions"
     ],
     "interactionTrend": {
       "tutorUtterances": [

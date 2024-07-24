@@ -13,15 +13,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including casual conversation, Christmas gifts, and the significance of PI in mathematics. The student's expectation was to learn more about PI digits and their relation to circles, which the tutor addressed by explaining PI's concept, use in circle calculations, and the initial digits of PI. Periods of low interaction occurred as the tutor gathered materials, encountered technical issues, processed information, and the student wrote down or struggled to recall PI digits.",
     "desiredOutcome": "The student's expectation for the session is to learn more about PI digits, specifically how the numbers progress and their significance in relation to circles. The tutor addresses the student's expectation by explaining the concept of PI, its use in calculating circle properties, and the initial digits of PI.",
     "activities": [
+      "Explanation of the first few digits of PI",
+      "Recap of the student's weekend",
+      "Discussion about Christmas gifts",
+      "Review and summary of PI concepts",
       "Introduction and casual conversation",
       "Introduction to PI and its significance in mathematics",
-      "Explanation of the first few digits of PI",
-      "Discussion about Christmas gifts",
-      "Discussion on the infinite nature of PI and its irrationality",
-      "Review and summary of PI concepts",
+      "Memorization practice of PI digits",
       "Closure and scheduling for the next session",
-      "Recap of the student's weekend",
-      "Memorization practice of PI digits"
+      "Discussion on the infinite nature of PI and its irrationality"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -157,11 +157,11 @@
         41
       ],
       "analysis": [
-        "The tutor needed a moment to gather materials or information before continuing the session.",
-        "The tutor likely encountered a technical issue or distraction, leading to a momentary pause.",
-        "The tutor and student were silently processing the overwhelming amount of numbers and information.",
-        "The student was likely writing down the digits of pi, leading to a period of silence.",
-        "The period of silence occurred as the student struggled to recall the digits of PI."
+        "2-4 min: The tutor needed a moment to gather materials or information before continuing the session.",
+        "9-11 min: The tutor likely encountered a technical issue or distraction, leading to a momentary pause.",
+        "20-27 min: The tutor and student were silently processing the overwhelming amount of numbers and information.",
+        "27-30 min: The student was likely writing down the digits of pi, leading to a period of silence.",
+        "32-37 min: The period of silence occurred as the student struggled to recall the digits of PI."
       ]
     }
   },

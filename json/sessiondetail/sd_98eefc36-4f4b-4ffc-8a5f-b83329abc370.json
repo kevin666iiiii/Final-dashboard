@@ -12,13 +12,13 @@
     "aiSummary": "The tutoring session covered a range of topics including algebra, geometry, and trigonometry. The student's expectation was to practice algebra problems and improve their understanding for an upcoming test. However, technical difficulties and distractions hindered the session from fully meeting the student's expectations.",
     "desiredOutcome": "The student's expectation for the session seems to be to go over practice problems, specifically focusing on algebra problems they had trouble with. They also mentioned feeling nervous about an upcoming test and expressed a desire to improve their understanding of the material. The tutor attempted to address these expectations by trying to access the student's provided practice problems and working through a sample algebra problem together. However, due to technical difficulties and distractions, the session did not fully meet the student's expectations.",
     "activities": [
-      "Algebra - Applying formulas, solving for unknowns",
-      "Geometry - Applying Pythagorean theorem, finding side lengths",
-      "Geometry - Square pyramid, slant height, edge of the base",
-      "Trigonometry - Law of sines, finding missing angles",
       "Trigonometry - Law of cosines, finding missing sides and angles",
+      "Algebra - Composite functions, foiling, square roots",
+      "Trigonometry - Law of sines, finding missing angles",
+      "Geometry - Square pyramid, slant height, edge of the base",
+      "Geometry - Applying Pythagorean theorem, finding side lengths",
       "Algebra - Graphs, increasing and decreasing functions",
-      "Algebra - Composite functions, foiling, square roots"
+      "Algebra - Applying formulas, solving for unknowns"
     ],
     "interactionTrend": {
       "tutorUtterances": [

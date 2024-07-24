@@ -14,8 +14,8 @@
     "desiredOutcome": "The student's expectation for the session is to work on math problems involving exponents and learn the laws of exponents. These expectations are being addressed and solved by the tutor during the session.",
     "activities": [
       "Product rule and quotient rule",
-      "Laws of exponents",
-      "Subtraction of polynomials"
+      "Subtraction of polynomials",
+      "Laws of exponents"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -211,10 +211,10 @@
         61
       ],
       "analysis": [
-        "The student needed time to process the information and formulate a response before speaking.",
-        "The student struggled to articulate their thoughts, leading to a moment of confusion and silence.",
-        "The tutor and student were likely processing information or trying to figure out the solution.",
-        "The tutor and student had a period of silence to allow time for reflection and processing."
+        "40-42 min: The student needed time to process the information and formulate a response before speaking.",
+        "51-53 min: The student struggled to articulate their thoughts, leading to a moment of confusion and silence.",
+        "56-58 min: The tutor and student were likely processing information or trying to figure out the solution.",
+        "59-61 min: The tutor and student had a period of silence to allow time for reflection and processing."
       ]
     }
   },

@@ -13,15 +13,15 @@
     "aiSummary": "In the tutoring session, the student focused on practicing math problems related to graphing equations and understanding transformations of sine graphs. The tutor guided the student through practice problems, explained concepts, and prompted critical thinking. Periods of low interaction occurred due to initial confusion, silent processing, and collaborative calculation of reference angles.",
     "desiredOutcome": "Based on the transcript, the student's expectation for the session seems to be focused on practicing math problems, specifically related to graphing equations and understanding transformations of sine graphs. The student is engaging in solving practice problems and seeking guidance on how to approach and solve them. The student also seems to be looking for clarification on concepts such as amplitudes, periods, horizontal shifts, and vertical shifts in graphing equations.\n\nThe tutor is addressing the student's expectations by guiding them through the practice problems, explaining concepts related to graphing equations, and providing assistance in understanding transformations of sine graphs. The tutor is actively engaging with the student, asking questions to prompt critical thinking, and providing explanations to help the student grasp the concepts effectively.",
     "activities": [
-      "Writing equations of sine graphs based on given information",
-      "Reviewing trigonometric concepts and angles in quadrants",
-      "Graphing sine and cosine functions",
       "Determining reference angles and possible quadrants for given cosine values",
       "Identifying midline, amplitude, and period of sine graphs",
+      "Finding angles on the unit circle and determining reference angles",
+      "Writing equations of sine graphs based on given information",
+      "Graphing sine and cosine functions",
       "Identifying angles in different quadrants based on trigonometric ratios",
-      "Identifying midline, amplitude, and period of cosine graphs",
+      "Reviewing trigonometric concepts and angles in quadrants",
       "Writing equations of cosine graphs based on given information",
-      "Finding angles on the unit circle and determining reference angles"
+      "Identifying midline, amplitude, and period of cosine graphs"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -205,9 +205,9 @@
         57
       ],
       "analysis": [
-        "The student initially didn't respond, causing confusion and a brief pause in communication.",
-        "The tutor and student had a period of silence to process and think about the question.",
-        "The tutor and student were likely thinking and calculating the reference angle silently together."
+        "0-1 min: The student initially didn't respond, causing confusion and a brief pause in communication.",
+        "34-36 min: The tutor and student had a period of silence to process and think about the question.",
+        "48-50 min: The tutor and student were likely thinking and calculating the reference angle silently together."
       ]
     }
   },

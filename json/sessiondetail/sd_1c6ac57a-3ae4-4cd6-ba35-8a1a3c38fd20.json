@@ -9,14 +9,14 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including factoring quadratic expressions, identifying the axis of symmetry, and graphing quadratic functions. The student's expectation was to focus on factoring techniques, which the tutor successfully addressed. There were two instances of low interaction due to unclear responses and pauses for clarification and simplification.",
     "desiredOutcome": "The student's expectation for the session seems to be to work on factoring algebraic expressions using techniques like finding the greatest common factor and factoring by grouping. The tutor successfully addressed these expectations by guiding the student through the process and helping them arrive at the correct answers.",
     "activities": [
-      "Factoring with greatest common factor",
-      "Solving quadratic inequalities",
-      "Graphing quadratic functions",
       "Identifying axis of symmetry",
-      "Factoring trinomials",
-      "Difference of cubes",
-      "Factoring by grouping",
       "Using the quadratic formula",
+      "Graphing quadratic functions",
+      "Solving quadratic inequalities",
+      "Factoring with greatest common factor",
+      "Factoring trinomials",
+      "Factoring by grouping",
+      "Difference of cubes",
       "Factoring quadratic expressions"
     ],
     "interactionTrend": {
@@ -189,8 +189,8 @@
         53
       ],
       "analysis": [
-        "The student's response was unclear, leading to confusion and a pause for clarification.",
-        "The tutor paused to gather thoughts and simplify the explanation, leading to a brief silence."
+        "0-1 min: The student's response was unclear, leading to confusion and a pause for clarification.",
+        "44-46 min: The tutor paused to gather thoughts and simplify the explanation, leading to a brief silence."
       ]
     }
   },

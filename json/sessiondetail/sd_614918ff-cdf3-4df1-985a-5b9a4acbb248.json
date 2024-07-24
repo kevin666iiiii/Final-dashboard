@@ -12,13 +12,13 @@
     "desiredOutcome": "The student's expectations for the session were to review trigonometry concepts, solve math problems involving combinations, and apply formulas to find the radius of a cone. These expectations were met as the tutor guided the student through the trigonometry question, helped with the combinations problem, and corrected a mistake while finding the radius of the cone.",
     "activities": [
       "Algebra - Factoring Quadratic Expressions",
-      "Probability",
-      "Geometry - Distance between Points in a Right Triangle",
-      "Trigonometry - Sine, Cosine, and Tangent",
       "Geometry - Circumference and Radius of a Circle",
-      "Permutations and Combinations",
-      "Geometry - Volume of a Cone",
+      "Geometry - Distance between Points in a Right Triangle",
       "Geometry - Finding Midpoint of a Line Segment",
+      "Trigonometry - Sine, Cosine, and Tangent",
+      "Permutations and Combinations",
+      "Probability",
+      "Geometry - Volume of a Cone",
       "Algebra - Finding Slope of a Line"
     ],
     "interactionTrend": {

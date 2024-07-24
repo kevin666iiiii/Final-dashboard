@@ -14,15 +14,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various advanced topics in linear algebra, such as diagonalization of matrices, eigenvalues, eigenvectors, and matrix operations. The student's expectations were partially met as they successfully identified eigenvectors and eigenvalues but faced challenges with matrix multiplication. Throughout the session, there were periods of low interaction where the student likely waited for guidance, experienced confusion over calculations, and needed time to process complex equations.",
     "desiredOutcome": "The student's expectation for the session is to understand diagonalizability, find eigenvectors and eigenvalues, and perform matrix operations accurately. These expectations are partially met as the student successfully identifies eigenvectors and eigenvalues but encounters errors in matrix multiplication.",
     "activities": [
-      "Diagonalization of matrices",
-      "Eigenvalues and eigenvectors",
-      "Finding null spaces of matrices",
       "Geometric multiplicity vs algebraic multiplicity of eigenvalues",
-      "Rank of matrices",
-      "Determining diagonalizability of linear transformations",
-      "Calculating determinants of matrices",
       "Matrix representation of linear transformations",
-      "Row reduction of matrices"
+      "Calculating determinants of matrices",
+      "Rank of matrices",
+      "Row reduction of matrices",
+      "Eigenvalues and eigenvectors",
+      "Diagonalization of matrices",
+      "Finding null spaces of matrices",
+      "Determining diagonalizability of linear transformations"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -200,9 +200,9 @@
         55
       ],
       "analysis": [
-        "The student was likely waiting for the tutor to respond or provide further guidance.",
-        "The tutor and student had a period of silence due to confusion over eigenvalues and calculations.",
-        "The tutor and student had a period of silence to process and understand the complex equation."
+        "0-3 min: The student was likely waiting for the tutor to respond or provide further guidance.",
+        "35-37 min: The tutor and student had a period of silence due to confusion over eigenvalues and calculations.",
+        "45-47 min: The tutor and student had a period of silence to process and understand the complex equation."
       ]
     }
   },

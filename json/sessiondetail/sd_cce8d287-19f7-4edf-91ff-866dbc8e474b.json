@@ -11,8 +11,8 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed topics such as inequalities, interval notation, and solving equations with square roots. The student's expectation was to grasp converting solutions to inequalities and using interval notation accurately, which the tutor addressed through explanations and examples. During a specific low interaction period, lasting from 2220000 to 2340000 milliseconds, both the tutor and student engaged in a moment of silence to process and absorb the information shared.",
     "desiredOutcome": "The student's expectation for the session is to understand how to convert solutions to inequalities and use interval notation correctly. These expectations are addressed and solved by the tutor through explanations and examples.",
     "activities": [
-      "Solving Equations with Square Roots",
-      "Inequalities and Interval Notation"
+      "Inequalities and Interval Notation",
+      "Solving Equations with Square Roots"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -205,7 +205,7 @@
         60
       ],
       "analysis": [
-        "The tutor and student had a period of silence to process and absorb the information shared."
+        "37-39 min: The tutor and student had a period of silence to process and absorb the information shared."
       ]
     }
   },

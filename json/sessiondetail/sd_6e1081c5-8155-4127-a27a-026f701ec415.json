@@ -11,15 +11,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including simplifying radicals, exponent rules, multiplying radicals, combining like terms, factoring, extraneous solutions, quadratic formula, solving equations, and fraction rules. The student's expectation was to simplify and multiply radicals, which the tutor addressed by guiding them through simplifying radicals and combining terms. Throughout the session, there were no periods of low interaction between the tutor and student.",
     "desiredOutcome": "The student's expectation for the session is to simplify radicals and multiply them. The tutor addressed the student's expectation by guiding them through simplifying radicals and combining terms.",
     "activities": [
-      "Combining like terms",
-      "Exponent rules",
-      "Simplifying radicals",
       "Fraction rules",
-      "Factoring",
-      "Multiplying radicals",
+      "Extraneous solutions",
+      "Simplifying radicals",
       "Quadratic formula",
-      "Solving equations",
-      "Extraneous solutions"
+      "Multiplying radicals",
+      "Exponent rules",
+      "Factoring",
+      "Combining like terms",
+      "Solving equations"
     ],
     "interactionTrend": {
       "tutorUtterances": [

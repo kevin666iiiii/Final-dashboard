@@ -13,15 +13,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed special right triangles, trigonometric functions, the unit circle, and solving problems using trigonometry. The student's expectation was to learn about these topics, and the tutor addressed this by explaining concepts and relationships in special right triangles. Periods of low interaction occurred for various reasons, including allowing time for independent thinking, waiting for each other to speak, and pausing to process information.",
     "desiredOutcome": "The student's expectation for the session is to learn about special right triangles and trigonometry, specifically focusing on solving problems using trigonometric functions. The tutor addresses the student's expectation by explaining the concepts of trigonometry and how to find relationships between angle measurements and side lengths in special right triangles.",
     "activities": [
-      "Memorization technique for special values of sine and cosine",
-      "Special right triangles and their angles",
-      "Understanding the significance of special values in trigonometry",
-      "Unit circle and its relationship to trigonometric functions",
-      "Application of trigonometry in finding side lengths in triangles",
-      "Solving for missing side lengths using trigonometric functions",
       "Using trigonometric functions to find side lengths in right triangles",
+      "Memorization technique for special values of sine and cosine",
+      "Unit circle and its relationship to trigonometric functions",
+      "Understanding the significance of special values in trigonometry",
+      "Special values for sine and cosine of common angles (30, 45, 60 degrees)",
+      "Solving for missing side lengths using trigonometric functions",
+      "Special right triangles and their angles",
       "Trigonometric functions (sine, cosine, tangent)",
-      "Special values for sine and cosine of common angles (30, 45, 60 degrees)"
+      "Application of trigonometry in finding side lengths in triangles"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -211,11 +211,11 @@
         59
       ],
       "analysis": [
-        "The tutor and student had a period of silence to allow the student to think independently.",
-        "Both tutor and student were waiting for each other to speak, leading to silence.",
-        "The tutor needed a moment to prepare and gather materials before continuing the session.",
-        "The tutor needed time to complete a task, leading to a brief silence in conversation.",
-        "The tutor and student were likely pausing to process information and gather their thoughts."
+        "35-37 min: The tutor and student had a period of silence to allow the student to think independently.",
+        "37-40 min: Both tutor and student were waiting for each other to speak, leading to silence.",
+        "49-53 min: The tutor needed a moment to prepare and gather materials before continuing the session.",
+        "55-57 min: The tutor needed time to complete a task, leading to a brief silence in conversation.",
+        "57-59 min: The tutor and student were likely pausing to process information and gather their thoughts."
       ]
     }
   },

@@ -11,15 +11,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on factoring polynomials, specifically on the sum and difference of cubes. The student's expectation was to receive help with understanding and completing their homework on this topic. The tutor acknowledged the student's struggles and agreed to address these specific areas of difficulty during the session.",
     "desiredOutcome": "The student's expectation for the session is to receive help with understanding and completing their homework on factoring polynomials, specifically focusing on the sum of cubes and difference of cubes. They mentioned that they are struggling with this concept and left those problems unfinished. The student also expressed that they don't need a full session and that it can be light due to the break from school. The tutor acknowledged the student's need for help with factoring and agreed to review and work on the sum of cubes and difference of cubes problems from the homework. The student's expectations for the session seem to be addressed as the tutor is planning to focus on the specific areas of difficulty mentioned by the student.",
     "activities": [
+      "Factoring polynomials in general by finding the greatest common factor",
+      "Factoring the sum and difference of cubes",
       "Understanding the difference of two cubes formula",
-      "Using the greatest common factor to factor polynomials",
       "Using prime factorization to factor polynomials",
+      "Using the greatest common factor to factor polynomials",
+      "Factoring polynomials with long division and synthetic division",
       "Identifying the middle term in factoring polynomials",
       "Applying the formulas for sum and difference of cubes",
-      "Factoring polynomials with long division and synthetic division",
-      "Identifying values of a and b in the sum and difference of cubes",
-      "Factoring polynomials in general by finding the greatest common factor",
-      "Factoring the sum and difference of cubes"
+      "Identifying values of a and b in the sum and difference of cubes"
     ],
     "interactionTrend": {
       "tutorUtterances": [

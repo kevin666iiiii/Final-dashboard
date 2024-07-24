@@ -13,15 +13,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics related to linear equations. The student's expectation included addressing test results and test-taking anxiety, partially fulfilled by the tutor's inquiry and support. Periods of low interaction occurred due to waiting for topic selection, technical issues, processing information, and formulating responses.",
     "desiredOutcome": "The student's expectation for the session seems to be discussing their recent test results and seeking guidance on test-taking anxiety and strategies for improvement. These expectations are partially addressed as the tutor inquires about the test and offers support for test anxiety.",
     "activities": [
+      "Graphing linear equations",
+      "Graphing horizontal and vertical lines",
       "Applying slope-intercept form in graphing",
+      "Graphing equations with specific intercepts",
       "Identifying x and y intercepts",
       "Solving for x and y intercepts",
-      "Graphing equations with specific intercepts",
+      "Finding x and y intercepts efficiently",
       "Identifying slope of horizontal and vertical lines",
-      "Understanding standard form of linear equations",
-      "Graphing horizontal and vertical lines",
-      "Graphing linear equations",
-      "Finding x and y intercepts efficiently"
+      "Understanding standard form of linear equations"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -229,11 +229,11 @@
         65
       ],
       "analysis": [
-        "Both were waiting for the other to take the lead in choosing the next topic.",
-        "The student's microphone was muted, causing a period of silence during the tutoring session.",
-        "The tutor and student had a period of silence to process and confirm information.",
-        "The tutor and student had a period of silence to allow for reflection and understanding.",
-        "The student needed time to process the information and formulate a response to the question."
+        "22-24 min: Both were waiting for the other to take the lead in choosing the next topic.",
+        "37-39 min: The student's microphone was muted, causing a period of silence during the tutoring session.",
+        "44-47 min: The tutor and student had a period of silence to process and confirm information.",
+        "47-49 min: The tutor and student had a period of silence to allow for reflection and understanding.",
+        "53-55 min: The student needed time to process the information and formulate a response to the question."
       ]
     }
   },

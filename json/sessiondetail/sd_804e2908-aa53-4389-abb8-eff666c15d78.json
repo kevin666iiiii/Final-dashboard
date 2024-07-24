@@ -13,15 +13,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including exponential and logarithmic functions, graphing functions, finding asymptotes, and solving equations. The student's expectation was to focus on rewriting exponential functions in log form, which the tutor successfully addressed by guiding the student through the conversion process and helping them solve related math problems.",
     "desiredOutcome": "The student's expectation for the session is to work on math problems related to rewriting exponential functions in log form. The tutor addresses this expectation by guiding the student through the process of converting exponential functions to log form. The student also sends a photo of the math problems they want to work on, indicating a specific focus for the session. The tutor successfully helps the student understand the concept and solve the problems.",
     "activities": [
-      "Solving equations for X and understanding linear equations",
-      "Finding horizontal asymptotes and graphing exponential functions",
-      "Writing equations for graphs and finding inverses of functions",
-      "Understanding logarithmic functions and solving equations",
-      "Graphing inverse functions and finding points on graphs",
-      "Graphing functions and finding asymptotes",
       "Exponential functions and logarithmic form conversion",
+      "Graphing inverse functions and finding points on graphs",
+      "Solving equations for X and understanding linear equations",
+      "Writing equations for graphs and finding inverses of functions",
       "Applying inverse functions and graphing functions",
-      "Understanding and solving exponential functions"
+      "Finding horizontal asymptotes and graphing exponential functions",
+      "Graphing functions and finding asymptotes",
+      "Understanding and solving exponential functions",
+      "Understanding logarithmic functions and solving equations"
     ],
     "interactionTrend": {
       "tutorUtterances": [

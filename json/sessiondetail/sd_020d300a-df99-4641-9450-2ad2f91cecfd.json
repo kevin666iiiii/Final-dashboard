@@ -13,14 +13,14 @@
     "desiredOutcome": "The student's expectation for the session is to understand exponent rules and simplify expressions. The tutor successfully addressed these expectations by explaining and solving problems involving exponents.",
     "activities": [
       "Graphing exponential and logarithmic functions",
-      "Identifying logarithmic functions and their properties",
-      "Characteristics of inverse functions and their application to logarithmic functions",
-      "Graphing the inverses of exponential functions",
-      "Graphing a logarithmic function using its inverse",
       "Comparing logarithmic functions with different bases",
-      "Identifying the inverse of a logarithmic function",
+      "Identifying logarithmic functions and their properties",
       "Exponential functions with different bases",
-      "Identifying the intercepts and end behavior of a logarithmic function"
+      "Characteristics of inverse functions and their application to logarithmic functions",
+      "Graphing a logarithmic function using its inverse",
+      "Identifying the inverse of a logarithmic function",
+      "Identifying the intercepts and end behavior of a logarithmic function",
+      "Graphing the inverses of exponential functions"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -207,11 +207,11 @@
         58
       ],
       "analysis": [
-        "Both tutor and student were processing information and thinking about the next step silently.",
-        "The tutor and student had a period of silence to process and confirm the answer.",
-        "The tutor and student were reflecting on the concepts discussed before continuing the session.",
-        "The tutor and student had a period of silence to allow time for reflection and processing.",
-        "The tutor and student were silently analyzing the effect of different bases on logarithmic functions."
+        "30-32 min: Both tutor and student were processing information and thinking about the next step silently.",
+        "39-41 min: The tutor and student had a period of silence to process and confirm the answer.",
+        "48-50 min: The tutor and student were reflecting on the concepts discussed before continuing the session.",
+        "50-52 min: The tutor and student had a period of silence to allow time for reflection and processing.",
+        "53-55 min: The tutor and student were silently analyzing the effect of different bases on logarithmic functions."
       ]
     }
   },

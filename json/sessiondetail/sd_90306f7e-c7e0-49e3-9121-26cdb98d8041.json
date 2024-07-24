@@ -11,15 +11,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including the coordinate plane, congruent shapes, triangles, rotational symmetry, and right angles. The student's initial expectation was to transfer their school work to a digital format, which the tutor partially addressed by suggesting using the platform's share and upload feature. The session may have been shorter than usual due to the student not being fully prepared.",
     "desiredOutcome": "The student's expectation for the session is to get help with transferring their paper work onto a digital copy because they are behind in their school work and their teacher is not responding to emails. The student's expectation is partially solved as the tutor suggests using the platform's share and upload feature to help with the digital transfer, but the session may be shorter than usual due to the student not being fully prepared.",
     "activities": [
-      "Explaining congruence in squares and right angles",
-      "Explaining congruence and side lengths",
-      "Rotational symmetry and line of reflection",
-      "Identifying congruent shapes in the coordinate plane",
-      "Coordinate plane and congruent shapes",
-      "Understanding right angles and congruence",
       "Identifying congruent triangles based on side lengths and angles",
+      "Identifying congruent shapes in the coordinate plane",
+      "Understanding right angles and congruence",
+      "Explaining congruence and side lengths",
+      "Explaining congruence in squares and right angles",
+      "Rotational symmetry and line of reflection",
+      "Naming triangles and understanding side lengths",
       "Understanding angles and side lengths in triangles",
-      "Naming triangles and understanding side lengths"
+      "Coordinate plane and congruent shapes"
     ],
     "interactionTrend": {
       "tutorUtterances": [

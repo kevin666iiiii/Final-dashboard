@@ -14,14 +14,14 @@
     "desiredOutcome": "The student's expectation for the session is to troubleshoot and fix their camera issue on their new computer. This expectation is partially solved as the tutor guides the student through checking device manager and camera settings.",
     "activities": [
       "Understanding slopes and graphing linear equations",
-      "Solving equations involving multiple variables",
-      "Solving equations in slope-intercept form",
-      "Identifying and enabling camera settings on a Windows computer",
       "Discussing job experiences and interviews",
+      "Analyzing absolute value graphs and their characteristics",
       "Determining the range of values for a given function",
       "Comparing values in mathematical expressions",
-      "Analyzing absolute value graphs and their characteristics",
-      "Troubleshooting camera issues on a new computer"
+      "Troubleshooting camera issues on a new computer",
+      "Solving equations in slope-intercept form",
+      "Solving equations involving multiple variables",
+      "Identifying and enabling camera settings on a Windows computer"
     ],
     "interactionTrend": {
       "tutorUtterances": [

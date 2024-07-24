@@ -16,15 +16,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including integrals with natural log functions, differential equations, and directly proportional word problems. The student's expectations were to review concepts, practice problems, and learn tricks. Periods of low interaction occurred as both parties processed information, searched for relevant details, and contemplated solutions.",
     "desiredOutcome": "The student's expectations for the session are to go over different lessons related to integrals, specifically focusing on integrals with natural log functions, finding general and particular solutions, and practicing problems. The student also wants to learn any tricks or issues they may encounter and review concepts before attempting a practice test. The student requests to cover problems from different units, such as directly proportional ones. The tutor is addressing the student's expectations by providing practice problems, explaining concepts, and attempting different types of problems as requested.",
     "activities": [
-      "Solving differential equations using separation of variables",
-      "Reviewing and analyzing differential equations solutions",
-      "Solving differential equations with initial values",
       "Finding a value of k to satisfy a differential equation",
-      "Finding limits in differential equations",
-      "Slope fields and finding solutions",
-      "Directly proportional word problems",
+      "Reviewing and analyzing differential equations solutions",
+      "Determining the domain of a particular solution to a differential equation",
       "Integrals with natural log functions and general and particular solutions",
-      "Determining the domain of a particular solution to a differential equation"
+      "Solving differential equations using separation of variables",
+      "Directly proportional word problems",
+      "Slope fields and finding solutions",
+      "Finding limits in differential equations",
+      "Solving differential equations with initial values"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -256,15 +256,15 @@
         73
       ],
       "analysis": [
-        "The student needed time to process and articulate their thoughts on the math problems.",
-        "The tutor was searching for relevant information in the book, causing a brief pause.",
-        "The student was confused about the equation, leading to a moment of uncertainty and silence.",
-        "The tutor was searching for a new problem to discuss, leading to a brief pause.",
-        "The tutor and student had a period of silence to read and process the problem.",
-        "The tutor and student were likely processing information or thinking of the next steps.",
-        "The student needed time to process and think about the math problem silently.",
-        "The tutor and student had a period of silence to process and understand the problem.",
-        "The tutor and student were likely processing information or waiting for clarification before continuing."
+        "3-5 min: The student needed time to process and articulate their thoughts on the math problems.",
+        "7-12 min: The tutor was searching for relevant information in the book, causing a brief pause.",
+        "15-17 min: The student was confused about the equation, leading to a moment of uncertainty and silence.",
+        "17-26 min: The tutor was searching for a new problem to discuss, leading to a brief pause.",
+        "27-29 min: The tutor and student had a period of silence to read and process the problem.",
+        "29-36 min: The tutor and student were likely processing information or thinking of the next steps.",
+        "39-41 min: The student needed time to process and think about the math problem silently.",
+        "50-52 min: The tutor and student had a period of silence to process and understand the problem.",
+        "59-63 min: The tutor and student were likely processing information or waiting for clarification before continuing."
       ]
     }
   },

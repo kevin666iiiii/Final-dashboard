@@ -6,9 +6,14 @@
     "Algebra 2"
   ],
   "tutoringExperience": 3,
-  "sessions": 1,
+  "sessions": 2,
   "students": 1,
   "trackingHistory": [
+    {
+      "sessionId": "041b0006-f84b-4a68-b684-06de33d4eb3e",
+      "subject": "Algebra 2",
+      "date": "2024-01-07"
+    },
     {
       "sessionId": "041b0006-f84b-4a68-b684-06de33d4eb3e",
       "subject": "Algebra 2",
@@ -17,19 +22,24 @@
   ],
   "scoreTrend": {
     "instructionalDelivery": [
-      5
-    ],
-    "techToolUsage": [
-      7
-    ],
-    "feedbackQuality": [
+      9,
       9
     ],
+    "techToolUsage": [
+      8,
+      8
+    ],
+    "feedbackQuality": [
+      6,
+      4
+    ],
     "socialEmotionalTeaching": [
+      4,
       3
     ],
     "time": [
-      0
+      0,
+      1
     ]
   }
 }

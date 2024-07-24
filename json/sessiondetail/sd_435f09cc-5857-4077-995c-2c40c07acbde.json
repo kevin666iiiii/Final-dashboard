@@ -11,15 +11,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including simplifying square roots, working with complex numbers, solving quadratic equations, and understanding imaginary roots. The student's expectation was to review and understand specific math problems from a previous test, which the tutor addressed through explanations and step-by-step guidance. Throughout the session, there were no periods of low interaction between the tutor and student.",
     "desiredOutcome": "The student's expectation for the session is to review and understand how to solve specific math problems from a previous test, including simplifying square roots and working with complex numbers. These expectations are being addressed and solved by the tutor through explanations and step-by-step guidance.",
     "activities": [
-      "Finding all solutions of an equation and understanding imaginary roots",
-      "Solving systems of equations graphically and finding points of intersection",
-      "Converting equations to vertex form and understanding perfect square trinomials",
-      "Adding and subtracting complex numbers",
       "Simplifying square roots and imaginary numbers",
-      "Solving quadratic equations using factoring and completing the square",
+      "Converting equations to vertex form and understanding perfect square trinomials",
       "Using discriminant to determine number of real solutions in an equation",
       "Dividing by a complex number and using conjugates",
-      "Multiplying complex numbers and simplifying expressions"
+      "Adding and subtracting complex numbers",
+      "Finding all solutions of an equation and understanding imaginary roots",
+      "Solving systems of equations graphically and finding points of intersection",
+      "Multiplying complex numbers and simplifying expressions",
+      "Solving quadratic equations using factoring and completing the square"
     ],
     "interactionTrend": {
       "tutorUtterances": [

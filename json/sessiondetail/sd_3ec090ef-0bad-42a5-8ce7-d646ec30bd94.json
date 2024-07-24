@@ -12,15 +12,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including solving rational equations, adding and subtracting rational expressions, identifying like terms, multiplying binomials, factoring and foiling polynomials, and creating polynomial equations. The student's expectation was to learn how to solve rational equations by adding and subtracting rational expressions, which the tutor addressed by guiding the student through examples and explaining the process of identifying like terms. There were two instances of low interaction between the student and tutor, during which the student briefly stepped away to allow the tutor time to work on the problem silently and to independently work on the problem before sharing the answer.",
     "desiredOutcome": "The student's expectation for the session is to learn how to solve rational equations by adding and subtracting rational expressions. These expectations are addressed as the tutor guides the student through examples and explains the process of identifying like terms and adding them based on their degrees.",
     "activities": [
-      "Adding and subtracting rational expressions",
-      "Identifying like terms",
-      "Creating polynomial equations",
-      "Factoring polynomials",
       "Multiplying binomials",
+      "Identifying like terms",
+      "Factoring polynomials",
       "Identifying like terms in polynomials",
-      "Solving rational equations",
+      "Adding and subtracting rational expressions",
       "Checking polynomial equations",
-      "Foiling polynomials"
+      "Foiling polynomials",
+      "Creating polynomial equations",
+      "Solving rational equations"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -204,8 +204,8 @@
         57
       ],
       "analysis": [
-        "The student stepped away briefly, allowing the tutor time to work on the problem silently.",
-        "The student was given time to work on the problem independently before sharing the answer."
+        "48-50 min: The student stepped away briefly, allowing the tutor time to work on the problem silently.",
+        "53-55 min: The student was given time to work on the problem independently before sharing the answer."
       ]
     }
   },

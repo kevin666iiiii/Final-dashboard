@@ -14,14 +14,14 @@
     "desiredOutcome": "The student's expectation for the session is to learn more about PI digits, specifically how the numbers progress and their significance in relation to circles. The tutor addresses the student's expectation by explaining the concept of PI, its use in calculating circle properties, and the initial digits of PI.",
     "activities": [
       "Introduction and casual conversation",
-      "Discussion about Christmas gifts",
-      "Recap of the student's weekend",
       "Introduction to PI and its significance in mathematics",
       "Explanation of the first few digits of PI",
+      "Discussion about Christmas gifts",
       "Discussion on the infinite nature of PI and its irrationality",
-      "Memorization practice of PI digits",
       "Review and summary of PI concepts",
-      "Closure and scheduling for the next session"
+      "Closure and scheduling for the next session",
+      "Recap of the student's weekend",
+      "Memorization practice of PI digits"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -194,7 +194,7 @@
         {
           "name": "Instruction Delivery",
           "score": 10,
-          "percentile": 96.2,
+          "percentile": 96.1,
           "values": [
             2,
             2,
@@ -202,26 +202,26 @@
             2,
             0,
             1,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
             3,
             3,
             3,
             3,
             3,
             3,
-            4,
-            4,
-            4,
-            4,
-            4,
-            4,
-            4,
-            4
+            3,
+            3
           ]
         },
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -247,11 +247,11 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 5,
-          "percentile": 23.1,
+          "score": 6,
+          "percentile": 26.5,
           "values": [
             2,
-            4,
+            3,
             2,
             0,
             2,
@@ -275,24 +275,24 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 64.4,
+          "percentile": 63.7,
           "values": [
+            2,
+            2,
+            0,
+            0,
+            1,
+            0,
+            0,
+            2,
+            1,
+            2,
+            0,
+            0,
+            0,
+            0,
+            1,
             3,
-            2,
-            0,
-            0,
-            1,
-            0,
-            0,
-            2,
-            1,
-            2,
-            0,
-            0,
-            0,
-            0,
-            1,
-            4,
             0,
             0,
             0,
@@ -304,8 +304,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 10,
-        "allSessionRanking": 96.2,
-        "tutorSessionRanking": 0.83,
+        "allSessionRanking": 96.1,
+        "tutorSessionRanking": 83.33,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
         "alignedExplanation": 100.0,
@@ -315,13 +315,13 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
-        "tutorSessionRanking": 0.83
+        "allSessionRanking": 46.1,
+        "tutorSessionRanking": 83.33
       },
       "feedbackQuality": {
-        "rating": 5,
-        "allSessionRanking": 23.1,
-        "tutorSessionRanking": 0.33,
+        "rating": 6,
+        "allSessionRanking": 26.5,
+        "tutorSessionRanking": 33.33,
         "positiveFeedback": 12.22,
         "neutralFeedback": 83.33,
         "negativeFeedback": 4.44,
@@ -332,8 +332,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 64.4,
-        "tutorSessionRanking": 0.5,
+        "allSessionRanking": 63.7,
+        "tutorSessionRanking": 50.0,
         "tutorUtterances": [
           7,
           2,

@@ -4,19 +4,15 @@
   "student": 554399,
   "subject": "Algebra",
   "date": "2023-10-04",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "Instruction",
+    "Technology",
+    "Emotion"
+  ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on geometry, specifically solving for variables in angles. The student's expectation was partially met as the tutor guided them through solving for the variable x. There were no periods of low interaction between the tutor and student during the session.",
     "desiredOutcome": "The student's expectation for the session is to work on geometry homework, specifically solving for variables in angles. The expectation is partially met as the tutor begins to guide the student through solving for the variable x.",
     "activities": [
-      "Geometry",
-      "Geometry",
-      "Geometry",
-      "Geometry",
-      "Geometry",
-      "Geometry",
-      "Geometry",
-      "Geometry",
       "Geometry"
     ],
     "interactionTrend": {
@@ -217,10 +213,10 @@
         {
           "name": "Instruction Delivery",
           "score": 4,
-          "percentile": 9.6,
+          "percentile": 9.8,
           "values": [
             1,
-            4,
+            3,
             0,
             2,
             0,
@@ -234,7 +230,7 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
@@ -244,7 +240,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 5,
-          "percentile": 3.8,
+          "percentile": 3.9,
           "values": [
             2,
             2,
@@ -270,10 +266,10 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 8,
-          "percentile": 93.3,
+          "score": 10,
+          "percentile": 95.1,
           "values": [
-            4,
+            3,
             0,
             0,
             0,
@@ -288,11 +284,11 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
-            4
+            3
           ]
         },
         {
@@ -316,9 +312,9 @@
             0,
             1,
             2,
-            4,
-            0,
             3,
+            0,
+            2,
             2
           ]
         }
@@ -327,8 +323,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 4,
-        "allSessionRanking": 9.6,
-        "tutorSessionRanking": 0.5,
+        "allSessionRanking": 9.8,
+        "tutorSessionRanking": 50.0,
         "correctExplanation": 75.0,
         "incorrectExplanation": 25.0,
         "alignedExplanation": 0.0,
@@ -338,13 +334,13 @@
       },
       "techToolUsage": {
         "rating": 5,
-        "allSessionRanking": 3.8,
-        "tutorSessionRanking": 0.5
+        "allSessionRanking": 3.9,
+        "tutorSessionRanking": 50.0
       },
       "feedbackQuality": {
-        "rating": 8,
-        "allSessionRanking": 93.3,
-        "tutorSessionRanking": 1.0,
+        "rating": 10,
+        "allSessionRanking": 95.1,
+        "tutorSessionRanking": 100.0,
         "positiveFeedback": 3.07,
         "neutralFeedback": 92.98,
         "negativeFeedback": 3.95,
@@ -356,7 +352,7 @@
       "socialEmotionalTeaching": {
         "rating": 3,
         "allSessionRanking": 2.9,
-        "tutorSessionRanking": 0.5,
+        "tutorSessionRanking": 50.0,
         "tutorUtterances": [
           -1,
           0,

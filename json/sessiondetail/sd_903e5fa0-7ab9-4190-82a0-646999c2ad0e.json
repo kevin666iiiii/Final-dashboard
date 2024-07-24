@@ -5,21 +5,23 @@
   "subject": "Algebra 2",
   "date": "2024-01-16",
   "riskyAreas": [
+    "Technology",
+    "Emotion",
     "Student Inactive"
   ],
   "sessionGeneral": {
     "aiSummary": "In the tutoring session, the student focused on practicing math problems related to graphing equations and understanding transformations of sine graphs. The tutor guided the student through practice problems, explained concepts, and prompted critical thinking. Periods of low interaction occurred due to initial confusion, silent processing, and collaborative calculation of reference angles.",
     "desiredOutcome": "Based on the transcript, the student's expectation for the session seems to be focused on practicing math problems, specifically related to graphing equations and understanding transformations of sine graphs. The student is engaging in solving practice problems and seeking guidance on how to approach and solve them. The student also seems to be looking for clarification on concepts such as amplitudes, periods, horizontal shifts, and vertical shifts in graphing equations.\n\nThe tutor is addressing the student's expectations by guiding them through the practice problems, explaining concepts related to graphing equations, and providing assistance in understanding transformations of sine graphs. The tutor is actively engaging with the student, asking questions to prompt critical thinking, and providing explanations to help the student grasp the concepts effectively.",
     "activities": [
-      "Graphing sine and cosine functions",
-      "Identifying midline, amplitude, and period of sine graphs",
       "Writing equations of sine graphs based on given information",
+      "Reviewing trigonometric concepts and angles in quadrants",
+      "Graphing sine and cosine functions",
+      "Determining reference angles and possible quadrants for given cosine values",
+      "Identifying midline, amplitude, and period of sine graphs",
+      "Identifying angles in different quadrants based on trigonometric ratios",
       "Identifying midline, amplitude, and period of cosine graphs",
       "Writing equations of cosine graphs based on given information",
-      "Finding angles on the unit circle and determining reference angles",
-      "Identifying angles in different quadrants based on trigonometric ratios",
-      "Determining reference angles and possible quadrants for given cosine values",
-      "Reviewing trigonometric concepts and angles in quadrants"
+      "Finding angles on the unit circle and determining reference angles"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -238,11 +240,11 @@
         {
           "name": "Instruction Delivery",
           "score": 10,
-          "percentile": 96.2,
+          "percentile": 96.1,
           "values": [
             1,
+            2,
             3,
-            4,
             2,
             1,
             1,
@@ -265,7 +267,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 7,
-          "percentile": 11.5,
+          "percentile": 11.8,
           "values": [
             0,
             0,
@@ -291,7 +293,7 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 6,
+          "score": 7,
           "percentile": 49.0,
           "values": [
             0,
@@ -301,19 +303,19 @@
             0,
             0,
             0,
-            4,
-            4,
+            3,
+            3,
             0,
-            4,
-            0,
-            0,
-            0,
-            4,
+            3,
             0,
             0,
             0,
+            3,
             0,
-            4
+            0,
+            0,
+            0,
+            3
           ]
         },
         {
@@ -324,7 +326,7 @@
             0,
             1,
             0,
-            4,
+            3,
             2,
             1,
             2,
@@ -348,8 +350,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 10,
-        "allSessionRanking": 96.2,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 96.1,
+        "tutorSessionRanking": 100.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
         "alignedExplanation": 100.0,
@@ -359,13 +361,13 @@
       },
       "techToolUsage": {
         "rating": 7,
-        "allSessionRanking": 11.5,
-        "tutorSessionRanking": 0.14
+        "allSessionRanking": 11.8,
+        "tutorSessionRanking": 14.29
       },
       "feedbackQuality": {
-        "rating": 6,
+        "rating": 7,
         "allSessionRanking": 49.0,
-        "tutorSessionRanking": 0.57,
+        "tutorSessionRanking": 42.86,
         "positiveFeedback": 6.19,
         "neutralFeedback": 82.47,
         "negativeFeedback": 11.34,
@@ -377,7 +379,7 @@
       "socialEmotionalTeaching": {
         "rating": 3,
         "allSessionRanking": 2.9,
-        "tutorSessionRanking": 0.36,
+        "tutorSessionRanking": 35.71,
         "tutorUtterances": [
           0,
           0,

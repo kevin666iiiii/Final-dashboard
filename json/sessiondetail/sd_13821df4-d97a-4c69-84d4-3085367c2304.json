@@ -4,20 +4,23 @@
   "student": 3812251,
   "subject": "Algebra 2",
   "date": "2024-02-22",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "Technology",
+    "Emotion"
+  ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed topics such as parabolas, graphing curves, domain and range of functions, infinity in mathematics, space exploration, stars, and emotional themes in media. The student sought help with a math project on parabolas, expressing confusion about the requirements and seeking guidance, while the tutor provided clarification, brainstormed ideas, and offered assistance despite limited access to necessary resources.",
     "desiredOutcome": "The student's expectation for the session is to get help with understanding and completing a math project related to parabolas that they were assigned in class. They express confusion about the project requirements and seek guidance on how to approach it. The tutor attempts to clarify the task, brainstorm ideas for real-world examples of parabolic curves, and offers assistance in creating the project. The student also mentions that they have a specific image in mind for the project but are unable to share it due to restrictions on their school computer. The tutor tries to help the student visualize and work through the project despite not having access to the image. Overall, the student's expectation for the session is to receive guidance and support in completing the math project on parabolas. The tutor addresses these expectations by discussing possible ideas, offering suggestions, and trying to assist the student in understanding and completing the assignment.",
     "activities": [
-      "Parabolas and real-world applications",
-      "Identifying dimensions and features of parabolic curves",
-      "Graphing parabolic curves and determining key points",
       "Understanding domain and range of functions",
-      "Exploring the concept of infinity in mathematics",
+      "Discussing emotional themes in media and TV shows",
       "Discussing the James Webb telescope and space exploration",
+      "Parabolas and real-world applications",
       "Learning about stars, supernovas, and celestial bodies",
-      "Exploring nebulae and stardust in space",
-      "Discussing emotional themes in media and TV shows"
+      "Identifying dimensions and features of parabolic curves",
+      "Exploring the concept of infinity in mathematics",
+      "Graphing parabolic curves and determining key points",
+      "Exploring nebulae and stardust in space"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -223,7 +226,7 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 38.5,
+          "percentile": 39.2,
           "values": [
             0,
             0,
@@ -241,7 +244,7 @@
             1,
             1,
             1,
-            4,
+            3,
             1,
             1,
             1
@@ -250,7 +253,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 19.2,
+          "percentile": 18.6,
           "values": [
             0,
             2,
@@ -276,11 +279,11 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 6,
+          "score": 7,
           "percentile": 49.0,
           "values": [
             0,
-            4,
+            3,
             0,
             0,
             0,
@@ -304,7 +307,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.1,
+          "percentile": 23.5,
           "values": [
             2,
             2,
@@ -324,8 +327,8 @@
             2,
             2,
             1,
-            3,
-            4
+            2,
+            3
           ]
         }
       ]
@@ -333,8 +336,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 38.5,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 39.2,
+        "tutorSessionRanking": 100.0,
         "correctExplanation": 88.89,
         "incorrectExplanation": 11.11,
         "alignedExplanation": 66.67,
@@ -344,13 +347,13 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 19.2,
-        "tutorSessionRanking": 1.0
+        "allSessionRanking": 18.6,
+        "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
-        "rating": 6,
+        "rating": 7,
         "allSessionRanking": 49.0,
-        "tutorSessionRanking": 1.0,
+        "tutorSessionRanking": 100.0,
         "positiveFeedback": 10.71,
         "neutralFeedback": 82.14,
         "negativeFeedback": 7.14,
@@ -361,8 +364,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.1,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 23.5,
+        "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           1,
           1,

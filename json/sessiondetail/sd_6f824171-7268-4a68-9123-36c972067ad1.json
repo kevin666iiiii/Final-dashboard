@@ -5,21 +5,23 @@
   "subject": "Algebra",
   "date": "2023-08-06",
   "riskyAreas": [
+    "Technology",
+    "Emotion",
     "Student Inactive"
   ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on essential geometry concepts, clarifying terms, and working on practice problems related to circles and arcs. Periods of low interaction occurred due to technical difficulties with screen sharing and to allow time for individual processing and understanding.",
     "desiredOutcome": "Based on the transcript, the student's expectations for the session seem to be:\n\n1. Reviewing and clarifying concepts related to geometry, specifically focusing on essential geometric terms and concepts.\n2. Addressing specific questions or confusions the student had, such as understanding bisector midpoint vertex on a diagram.\n3. Working on practice problems related to geometry, such as identifying portions of a circle and understanding arcs.\n4. Potentially reviewing and discussing the student's work on a Delta Math assignment.\n\nIt appears that the tutor is addressing the student's expectations by reviewing essential geometric terms and concepts, discussing specific questions about bisector midpoint vertex, and working on practice problems related to circles and arcs. The tutor also mentions potentially reviewing the Delta Math assignment after completing the current session.",
     "activities": [
-      "Geometry - Bisectors and Midpoints",
+      "Geometry - Compass and Straight Edge Construction",
       "Geometry - Arcs in Circles",
       "Geometry - Perpendicular Relationships",
+      "Geometry - Bisectors and Midpoints",
       "Geometry - Complementary and Supplementary Angles",
-      "Geometry - Properties of Perpendicular Lines",
       "Geometry - Equilateral and Isosceles Triangles",
       "Geometry - Triangle Construction",
       "Geometry - Triangle Congruence",
-      "Geometry - Compass and Straight Edge Construction"
+      "Geometry - Properties of Perpendicular Lines"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -291,14 +293,14 @@
         {
           "name": "Instruction Delivery",
           "score": 7,
-          "percentile": 56.7,
+          "percentile": 57.8,
           "values": [
             0,
             0,
             2,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
@@ -318,7 +320,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 19.2,
+          "percentile": 18.6,
           "values": [
             0,
             0,
@@ -344,12 +346,12 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 8,
-          "percentile": 93.3,
+          "score": 10,
+          "percentile": 95.1,
           "values": [
             0,
-            4,
-            4,
+            3,
+            3,
             0,
             0,
             0,
@@ -366,27 +368,27 @@
             0,
             0,
             0,
-            4
+            3
           ]
         },
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.1,
+          "percentile": 23.5,
           "values": [
             0,
             0,
-            4,
-            1,
-            0,
-            2,
-            2,
-            0,
-            1,
-            1,
-            2,
-            1,
             3,
+            1,
+            0,
+            2,
+            2,
+            0,
+            1,
+            1,
+            2,
+            1,
+            2,
             0,
             1,
             0,
@@ -401,8 +403,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 7,
-        "allSessionRanking": 56.7,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 57.8,
+        "tutorSessionRanking": 100.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
         "alignedExplanation": 57.14,
@@ -412,13 +414,13 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 19.2,
-        "tutorSessionRanking": 1.0
+        "allSessionRanking": 18.6,
+        "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
-        "rating": 8,
-        "allSessionRanking": 93.3,
-        "tutorSessionRanking": 1.0,
+        "rating": 10,
+        "allSessionRanking": 95.1,
+        "tutorSessionRanking": 100.0,
         "positiveFeedback": 3.43,
         "neutralFeedback": 93.63,
         "negativeFeedback": 2.94,
@@ -429,8 +431,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.1,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 23.5,
+        "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           1,
           1,

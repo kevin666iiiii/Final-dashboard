@@ -5,21 +5,23 @@
   "subject": "Algebra",
   "date": "2023-11-15",
   "riskyAreas": [
+    "Technology",
+    "Emotion",
     "Short session"
   ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various math topics including probability, area of shapes, prime numbers, order of operations, and more. The student's expectation to understand probability by calculating dartboard areas was successfully met as they accurately determined the probability of hitting the bullseye.",
     "desiredOutcome": "The student's expectation for the session is to understand how to calculate the probability by finding the areas of different parts of a dartboard. The tutor guides the student through calculating the areas and simplifying fractions to determine the probability accurately. The student's expectation is met as they successfully calculate the probability of hitting the bullseye.",
     "activities": [
-      "Probability and area of circles",
+      "Solving for unknown variables in shapes",
       "Area of shapes and perimeter",
-      "Prime numbers and probability",
-      "Order of operations and decimals",
-      "Finding missing sides of shapes",
       "Calculating area of rectangles",
       "Calculating perimeter of shapes",
-      "Solving for unknown variables in shapes",
-      "Homework assignment on various math topics"
+      "Order of operations and decimals",
+      "Probability and area of circles",
+      "Homework assignment on various math topics",
+      "Finding missing sides of shapes",
+      "Prime numbers and probability"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -198,15 +200,15 @@
         {
           "name": "Instruction Delivery",
           "score": 7,
-          "percentile": 56.7,
+          "percentile": 57.8,
           "values": [
             0,
             0,
             2,
             1,
             1,
-            4,
-            4,
+            3,
+            3,
             1,
             1,
             1,
@@ -225,7 +227,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 19.2,
+          "percentile": 18.6,
           "values": [
             0,
             0,
@@ -251,11 +253,11 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 8,
-          "percentile": 93.3,
+          "score": 9,
+          "percentile": 90.2,
           "values": [
             0,
-            4,
+            3,
             0,
             0,
             0,
@@ -263,14 +265,14 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0
@@ -279,25 +281,25 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.1,
+          "percentile": 23.5,
           "values": [
             2,
             2,
             1,
             2,
+            2,
+            0,
+            2,
+            0,
+            1,
+            1,
+            1,
+            1,
+            2,
+            0,
+            1,
+            0,
             3,
-            0,
-            2,
-            0,
-            1,
-            1,
-            1,
-            1,
-            2,
-            0,
-            1,
-            0,
-            4,
             1,
             0,
             2
@@ -308,8 +310,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 7,
-        "allSessionRanking": 56.7,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 57.8,
+        "tutorSessionRanking": 100.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
         "alignedExplanation": 66.67,
@@ -319,13 +321,13 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 19.2,
-        "tutorSessionRanking": 1.0
+        "allSessionRanking": 18.6,
+        "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
-        "rating": 8,
-        "allSessionRanking": 93.3,
-        "tutorSessionRanking": 1.0,
+        "rating": 9,
+        "allSessionRanking": 90.2,
+        "tutorSessionRanking": 100.0,
         "positiveFeedback": 3.01,
         "neutralFeedback": 92.77,
         "negativeFeedback": 4.22,
@@ -336,8 +338,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.1,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 23.5,
+        "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           0,
           -2,

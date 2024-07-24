@@ -5,21 +5,23 @@
   "subject": "Algebra 2",
   "date": "2024-03-03",
   "riskyAreas": [
-    "tech"
+    "Instruction",
+    "Technology",
+    "Emotion"
   ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including troubleshooting camera issues, job experiences, mathematical equations, graphing linear equations, and analyzing absolute value graphs. The student's initial expectation was to fix their camera problem, which was partially resolved with guidance on checking device manager and camera settings.",
     "desiredOutcome": "The student's expectation for the session is to troubleshoot and fix their camera issue on their new computer. This expectation is partially solved as the tutor guides the student through checking device manager and camera settings.",
     "activities": [
-      "Troubleshooting camera issues on a new computer",
-      "Discussing job experiences and interviews",
-      "Identifying and enabling camera settings on a Windows computer",
-      "Solving equations in slope-intercept form",
       "Understanding slopes and graphing linear equations",
-      "Analyzing absolute value graphs and their characteristics",
+      "Solving equations involving multiple variables",
+      "Solving equations in slope-intercept form",
+      "Identifying and enabling camera settings on a Windows computer",
+      "Discussing job experiences and interviews",
       "Determining the range of values for a given function",
       "Comparing values in mathematical expressions",
-      "Solving equations involving multiple variables"
+      "Analyzing absolute value graphs and their characteristics",
+      "Troubleshooting camera issues on a new computer"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -262,11 +264,11 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
-            4,
+            3,
             0
           ]
         },
@@ -299,50 +301,50 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 6,
+          "score": 7,
           "percentile": 49.0,
           "values": [
-            4,
+            3,
             0,
             0,
             0,
-            4,
-            4,
-            4,
-            4,
+            3,
+            3,
+            3,
+            3,
             0,
-            4,
+            3,
             0,
-            4,
+            3,
             0,
             0,
             0,
-            4,
-            4,
+            3,
+            3,
             0,
-            4,
-            4
+            3,
+            3
           ]
         },
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.1,
+          "percentile": 23.5,
           "values": [
+            2,
+            0,
+            0,
+            2,
+            2,
+            2,
             3,
-            0,
-            0,
-            2,
-            2,
-            2,
-            4,
             2,
             1,
             2,
             0,
             1,
             2,
-            4,
+            3,
             2,
             1,
             1,
@@ -357,7 +359,7 @@
       "instructionalDelivery": {
         "rating": 3,
         "allSessionRanking": 2.9,
-        "tutorSessionRanking": 1.0,
+        "tutorSessionRanking": 100.0,
         "correctExplanation": 33.33,
         "incorrectExplanation": 66.67,
         "alignedExplanation": 33.33,
@@ -368,12 +370,12 @@
       "techToolUsage": {
         "rating": 1,
         "allSessionRanking": 0.0,
-        "tutorSessionRanking": 1.0
+        "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
-        "rating": 6,
+        "rating": 7,
         "allSessionRanking": 49.0,
-        "tutorSessionRanking": 1.0,
+        "tutorSessionRanking": 100.0,
         "positiveFeedback": 10.53,
         "neutralFeedback": 86.12,
         "negativeFeedback": 3.35,
@@ -384,8 +386,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.1,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 23.5,
+        "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           1,
           2,

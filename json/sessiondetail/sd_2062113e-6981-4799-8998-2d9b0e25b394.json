@@ -5,21 +5,23 @@
   "subject": "Algebra",
   "date": "2024-03-07",
   "riskyAreas": [
+    "Feedback",
+    "Emotion",
     "Silent"
   ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics related to linear equations. The student's expectation included addressing test results and test-taking anxiety, partially fulfilled by the tutor's inquiry and support. Periods of low interaction occurred due to waiting for topic selection, technical issues, processing information, and formulating responses.",
     "desiredOutcome": "The student's expectation for the session seems to be discussing their recent test results and seeking guidance on test-taking anxiety and strategies for improvement. These expectations are partially addressed as the tutor inquires about the test and offers support for test anxiety.",
     "activities": [
-      "Graphing linear equations",
+      "Applying slope-intercept form in graphing",
       "Identifying x and y intercepts",
+      "Solving for x and y intercepts",
+      "Graphing equations with specific intercepts",
+      "Identifying slope of horizontal and vertical lines",
       "Understanding standard form of linear equations",
       "Graphing horizontal and vertical lines",
-      "Solving for x and y intercepts",
-      "Identifying slope of horizontal and vertical lines",
-      "Applying slope-intercept form in graphing",
-      "Finding x and y intercepts efficiently",
-      "Graphing equations with specific intercepts"
+      "Graphing linear equations",
+      "Finding x and y intercepts efficiently"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -264,34 +266,34 @@
         {
           "name": "Instruction Delivery",
           "score": 8,
-          "percentile": 75.0,
+          "percentile": 76.5,
           "values": [
             0,
             1,
-            3,
-            4,
-            4,
-            4,
-            4,
-            4,
-            4,
-            4,
-            4,
-            4,
-            4,
-            4,
-            4,
+            2,
             3,
             3,
             3,
             3,
-            3
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            2,
+            2,
+            2,
+            2,
+            2
           ]
         },
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -318,10 +320,10 @@
         {
           "name": "Feedback Quality",
           "score": 5,
-          "percentile": 23.1,
+          "percentile": 9.8,
           "values": [
-            4,
-            4,
+            3,
+            3,
             0,
             0,
             0,
@@ -331,24 +333,24 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
-            4,
+            3,
             0,
-            4,
-            4,
-            4
+            3,
+            3,
+            3
           ]
         },
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.1,
+          "percentile": 23.5,
           "values": [
+            2,
             3,
-            4,
             1,
             1,
             0,
@@ -374,8 +376,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 8,
-        "allSessionRanking": 75.0,
-        "tutorSessionRanking": 0.62,
+        "allSessionRanking": 76.5,
+        "tutorSessionRanking": 62.5,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
         "alignedExplanation": 100.0,
@@ -385,13 +387,13 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
-        "tutorSessionRanking": 0.69
+        "allSessionRanking": 46.1,
+        "tutorSessionRanking": 68.75
       },
       "feedbackQuality": {
         "rating": 5,
-        "allSessionRanking": 23.1,
-        "tutorSessionRanking": 0.56,
+        "allSessionRanking": 9.8,
+        "tutorSessionRanking": 31.25,
         "positiveFeedback": 3.52,
         "neutralFeedback": 93.83,
         "negativeFeedback": 2.64,
@@ -402,8 +404,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.1,
-        "tutorSessionRanking": 0.44,
+        "allSessionRanking": 23.5,
+        "tutorSessionRanking": 43.75,
         "tutorUtterances": [
           1,
           0,

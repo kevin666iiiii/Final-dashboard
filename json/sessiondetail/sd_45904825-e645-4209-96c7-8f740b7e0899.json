@@ -4,19 +4,23 @@
   "student": 3694899,
   "subject": "Algebra 2",
   "date": "2023-11-02",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "Technology",
+    "Feedback",
+    "Emotion"
+  ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including composition of functions, inverse functions, one-to-one functions, logarithmic functions, graphing logarithmic functions, identifying parent functions and transformations, finding domain and range of functions, matching equations with graphs, and finding values for exponential functions to intersect logarithmic functions. The student's expectations were met as they reviewed and gained a better understanding of graphing logarithmic functions, specifically focusing on graphing log base three of negative x without a calculator, clarified the effects of transformations on the graph, and matched equations with their graphs. Throughout the session, there were no periods of low interaction between the tutor and student.",
     "desiredOutcome": "The student's expectations for the session are to review and gain a better understanding of graphing logarithmic functions, specifically focusing on graphing log base three of negative x without a calculator. The student also seeks clarification on the effects of transformations on the graph and wants to match equations with their graphs. These expectations are addressed and resolved during the session as the tutor provides guidance on graphing the logarithmic function, explains the impact of transformations, and assists in matching equations with their graphs.",
     "activities": [
-      "Composition of functions",
+      "Finding domain and range of functions",
       "Inverse functions",
       "One-to-one functions",
+      "Composition of functions",
+      "Identifying parent functions and transformations",
+      "Matching equations with graphs",
       "Logarithmic functions",
       "Graphing logarithmic functions",
-      "Identifying parent functions and transformations",
-      "Finding domain and range of functions",
-      "Matching equations with graphs",
       "Finding values for exponential functions to intersect logarithmic functions"
     ],
     "interactionTrend": {
@@ -238,17 +242,17 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 38.5,
+          "percentile": 39.2,
           "values": [
             0,
             0,
-            3,
+            2,
             0,
             0,
-            4,
-            1,
-            1,
             3,
+            1,
+            1,
+            2,
             0,
             1,
             0,
@@ -265,7 +269,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 19.2,
+          "percentile": 18.6,
           "values": [
             2,
             0,
@@ -292,7 +296,7 @@
         {
           "name": "Feedback Quality",
           "score": 3,
-          "percentile": 1.9,
+          "percentile": 2.0,
           "values": [
             0,
             0,
@@ -312,7 +316,7 @@
             0,
             0,
             2,
-            4,
+            3,
             2
           ]
         },
@@ -338,8 +342,8 @@
             2,
             1,
             2,
-            4,
-            4,
+            3,
+            3,
             2
           ]
         }
@@ -348,8 +352,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 38.5,
-        "tutorSessionRanking": 0.75,
+        "allSessionRanking": 39.2,
+        "tutorSessionRanking": 75.0,
         "correctExplanation": 95.65,
         "incorrectExplanation": 4.35,
         "alignedExplanation": 47.83,
@@ -359,13 +363,13 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 19.2,
-        "tutorSessionRanking": 0.5
+        "allSessionRanking": 18.6,
+        "tutorSessionRanking": 50.0
       },
       "feedbackQuality": {
         "rating": 3,
-        "allSessionRanking": 1.9,
-        "tutorSessionRanking": 0.5,
+        "allSessionRanking": 2.0,
+        "tutorSessionRanking": 50.0,
         "positiveFeedback": 6.56,
         "neutralFeedback": 85.25,
         "negativeFeedback": 8.2,
@@ -377,7 +381,7 @@
       "socialEmotionalTeaching": {
         "rating": 3,
         "allSessionRanking": 2.9,
-        "tutorSessionRanking": 1.0,
+        "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           0,
           0,

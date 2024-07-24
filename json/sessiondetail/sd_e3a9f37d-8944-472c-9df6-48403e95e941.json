@@ -5,21 +5,22 @@
   "subject": "Algebra",
   "date": "2023-10-24",
   "riskyAreas": [
+    "Emotion",
     "Short session"
   ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various calculus topics, including finding tangent lines, derivatives of trigonometric functions, and second derivatives. The student's expectations were met as they worked on unit worksheets. Periods of low interaction occurred due to confusion, reevaluation, reflection, and uncertainty in understanding concepts.",
     "desiredOutcome": "The student's expectation for the session is to work on unit worksheets, specifically focusing on finding the equation of a tangent line and derivatives of trigonometric functions. These expectations are met as the tutor guides the student through solving these types of problems.",
     "activities": [
+      "Using the quotient rule to find the derivative of a function involving a logarithm",
       "Finding the equation of the line tangent to a function at a specific point",
-      "Derivative of cotangent function and applying the chain rule",
-      "Identifying the graph of the derivative of a given function",
       "Determining the second derivative of a function using the quotient rule",
       "Applying the product rule and chain rule to find the derivative of a trigonometric function",
-      "Using the quotient rule to find the derivative of a function involving a logarithm",
+      "Derivative of cotangent function and applying the chain rule",
+      "Identifying the graph of the derivative of a given function",
       "Calculating the second derivative of a function with respect to a variable",
-      "Applying the limit definition to find the derivative of a function at a specific point",
-      "Explaining the use of the limit definition in finding the derivative of a function"
+      "Explaining the use of the limit definition in finding the derivative of a function",
+      "Applying the limit definition to find the derivative of a function at a specific point"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -263,7 +264,7 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 38.5,
+          "percentile": 39.2,
           "values": [
             0,
             0,
@@ -277,7 +278,7 @@
             0,
             0,
             2,
-            4,
+            3,
             0,
             0,
             0,
@@ -290,7 +291,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -316,46 +317,46 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 5,
-          "percentile": 23.1,
+          "score": 6,
+          "percentile": 26.5,
           "values": [
             0,
             0,
-            4,
-            4,
+            3,
+            3,
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
             0,
-            4,
+            3,
             0,
-            4,
+            3,
             0,
-            4,
+            3,
             0,
             0,
-            4
+            3
           ]
         },
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.1,
+          "percentile": 23.5,
           "values": [
             1,
             1,
-            4,
+            3,
             2,
-            3,
+            2,
             1,
-            3,
-            3,
+            2,
+            2,
             1,
-            3,
+            2,
             2,
             0,
             2,
@@ -365,7 +366,7 @@
             1,
             0,
             1,
-            3
+            2
           ]
         }
       ]
@@ -373,8 +374,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 38.5,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 39.2,
+        "tutorSessionRanking": 100.0,
         "correctExplanation": 50.0,
         "incorrectExplanation": 50.0,
         "alignedExplanation": 75.0,
@@ -384,13 +385,13 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
-        "tutorSessionRanking": 1.0
+        "allSessionRanking": 46.1,
+        "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
-        "rating": 5,
-        "allSessionRanking": 23.1,
-        "tutorSessionRanking": 1.0,
+        "rating": 6,
+        "allSessionRanking": 26.5,
+        "tutorSessionRanking": 100.0,
         "positiveFeedback": 8.18,
         "neutralFeedback": 83.02,
         "negativeFeedback": 8.81,
@@ -401,8 +402,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.1,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 23.5,
+        "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           1,
           3,

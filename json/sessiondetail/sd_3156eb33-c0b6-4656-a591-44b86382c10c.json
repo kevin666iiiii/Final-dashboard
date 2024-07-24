@@ -5,6 +5,10 @@
   "subject": "Algebra 2",
   "date": "2024-02-11",
   "riskyAreas": [
+    "Instruction",
+    "Technology",
+    "Feedback",
+    "Emotion",
     "Silent",
     "Student Inactive"
   ],
@@ -12,15 +16,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including integrals with natural log functions, differential equations, and directly proportional word problems. The student's expectations were to review concepts, practice problems, and learn tricks. Periods of low interaction occurred as both parties processed information, searched for relevant details, and contemplated solutions.",
     "desiredOutcome": "The student's expectations for the session are to go over different lessons related to integrals, specifically focusing on integrals with natural log functions, finding general and particular solutions, and practicing problems. The student also wants to learn any tricks or issues they may encounter and review concepts before attempting a practice test. The student requests to cover problems from different units, such as directly proportional ones. The tutor is addressing the student's expectations by providing practice problems, explaining concepts, and attempting different types of problems as requested.",
     "activities": [
-      "Integrals with natural log functions and general and particular solutions",
-      "Directly proportional word problems",
-      "Finding limits in differential equations",
-      "Solving differential equations with initial values",
-      "Determining the domain of a particular solution to a differential equation",
-      "Finding a value of k to satisfy a differential equation",
-      "Slope fields and finding solutions",
       "Solving differential equations using separation of variables",
-      "Reviewing and analyzing differential equations solutions"
+      "Reviewing and analyzing differential equations solutions",
+      "Solving differential equations with initial values",
+      "Finding a value of k to satisfy a differential equation",
+      "Finding limits in differential equations",
+      "Slope fields and finding solutions",
+      "Directly proportional word problems",
+      "Integrals with natural log functions and general and particular solutions",
+      "Determining the domain of a particular solution to a differential equation"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -293,22 +297,22 @@
         {
           "name": "Instruction Delivery",
           "score": 4,
-          "percentile": 9.6,
+          "percentile": 9.8,
           "values": [
             1,
-            4,
+            3,
             0,
             0,
-            4,
-            0,
-            0,
-            0,
+            3,
             0,
             0,
             0,
             0,
             0,
-            4,
+            0,
+            0,
+            0,
+            3,
             0,
             0,
             0,
@@ -320,7 +324,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 19.2,
+          "percentile": 18.6,
           "values": [
             0,
             0,
@@ -347,19 +351,19 @@
         {
           "name": "Feedback Quality",
           "score": 4,
-          "percentile": 7.7,
+          "percentile": 3.9,
           "values": [
             0,
-            4,
+            3,
             0,
-            4,
-            0,
-            0,
+            3,
             0,
             0,
             0,
             0,
-            4,
+            0,
+            0,
+            3,
             0,
             0,
             0,
@@ -374,7 +378,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.1,
+          "percentile": 23.5,
           "values": [
             0,
             2,
@@ -386,15 +390,15 @@
             1,
             1,
             0,
-            4,
+            3,
             1,
             0,
-            4,
+            3,
             1,
             1,
             0,
-            4,
-            4,
+            3,
+            3,
             2
           ]
         }
@@ -403,8 +407,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 4,
-        "allSessionRanking": 9.6,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 9.8,
+        "tutorSessionRanking": 100.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
         "alignedExplanation": 0.0,
@@ -414,13 +418,13 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 19.2,
-        "tutorSessionRanking": 1.0
+        "allSessionRanking": 18.6,
+        "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
         "rating": 4,
-        "allSessionRanking": 7.7,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 3.9,
+        "tutorSessionRanking": 100.0,
         "positiveFeedback": 1.85,
         "neutralFeedback": 95.37,
         "negativeFeedback": 2.78,
@@ -431,8 +435,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.1,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 23.5,
+        "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           0,
           0,

@@ -4,20 +4,25 @@
   "student": 5896340,
   "subject": "Algebra 2",
   "date": "2023-11-13",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "Instruction",
+    "Technology",
+    "Feedback",
+    "Emotion"
+  ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including factoring quadratic equations, imaginary numbers, and solving quadratic equations. The student's expectation to review factoring and address common mistakes was met. There were periods of low interaction due to technical difficulties with the audio connection.",
     "desiredOutcome": "The student's expectation for the session is to review factoring, specifically addressing common mistakes made during factoring problems. This expectation is addressed and corrected by the tutor.",
     "activities": [
-      "Factoring quadratic equations",
-      "Difference between squared and doubled numbers",
-      "Imaginary numbers and operations",
-      "Solving quadratic equations by factoring",
       "Solving quadratic equations using the quadratic formula",
+      "Solving quadratic equations by factoring",
+      "Difference between squared and doubled numbers",
       "Simplifying radicals",
       "Quadratic formula and quadratics circuit",
       "Solving quadratics by tables and graphs",
-      "Review practice for complex numbers"
+      "Review practice for complex numbers",
+      "Factoring quadratic equations",
+      "Imaginary numbers and operations"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -267,7 +272,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.3,
+          "percentile": 16.7,
           "values": [
             1,
             0,
@@ -279,7 +284,7 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
@@ -320,8 +325,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 4,
-          "percentile": 7.7,
+          "score": 5,
+          "percentile": 9.8,
           "values": [
             2,
             0,
@@ -338,32 +343,32 @@
             0,
             0,
             0,
-            4,
+            3,
             2,
             2,
-            4,
+            3,
             2
           ]
         },
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.1,
+          "percentile": 23.5,
           "values": [
             0,
             1,
             1,
-            4,
-            0,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            0,
-            1,
             3,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            1,
+            2,
             1,
             0,
             0,
@@ -377,8 +382,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.3,
-        "tutorSessionRanking": 0.2,
+        "allSessionRanking": 16.7,
+        "tutorSessionRanking": 20.0,
         "correctExplanation": 66.67,
         "incorrectExplanation": 33.33,
         "alignedExplanation": 66.67,
@@ -389,12 +394,12 @@
       "techToolUsage": {
         "rating": 4,
         "allSessionRanking": 1.0,
-        "tutorSessionRanking": 0.2
+        "tutorSessionRanking": 20.0
       },
       "feedbackQuality": {
-        "rating": 4,
-        "allSessionRanking": 7.7,
-        "tutorSessionRanking": 0.3,
+        "rating": 5,
+        "allSessionRanking": 9.8,
+        "tutorSessionRanking": 30.0,
         "positiveFeedback": 6.58,
         "neutralFeedback": 89.91,
         "negativeFeedback": 3.51,
@@ -405,8 +410,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.1,
-        "tutorSessionRanking": 0.5,
+        "allSessionRanking": 23.5,
+        "tutorSessionRanking": 50.0,
         "tutorUtterances": [
           0,
           0,

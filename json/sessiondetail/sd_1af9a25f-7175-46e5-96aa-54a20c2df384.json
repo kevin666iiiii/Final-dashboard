@@ -5,6 +5,7 @@
   "subject": "Algebra 2",
   "date": "2023-08-02",
   "riskyAreas": [
+    "Feedback",
     "Silent",
     "Student Inactive"
   ],
@@ -12,15 +13,15 @@
     "aiSummary": "In the one-on-one tutoring session, the student's expectations were to learn about simplifying radicals, particularly square roots and cube roots, and to receive ACT exam preparation. The tutor addressed the ACT tutoring request and introduced the concept of simplifying radicals. Periods of low interaction occurred for reflection, processing, and independent thinking during the session.",
     "desiredOutcome": "The student's expectation for the session is to learn how to simplify radicals, specifically square roots and cube roots. They also express interest in receiving tutoring for the ACT exam in the future. The tutor addresses the student's request for ACT tutoring and assures them that they can find materials online. The student's expectation for learning about simplifying radicals is partially met as they are introduced to the concept and given examples to practice.",
     "activities": [
-      "Simplifying radicals",
-      "ACT preparation",
-      "Perfect squares and simplifying square roots",
-      "Simplifying square roots with variables",
       "Identifying perfect squares for simplifying square roots",
+      "Simplifying radicals",
       "Adding and subtracting square roots",
-      "Multiplying square roots with numbers",
       "Combining square roots with multiplication",
-      "Planning for future tutoring sessions"
+      "Planning for future tutoring sessions",
+      "ACT preparation",
+      "Simplifying square roots with variables",
+      "Perfect squares and simplifying square roots",
+      "Multiplying square roots with numbers"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -231,7 +232,7 @@
         {
           "name": "Instruction Delivery",
           "score": 9,
-          "percentile": 85.6,
+          "percentile": 86.3,
           "values": [
             0,
             0,
@@ -250,15 +251,15 @@
             0,
             0,
             0,
-            4,
-            4,
+            3,
+            3,
             0
           ]
         },
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -284,24 +285,24 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 4,
-          "percentile": 7.7,
+          "score": 5,
+          "percentile": 9.8,
           "values": [
             2,
             2,
             0,
-            4,
+            3,
             0,
             2,
             0,
-            4,
+            3,
             2,
             2,
             2,
             0,
             2,
             2,
-            4,
+            3,
             2,
             0,
             2,
@@ -312,16 +313,16 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 7,
-          "percentile": 96.2,
+          "percentile": 96.1,
           "values": [
             2,
             1,
             1,
+            2,
+            1,
+            2,
+            2,
             3,
-            1,
-            2,
-            3,
-            4,
             0,
             0,
             2,
@@ -333,7 +334,7 @@
             1,
             2,
             0,
-            3
+            2
           ]
         }
       ]
@@ -341,8 +342,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 9,
-        "allSessionRanking": 85.6,
-        "tutorSessionRanking": 0.88,
+        "allSessionRanking": 86.3,
+        "tutorSessionRanking": 87.5,
         "correctExplanation": 66.67,
         "incorrectExplanation": 33.33,
         "alignedExplanation": 100.0,
@@ -352,13 +353,13 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
-        "tutorSessionRanking": 0.62
+        "allSessionRanking": 46.1,
+        "tutorSessionRanking": 62.5
       },
       "feedbackQuality": {
-        "rating": 4,
-        "allSessionRanking": 7.7,
-        "tutorSessionRanking": 0.25,
+        "rating": 5,
+        "allSessionRanking": 9.8,
+        "tutorSessionRanking": 25.0,
         "positiveFeedback": 12.98,
         "neutralFeedback": 82.69,
         "negativeFeedback": 4.33,
@@ -369,8 +370,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 7,
-        "allSessionRanking": 96.2,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 96.1,
+        "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           3,
           0,

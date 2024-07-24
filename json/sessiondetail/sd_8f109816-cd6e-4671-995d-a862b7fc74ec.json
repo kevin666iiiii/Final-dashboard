@@ -4,20 +4,23 @@
   "student": 4158799,
   "subject": "Algebra 2",
   "date": "2024-01-28",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "Technology",
+    "Emotion"
+  ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including constructing a Voronoi diagram using Geogebra, finding slopes, midpoints, and intersections, labeling equations, and rounding numbers. The student's expectation to work on a project involving a Voronoi diagram using Geogebra was met as they discussed loading the picture, maintaining scale, and starting the project.",
     "desiredOutcome": "The student's expectation for the session is to work on a project involving constructing a Vermont diagram using Geogebra with guidance from the tutor. The expectation seems to be met as the tutor and student discuss loading the picture into Geogebra, maintaining the scale, and beginning the project.",
     "activities": [
-      "Constructing a Voronoi diagram using Geogebra",
+      "Snapping points to intersections in Geogebra",
       "Finding the slope of a line by hand and in Geogebra",
-      "Finding the midpoint of a line segment",
-      "Labeling equations and lines in Geogebra",
       "Rounding numbers to three significant figures",
-      "Using Geogebra tools to find intersections",
+      "Constructing a Voronoi diagram using Geogebra",
       "Creating segments instead of full lines in Geogebra",
       "Using Geogebra to automatically create a Voronoi diagram",
-      "Snapping points to intersections in Geogebra"
+      "Finding the midpoint of a line segment",
+      "Labeling equations and lines in Geogebra",
+      "Using Geogebra tools to find intersections"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -235,7 +238,7 @@
         {
           "name": "Instruction Delivery",
           "score": 7,
-          "percentile": 56.7,
+          "percentile": 57.8,
           "values": [
             0,
             0,
@@ -246,7 +249,7 @@
             0,
             2,
             0,
-            4,
+            3,
             2,
             0,
             0,
@@ -262,7 +265,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 7,
-          "percentile": 11.5,
+          "percentile": 11.8,
           "values": [
             0,
             0,
@@ -288,27 +291,27 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 5,
-          "percentile": 23.1,
+          "score": 6,
+          "percentile": 26.5,
           "values": [
-            4,
+            3,
             2,
             0,
-            4,
-            2,
-            2,
-            2,
-            0,
-            2,
-            4,
-            2,
+            3,
             2,
             2,
             2,
             0,
+            2,
+            3,
+            2,
+            2,
+            2,
+            2,
             0,
             0,
-            4,
+            0,
+            3,
             0,
             2
           ]
@@ -316,7 +319,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.1,
+          "percentile": 23.5,
           "values": [
             1,
             1,
@@ -332,11 +335,11 @@
             1,
             1,
             1,
-            3,
+            2,
             1,
             0,
             1,
-            4,
+            3,
             0
           ]
         }
@@ -345,8 +348,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 7,
-        "allSessionRanking": 56.7,
-        "tutorSessionRanking": 0.8,
+        "allSessionRanking": 57.8,
+        "tutorSessionRanking": 80.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
         "alignedExplanation": 57.14,
@@ -356,13 +359,13 @@
       },
       "techToolUsage": {
         "rating": 7,
-        "allSessionRanking": 11.5,
-        "tutorSessionRanking": 0.4
+        "allSessionRanking": 11.8,
+        "tutorSessionRanking": 40.0
       },
       "feedbackQuality": {
-        "rating": 5,
-        "allSessionRanking": 23.1,
-        "tutorSessionRanking": 0.5,
+        "rating": 6,
+        "allSessionRanking": 26.5,
+        "tutorSessionRanking": 50.0,
         "positiveFeedback": 5.83,
         "neutralFeedback": 87.73,
         "negativeFeedback": 6.44,
@@ -373,8 +376,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.1,
-        "tutorSessionRanking": 0.5,
+        "allSessionRanking": 23.5,
+        "tutorSessionRanking": 50.0,
         "tutorUtterances": [
           -1,
           0,

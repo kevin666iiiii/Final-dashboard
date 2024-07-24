@@ -5,6 +5,10 @@
   "subject": "Algebra 2",
   "date": "2024-01-08",
   "riskyAreas": [
+    "Instruction",
+    "Technology",
+    "Feedback",
+    "Emotion",
     "Silent",
     "Student Inactive"
   ],
@@ -12,15 +16,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics related to uniform circular motion in physics, addressing specific questions and clarifying concepts. The student's expectation for understanding a particular question was met as the tutor explained formulas, concepts, and emphasized the importance of certain variables. During low interaction periods, both tutor and student engaged in contemplation, reflection, and faced technical issues with sharing questions.",
     "desiredOutcome": "The student's expectation for the session is to receive help with understanding a specific question related to uniform circular motion in physics. The student mentions that they don't understand the formula for the first question and express confusion about certain variables and concepts. The tutor addresses the student's confusion by explaining the formula for final velocity, introducing the concept of angular displacement using theta and omega for angular velocity, and clarifying the use of radians instead of degrees. The tutor also emphasizes the importance of memorizing certain Greek letters for the topic. Overall, the student's expectation for clarification on the physics concept is met during the session.",
     "activities": [
-      "Uniform circular motion and angular velocity",
-      "Calculating angular acceleration",
-      "Conversion of units for angular velocity",
-      "Effective radius calculation for rotational motion",
-      "Calculating angular displacement and revolutions",
       "Application of rotational motion equations",
+      "Effective radius calculation for rotational motion",
+      "Uniform circular motion and angular velocity",
+      "Conversion of units for angular velocity",
       "Finding average acceleration in circular motion",
       "Solving for angular acceleration in a rotational problem",
-      "Error correction in angular velocity calculation"
+      "Error correction in angular velocity calculation",
+      "Calculating angular acceleration",
+      "Calculating angular displacement and revolutions"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -278,7 +282,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.3,
+          "percentile": 16.7,
           "values": [
             0,
             0,
@@ -294,7 +298,7 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
@@ -305,7 +309,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 5,
-          "percentile": 3.8,
+          "percentile": 3.9,
           "values": [
             0,
             0,
@@ -332,11 +336,11 @@
         {
           "name": "Feedback Quality",
           "score": 5,
-          "percentile": 23.1,
+          "percentile": 9.8,
           "values": [
             0,
             0,
-            4,
+            3,
             0,
             0,
             2,
@@ -361,17 +365,17 @@
           "score": 3,
           "percentile": 2.9,
           "values": [
+            2,
+            1,
+            2,
+            0,
+            1,
+            2,
+            1,
+            1,
+            1,
+            0,
             3,
-            1,
-            3,
-            0,
-            1,
-            2,
-            1,
-            1,
-            1,
-            0,
-            4,
             0,
             2,
             0,
@@ -380,7 +384,7 @@
             0,
             1,
             2,
-            3
+            2
           ]
         }
       ]
@@ -388,8 +392,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.3,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 16.7,
+        "tutorSessionRanking": 100.0,
         "correctExplanation": 50.0,
         "incorrectExplanation": 50.0,
         "alignedExplanation": 50.0,
@@ -399,13 +403,13 @@
       },
       "techToolUsage": {
         "rating": 5,
-        "allSessionRanking": 3.8,
-        "tutorSessionRanking": 1.0
+        "allSessionRanking": 3.9,
+        "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
         "rating": 5,
-        "allSessionRanking": 23.1,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 9.8,
+        "tutorSessionRanking": 100.0,
         "positiveFeedback": 1.91,
         "neutralFeedback": 92.99,
         "negativeFeedback": 5.1,
@@ -417,7 +421,7 @@
       "socialEmotionalTeaching": {
         "rating": 3,
         "allSessionRanking": 2.9,
-        "tutorSessionRanking": 1.0,
+        "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           -1,
           -2,

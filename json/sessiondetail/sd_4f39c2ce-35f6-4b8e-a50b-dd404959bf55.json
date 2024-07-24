@@ -5,6 +5,7 @@
   "subject": "Algebra 2",
   "date": "2023-08-22",
   "riskyAreas": [
+    "Instruction",
     "Silent",
     "Student Inactive"
   ],
@@ -12,15 +13,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed special right triangles, trigonometric functions, the unit circle, and solving problems using trigonometry. The student's expectation was to learn about these topics, and the tutor addressed this by explaining concepts and relationships in special right triangles. Periods of low interaction occurred for various reasons, including allowing time for independent thinking, waiting for each other to speak, and pausing to process information.",
     "desiredOutcome": "The student's expectation for the session is to learn about special right triangles and trigonometry, specifically focusing on solving problems using trigonometric functions. The tutor addresses the student's expectation by explaining the concepts of trigonometry and how to find relationships between angle measurements and side lengths in special right triangles.",
     "activities": [
-      "Special right triangles and their angles",
-      "Trigonometric functions (sine, cosine, tangent)",
-      "Unit circle and its relationship to trigonometric functions",
-      "Special values for sine and cosine of common angles (30, 45, 60 degrees)",
-      "Using trigonometric functions to find side lengths in right triangles",
       "Memorization technique for special values of sine and cosine",
-      "Solving for missing side lengths using trigonometric functions",
+      "Special right triangles and their angles",
+      "Understanding the significance of special values in trigonometry",
+      "Unit circle and its relationship to trigonometric functions",
       "Application of trigonometry in finding side lengths in triangles",
-      "Understanding the significance of special values in trigonometry"
+      "Solving for missing side lengths using trigonometric functions",
+      "Using trigonometric functions to find side lengths in right triangles",
+      "Trigonometric functions (sine, cosine, tangent)",
+      "Special values for sine and cosine of common angles (30, 45, 60 degrees)"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -260,7 +261,7 @@
             1,
             1,
             1,
-            4,
+            3,
             1,
             1,
             1,
@@ -274,7 +275,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -300,7 +301,7 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 6,
+          "score": 7,
           "percentile": 49.0,
           "values": [
             2,
@@ -319,7 +320,7 @@
             0,
             0,
             2,
-            4,
+            3,
             0,
             2,
             2
@@ -328,15 +329,15 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 64.4,
+          "percentile": 63.7,
           "values": [
             0,
             2,
             1,
-            4,
-            0,
             3,
-            4,
+            0,
+            2,
+            3,
             1,
             1,
             1,
@@ -358,7 +359,7 @@
       "instructionalDelivery": {
         "rating": 3,
         "allSessionRanking": 2.9,
-        "tutorSessionRanking": 1.0,
+        "tutorSessionRanking": 100.0,
         "correctExplanation": 50.0,
         "incorrectExplanation": 50.0,
         "alignedExplanation": 0.0,
@@ -368,13 +369,13 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
-        "tutorSessionRanking": 1.0
+        "allSessionRanking": 46.1,
+        "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
-        "rating": 6,
+        "rating": 7,
         "allSessionRanking": 49.0,
-        "tutorSessionRanking": 1.0,
+        "tutorSessionRanking": 100.0,
         "positiveFeedback": 6.72,
         "neutralFeedback": 89.08,
         "negativeFeedback": 4.2,
@@ -385,8 +386,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 64.4,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 63.7,
+        "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           0,
           1,

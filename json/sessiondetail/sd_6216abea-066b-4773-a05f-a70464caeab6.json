@@ -5,21 +5,16 @@
   "subject": "Algebra",
   "date": "2023-11-16",
   "riskyAreas": [
+    "Feedback",
     "Student Inactive"
   ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on topics related to roots and radicals in math. The student's expectation was to work on simplifying expressions involving roots and exponents, which the tutor successfully addressed. Throughout the session, there were no periods of low interaction between the tutor and student.",
     "desiredOutcome": "The student's expectation for the session was to work on roots and radicals in math. The tutor helped the student understand how to simplify expressions involving roots and exponents, meeting the student's expectation.",
     "activities": [
-      "Roots and Radicals",
-      "Roots and Radicals",
-      "Radical Equations",
-      "Radical Equations",
-      "Radical Equations",
-      "Radical Equations",
       "Extraneous Solutions in Radical Equations",
-      "Extraneous Solutions in Radical Equations",
-      "Extraneous Solutions in Radical Equations"
+      "Radical Equations",
+      "Roots and Radicals"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -225,7 +220,7 @@
         {
           "name": "Instruction Delivery",
           "score": 8,
-          "percentile": 75.0,
+          "percentile": 76.5,
           "values": [
             1,
             0,
@@ -241,7 +236,7 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
@@ -252,7 +247,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -278,16 +273,14 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 4,
-          "percentile": 7.7,
+          "score": 5,
+          "percentile": 9.8,
           "values": [
             0,
-            4,
-            4,
+            3,
+            3,
             0,
-            4,
-            0,
-            0,
+            3,
             0,
             0,
             0,
@@ -295,18 +288,20 @@
             0,
             0,
             0,
-            4,
-            4,
             0,
-            4,
-            4,
-            4
+            0,
+            3,
+            3,
+            0,
+            3,
+            3,
+            3
           ]
         },
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 64.4,
+          "percentile": 63.7,
           "values": [
             0,
             0,
@@ -327,7 +322,7 @@
             1,
             2,
             2,
-            4
+            3
           ]
         }
       ]
@@ -335,8 +330,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 8,
-        "allSessionRanking": 75.0,
-        "tutorSessionRanking": 0.83,
+        "allSessionRanking": 76.5,
+        "tutorSessionRanking": 83.33,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
         "alignedExplanation": 85.71,
@@ -346,13 +341,13 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
-        "tutorSessionRanking": 0.83
+        "allSessionRanking": 46.1,
+        "tutorSessionRanking": 83.33
       },
       "feedbackQuality": {
-        "rating": 4,
-        "allSessionRanking": 7.7,
-        "tutorSessionRanking": 0.33,
+        "rating": 5,
+        "allSessionRanking": 9.8,
+        "tutorSessionRanking": 33.33,
         "positiveFeedback": 6.43,
         "neutralFeedback": 90.64,
         "negativeFeedback": 2.92,
@@ -363,8 +358,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 64.4,
-        "tutorSessionRanking": 0.67,
+        "allSessionRanking": 63.7,
+        "tutorSessionRanking": 66.67,
         "tutorUtterances": [
           1,
           0,

@@ -4,20 +4,22 @@
   "student": 1296722,
   "subject": "Algebra 2",
   "date": "2023-10-10",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "Feedback"
+  ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on reviewing concepts related to solving systems of equations. The student's expectation was to prepare for an upcoming quiz by revisiting topics such as graphing, substitution, and elimination methods. The student actively engaged in problem-solving with the tutor's guidance, ensuring their readiness for the quiz.",
     "desiredOutcome": "The student's expectation for the session is to review and prepare for a quiz on material covered in the previous week. They want to go over the same concepts to ensure they are ready for the quiz the next day. The tutor is helping the student solve problems related to graphing systems of equations. The student is actively engaged in the session, participating in solving the problems and discussing the solutions with the tutor. The tutor is providing guidance and support as the student works through the problems. Overall, the student's expectations for the session seem to be met as they are actively working on the material and getting clarification from the tutor.",
     "activities": [
       "Solving systems of equations by graphing",
-      "Solving systems of equations by substitution",
+      "Applying elimination method to solve systems of equations",
+      "Determining the number of solutions in a system of equations",
+      "Standardizing equations for solving systems of equations",
+      "Identifying infinite solutions in a system of equations",
       "Solving systems of equations by elimination",
       "Identifying the number of solutions in a system of equations",
-      "Applying elimination method to solve systems of equations",
-      "Standardizing equations for solving systems of equations",
-      "Determining the number of solutions in a system of equations",
-      "Identifying infinite solutions in a system of equations",
-      "Solving word problems involving systems of equations"
+      "Solving word problems involving systems of equations",
+      "Solving systems of equations by substitution"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -226,7 +228,7 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 38.5,
+          "percentile": 39.2,
           "values": [
             0,
             0,
@@ -239,11 +241,11 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
-            4,
+            3,
             0,
             2,
             0,
@@ -253,7 +255,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -280,20 +282,20 @@
         {
           "name": "Feedback Quality",
           "score": 4,
-          "percentile": 7.7,
+          "percentile": 3.9,
           "values": [
             2,
             0,
             2,
             2,
-            4,
+            3,
             2,
             0,
             2,
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
@@ -307,7 +309,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 64.4,
+          "percentile": 63.7,
           "values": [
             1,
             1,
@@ -318,7 +320,7 @@
             0,
             1,
             1,
-            4,
+            3,
             0,
             2,
             0,
@@ -336,8 +338,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 38.5,
-        "tutorSessionRanking": 0.88,
+        "allSessionRanking": 39.2,
+        "tutorSessionRanking": 87.5,
         "correctExplanation": 80.0,
         "incorrectExplanation": 20.0,
         "alignedExplanation": 60.0,
@@ -347,13 +349,13 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
-        "tutorSessionRanking": 0.81
+        "allSessionRanking": 46.1,
+        "tutorSessionRanking": 81.25
       },
       "feedbackQuality": {
         "rating": 4,
-        "allSessionRanking": 7.7,
-        "tutorSessionRanking": 0.44,
+        "allSessionRanking": 3.9,
+        "tutorSessionRanking": 31.25,
         "positiveFeedback": 9.8,
         "neutralFeedback": 87.58,
         "negativeFeedback": 2.61,
@@ -364,8 +366,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 64.4,
-        "tutorSessionRanking": 0.31,
+        "allSessionRanking": 63.7,
+        "tutorSessionRanking": 31.25,
         "tutorUtterances": [
           4,
           0,

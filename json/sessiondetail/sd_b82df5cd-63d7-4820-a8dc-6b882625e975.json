@@ -4,20 +4,22 @@
   "student": 6311986,
   "subject": "Algebra 2",
   "date": "2023-12-11",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "Technology"
+  ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics related to factoring polynomials. The student's expectation to work on factoring problems for homework was successfully met. Throughout the session, there were periods of low interaction due to technical issues, reflection, processing, and verifying factorization methods.",
     "desiredOutcome": "The student's expectation for the session was to work on factoring problems related to their homework. The tutor addressed this expectation by guiding the student through factoring expressions involving variables and numbers. The tutor also provided explanations and strategies to help the student understand the process of factoring. The student's expectation was successfully met during the session.",
     "activities": [
-      "Factoring polynomials with common factors",
-      "Factoring polynomials with multiple terms using grouping",
-      "Factoring the sum of cubes",
-      "Factoring the difference of cubes",
+      "Applying factoring techniques to polynomials with various exponents",
       "Factoring polynomials with perfect square trinomials",
-      "Identifying when to use sum of cubes or difference of cubes",
-      "Factoring perfect square trinomials",
+      "Factoring polynomials with common factors",
+      "Factoring the difference of cubes",
+      "Factoring the sum of cubes",
       "Understanding limitations of sum of cubes and difference of cubes",
-      "Applying factoring techniques to polynomials with various exponents"
+      "Identifying when to use sum of cubes or difference of cubes",
+      "Factoring polynomials with multiple terms using grouping",
+      "Factoring perfect square trinomials"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -208,11 +210,11 @@
         {
           "name": "Instruction Delivery",
           "score": 8,
-          "percentile": 75.0,
+          "percentile": 76.5,
           "values": [
             1,
             0,
-            4,
+            3,
             0,
             0,
             0,
@@ -235,7 +237,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 19.2,
+          "percentile": 18.6,
           "values": [
             2,
             0,
@@ -261,16 +263,16 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 6,
+          "score": 7,
           "percentile": 49.0,
           "values": [
             0,
-            4,
+            3,
             0,
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
@@ -279,17 +281,17 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
-            4,
-            4
+            3,
+            3
           ]
         },
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 64.4,
+          "percentile": 63.7,
           "values": [
             1,
             1,
@@ -303,12 +305,12 @@
             1,
             1,
             0,
-            3,
+            2,
             0,
             1,
             2,
             2,
-            4,
+            3,
             2,
             2
           ]
@@ -318,8 +320,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 8,
-        "allSessionRanking": 75.0,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 76.5,
+        "tutorSessionRanking": 100.0,
         "correctExplanation": 87.5,
         "incorrectExplanation": 12.5,
         "alignedExplanation": 75.0,
@@ -329,13 +331,13 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 19.2,
-        "tutorSessionRanking": 0.5
+        "allSessionRanking": 18.6,
+        "tutorSessionRanking": 50.0
       },
       "feedbackQuality": {
-        "rating": 6,
+        "rating": 7,
         "allSessionRanking": 49.0,
-        "tutorSessionRanking": 1.0,
+        "tutorSessionRanking": 100.0,
         "positiveFeedback": 12.75,
         "neutralFeedback": 86.27,
         "negativeFeedback": 0.98,
@@ -346,8 +348,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 64.4,
-        "tutorSessionRanking": 0.75,
+        "allSessionRanking": 63.7,
+        "tutorSessionRanking": 75.0,
         "tutorUtterances": [
           -1,
           0,

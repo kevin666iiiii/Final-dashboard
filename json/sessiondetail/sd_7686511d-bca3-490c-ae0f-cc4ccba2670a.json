@@ -5,6 +5,7 @@
   "subject": "Algebra 2",
   "date": "2024-03-14",
   "riskyAreas": [
+    "Instruction",
     "Student Inactive",
     "Short session"
   ],
@@ -12,14 +13,14 @@
     "aiSummary": "During the one-on-one tutoring session, the tutor and student delved into various topics such as graphing polynomial functions, symmetry of graphs, multiplicity of zeros, and behavior of graphs near critical points. The student's expectation was to review material for an upcoming test, particularly focusing on graphing polynomial functions and behavior as x approaches infinity. Periods of low interaction occurred when the student was searching for test materials and needed time to recall questions, prompting brief pauses in conversation.",
     "desiredOutcome": "The student's expectation for the session is to review material for a test the next day, specifically focusing on graphing polynomial functions and determining behavior as x approaches infinity. These expectations are addressed and clarified during the session.",
     "activities": [
-      "Graphing polynomial functions with positive and negative leading coefficients",
-      "Symmetry of graphs for even and odd functions",
-      "Multiplicity of zeros in polynomial functions",
-      "Behavior of graphs near critical points for even and odd functions",
-      "Maximum number of x-intercepts in a polynomial function",
-      "Behavior of graphs for odd degree polynomial functions with negative leading coefficients",
-      "Behavior of graphs for even degree polynomial functions with positive leading coefficients",
       "Correspondence of real zeros to x-intercepts in polynomial functions",
+      "Graphing polynomial functions with positive and negative leading coefficients",
+      "Behavior of graphs for even degree polynomial functions with positive leading coefficients",
+      "Maximum number of x-intercepts in a polynomial function",
+      "Multiplicity of zeros in polynomial functions",
+      "Symmetry of graphs for even and odd functions",
+      "Behavior of graphs for odd degree polynomial functions with negative leading coefficients",
+      "Behavior of graphs near critical points for even and odd functions",
       "Degree of polynomial functions based on the highest exponent"
     ],
     "interactionTrend": {
@@ -229,7 +230,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.3,
+          "percentile": 16.7,
           "values": [
             0,
             1,
@@ -240,15 +241,15 @@
             2,
             1,
             1,
-            4,
+            3,
             2,
             1,
             1,
             1,
             1,
             1,
-            3,
-            3,
+            2,
+            2,
             1,
             1
           ]
@@ -256,7 +257,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -282,26 +283,26 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 6,
+          "score": 7,
           "percentile": 49.0,
           "values": [
-            4,
+            3,
             0,
             0,
             0,
-            4,
+            3,
             0,
-            4,
-            4,
-            0,
-            0,
+            3,
+            3,
             0,
             0,
             0,
             0,
-            4,
             0,
-            4,
+            0,
+            3,
+            0,
+            3,
             0,
             0,
             0
@@ -310,14 +311,14 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 64.4,
+          "percentile": 63.7,
           "values": [
             0,
             1,
             2,
-            3,
+            2,
             1,
-            3,
+            2,
             1,
             1,
             1,
@@ -326,9 +327,9 @@
             0,
             2,
             1,
-            4,
+            3,
             2,
-            4,
+            3,
             2,
             0,
             2
@@ -339,8 +340,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.3,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 16.7,
+        "tutorSessionRanking": 100.0,
         "correctExplanation": 66.67,
         "incorrectExplanation": 33.33,
         "alignedExplanation": 33.33,
@@ -350,13 +351,13 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
-        "tutorSessionRanking": 1.0
+        "allSessionRanking": 46.1,
+        "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
-        "rating": 6,
+        "rating": 7,
         "allSessionRanking": 49.0,
-        "tutorSessionRanking": 1.0,
+        "tutorSessionRanking": 100.0,
         "positiveFeedback": 5.04,
         "neutralFeedback": 92.81,
         "negativeFeedback": 2.16,
@@ -367,8 +368,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 64.4,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 63.7,
+        "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           3,
           0,

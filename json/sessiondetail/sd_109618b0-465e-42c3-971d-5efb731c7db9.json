@@ -11,15 +11,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on factoring polynomials, specifically on the sum and difference of cubes. The student's expectation was to receive help with understanding and completing their homework on this topic. The tutor acknowledged the student's struggles and agreed to address these specific areas of difficulty during the session.",
     "desiredOutcome": "The student's expectation for the session is to receive help with understanding and completing their homework on factoring polynomials, specifically focusing on the sum of cubes and difference of cubes. They mentioned that they are struggling with this concept and left those problems unfinished. The student also expressed that they don't need a full session and that it can be light due to the break from school. The tutor acknowledged the student's need for help with factoring and agreed to review and work on the sum of cubes and difference of cubes problems from the homework. The student's expectations for the session seem to be addressed as the tutor is planning to focus on the specific areas of difficulty mentioned by the student.",
     "activities": [
-      "Factoring polynomials with long division and synthetic division",
-      "Factoring polynomials in general by finding the greatest common factor",
-      "Factoring the sum and difference of cubes",
-      "Identifying values of a and b in the sum and difference of cubes",
-      "Applying the formulas for sum and difference of cubes",
-      "Identifying the middle term in factoring polynomials",
-      "Using prime factorization to factor polynomials",
       "Understanding the difference of two cubes formula",
-      "Using the greatest common factor to factor polynomials"
+      "Using the greatest common factor to factor polynomials",
+      "Using prime factorization to factor polynomials",
+      "Identifying the middle term in factoring polynomials",
+      "Applying the formulas for sum and difference of cubes",
+      "Factoring polynomials with long division and synthetic division",
+      "Identifying values of a and b in the sum and difference of cubes",
+      "Factoring polynomials in general by finding the greatest common factor",
+      "Factoring the sum and difference of cubes"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -192,12 +192,12 @@
         {
           "name": "Instruction Delivery",
           "score": 9,
-          "percentile": 85.6,
+          "percentile": 86.3,
           "values": [
             0,
+            2,
             3,
-            4,
-            3,
+            2,
             2,
             2,
             2,
@@ -219,7 +219,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -245,7 +245,7 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 6,
+          "score": 7,
           "percentile": 49.0,
           "values": [
             0,
@@ -260,30 +260,30 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
             0,
-            4,
+            3,
             0,
-            4
+            3
           ]
         },
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 64.4,
+          "percentile": 63.7,
           "values": [
-            3,
-            4,
-            1,
-            0,
-            1,
-            0,
+            2,
             3,
             1,
             0,
+            1,
+            0,
+            2,
+            1,
+            0,
             2,
             0,
             2,
@@ -294,7 +294,7 @@
             1,
             0,
             0,
-            3
+            2
           ]
         }
       ]
@@ -302,8 +302,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 9,
-        "allSessionRanking": 85.6,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 86.3,
+        "tutorSessionRanking": 100.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
         "alignedExplanation": 100.0,
@@ -313,13 +313,13 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
-        "tutorSessionRanking": 0.7
+        "allSessionRanking": 46.1,
+        "tutorSessionRanking": 70.0
       },
       "feedbackQuality": {
-        "rating": 6,
+        "rating": 7,
         "allSessionRanking": 49.0,
-        "tutorSessionRanking": 0.9,
+        "tutorSessionRanking": 90.0,
         "positiveFeedback": 4.05,
         "neutralFeedback": 94.22,
         "negativeFeedback": 1.73,
@@ -330,8 +330,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 64.4,
-        "tutorSessionRanking": 0.9,
+        "allSessionRanking": 63.7,
+        "tutorSessionRanking": 90.0,
         "tutorUtterances": [
           0,
           -1,

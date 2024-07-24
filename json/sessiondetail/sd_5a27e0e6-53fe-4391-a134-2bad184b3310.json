@@ -5,21 +5,17 @@
   "subject": "Algebra 2",
   "date": "2023-11-13",
   "riskyAreas": [
+    "Instruction",
+    "Technology",
+    "Emotion",
     "Silent"
   ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the student's expectation was to review and understand concepts related to angular speed, linear speed, and arc length for an upcoming quiz. The tutor and student discussed various questions focusing on angular speed and linear speed. Periods of low interaction occurred due to reasons such as organizing thoughts, bathroom breaks, confusion over units, and processing information.",
     "desiredOutcome": "The student's expectation for the session is to review and understand concepts related to angular speed, linear speed, and arc length for an upcoming quiz. They mention that they don't understand the material and express a need for clarification and explanation. The student also mentions that they have already attempted some homework problems but still need help understanding them. The student is looking for guidance in understanding the formulas and concepts related to linear speed, specifically how to calculate it using the formula involving radius and angular speed. The student is proactive in sharing their screen and homework assignment to seek assistance from the tutor. The tutor's explanation and guidance are crucial for the student to grasp the concepts and solve the homework problems effectively.",
     "activities": [
-      "Angular speed, linear speed, arc length",
       "Angular speed, linear speed",
-      "Angular speed, linear speed",
-      "Angular speed, linear speed",
-      "Angular speed, linear speed",
-      "Angular speed, linear speed",
-      "Angular speed, linear speed",
-      "Angular speed, linear speed",
-      "Angular speed, linear speed"
+      "Angular speed, linear speed, arc length"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -252,10 +248,10 @@
             0,
             2,
             1,
-            3,
+            2,
             2,
             1,
-            4,
+            3,
             0,
             0,
             2,
@@ -267,7 +263,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 19.2,
+          "percentile": 18.6,
           "values": [
             0,
             0,
@@ -293,14 +289,14 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 7,
-          "percentile": 80.8,
+          "score": 9,
+          "percentile": 90.2,
           "values": [
             0,
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
@@ -314,8 +310,8 @@
             0,
             0,
             0,
-            4,
-            4
+            3,
+            3
           ]
         },
         {
@@ -323,26 +319,26 @@
           "score": 3,
           "percentile": 2.9,
           "values": [
-            4,
-            1,
-            2,
-            0,
-            0,
             3,
-            4,
-            2,
-            2,
-            0,
             1,
+            2,
             0,
             0,
-            0,
-            0,
-            0,
+            2,
             3,
             2,
+            2,
+            0,
             1,
-            4
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
+            2,
+            1,
+            3
           ]
         }
       ]
@@ -351,7 +347,7 @@
       "instructionalDelivery": {
         "rating": 3,
         "allSessionRanking": 2.9,
-        "tutorSessionRanking": 1.0,
+        "tutorSessionRanking": 100.0,
         "correctExplanation": 50.0,
         "incorrectExplanation": 50.0,
         "alignedExplanation": 7.14,
@@ -361,13 +357,13 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 19.2,
-        "tutorSessionRanking": 1.0
+        "allSessionRanking": 18.6,
+        "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
-        "rating": 7,
-        "allSessionRanking": 80.8,
-        "tutorSessionRanking": 1.0,
+        "rating": 9,
+        "allSessionRanking": 90.2,
+        "tutorSessionRanking": 100.0,
         "positiveFeedback": 4.0,
         "neutralFeedback": 92.8,
         "negativeFeedback": 3.2,
@@ -379,7 +375,7 @@
       "socialEmotionalTeaching": {
         "rating": 3,
         "allSessionRanking": 2.9,
-        "tutorSessionRanking": 1.0,
+        "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           4,
           -1,

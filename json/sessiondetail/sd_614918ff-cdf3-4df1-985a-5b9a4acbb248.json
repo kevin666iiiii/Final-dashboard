@@ -4,20 +4,22 @@
   "student": 4853738,
   "subject": "Algebra 2",
   "date": "2023-12-05",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "Instruction"
+  ],
   "sessionGeneral": {
     "aiSummary": "During the one-on-one tutoring session, the tutor and student covered various topics including trigonometry, permutations, geometry, algebra, and probability. The student's expectations to review trigonometry concepts, solve combination problems, and find the radius of a cone were successfully met. There were no specific instances of low interaction during the session.",
     "desiredOutcome": "The student's expectations for the session were to review trigonometry concepts, solve math problems involving combinations, and apply formulas to find the radius of a cone. These expectations were met as the tutor guided the student through the trigonometry question, helped with the combinations problem, and corrected a mistake while finding the radius of the cone.",
     "activities": [
+      "Algebra - Factoring Quadratic Expressions",
+      "Probability",
+      "Geometry - Distance between Points in a Right Triangle",
       "Trigonometry - Sine, Cosine, and Tangent",
+      "Geometry - Circumference and Radius of a Circle",
       "Permutations and Combinations",
       "Geometry - Volume of a Cone",
-      "Geometry - Distance between Points in a Right Triangle",
       "Geometry - Finding Midpoint of a Line Segment",
-      "Algebra - Factoring Quadratic Expressions",
-      "Algebra - Finding Slope of a Line",
-      "Probability",
-      "Geometry - Circumference and Radius of a Circle"
+      "Algebra - Finding Slope of a Line"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -220,34 +222,34 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.3,
+          "percentile": 16.7,
           "values": [
             0,
             0,
             0,
             0,
             0,
-            4,
-            0,
-            0,
-            0,
-            0,
-            0,
-            1,
-            0,
             3,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            2,
             1,
             0,
             0,
             1,
             0,
-            3
+            2
           ]
         },
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -273,8 +275,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 7,
-          "percentile": 80.8,
+          "score": 9,
+          "percentile": 90.2,
           "values": [
             0,
             0,
@@ -282,12 +284,12 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
@@ -295,13 +297,13 @@
             0,
             0,
             0,
-            4
+            3
           ]
         },
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 64.4,
+          "percentile": 63.7,
           "values": [
             1,
             0,
@@ -317,7 +319,7 @@
             2,
             2,
             0,
-            4,
+            3,
             1,
             1,
             2,
@@ -330,8 +332,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.3,
-        "tutorSessionRanking": 0.56,
+        "allSessionRanking": 16.7,
+        "tutorSessionRanking": 56.25,
         "correctExplanation": 72.73,
         "incorrectExplanation": 27.27,
         "alignedExplanation": 36.36,
@@ -341,13 +343,13 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
-        "tutorSessionRanking": 0.81
+        "allSessionRanking": 46.1,
+        "tutorSessionRanking": 81.25
       },
       "feedbackQuality": {
-        "rating": 7,
-        "allSessionRanking": 80.8,
-        "tutorSessionRanking": 1.0,
+        "rating": 9,
+        "allSessionRanking": 90.2,
+        "tutorSessionRanking": 100.0,
         "positiveFeedback": 5.21,
         "neutralFeedback": 92.71,
         "negativeFeedback": 2.08,
@@ -358,8 +360,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 64.4,
-        "tutorSessionRanking": 0.31,
+        "allSessionRanking": 63.7,
+        "tutorSessionRanking": 31.25,
         "tutorUtterances": [
           1,
           0,

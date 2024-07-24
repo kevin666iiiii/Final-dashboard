@@ -5,7 +5,7 @@
   "subject": "Algebra 2",
   "date": "2023-09-18",
   "riskyAreas": [
-    "Emotion",
+    "Instruction",
     "Emotion"
   ],
   "sessionGeneral": {
@@ -14,13 +14,13 @@
     "activities": [
       "Scatter plots and correlations",
       "Linear regression",
-      "Data types and variables",
+      "Density curve and normal distribution",
       "Analyzing categorical data",
       "Quantitative data distributions",
-      "Measures of center",
+      "Data types and variables",
       "Transform data",
       "Percentile and cumulative relative frequency",
-      "Density curve and normal distribution"
+      "Measures of center"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -216,7 +216,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.3,
+          "percentile": 16.7,
           "values": [
             1,
             1,
@@ -224,7 +224,7 @@
             0,
             1,
             1,
-            3,
+            2,
             1,
             1,
             1,
@@ -233,7 +233,7 @@
             1,
             1,
             1,
-            4,
+            3,
             1,
             2,
             1,
@@ -243,7 +243,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -269,29 +269,29 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 6,
-          "percentile": 49.0,
+          "score": 8,
+          "percentile": 73.5,
           "values": [
             0,
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
-            4,
-            4,
-            0,
-            0,
-            0,
-            0,
+            3,
+            3,
             0,
             0,
             0,
             0,
             0,
-            4
+            0,
+            0,
+            0,
+            0,
+            3
           ]
         },
         {
@@ -311,9 +311,9 @@
             1,
             1,
             2,
-            4,
             3,
-            3,
+            2,
+            2,
             1,
             2,
             2,
@@ -326,8 +326,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.3,
-        "tutorSessionRanking": 0.5,
+        "allSessionRanking": 16.7,
+        "tutorSessionRanking": 50.0,
         "correctExplanation": 71.43,
         "incorrectExplanation": 28.57,
         "alignedExplanation": 28.57,
@@ -337,13 +337,13 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
-        "tutorSessionRanking": 1.0
+        "allSessionRanking": 46.1,
+        "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
-        "rating": 6,
-        "allSessionRanking": 49.0,
-        "tutorSessionRanking": 0.5,
+        "rating": 8,
+        "allSessionRanking": 73.5,
+        "tutorSessionRanking": 50.0,
         "positiveFeedback": 2.78,
         "neutralFeedback": 89.58,
         "negativeFeedback": 7.64,
@@ -355,7 +355,7 @@
       "socialEmotionalTeaching": {
         "rating": 1,
         "allSessionRanking": 0.0,
-        "tutorSessionRanking": 0.5,
+        "tutorSessionRanking": 50.0,
         "tutorUtterances": [
           -2,
           0,

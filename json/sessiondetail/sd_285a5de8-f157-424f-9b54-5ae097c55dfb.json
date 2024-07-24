@@ -5,6 +5,9 @@
   "subject": "Algebra 2",
   "date": "2024-02-18",
   "riskyAreas": [
+    "Instruction",
+    "Technology",
+    "Emotion",
     "Silent",
     "Student Inactive"
   ],
@@ -12,14 +15,14 @@
     "aiSummary": "The tutoring session focused on algebra and geometry topics, including solving equations, properties of triangles, quadratic equations, systems of equations, and more. The student actively engaged with the tutor, seeking clarification and guidance. Periods of low interaction were due to processing information, reflecting, and contemplating challenging math problems.",
     "desiredOutcome": "Based on the transcript, the student's expectations for the session seem to be focused on reviewing and working through math problems, potentially related to algebra or geometry. The student is actively engaging with the tutor in solving problems and seems to be seeking clarification and guidance on specific questions. The student also mentions studying foreign \"satan,\" which may indicate a desire to improve in a particular subject or topic. \n\nIt appears that the student's expectations for the session are being met, as the tutor is going through math problems with the student, providing explanations, and guiding them through the solutions. The student is actively participating in the session and seems to be benefiting from the tutor's assistance.",
     "activities": [
-      "Algebra - Solving equations with variables",
-      "Geometry - Properties of triangles",
-      "Algebra - Quadratic equations and discriminant",
-      "Geometry - Properties of right triangles",
-      "Algebra - Systems of equations",
       "Geometry - Calculating area and volume",
+      "Algebra - Systems of equations",
       "Algebra - Linear equations and slopes",
+      "Geometry - Properties of triangles",
+      "Algebra - Solving equations with variables",
       "Algebra - Appreciation and depreciation formulas",
+      "Geometry - Properties of right triangles",
+      "Algebra - Quadratic equations and discriminant",
       "Algebra - Ratios and proportions"
     ],
     "interactionTrend": {
@@ -251,7 +254,7 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
@@ -272,7 +275,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 19.2,
+          "percentile": 18.6,
           "values": [
             0,
             0,
@@ -298,8 +301,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 5,
-          "percentile": 23.1,
+          "score": 6,
+          "percentile": 26.5,
           "values": [
             0,
             0,
@@ -308,43 +311,43 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
             0,
-            4
+            3
           ]
         },
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.1,
+          "percentile": 23.5,
           "values": [
             0,
             2,
             1,
-            4,
-            4,
-            0,
-            1,
-            0,
-            0,
-            1,
-            0,
-            1,
-            2,
-            0,
-            2,
-            1,
             3,
+            3,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            2,
+            0,
+            2,
+            1,
+            2,
             0,
             2,
             0
@@ -356,7 +359,7 @@
       "instructionalDelivery": {
         "rating": 2,
         "allSessionRanking": 1.0,
-        "tutorSessionRanking": 0.33,
+        "tutorSessionRanking": 33.33,
         "correctExplanation": 0.0,
         "incorrectExplanation": 100.0,
         "alignedExplanation": 0.0,
@@ -366,13 +369,13 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 19.2,
-        "tutorSessionRanking": 0.33
+        "allSessionRanking": 18.6,
+        "tutorSessionRanking": 33.33
       },
       "feedbackQuality": {
-        "rating": 5,
-        "allSessionRanking": 23.1,
-        "tutorSessionRanking": 0.33,
+        "rating": 6,
+        "allSessionRanking": 26.5,
+        "tutorSessionRanking": 33.33,
         "positiveFeedback": 2.08,
         "neutralFeedback": 92.36,
         "negativeFeedback": 5.56,
@@ -383,8 +386,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.1,
-        "tutorSessionRanking": 0.67,
+        "allSessionRanking": 23.5,
+        "tutorSessionRanking": 66.67,
         "tutorUtterances": [
           0,
           1,

@@ -4,20 +4,23 @@
   "student": 4353019,
   "subject": "Algebra 2",
   "date": "2023-12-30",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "Instruction",
+    "Emotion"
+  ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student extensively covered various trigonometry topics, including sine, cosine, tangent of specific angles in different quadrants, reference angles, exact values of trigonometric functions, rotating angles, handling negative angles, and applying trigonometric functions to angles in different quadrants. The student's expectations for the session, such as clarifying future scheduling, reviewing cosine calculations in radians, converting between degree and radian measures, and understanding SOHCAHTOA principles, were effectively addressed by the tutor.",
     "desiredOutcome": "Based on the transcript, the student's expectations for the session seem to be:\n\n1. Clarification on the scheduling of future tutoring sessions.\n2. Review and practice trigonometry concepts, specifically focusing on cosine calculations in radians.\n3. Assistance with understanding and converting between degree and radian measures.\n4. Guidance on trigonometric principles, such as SOHCAHTOA.\n\nIt appears that the student's expectations for the session were addressed, as the tutor discussed the scheduling for future sessions and proceeded to review and explain trigonometry concepts, including the conversion between degree and radian measures and the application of SOHCAHTOA in trigonometric calculations. The student also seemed engaged and actively taking notes, indicating that their expectations were being met.",
     "activities": [
-      "Trigonometry - Sine and Cosine of specific angles in different quadrants",
-      "Trigonometry - Tangent of specific angles in different quadrants",
       "Trigonometry - Understanding reference angles and their values",
+      "Trigonometry - Calculating trigonometric values for angles close to axis positions",
+      "Trigonometry - Solving trigonometric problems involving rotations and exact values",
+      "Trigonometry - Sine and Cosine of specific angles in different quadrants",
       "Trigonometry - Calculating exact values of trigonometric functions for given angles",
       "Trigonometry - Rotating angles around the unit circle and determining trigonometric values",
-      "Trigonometry - Handling negative angles and determining trigonometric values",
       "Trigonometry - Applying trigonometric functions to angles in different quadrants",
-      "Trigonometry - Calculating trigonometric values for angles close to axis positions",
-      "Trigonometry - Solving trigonometric problems involving rotations and exact values"
+      "Trigonometry - Tangent of specific angles in different quadrants",
+      "Trigonometry - Handling negative angles and determining trigonometric values"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -235,7 +238,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.3,
+          "percentile": 16.7,
           "values": [
             0,
             0,
@@ -244,25 +247,25 @@
             0,
             0,
             2,
-            4,
+            3,
             0,
-            4,
+            3,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
             2,
             2,
-            4,
+            3,
             0
           ]
         },
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -288,8 +291,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 6,
-          "percentile": 49.0,
+          "score": 8,
+          "percentile": 73.5,
           "values": [
             0,
             0,
@@ -300,23 +303,23 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
-            4,
-            4,
+            3,
+            3,
             0,
             0,
             0,
-            4,
+            3,
             0
           ]
         },
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.1,
+          "percentile": 23.5,
           "values": [
             1,
             0,
@@ -326,18 +329,18 @@
             2,
             0,
             1,
-            3,
+            2,
             2,
             2,
             2,
             2,
             0,
             1,
-            3,
             2,
-            3,
             2,
-            4
+            2,
+            2,
+            3
           ]
         }
       ]
@@ -345,8 +348,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.3,
-        "tutorSessionRanking": 0.14,
+        "allSessionRanking": 16.7,
+        "tutorSessionRanking": 14.29,
         "correctExplanation": 96.15,
         "incorrectExplanation": 3.85,
         "alignedExplanation": 57.69,
@@ -356,13 +359,13 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
-        "tutorSessionRanking": 0.86
+        "allSessionRanking": 46.1,
+        "tutorSessionRanking": 85.71
       },
       "feedbackQuality": {
-        "rating": 6,
-        "allSessionRanking": 49.0,
-        "tutorSessionRanking": 0.57,
+        "rating": 8,
+        "allSessionRanking": 73.5,
+        "tutorSessionRanking": 78.57,
         "positiveFeedback": 16.13,
         "neutralFeedback": 77.42,
         "negativeFeedback": 6.45,
@@ -373,8 +376,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.1,
-        "tutorSessionRanking": 0.86,
+        "allSessionRanking": 23.5,
+        "tutorSessionRanking": 85.71,
         "tutorUtterances": [
           0,
           4,

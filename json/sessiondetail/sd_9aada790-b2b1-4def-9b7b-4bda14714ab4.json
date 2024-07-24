@@ -11,15 +11,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed topics such as imaginary numbers, simplifying square roots, using the quadratic formula, and operations with complex numbers. The student's expectation was to review and understand these concepts. Throughout the session, there were periods of low interaction for reflection, silent problem-solving, and processing of concepts.",
     "desiredOutcome": "The student's expectation for the session is to review and understand complex numbers, including imaginary numbers and simplifying square roots. The tutor addresses the student's questions and confusions, helping them understand the concepts.",
     "activities": [
-      "Imaginary Numbers and Simplifying Square Roots",
       "Using the Quadratic Formula",
-      "Adding and Subtracting Complex Numbers",
       "Multiplying Complex Numbers",
+      "Finalizing Next Tutoring Session Date",
       "Dividing Complex Numbers",
-      "Simplifying Powers of Imaginary Numbers",
+      "Adding and Subtracting Complex Numbers",
       "Multiplying Negative Square Roots",
       "Scheduling Next Tutoring Session",
-      "Finalizing Next Tutoring Session Date"
+      "Simplifying Powers of Imaginary Numbers",
+      "Imaginary Numbers and Simplifying Square Roots"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -240,7 +240,7 @@
         {
           "name": "Instruction Delivery",
           "score": 9,
-          "percentile": 85.6,
+          "percentile": 86.3,
           "values": [
             0,
             0,
@@ -254,7 +254,7 @@
             1,
             1,
             1,
-            4,
+            3,
             1,
             1,
             1,
@@ -267,7 +267,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -293,35 +293,35 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 6,
+          "score": 7,
           "percentile": 49.0,
           "values": [
-            4,
+            3,
             0,
-            4,
-            0,
-            0,
-            4,
+            3,
             0,
             0,
-            4,
+            3,
             0,
             0,
-            4,
+            3,
+            0,
+            0,
+            3,
             0,
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
-            4
+            3
           ]
         },
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 64.4,
+          "percentile": 63.7,
           "values": [
             1,
             0,
@@ -332,17 +332,17 @@
             1,
             0,
             0,
-            4,
+            3,
             1,
             0,
             2,
             2,
             0,
             0,
-            4,
+            3,
             1,
             1,
-            4
+            3
           ]
         }
       ]
@@ -350,8 +350,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 9,
-        "allSessionRanking": 85.6,
-        "tutorSessionRanking": 0.88,
+        "allSessionRanking": 86.3,
+        "tutorSessionRanking": 87.5,
         "correctExplanation": 80.0,
         "incorrectExplanation": 20.0,
         "alignedExplanation": 100.0,
@@ -361,13 +361,13 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
-        "tutorSessionRanking": 0.62
+        "allSessionRanking": 46.1,
+        "tutorSessionRanking": 62.5
       },
       "feedbackQuality": {
-        "rating": 6,
+        "rating": 7,
         "allSessionRanking": 49.0,
-        "tutorSessionRanking": 0.88,
+        "tutorSessionRanking": 87.5,
         "positiveFeedback": 5.92,
         "neutralFeedback": 88.76,
         "negativeFeedback": 5.33,
@@ -378,8 +378,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 64.4,
-        "tutorSessionRanking": 0.5,
+        "allSessionRanking": 63.7,
+        "tutorSessionRanking": 50.0,
         "tutorUtterances": [
           1,
           1,

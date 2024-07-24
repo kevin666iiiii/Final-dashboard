@@ -5,6 +5,8 @@
   "subject": "Algebra",
   "date": "2023-08-15",
   "riskyAreas": [
+    "Instruction",
+    "Emotion",
     "Silent",
     "Student Inactive"
   ],
@@ -12,15 +14,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various algebra two topics, focusing on system of equations to address the student's learning gap. The student showed engagement and willingness to learn, agreeing to work on more problems for better understanding. Periods of low interaction occurred when the student needed time to process information or solve equations independently, and when the tutor needed time to review the student's work and plan next steps.",
     "desiredOutcome": "The student's expectation for the session was to work on algebra two topics, specifically focusing on system of equations. The student expressed familiarity with some algebra concepts like multi-step equations, absolute values, and compound inequalities. However, they indicated that they had not covered system of equations yet and were open to learning about it. The tutor identified this gap in knowledge and proceeded to explain and work on solving system of equations with the student. The student seemed engaged and willing to learn, as they agreed to work on more problems to solidify their understanding. Overall, the student's expectation for the session was addressed as they received guidance on a new topic in algebra two.",
     "activities": [
+      "Completing the square",
+      "Exponents and logarithms",
       "Multi-step equations and inequalities",
-      "Compound inequalities",
+      "Rational equations",
       "Absolute values",
       "System of equations",
-      "Graphing linear equations",
+      "Compound inequalities",
       "Factoring polynomials",
-      "Completing the square",
-      "Rational equations",
-      "Exponents and logarithms"
+      "Graphing linear equations"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -336,7 +338,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.3,
+          "percentile": 16.7,
           "values": [
             0,
             0,
@@ -350,12 +352,12 @@
             1,
             1,
             1,
-            4,
+            3,
             1,
             1,
             1,
             1,
-            4,
+            3,
             1,
             1
           ]
@@ -363,7 +365,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -389,35 +391,35 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 6,
+          "score": 7,
           "percentile": 49.0,
           "values": [
-            4,
+            3,
             0,
             0,
             0,
             0,
             0,
-            4,
-            4,
+            3,
+            3,
             0,
             0,
             0,
-            4,
-            4,
+            3,
+            3,
             0,
             0,
             0,
-            4,
-            4,
+            3,
+            3,
             0,
-            4
+            3
           ]
         },
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.1,
+          "percentile": 23.5,
           "values": [
             2,
             0,
@@ -426,14 +428,14 @@
             0,
             0,
             2,
-            4,
+            3,
             2,
             1,
             2,
             2,
-            3,
+            2,
             1,
-            3,
+            2,
             2,
             2,
             1,
@@ -446,8 +448,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.3,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 16.7,
+        "tutorSessionRanking": 100.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
         "alignedExplanation": 0.0,
@@ -457,13 +459,13 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
-        "tutorSessionRanking": 0.83
+        "allSessionRanking": 46.1,
+        "tutorSessionRanking": 83.33
       },
       "feedbackQuality": {
-        "rating": 6,
+        "rating": 7,
         "allSessionRanking": 49.0,
-        "tutorSessionRanking": 0.67,
+        "tutorSessionRanking": 66.67,
         "positiveFeedback": 4.0,
         "neutralFeedback": 92.33,
         "negativeFeedback": 3.67,
@@ -474,8 +476,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.1,
-        "tutorSessionRanking": 0.67,
+        "allSessionRanking": 23.5,
+        "tutorSessionRanking": 66.67,
         "tutorUtterances": [
           0,
           1,

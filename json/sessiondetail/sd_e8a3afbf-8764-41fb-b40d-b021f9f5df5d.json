@@ -4,20 +4,23 @@
   "student": 4407840,
   "subject": "Algebra 2",
   "date": "2024-03-04",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "Feedback",
+    "Emotion"
+  ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including completing the square, solving quadratic equations, Galileo's formula for free fall, factoring quadratic expressions, and more. The student's expectation was to review solving equations using square root property or completing the square, which the tutor addressed by guiding the student through the process. During low interaction periods, both the tutor and student engaged in silence to process and understand formulas and equations, allowing for deeper comprehension.",
     "desiredOutcome": "The student's expectation for the session is to review solving equations using square root property or completing the square. The tutor addresses the expectation by guiding the student through the process.",
     "activities": [
-      "Completing the square and solving quadratic equations",
-      "Galileo's formula for the height of an object in free fall",
-      "Common denominators and solving equations with fractions",
-      "Factoring quadratic expressions",
-      "Applying the zero product property to solve equations",
-      "Multiplying binomials and grouping like terms",
-      "Applying the quadratic formula to find solutions",
       "Understanding the importance of correct mathematical operations",
-      "Preparing for tests and studying effectively"
+      "Common denominators and solving equations with fractions",
+      "Preparing for tests and studying effectively",
+      "Applying the quadratic formula to find solutions",
+      "Completing the square and solving quadratic equations",
+      "Applying the zero product property to solve equations",
+      "Factoring quadratic expressions",
+      "Multiplying binomials and grouping like terms",
+      "Galileo's formula for the height of an object in free fall"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -271,7 +274,7 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 38.5,
+          "percentile": 39.2,
           "values": [
             0,
             0,
@@ -285,7 +288,7 @@
             0,
             0,
             1,
-            4,
+            3,
             1,
             1,
             0,
@@ -298,7 +301,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -324,15 +327,15 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 4,
-          "percentile": 7.7,
+          "score": 5,
+          "percentile": 9.8,
           "values": [
             0,
             0,
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
@@ -342,33 +345,33 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
-            4
+            3
           ]
         },
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.1,
+          "percentile": 23.5,
           "values": [
-            4,
+            3,
             1,
             1,
             0,
             0,
-            3,
+            2,
             0,
             1,
             1,
             1,
             1,
-            3,
+            2,
             0,
-            3,
-            3,
+            2,
+            2,
             1,
             0,
             0,
@@ -381,8 +384,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 38.5,
-        "tutorSessionRanking": 0.5,
+        "allSessionRanking": 39.2,
+        "tutorSessionRanking": 50.0,
         "correctExplanation": 83.33,
         "incorrectExplanation": 16.67,
         "alignedExplanation": 66.67,
@@ -392,13 +395,13 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
-        "tutorSessionRanking": 0.7
+        "allSessionRanking": 46.1,
+        "tutorSessionRanking": 70.0
       },
       "feedbackQuality": {
-        "rating": 4,
-        "allSessionRanking": 7.7,
-        "tutorSessionRanking": 0.3,
+        "rating": 5,
+        "allSessionRanking": 9.8,
+        "tutorSessionRanking": 30.0,
         "positiveFeedback": 2.84,
         "neutralFeedback": 94.33,
         "negativeFeedback": 2.84,
@@ -409,8 +412,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.1,
-        "tutorSessionRanking": 0.5,
+        "allSessionRanking": 23.5,
+        "tutorSessionRanking": 50.0,
         "tutorUtterances": [
           -2,
           0,

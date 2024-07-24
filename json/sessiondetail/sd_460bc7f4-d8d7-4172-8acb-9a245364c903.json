@@ -4,20 +4,23 @@
   "student": 4294009,
   "subject": "Algebra 2",
   "date": "2023-08-04",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "Technology",
+    "Emotion"
+  ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student delved into various chemistry topics, including chemical and physical changes, properties, bonds, and entropy. The student's initial focus on these concepts was met with detailed explanations and examples. Throughout the session, there were periods of low interaction as the student needed time to process information and reflect on the discussed points, such as diffusion, osmosis, and previous topics.",
     "desiredOutcome": "The student's expectation for the session seems to be focused on learning about physical and chemical changes in chemistry. These expectations are being met as the tutor is providing explanations and examples related to these topics.",
     "activities": [
-      "Chemical vs. Physical Changes",
-      "Chemical Properties vs. Physical Properties",
-      "Intrinsic vs. Extrinsic Properties",
-      "Intensive vs. Extensive Properties",
-      "Entropy and Viscosity",
-      "Identifying Intrinsic and Extrinsic Properties",
+      "Metallic Bonds",
       "Ionic vs. Covalent Bonds",
+      "Intensive vs. Extensive Properties",
+      "Chemical Properties vs. Physical Properties",
       "Properties of Ionic Compounds",
-      "Metallic Bonds"
+      "Intrinsic vs. Extrinsic Properties",
+      "Chemical vs. Physical Changes",
+      "Entropy and Viscosity",
+      "Identifying Intrinsic and Extrinsic Properties"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -248,23 +251,23 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 38.5,
+          "percentile": 39.2,
           "values": [
             1,
             0,
             0,
+            2,
             3,
-            4,
             1,
             1,
-            4,
-            1,
-            1,
-            0,
-            0,
-            0,
-            0,
             3,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            2,
             0,
             0,
             0,
@@ -275,7 +278,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 19.2,
+          "percentile": 18.6,
           "values": [
             0,
             2,
@@ -301,7 +304,7 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 6,
+          "score": 7,
           "percentile": 49.0,
           "values": [
             0,
@@ -322,8 +325,8 @@
             0,
             0,
             0,
-            4,
-            4
+            3,
+            3
           ]
         },
         {
@@ -334,8 +337,8 @@
             0,
             0,
             1,
+            2,
             3,
-            4,
             0,
             2,
             2,
@@ -344,7 +347,7 @@
             0,
             1,
             2,
-            4,
+            3,
             1,
             1,
             2,
@@ -358,8 +361,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 38.5,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 39.2,
+        "tutorSessionRanking": 100.0,
         "correctExplanation": 66.67,
         "incorrectExplanation": 33.33,
         "alignedExplanation": 66.67,
@@ -369,13 +372,13 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 19.2,
-        "tutorSessionRanking": 1.0
+        "allSessionRanking": 18.6,
+        "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
-        "rating": 6,
+        "rating": 7,
         "allSessionRanking": 49.0,
-        "tutorSessionRanking": 1.0,
+        "tutorSessionRanking": 100.0,
         "positiveFeedback": 3.3,
         "neutralFeedback": 90.11,
         "negativeFeedback": 6.59,
@@ -387,7 +390,7 @@
       "socialEmotionalTeaching": {
         "rating": 3,
         "allSessionRanking": 2.9,
-        "tutorSessionRanking": 1.0,
+        "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           0,
           -1,

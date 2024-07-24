@@ -5,21 +5,23 @@
   "subject": "Algebra 2",
   "date": "2023-12-05",
   "riskyAreas": [
+    "Instruction",
+    "Emotion",
     "Short session"
   ],
   "sessionGeneral": {
     "aiSummary": "During the one-on-one tutoring session, the tutor and student discussed various topics including trigonometric identities, equations, inequalities, and strategies for studying trigonometry. The student's expectation was to review and solve math problems focusing on factoring and solving equations, which the tutor addressed by guiding the student through the problem-solving process.",
     "desiredOutcome": "The student's expectation for the session is to review and solve math problems from a recent test, particularly focusing on factoring and solving equations. These expectations are addressed as the tutor guides the student through the problem-solving process.",
     "activities": [
-      "Trigonometric identities and equations",
-      "Solving trigonometric inequalities",
-      "Applying trigonometric identities to solve equations",
-      "Identifying extraneous solutions in trigonometric equations",
       "Understanding the range of sine function",
-      "Strategies for creating study notes for trigonometry",
-      "Preparing for upcoming study sessions and exams",
       "Planning study schedule during break",
-      "Scheduling future tutoring sessions"
+      "Preparing for upcoming study sessions and exams",
+      "Identifying extraneous solutions in trigonometric equations",
+      "Applying trigonometric identities to solve equations",
+      "Scheduling future tutoring sessions",
+      "Solving trigonometric inequalities",
+      "Trigonometric identities and equations",
+      "Strategies for creating study notes for trigonometry"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -198,7 +200,7 @@
         {
           "name": "Instruction Delivery",
           "score": 4,
-          "percentile": 9.6,
+          "percentile": 9.8,
           "values": [
             2,
             0,
@@ -206,18 +208,18 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
             2,
             0,
             0,
             0,
-            4,
+            3,
             1,
             1,
             1,
             1,
-            4,
+            3,
             2,
             0
           ]
@@ -225,7 +227,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -251,29 +253,29 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 6,
+          "score": 7,
           "percentile": 49.0,
           "values": [
             0,
             0,
-            4,
+            3,
             0,
-            4,
+            3,
             0,
-            4,
-            0,
-            0,
+            3,
             0,
             0,
             0,
-            4,
             0,
             0,
-            4,
-            4,
-            4,
+            3,
             0,
-            4
+            0,
+            3,
+            3,
+            3,
+            0,
+            3
           ]
         },
         {
@@ -290,15 +292,15 @@
             1,
             0,
             2,
-            3,
+            2,
             2,
             2,
             0,
             1,
             1,
-            4,
-            4,
             3,
+            3,
+            2,
             2,
             0
           ]
@@ -308,8 +310,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 4,
-        "allSessionRanking": 9.6,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 9.8,
+        "tutorSessionRanking": 100.0,
         "correctExplanation": 87.5,
         "incorrectExplanation": 12.5,
         "alignedExplanation": 12.5,
@@ -319,13 +321,13 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
-        "tutorSessionRanking": 1.0
+        "allSessionRanking": 46.1,
+        "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
-        "rating": 6,
+        "rating": 7,
         "allSessionRanking": 49.0,
-        "tutorSessionRanking": 1.0,
+        "tutorSessionRanking": 100.0,
         "positiveFeedback": 8.33,
         "neutralFeedback": 84.26,
         "negativeFeedback": 7.41,
@@ -337,7 +339,7 @@
       "socialEmotionalTeaching": {
         "rating": 3,
         "allSessionRanking": 2.9,
-        "tutorSessionRanking": 1.0,
+        "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           0,
           1,

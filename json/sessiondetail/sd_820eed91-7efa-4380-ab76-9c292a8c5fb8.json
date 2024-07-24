@@ -4,20 +4,17 @@
   "student": 5194611,
   "subject": "Algebra 2",
   "date": "2023-10-05",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "Instruction"
+  ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on algebraic substitution and calculations. The student's expectation was to review and solve a set of 20 questions, covering topics such as the substitution method for solving linear equations, graphing systems of linear inequalities and equations, and identifying feasible regions for linear programming. Throughout the session, there were no periods of low interaction between the tutor and student.",
     "desiredOutcome": "The student's expectation for the session is to review and solve a set of 20 questions, focusing on algebraic substitution and calculations. These expectations are being met during the session.",
     "activities": [
-      "Substitution method for solving linear equations",
       "Graphing system of linear inequalities",
       "Graphing system of linear equations",
-      "Substitution method for solving linear equations",
-      "Graphing system of linear inequalities",
-      "Substitution method for solving linear equations",
-      "Graphing system of linear inequalities",
-      "Substitution method for solving linear equations",
-      "Identifying feasible regions for linear programming"
+      "Identifying feasible regions for linear programming",
+      "Substitution method for solving linear equations"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -241,9 +238,9 @@
         {
           "name": "Instruction Delivery",
           "score": 4,
-          "percentile": 9.6,
+          "percentile": 9.8,
           "values": [
-            4,
+            3,
             0,
             0,
             0,
@@ -268,7 +265,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -294,53 +291,53 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 5,
-          "percentile": 23.1,
+          "score": 6,
+          "percentile": 26.5,
           "values": [
-            4,
+            3,
             0,
             0,
             0,
-            4,
-            0,
-            0,
-            0,
-            0,
+            3,
             0,
             0,
             0,
             0,
             0,
-            4,
             0,
-            4,
             0,
-            4,
-            4
+            0,
+            0,
+            3,
+            0,
+            3,
+            0,
+            3,
+            3
           ]
         },
         {
           "name": "Social-Emotional Teaching",
           "score": 6,
-          "percentile": 88.5,
+          "percentile": 88.2,
           "values": [
             1,
             2,
             2,
             2,
             2,
-            3,
+            2,
             1,
-            4,
+            3,
             2,
             2,
             0,
-            4,
-            4,
+            3,
+            3,
             0,
             1,
             2,
-            3,
+            2,
             0,
             1,
             0
@@ -351,8 +348,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 4,
-        "allSessionRanking": 9.6,
-        "tutorSessionRanking": 0.25,
+        "allSessionRanking": 9.8,
+        "tutorSessionRanking": 25.0,
         "correctExplanation": 80.0,
         "incorrectExplanation": 20.0,
         "alignedExplanation": 20.0,
@@ -362,13 +359,13 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
-        "tutorSessionRanking": 0.81
+        "allSessionRanking": 46.1,
+        "tutorSessionRanking": 81.25
       },
       "feedbackQuality": {
-        "rating": 5,
-        "allSessionRanking": 23.1,
-        "tutorSessionRanking": 0.62,
+        "rating": 6,
+        "allSessionRanking": 26.5,
+        "tutorSessionRanking": 62.5,
         "positiveFeedback": 4.14,
         "neutralFeedback": 95.17,
         "negativeFeedback": 0.69,
@@ -379,8 +376,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 6,
-        "allSessionRanking": 88.5,
-        "tutorSessionRanking": 0.75,
+        "allSessionRanking": 88.2,
+        "tutorSessionRanking": 75.0,
         "tutorUtterances": [
           2,
           0,

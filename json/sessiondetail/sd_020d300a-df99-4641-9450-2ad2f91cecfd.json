@@ -5,21 +5,22 @@
   "subject": "Algebra 2",
   "date": "2023-11-10",
   "riskyAreas": [
+    "Technology",
     "Student Inactive"
   ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including exponential functions, logarithmic functions, graphing functions, inverse functions, and comparing functions. The student's expectation was to understand exponent rules and simplify expressions, which the tutor successfully addressed. Throughout the session, there were periods of low interaction where both the tutor and student were silently processing information, reflecting on concepts, and analyzing different bases on logarithmic functions.",
     "desiredOutcome": "The student's expectation for the session is to understand exponent rules and simplify expressions. The tutor successfully addressed these expectations by explaining and solving problems involving exponents.",
     "activities": [
-      "Exponential functions with different bases",
-      "Identifying logarithmic functions and their properties",
       "Graphing exponential and logarithmic functions",
+      "Identifying logarithmic functions and their properties",
       "Characteristics of inverse functions and their application to logarithmic functions",
       "Graphing the inverses of exponential functions",
-      "Identifying the inverse of a logarithmic function",
       "Graphing a logarithmic function using its inverse",
-      "Identifying the intercepts and end behavior of a logarithmic function",
-      "Comparing logarithmic functions with different bases"
+      "Comparing logarithmic functions with different bases",
+      "Identifying the inverse of a logarithmic function",
+      "Exponential functions with different bases",
+      "Identifying the intercepts and end behavior of a logarithmic function"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -243,7 +244,7 @@
         {
           "name": "Instruction Delivery",
           "score": 7,
-          "percentile": 56.7,
+          "percentile": 57.8,
           "values": [
             0,
             0,
@@ -257,8 +258,8 @@
             0,
             0,
             0,
-            4,
-            4,
+            3,
+            3,
             0,
             0,
             0,
@@ -270,7 +271,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 19.2,
+          "percentile": 18.6,
           "values": [
             0,
             0,
@@ -296,14 +297,14 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 7,
-          "percentile": 80.8,
+          "score": 8,
+          "percentile": 73.5,
           "values": [
             0,
             0,
-            4,
+            3,
             0,
-            4,
+            3,
             0,
             0,
             0,
@@ -324,25 +325,25 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 9,
-          "percentile": 98.1,
+          "percentile": 98.0,
           "values": [
             0,
             0,
             2,
+            2,
             3,
-            4,
             1,
             0,
             0,
-            4,
             3,
             2,
-            3,
+            2,
+            2,
             0,
             0,
             0,
             0,
-            3,
+            2,
             0,
             0,
             1
@@ -353,8 +354,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 7,
-        "allSessionRanking": 56.7,
-        "tutorSessionRanking": 0.5,
+        "allSessionRanking": 57.8,
+        "tutorSessionRanking": 50.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
         "alignedExplanation": 0.0,
@@ -364,13 +365,13 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 19.2,
-        "tutorSessionRanking": 0.75
+        "allSessionRanking": 18.6,
+        "tutorSessionRanking": 75.0
       },
       "feedbackQuality": {
-        "rating": 7,
-        "allSessionRanking": 80.8,
-        "tutorSessionRanking": 1.0,
+        "rating": 8,
+        "allSessionRanking": 73.5,
+        "tutorSessionRanking": 100.0,
         "positiveFeedback": 2.03,
         "neutralFeedback": 93.92,
         "negativeFeedback": 4.05,
@@ -381,8 +382,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 9,
-        "allSessionRanking": 98.1,
-        "tutorSessionRanking": 0.5,
+        "allSessionRanking": 98.0,
+        "tutorSessionRanking": 50.0,
         "tutorUtterances": [
           3,
           7,

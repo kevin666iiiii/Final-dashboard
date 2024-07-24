@@ -5,6 +5,8 @@
   "subject": "Algebra",
   "date": "2023-11-29",
   "riskyAreas": [
+    "Instruction",
+    "Emotion",
     "Silent",
     "Student Inactive"
   ],
@@ -12,15 +14,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including functions, exponential growth and decay, graphing, piecewise functions, function comprehension, function composition, and test preparation. The student sought help with understanding functions, particularly finding f of x values, and the tutor provided step-by-step guidance. Throughout the session, there were periods of low interaction where the student needed time to process questions, calculate answers independently, or reflect on information, leading to moments of silence for individual processing.",
     "desiredOutcome": "The student seems unsure about functions and expects help with finding f of x values. The tutor provides step-by-step guidance, meeting the student's expectations.",
     "activities": [
-      "Functions - Finding f(x), f(x+1), f(-x)",
+      "Function Composition - Applying function composition to given functions",
+      "Function Comprehension - Understanding and applying functions to given values",
       "Functions - Applying function composition f(g(x))",
-      "Functions - Graphing basic functions and understanding piecewise functions",
-      "Exponential Growth and Decay - Understanding exponential functions",
       "Graphing - Understanding how to graph basic functions like y=x, y=x^2, etc.",
       "Piecewise Functions - Applying piecewise functions to specific values",
-      "Function Comprehension - Understanding and applying functions to given values",
-      "Function Composition - Applying function composition to given functions",
-      "Test Preparation - Reviewing concepts for an upcoming test"
+      "Test Preparation - Reviewing concepts for an upcoming test",
+      "Functions - Finding f(x), f(x+1), f(-x)",
+      "Functions - Graphing basic functions and understanding piecewise functions",
+      "Exponential Growth and Decay - Understanding exponential functions"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -259,7 +261,7 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
@@ -277,7 +279,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -303,29 +305,29 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 5,
-          "percentile": 23.1,
+          "score": 6,
+          "percentile": 26.5,
           "values": [
-            4,
+            3,
             0,
-            4,
-            0,
-            0,
-            0,
-            0,
-            0,
-            4,
-            0,
-            0,
-            0,
-            4,
+            3,
             0,
             0,
             0,
             0,
             0,
+            3,
             0,
-            4
+            0,
+            0,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            3
           ]
         },
         {
@@ -345,14 +347,14 @@
             0,
             1,
             2,
-            4,
-            3,
-            1,
-            3,
             3,
             2,
+            1,
+            2,
+            2,
+            2,
             0,
-            3
+            2
           ]
         }
       ]
@@ -361,7 +363,7 @@
       "instructionalDelivery": {
         "rating": 3,
         "allSessionRanking": 2.9,
-        "tutorSessionRanking": 1.0,
+        "tutorSessionRanking": 100.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
         "alignedExplanation": 0.0,
@@ -371,13 +373,13 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
-        "tutorSessionRanking": 1.0
+        "allSessionRanking": 46.1,
+        "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
-        "rating": 5,
-        "allSessionRanking": 23.1,
-        "tutorSessionRanking": 1.0,
+        "rating": 6,
+        "allSessionRanking": 26.5,
+        "tutorSessionRanking": 100.0,
         "positiveFeedback": 4.44,
         "neutralFeedback": 94.07,
         "negativeFeedback": 1.48,
@@ -389,7 +391,7 @@
       "socialEmotionalTeaching": {
         "rating": 3,
         "allSessionRanking": 2.9,
-        "tutorSessionRanking": 1.0,
+        "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           0,
           1,

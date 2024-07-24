@@ -5,6 +5,8 @@
   "subject": "Algebra 2",
   "date": "2023-11-08",
   "riskyAreas": [
+    "Instruction",
+    "Technology",
     "Silent",
     "Short session"
   ],
@@ -12,15 +14,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including polynomial division, the Remainder Theorem, solving polynomial equations, graphing functions, and quadratic functions. The student's expectation of receiving help with long division problems involving polynomials was met. Periods of low interaction occurred due to the need for clarification, reflection on mistakes, disagreement in answers, and finding additional resources.",
     "desiredOutcome": "The student's expectation for the session was to receive help with long division problems involving polynomials. The student wanted clarification on the process and how to express remainders correctly. These expectations were met as the tutor guided the student through the problems, corrected mistakes, and explained how to format the answers with remainders.",
     "activities": [
-      "Long division method for polynomial division",
-      "Identifying remainders in polynomial division",
       "Applying the Remainder Theorem",
-      "Solving for variables in polynomial equations",
+      "Interpreting vertex form of quadratic functions",
+      "Long division method for polynomial division",
+      "Analyzing end behavior in polynomial functions",
       "Understanding end behavior in graphing functions",
       "Determining end behavior using positive and negative values",
-      "Analyzing end behavior in polynomial functions",
-      "Interpreting vertex form of quadratic functions",
-      "Solving for x and y values in quadratic functions"
+      "Identifying remainders in polynomial division",
+      "Solving for x and y values in quadratic functions",
+      "Solving for variables in polynomial equations"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -204,7 +206,7 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.3,
+          "percentile": 16.7,
           "values": [
             1,
             1,
@@ -214,10 +216,10 @@
             1,
             0,
             0,
-            4,
+            3,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
@@ -231,7 +233,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 5,
-          "percentile": 3.8,
+          "percentile": 3.9,
           "values": [
             0,
             0,
@@ -257,53 +259,53 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 5,
-          "percentile": 23.1,
+          "score": 7,
+          "percentile": 49.0,
           "values": [
             0,
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
             0,
             0,
-            4,
-            4,
+            3,
+            3,
             0,
             0,
             0,
             0,
             0,
-            4,
+            3,
             0,
-            4
+            3
           ]
         },
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 64.4,
+          "percentile": 63.7,
           "values": [
             1,
+            2,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
             3,
-            1,
-            1,
-            1,
-            3,
-            1,
-            1,
-            4,
             0,
-            3,
+            2,
             1,
             1,
             1,
             1,
             1,
-            3,
+            2,
             2,
             1,
             2
@@ -314,8 +316,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.3,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 16.7,
+        "tutorSessionRanking": 100.0,
         "correctExplanation": 60.0,
         "incorrectExplanation": 40.0,
         "alignedExplanation": 40.0,
@@ -325,13 +327,13 @@
       },
       "techToolUsage": {
         "rating": 5,
-        "allSessionRanking": 3.8,
-        "tutorSessionRanking": 1.0
+        "allSessionRanking": 3.9,
+        "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
-        "rating": 5,
-        "allSessionRanking": 23.1,
-        "tutorSessionRanking": 1.0,
+        "rating": 7,
+        "allSessionRanking": 49.0,
+        "tutorSessionRanking": 100.0,
         "positiveFeedback": 7.04,
         "neutralFeedback": 84.51,
         "negativeFeedback": 8.45,
@@ -342,8 +344,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 64.4,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 63.7,
+        "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           -1,
           1,

@@ -4,20 +4,23 @@
   "student": 4976821,
   "subject": "Algebra 2",
   "date": "2023-08-23",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "Technology",
+    "Emotion"
+  ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student delved into various topics related to polar coordinates, such as converting between rectangular and polar coordinates, understanding the unit circle, identifying quadrants and angles, graphing polar coordinates, and exploring different types of polar graphs. The student's specific expectation was to grasp how negative radii impact direction in the unit circle, which the tutor addressed through examples and explanations. Throughout the session, there were no periods of low interaction between the tutor and student.",
     "desiredOutcome": "The student's expectation for the session is to understand polar coordinates, specifically how negative radii affect the direction in the unit circle. These expectations are addressed and clarified by the tutor through examples and explanations.",
     "activities": [
-      "Converting polar coordinates to rectangular coordinates",
-      "Understanding the unit circle and angles in polar coordinates",
-      "Converting rectangular coordinates to polar coordinates",
-      "Identifying quadrants and angles in polar coordinates",
-      "Explaining the range of inverse tangent function",
-      "Determining angles in different quadrants for polar coordinates",
       "Graphing polar coordinates and understanding polar graphs",
-      "Applying unit circle knowledge to polar coordinates",
-      "Exploring different types of polar graphs"
+      "Understanding the unit circle and angles in polar coordinates",
+      "Identifying quadrants and angles in polar coordinates",
+      "Determining angles in different quadrants for polar coordinates",
+      "Exploring different types of polar graphs",
+      "Converting rectangular coordinates to polar coordinates",
+      "Explaining the range of inverse tangent function",
+      "Converting polar coordinates to rectangular coordinates",
+      "Applying unit circle knowledge to polar coordinates"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -259,12 +262,12 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 38.5,
+          "percentile": 39.2,
           "values": [
             1,
             1,
             0,
-            4,
+            3,
             0,
             0,
             0,
@@ -286,7 +289,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 19.2,
+          "percentile": 18.6,
           "values": [
             0,
             0,
@@ -312,43 +315,43 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 6,
+          "score": 7,
           "percentile": 49.0,
           "values": [
-            4,
+            3,
             0,
-            4,
+            3,
             0,
-            4,
-            4,
-            4,
-            0,
-            0,
-            0,
-            4,
-            4,
+            3,
+            3,
+            3,
             0,
             0,
+            0,
+            3,
+            3,
             0,
             0,
             0,
             0,
-            4,
-            4
+            0,
+            0,
+            3,
+            3
           ]
         },
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.1,
+          "percentile": 23.5,
           "values": [
             1,
             1,
             1,
-            3,
+            2,
             1,
             2,
-            4,
+            3,
             2,
             1,
             2,
@@ -369,8 +372,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 38.5,
-        "tutorSessionRanking": 0.33,
+        "allSessionRanking": 39.2,
+        "tutorSessionRanking": 33.33,
         "correctExplanation": 75.0,
         "incorrectExplanation": 25.0,
         "alignedExplanation": 50.0,
@@ -380,13 +383,13 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 19.2,
-        "tutorSessionRanking": 0.33
+        "allSessionRanking": 18.6,
+        "tutorSessionRanking": 33.33
       },
       "feedbackQuality": {
-        "rating": 6,
+        "rating": 7,
         "allSessionRanking": 49.0,
-        "tutorSessionRanking": 0.67,
+        "tutorSessionRanking": 66.67,
         "positiveFeedback": 8.39,
         "neutralFeedback": 87.1,
         "negativeFeedback": 4.52,
@@ -397,8 +400,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.1,
-        "tutorSessionRanking": 0.33,
+        "allSessionRanking": 23.5,
+        "tutorSessionRanking": 33.33,
         "tutorUtterances": [
           0,
           2,

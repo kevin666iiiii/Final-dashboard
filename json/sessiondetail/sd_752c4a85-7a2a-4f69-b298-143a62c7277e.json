@@ -5,21 +5,19 @@
   "subject": "Linear Algebra",
   "date": "2023-09-17",
   "riskyAreas": [
+    "Feedback",
+    "Emotion",
     "Student Inactive"
   ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student delved into topics such as spanning sets, linear combinations, linear independence, basis, subspaces, and matrix row reduction. The student's expectation was to work on offline exercises related to these concepts. During periods of low interaction, both parties engaged in silent contemplation to process and understand the discussed concepts effectively.",
     "desiredOutcome": "The student's expectation for the session is to work on specific offline exercises from chapter two, focusing on proving concepts related to spanning sets and linear independence. These expectations are addressed as the tutor guides the student through the proofs and explanations for the exercises, ensuring understanding and clarity.",
     "activities": [
-      "Spanning sets and linear combinations",
-      "Spanning sets and linear combinations",
-      "Linear independence and basis",
-      "Linear independence and basis",
-      "Basis and dimension of subspaces",
       "Basis and dimension of subspaces",
       "Extending bases of subspaces",
-      "Extending bases of subspaces",
-      "Matrix row reduction and basis determination"
+      "Matrix row reduction and basis determination",
+      "Spanning sets and linear combinations",
+      "Linear independence and basis"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -268,7 +266,7 @@
         {
           "name": "Instruction Delivery",
           "score": 8,
-          "percentile": 75.0,
+          "percentile": 76.5,
           "values": [
             0,
             0,
@@ -281,7 +279,7 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
@@ -289,13 +287,13 @@
             0,
             0,
             0,
-            4
+            3
           ]
         },
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -321,8 +319,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 4,
-          "percentile": 7.7,
+          "score": 5,
+          "percentile": 9.8,
           "values": [
             0,
             0,
@@ -330,26 +328,26 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
-            4,
-            4,
+            3,
+            3,
             0,
             0,
-            4,
-            4,
-            4,
+            3,
+            3,
+            3,
             0,
-            4,
-            4,
-            4
+            3,
+            3,
+            3
           ]
         },
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.1,
+          "percentile": 23.5,
           "values": [
             1,
             0,
@@ -364,13 +362,13 @@
             1,
             2,
             1,
-            4,
             3,
-            4,
+            2,
+            3,
             0,
             1,
-            4,
-            4
+            3,
+            3
           ]
         }
       ]
@@ -378,8 +376,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 8,
-        "allSessionRanking": 75.0,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 76.5,
+        "tutorSessionRanking": 100.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
         "alignedExplanation": 60.0,
@@ -389,13 +387,13 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
-        "tutorSessionRanking": 1.0
+        "allSessionRanking": 46.1,
+        "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
-        "rating": 4,
-        "allSessionRanking": 7.7,
-        "tutorSessionRanking": 0.5,
+        "rating": 5,
+        "allSessionRanking": 9.8,
+        "tutorSessionRanking": 50.0,
         "positiveFeedback": 7.69,
         "neutralFeedback": 86.54,
         "negativeFeedback": 5.77,
@@ -406,8 +404,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.1,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 23.5,
+        "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           1,
           0,

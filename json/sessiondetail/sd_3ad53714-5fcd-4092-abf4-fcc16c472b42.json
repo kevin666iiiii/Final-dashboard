@@ -5,21 +5,15 @@
   "subject": "Algebra",
   "date": "2023-11-08",
   "riskyAreas": [
+    "Emotion",
     "Student Inactive"
   ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on polynomial division using both long division and synthetic division methods. The student's initial expectation was to learn long division, which the tutor successfully addressed by explaining the process step by step. During low interaction periods, the tutor allowed the student time to attempt problems independently before collaborating.",
     "desiredOutcome": "The student's expectation for the session is to learn how to divide polynomials using long division. The tutor successfully addresses the student's expectation by explaining the process step by step.",
     "activities": [
-      "Polynomial Division - Long Division Method",
       "Polynomial Division - Synthetic Division Method",
-      "Polynomial Division - Synthetic Division Method",
-      "Polynomial Division - Synthetic Division Method",
-      "Polynomial Division - Synthetic Division Method",
-      "Polynomial Division - Synthetic Division Method",
-      "Polynomial Division - Synthetic Division Method",
-      "Polynomial Division - Synthetic Division Method",
-      "Polynomial Division - Synthetic Division Method"
+      "Polynomial Division - Long Division Method"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -231,7 +225,7 @@
         {
           "name": "Instruction Delivery",
           "score": 7,
-          "percentile": 56.7,
+          "percentile": 57.8,
           "values": [
             0,
             0,
@@ -248,7 +242,7 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
@@ -258,7 +252,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -284,10 +278,10 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 5,
-          "percentile": 23.1,
+          "score": 6,
+          "percentile": 26.5,
           "values": [
-            4,
+            3,
             0,
             0,
             0,
@@ -299,14 +293,14 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
             0,
             0,
             0,
-            4
+            3
           ]
         },
         {
@@ -319,17 +313,17 @@
             2,
             2,
             1,
-            4,
+            3,
+            2,
             2,
             3,
-            4,
             2,
-            4,
-            4,
             3,
-            4,
+            3,
+            2,
+            3,
             0,
-            4,
+            3,
             2,
             1,
             2,
@@ -341,8 +335,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 7,
-        "allSessionRanking": 56.7,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 57.8,
+        "tutorSessionRanking": 100.0,
         "correctExplanation": 66.67,
         "incorrectExplanation": 33.33,
         "alignedExplanation": 66.67,
@@ -352,13 +346,13 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
-        "tutorSessionRanking": 1.0
+        "allSessionRanking": 46.1,
+        "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
-        "rating": 5,
-        "allSessionRanking": 23.1,
-        "tutorSessionRanking": 1.0,
+        "rating": 6,
+        "allSessionRanking": 26.5,
+        "tutorSessionRanking": 100.0,
         "positiveFeedback": 3.76,
         "neutralFeedback": 92.48,
         "negativeFeedback": 3.76,
@@ -370,7 +364,7 @@
       "socialEmotionalTeaching": {
         "rating": 3,
         "allSessionRanking": 2.9,
-        "tutorSessionRanking": 1.0,
+        "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           1,
           0,

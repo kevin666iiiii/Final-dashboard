@@ -5,20 +5,18 @@
   "subject": "Algebra 2",
   "date": "2023-11-02",
   "riskyAreas": [
+    "Emotion",
     "Short session"
   ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on graphing parabolas, identifying key features such as vertex and axis of symmetry, understanding transformations of graphs, and writing function rules based on given points. The tutor successfully guided the student through examples, explanations, and step-by-step instructions, leading to active student participation and improvement in graphing skills.",
     "desiredOutcome": "The student's expectation for the session seems to be focused on understanding and applying concepts related to graphing parabolas, including identifying vertex, axis of symmetry, direction of opening, minimum/maximum values, domain, and range. The student also seems interested in learning about transformations of graphs and how coefficients affect the shape of the parabola. The tutor successfully addresses these expectations by guiding the student through various examples, explaining key concepts, and providing step-by-step instructions on how to analyze and graph parabolas. The student actively participates in the session by answering questions and demonstrating understanding of the material. Overall, the session appears to meet the student's expectations by helping them improve their skills in graphing and analyzing parabolas.",
     "activities": [
-      "Graphing parabolas, identifying minimum and maximum values, determining direction of the graph",
       "Graphing parabolas, identifying vertex, determining direction of the graph, understanding axis of symmetry",
-      "Graphing parabolas, identifying vertex, determining direction of the graph, understanding axis of symmetry, finding domain and range",
-      "Graphing parabolas, identifying vertex, determining direction of the graph, understanding axis of symmetry, finding domain and range",
-      "Identifying transformations of graphs, understanding horizontal and vertical shifts, reflections, and stretches",
-      "Identifying transformations of graphs, understanding horizontal and vertical shifts, reflections, and stretches",
+      "Graphing parabolas, identifying minimum and maximum values, determining direction of the graph",
       "Writing function rules based on transformations of graphs, understanding horizontal stretches and shifts",
-      "Writing function rules based on vertex points of parabolas, understanding how to construct equations from given points",
+      "Identifying transformations of graphs, understanding horizontal and vertical shifts, reflections, and stretches",
+      "Graphing parabolas, identifying vertex, determining direction of the graph, understanding axis of symmetry, finding domain and range",
       "Writing function rules based on vertex points of parabolas, understanding how to construct equations from given points"
     ],
     "interactionTrend": {
@@ -135,9 +133,9 @@
         {
           "name": "Instruction Delivery",
           "score": 9,
-          "percentile": 85.6,
+          "percentile": 86.3,
           "values": [
-            4,
+            3,
             2,
             2,
             2,
@@ -152,17 +150,17 @@
             2,
             2,
             2,
+            2,
             3,
-            4,
-            4,
-            4,
-            4
+            3,
+            3,
+            3
           ]
         },
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -188,8 +186,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 7,
-          "percentile": 80.8,
+          "score": 8,
+          "percentile": 73.5,
           "values": [
             0,
             0,
@@ -197,7 +195,7 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
@@ -207,31 +205,31 @@
             0,
             0,
             0,
-            4,
-            4,
+            3,
+            3,
             0,
-            4
+            3
           ]
         },
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.1,
+          "percentile": 23.5,
           "values": [
             0,
             2,
+            2,
+            1,
+            3,
             3,
             1,
-            4,
-            4,
-            1,
             2,
             1,
             1,
             2,
             2,
             2,
-            4,
+            3,
             0,
             0,
             0,
@@ -245,8 +243,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 9,
-        "allSessionRanking": 85.6,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 86.3,
+        "tutorSessionRanking": 100.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
         "alignedExplanation": 100.0,
@@ -256,13 +254,13 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
-        "tutorSessionRanking": 0.88
+        "allSessionRanking": 46.1,
+        "tutorSessionRanking": 87.5
       },
       "feedbackQuality": {
-        "rating": 7,
-        "allSessionRanking": 80.8,
-        "tutorSessionRanking": 0.75,
+        "rating": 8,
+        "allSessionRanking": 73.5,
+        "tutorSessionRanking": 75.0,
         "positiveFeedback": 11.54,
         "neutralFeedback": 80.77,
         "negativeFeedback": 7.69,
@@ -273,8 +271,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.1,
-        "tutorSessionRanking": 0.75,
+        "allSessionRanking": 23.5,
+        "tutorSessionRanking": 75.0,
         "tutorUtterances": [
           2,
           1,

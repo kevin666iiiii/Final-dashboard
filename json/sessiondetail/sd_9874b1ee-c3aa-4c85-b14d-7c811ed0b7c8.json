@@ -5,6 +5,8 @@
   "subject": "Algebra 2",
   "date": "2024-02-05",
   "riskyAreas": [
+    "Technology",
+    "Feedback",
     "Silent",
     "Short session"
   ],
@@ -12,15 +14,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including compound interest formulas, rounding, and decimal conversions. The student's expectation to review and practice compound interest calculations was met as they actively engaged in a practice problem. Periods of low interaction occurred when the student may have been processing information or waiting for the tutor to continue speaking.",
     "desiredOutcome": "The student's expectation for the session seems to be to review and practice compound interest formulas and calculations. The student also mentions that they are tired and may need a shorter session. The tutor provides a brief explanation of the compound interest formula and guides the student through a practice problem. The student seems engaged and willing to participate in the calculations. Overall, the student's expectation for the session appears to be met as they are actively working on the practice problem with the tutor's guidance.",
     "activities": [
-      "Compound interest formula",
       "Calculating compound interest",
-      "Rounding to the nearest cent",
+      "Rounding to the nearest hundred",
       "Correcting calculation errors",
+      "Scheduling future tutoring sessions",
+      "Rounding to the nearest cent",
       "Understanding decimal conversions",
       "Compounding frequency (monthly, quarterly, annually)",
-      "Using parentheses in calculations",
-      "Rounding to the nearest hundred",
-      "Scheduling future tutoring sessions"
+      "Compound interest formula",
+      "Using parentheses in calculations"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -171,7 +173,7 @@
         {
           "name": "Instruction Delivery",
           "score": 8,
-          "percentile": 75.0,
+          "percentile": 76.5,
           "values": [
             2,
             2,
@@ -180,7 +182,7 @@
             2,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
@@ -198,7 +200,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 5,
-          "percentile": 3.8,
+          "percentile": 3.9,
           "values": [
             0,
             0,
@@ -224,22 +226,22 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 3,
-          "percentile": 1.9,
+          "score": 4,
+          "percentile": 3.9,
           "values": [
             0,
             0,
             0,
-            4,
+            3,
             0,
-            4,
+            3,
             0,
             0,
-            0,
-            2,
             0,
             2,
-            4,
+            0,
+            2,
+            3,
             2,
             2,
             2,
@@ -252,23 +254,23 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 6,
-          "percentile": 88.5,
+          "percentile": 88.2,
           "values": [
             0,
             0,
             0,
+            2,
+            1,
+            2,
+            2,
+            2,
+            1,
+            2,
+            2,
+            1,
+            2,
+            1,
             3,
-            1,
-            2,
-            2,
-            2,
-            1,
-            2,
-            2,
-            1,
-            2,
-            1,
-            4,
             0,
             0,
             0,
@@ -281,8 +283,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 8,
-        "allSessionRanking": 75.0,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 76.5,
+        "tutorSessionRanking": 100.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
         "alignedExplanation": 66.67,
@@ -292,13 +294,13 @@
       },
       "techToolUsage": {
         "rating": 5,
-        "allSessionRanking": 3.8,
-        "tutorSessionRanking": 0.25
+        "allSessionRanking": 3.9,
+        "tutorSessionRanking": 25.0
       },
       "feedbackQuality": {
-        "rating": 3,
-        "allSessionRanking": 1.9,
-        "tutorSessionRanking": 0.25,
+        "rating": 4,
+        "allSessionRanking": 3.9,
+        "tutorSessionRanking": 31.25,
         "positiveFeedback": 22.33,
         "neutralFeedback": 69.9,
         "negativeFeedback": 7.77,
@@ -309,8 +311,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 6,
-        "allSessionRanking": 88.5,
-        "tutorSessionRanking": 0.75,
+        "allSessionRanking": 88.2,
+        "tutorSessionRanking": 75.0,
         "tutorUtterances": [
           0,
           0,

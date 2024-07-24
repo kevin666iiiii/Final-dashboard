@@ -5,22 +5,22 @@
   "subject": "Algebra 2",
   "date": "2024-01-31",
   "riskyAreas": [
-    "Instru",
+    "Instruction",
+    "Technology",
     "Short session"
   ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student covered topics including rational functions, trigonometric functions, and rational equations. The student's goal was to complete a quiz and grasp new concepts, particularly seeking help with understanding and using a calculator for graph matching. Despite feeling tired, the student received support and encouragement from the tutor throughout the session.",
     "desiredOutcome": "The student's expectation for the session is to complete a quiz and move on to new material. They are seeking help with understanding concepts and using a calculator for graph matching. The student also expresses feeling tired and having had a rough night, but is trying to push through. The tutor is providing support and encouragement throughout the session. The student's expectations for completing the quiz and receiving assistance with fractions and graph matching are being addressed in the session.",
     "activities": [
-      "Rational Functions - Finding Y-intercept and Rational Functions - Matching Rational Functions to Graphs",
-      "Rational Functions - Finding Y-intercept",
+      "Trigonometric Functions - Finding Period and Amplitude",
       "Trigonometric Functions - Midline of Trigonometric Graphs",
-      "Trigonometric Functions - Matching Trigonometric Functions to Graphs",
-      "Rational Equations - Isolating Variables",
       "Rational Equations - Finding Vertical Asymptotes",
       "Rational Equations - Finding Domain",
-      "Trigonometric Functions - Finding Period and Amplitude",
-      "Trigonometric Functions - Matching Trigonometric Functions to Graphs"
+      "Rational Equations - Isolating Variables",
+      "Rational Functions - Finding Y-intercept and Rational Functions - Matching Rational Functions to Graphs",
+      "Trigonometric Functions - Matching Trigonometric Functions to Graphs",
+      "Rational Functions - Finding Y-intercept"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -202,7 +202,7 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
@@ -214,7 +214,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 19.2,
+          "percentile": 18.6,
           "values": [
             2,
             0,
@@ -240,38 +240,38 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 6,
-          "percentile": 49.0,
+          "score": 8,
+          "percentile": 73.5,
           "values": [
-            4,
-            4,
-            4,
-            4,
-            4,
+            3,
+            3,
+            3,
+            3,
+            3,
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
-            4,
-            4,
+            3,
+            3,
             0,
-            4,
-            4,
+            3,
+            3,
             0,
             0,
-            4
+            3
           ]
         },
         {
           "name": "Social-Emotional Teaching",
           "score": 6,
-          "percentile": 88.5,
+          "percentile": 88.2,
           "values": [
             2,
-            4,
+            3,
             1,
             2,
             1,
@@ -298,7 +298,7 @@
       "instructionalDelivery": {
         "rating": 1,
         "allSessionRanking": 0.0,
-        "tutorSessionRanking": 0.12,
+        "tutorSessionRanking": 12.5,
         "correctExplanation": 0.0,
         "incorrectExplanation": 100.0,
         "alignedExplanation": 0.0,
@@ -308,13 +308,13 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 19.2,
-        "tutorSessionRanking": 0.44
+        "allSessionRanking": 18.6,
+        "tutorSessionRanking": 43.75
       },
       "feedbackQuality": {
-        "rating": 6,
-        "allSessionRanking": 49.0,
-        "tutorSessionRanking": 0.81,
+        "rating": 8,
+        "allSessionRanking": 73.5,
+        "tutorSessionRanking": 87.5,
         "positiveFeedback": 11.92,
         "neutralFeedback": 83.44,
         "negativeFeedback": 4.64,
@@ -325,8 +325,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 6,
-        "allSessionRanking": 88.5,
-        "tutorSessionRanking": 0.75,
+        "allSessionRanking": 88.2,
+        "tutorSessionRanking": 75.0,
         "tutorUtterances": [
           2,
           4,

@@ -9,15 +9,14 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on reviewing a test review assignment covering various math topics such as simplifying radicals, identifying perfect cubes, and understanding negative exponents. The tutor effectively addressed the student's expectations by providing step-by-step explanations and guidance on approaching different math problems.",
     "desiredOutcome": "Based on the transcript, the student's expectation for the session is to review and work on a test review assignment. The student mentions that the assignment includes problems from numbers two through 70, focusing on even numbers. The student also seeks clarification on how to approach specific math problems, such as calculating square roots and cubic roots. Additionally, the student asks about using perfect cubes in calculations. The student seems to be looking for guidance and clarification on math concepts to help them understand and solve the problems on the test review assignment.\n\nThe tutor addresses the student's expectations by going through the math problems step by step, explaining concepts such as calculating square roots, using perfect cubes, and understanding how to approach different types of radical expressions. The tutor also provides guidance on how to handle specific problems from the test review assignment, ensuring that the student gains a better understanding of the material. Overall, the tutor effectively addresses the student's expectations for the session by providing clear explanations and guidance on the math concepts covered in the assignment.",
     "activities": [
+      "Simplifying radicals with negative numbers and decimals",
+      "Understanding negative exponents and real numbers",
       "Simplifying radicals with negative numbers",
       "Identifying perfect cubes and simplifying radicals",
       "Simplifying radicals with perfect squares",
-      "Simplifying radicals with perfect cubes",
-      "Simplifying radicals with negative numbers",
       "Simplifying radicals with large numbers",
-      "Simplifying radicals with negative numbers and decimals",
       "Graphing functions and determining domain and range",
-      "Understanding negative exponents and real numbers"
+      "Simplifying radicals with perfect cubes"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -247,7 +246,7 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 38.5,
+          "percentile": 39.2,
           "values": [
             0,
             0,
@@ -257,7 +256,7 @@
             0,
             0,
             0,
-            4,
+            3,
             1,
             2,
             1,
@@ -274,7 +273,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -300,10 +299,10 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 6,
+          "score": 7,
           "percentile": 49.0,
           "values": [
-            4,
+            3,
             0,
             0,
             0,
@@ -316,36 +315,36 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
             0,
             0,
-            4
+            3
           ]
         },
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 64.4,
+          "percentile": 63.7,
           "values": [
-            4,
             3,
+            2,
             0,
-            3,
+            2,
             1,
             2,
             0,
             0,
-            3,
             2,
             2,
-            1,
-            4,
-            1,
+            2,
             1,
             3,
+            1,
+            1,
+            2,
             2,
             2,
             1,
@@ -357,8 +356,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 38.5,
-        "tutorSessionRanking": 0.5,
+        "allSessionRanking": 39.2,
+        "tutorSessionRanking": 50.0,
         "correctExplanation": 80.0,
         "incorrectExplanation": 20.0,
         "alignedExplanation": 60.0,
@@ -368,13 +367,13 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
-        "tutorSessionRanking": 0.7
+        "allSessionRanking": 46.1,
+        "tutorSessionRanking": 70.0
       },
       "feedbackQuality": {
-        "rating": 6,
+        "rating": 7,
         "allSessionRanking": 49.0,
-        "tutorSessionRanking": 0.9,
+        "tutorSessionRanking": 90.0,
         "positiveFeedback": 5.26,
         "neutralFeedback": 92.4,
         "negativeFeedback": 2.34,
@@ -385,8 +384,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 64.4,
-        "tutorSessionRanking": 0.9,
+        "allSessionRanking": 63.7,
+        "tutorSessionRanking": 90.0,
         "tutorUtterances": [
           0,
           0,

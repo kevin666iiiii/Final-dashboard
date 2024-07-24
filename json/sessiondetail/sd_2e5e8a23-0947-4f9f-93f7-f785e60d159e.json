@@ -5,6 +5,7 @@
   "subject": "Algebra",
   "date": "2024-03-06",
   "riskyAreas": [
+    "Technology",
     "Silent"
   ],
   "sessionGeneral": {
@@ -12,11 +13,10 @@
     "desiredOutcome": "The student's expectation for the session is to go over their math grades, specifically focusing on understanding and correcting mistakes in their homework. They also mention preparing for a quiz and seeking help with upcoming homework. The tutor addresses the student's concerns about grades and emphasizes the importance of understanding the material for long-term learning. The tutor then proceeds to explain a math problem related to rewriting numbers using powers of 64, guiding the student through the process. Overall, the student's expectations for the session are addressed as the tutor helps them with their current math challenges and provides guidance on learning the material effectively.",
     "activities": [
       "Exponential notation and rewriting numbers using powers",
-      "Exponential notation and rewriting numbers using powers",
-      "Radical notation and simplifying expressions",
+      "Understanding square roots and exponentiation",
       "Arithmetic sequences and finding the nth term",
       "Understanding area and square roots",
-      "Understanding square roots and exponentiation"
+      "Radical notation and simplifying expressions"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -218,7 +218,7 @@
         {
           "name": "Instruction Delivery",
           "score": 6,
-          "percentile": 38.5,
+          "percentile": 39.2,
           "values": [
             0,
             0,
@@ -231,8 +231,8 @@
             1,
             0,
             0,
-            4,
-            4,
+            3,
+            3,
             0,
             0,
             0,
@@ -245,7 +245,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 8,
-          "percentile": 19.2,
+          "percentile": 18.6,
           "values": [
             0,
             0,
@@ -271,8 +271,8 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 5,
-          "percentile": 23.1,
+          "score": 6,
+          "percentile": 26.5,
           "values": [
             2,
             2,
@@ -286,9 +286,9 @@
             2,
             2,
             0,
-            4,
+            3,
             0,
-            4,
+            3,
             0,
             0,
             0,
@@ -299,28 +299,28 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 64.4,
+          "percentile": 63.7,
           "values": [
-            3,
+            2,
             1,
             0,
             0,
             0,
             1,
             2,
-            4,
-            0,
-            2,
-            1,
-            0,
-            2,
-            0,
             3,
             0,
+            2,
+            1,
+            0,
+            2,
+            0,
+            2,
+            0,
             0,
             1,
-            4,
-            4
+            3,
+            3
           ]
         }
       ]
@@ -328,8 +328,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 6,
-        "allSessionRanking": 38.5,
-        "tutorSessionRanking": 0.25,
+        "allSessionRanking": 39.2,
+        "tutorSessionRanking": 25.0,
         "correctExplanation": 100.0,
         "incorrectExplanation": 0.0,
         "alignedExplanation": 33.33,
@@ -339,13 +339,13 @@
       },
       "techToolUsage": {
         "rating": 8,
-        "allSessionRanking": 19.2,
-        "tutorSessionRanking": 0.25
+        "allSessionRanking": 18.6,
+        "tutorSessionRanking": 25.0
       },
       "feedbackQuality": {
-        "rating": 5,
-        "allSessionRanking": 23.1,
-        "tutorSessionRanking": 0.56,
+        "rating": 6,
+        "allSessionRanking": 26.5,
+        "tutorSessionRanking": 62.5,
         "positiveFeedback": 10.28,
         "neutralFeedback": 86.92,
         "negativeFeedback": 2.8,
@@ -356,8 +356,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 64.4,
-        "tutorSessionRanking": 0.94,
+        "allSessionRanking": 63.7,
+        "tutorSessionRanking": 93.75,
         "tutorUtterances": [
           6,
           1,

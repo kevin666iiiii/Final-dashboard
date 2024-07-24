@@ -5,20 +5,14 @@
   "subject": "Algebra 2",
   "date": "2024-01-25",
   "riskyAreas": [
+    "Instruction",
+    "Emotion",
     "Silent"
   ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on properties of exponents, addressing the student's missed lesson. The tutor explained rules and worked through examples, with the student showing engagement. Periods of low interaction occurred as both processed responses, dealt with confusion, searched for practice problems, and took time for reflection and clarification.",
     "desiredOutcome": "The student's expectation for the session was to catch up on a missed lesson on properties of exponents. The tutor addressed the topic by explaining the rules and working through examples with the student. The student seemed engaged and responsive to the tutor's explanations.",
     "activities": [
-      "Properties of exponents",
-      "Properties of exponents",
-      "Properties of exponents",
-      "Properties of exponents",
-      "Properties of exponents",
-      "Properties of exponents",
-      "Properties of exponents",
-      "Properties of exponents",
       "Properties of exponents"
     ],
     "interactionTrend": {
@@ -246,25 +240,25 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.3,
+          "percentile": 16.7,
           "values": [
             0,
             0,
             0,
+            2,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
             3,
-            0,
-            1,
-            1,
-            0,
-            1,
-            0,
-            0,
-            0,
-            1,
-            0,
-            0,
-            0,
-            4,
             0,
             0,
             0
@@ -273,7 +267,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -299,7 +293,7 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 6,
+          "score": 7,
           "percentile": 49.0,
           "values": [
             0,
@@ -309,7 +303,7 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
@@ -321,13 +315,13 @@
             0,
             0,
             0,
-            4
+            3
           ]
         },
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.1,
+          "percentile": 23.5,
           "values": [
             2,
             1,
@@ -344,8 +338,8 @@
             0,
             0,
             0,
-            4,
             3,
+            2,
             0,
             0,
             1
@@ -356,8 +350,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.3,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 16.7,
+        "tutorSessionRanking": 100.0,
         "correctExplanation": 80.0,
         "incorrectExplanation": 20.0,
         "alignedExplanation": 30.0,
@@ -367,13 +361,13 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
-        "tutorSessionRanking": 1.0
+        "allSessionRanking": 46.1,
+        "tutorSessionRanking": 100.0
       },
       "feedbackQuality": {
-        "rating": 6,
+        "rating": 7,
         "allSessionRanking": 49.0,
-        "tutorSessionRanking": 1.0,
+        "tutorSessionRanking": 100.0,
         "positiveFeedback": 3.09,
         "neutralFeedback": 90.72,
         "negativeFeedback": 6.19,
@@ -384,8 +378,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.1,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 23.5,
+        "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           -1,
           -1,

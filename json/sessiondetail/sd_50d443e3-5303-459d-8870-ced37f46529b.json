@@ -4,20 +4,23 @@
   "student": 4158799,
   "subject": "Algebra 2",
   "date": "2023-11-29",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "Instruction",
+    "Emotion"
+  ],
   "sessionGeneral": {
     "aiSummary": "During the one-on-one tutoring session, the tutor and student delved into various math topics including the vertex form of a parabola, vertical angles, systems of equations, and quadratic equations. The student's expectation was to review SAT math problems and strategies, focusing on no calculator questions and improving problem-solving efficiency. The tutor addressed these expectations by guiding the student through practice problems, providing shortcuts for quicker solutions, and encouraging a more streamlined approach to problem-solving.",
     "desiredOutcome": "Student's expectation for the session was to review SAT math problems and strategies. The student wanted to focus on no calculator questions and improve efficiency in problem-solving. These expectations were addressed as the tutor guided the student through practice problems, provided shortcuts for quicker solutions, and encouraged a more streamlined approach to problem-solving.",
     "activities": [
-      "Vertex form of a parabola and finding the vertex",
-      "Understanding vertical angles and their properties",
-      "Solving systems of equations to find parallel lines",
-      "Identifying the relationship between zeros and x-intercepts in a quadratic equation",
+      "Applying the concept of symmetry and x-intercepts to find the vertex of a parabola",
       "Using symmetry to find the vertex of a parabola",
+      "Understanding vertical angles and their properties",
       "Applying the concept of symmetry to determine the x-coordinate of the vertex",
       "Calculating the y-coordinate of the vertex using the x-coordinate and the given equation",
+      "Solving systems of equations to find parallel lines",
       "Determining the distance between x-intercepts and relating it to the vertex of a parabola",
-      "Applying the concept of symmetry and x-intercepts to find the vertex of a parabola"
+      "Vertex form of a parabola and finding the vertex",
+      "Identifying the relationship between zeros and x-intercepts in a quadratic equation"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -238,16 +241,16 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.3,
+          "percentile": 16.7,
           "values": [
             0,
-            4,
-            4,
-            4,
-            4,
+            3,
+            3,
+            3,
+            3,
             2,
-            4,
-            4,
+            3,
+            3,
             2,
             0,
             0,
@@ -265,7 +268,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -291,12 +294,12 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 5,
-          "percentile": 23.1,
+          "score": 6,
+          "percentile": 26.5,
           "values": [
-            4,
-            4,
-            4,
+            3,
+            3,
+            3,
             0,
             0,
             0,
@@ -307,19 +310,19 @@
             0,
             0,
             0,
-            4,
+            3,
             0,
-            4,
+            3,
             0,
             0,
             0,
-            4
+            3
           ]
         },
         {
           "name": "Social-Emotional Teaching",
           "score": 4,
-          "percentile": 22.1,
+          "percentile": 23.5,
           "values": [
             1,
             0,
@@ -329,7 +332,7 @@
             2,
             0,
             0,
-            3,
+            2,
             1,
             1,
             1,
@@ -340,7 +343,7 @@
             1,
             0,
             2,
-            4
+            3
           ]
         }
       ]
@@ -348,8 +351,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.3,
-        "tutorSessionRanking": 0.3,
+        "allSessionRanking": 16.7,
+        "tutorSessionRanking": 30.0,
         "correctExplanation": 77.78,
         "incorrectExplanation": 22.22,
         "alignedExplanation": 33.33,
@@ -359,13 +362,13 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
-        "tutorSessionRanking": 0.8
+        "allSessionRanking": 46.1,
+        "tutorSessionRanking": 80.0
       },
       "feedbackQuality": {
-        "rating": 5,
-        "allSessionRanking": 23.1,
-        "tutorSessionRanking": 0.5,
+        "rating": 6,
+        "allSessionRanking": 26.5,
+        "tutorSessionRanking": 50.0,
         "positiveFeedback": 5.08,
         "neutralFeedback": 88.7,
         "negativeFeedback": 6.21,
@@ -376,8 +379,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 4,
-        "allSessionRanking": 22.1,
-        "tutorSessionRanking": 0.5,
+        "allSessionRanking": 23.5,
+        "tutorSessionRanking": 50.0,
         "tutorUtterances": [
           0,
           1,

@@ -4,18 +4,22 @@
   "student": 179544,
   "subject": "Algebra 2",
   "date": "2023-10-02",
-  "riskyAreas": [],
+  "riskyAreas": [
+    "Instruction",
+    "Technology",
+    "Feedback"
+  ],
   "sessionGeneral": {
     "aiSummary": "During the one-on-one tutoring session, the tutor and student discussed various topics including identity elements, inverses, exponentiation distribution, closure, commutativity, and set notation in binary operations. The student's expectation was to prepare for a math test, focusing on problem-solving. The tutor guided the student in simplifying equations and utilizing a graphing calculator for solutions.",
     "desiredOutcome": "The student's expectation for the session is to receive help with preparing for a test, specifically with solving math problems. The tutor addresses the student's request by guiding them through simplifying equations and using a graphing calculator for solutions.",
     "activities": [
+      "Table of values for a non-closed operation with identity and inverses",
       "Identity element in binary operations",
-      "Inverse in binary operations",
       "Exponentiation distribution in binary operations",
-      "Closure, commutativity, identity, and inverse in binary operations",
       "Set notation and infinite sets",
       "Binary operations and finding inverses",
-      "Table of values for a non-closed operation with identity and inverses"
+      "Closure, commutativity, identity, and inverse in binary operations",
+      "Inverse in binary operations"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -320,20 +324,20 @@
         {
           "name": "Instruction Delivery",
           "score": 5,
-          "percentile": 16.3,
+          "percentile": 16.7,
           "values": [
             1,
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
             2,
             0,
             0,
-            4,
+            3,
             0,
             0,
             0,
@@ -373,10 +377,10 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 4,
-          "percentile": 7.7,
+          "score": 5,
+          "percentile": 9.8,
           "values": [
-            4,
+            3,
             0,
             0,
             0,
@@ -401,13 +405,13 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 5,
-          "percentile": 64.4,
+          "percentile": 63.7,
           "values": [
             1,
             1,
             1,
             1,
-            4,
+            3,
             2,
             0,
             1,
@@ -419,8 +423,8 @@
             2,
             2,
             1,
-            3,
-            3,
+            2,
+            2,
             0,
             0
           ]
@@ -430,8 +434,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 5,
-        "allSessionRanking": 16.3,
-        "tutorSessionRanking": 0.56,
+        "allSessionRanking": 16.7,
+        "tutorSessionRanking": 56.25,
         "correctExplanation": 60.0,
         "incorrectExplanation": 40.0,
         "alignedExplanation": 40.0,
@@ -442,12 +446,12 @@
       "techToolUsage": {
         "rating": 4,
         "allSessionRanking": 1.0,
-        "tutorSessionRanking": 0.12
+        "tutorSessionRanking": 12.5
       },
       "feedbackQuality": {
-        "rating": 4,
-        "allSessionRanking": 7.7,
-        "tutorSessionRanking": 0.44,
+        "rating": 5,
+        "allSessionRanking": 9.8,
+        "tutorSessionRanking": 50.0,
         "positiveFeedback": 8.33,
         "neutralFeedback": 88.26,
         "negativeFeedback": 3.41,
@@ -458,8 +462,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 5,
-        "allSessionRanking": 64.4,
-        "tutorSessionRanking": 0.31,
+        "allSessionRanking": 63.7,
+        "tutorSessionRanking": 31.25,
         "tutorUtterances": [
           1,
           4,

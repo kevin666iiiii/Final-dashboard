@@ -9,10 +9,10 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed exponent rules, simplifying expressions with exponents, adding and subtracting polynomials, simplifying expressions with radicals and perfect squares, and simplifying expressions with cube roots and perfect cubes. The student struggles with freezing up and blanking out during math homework, seeking reminders and consistency. The tutor focuses on repetition and simplifying exponent rules to help the student understand and retain information, addressing the student's expectations to improve their understanding of math concepts and develop better study habits through explanations and guidance on effective problem-solving approaches.",
     "desiredOutcome": "The student seems to struggle with freezing up and blanking out during math homework. They seek reminders and struggle with consistency. The tutor focuses on repetition and simplifying exponent rules to help the student understand and retain information. The student's expectation for the session is to improve their understanding of math concepts and develop better study habits. These expectations are being addressed by the tutor through explanations and guidance on how to approach math problems effectively.",
     "activities": [
-      "Exponent rules and simplifying expressions with exponents",
-      "Adding and subtracting polynomials",
+      "Simplifying expressions with cube roots and perfect cubes",
       "Simplifying expressions with radicals and perfect squares",
-      "Simplifying expressions with cube roots and perfect cubes"
+      "Exponent rules and simplifying expressions with exponents",
+      "Adding and subtracting polynomials"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -245,10 +245,10 @@
         {
           "name": "Instruction Delivery",
           "score": 8,
-          "percentile": 75.0,
+          "percentile": 76.5,
           "values": [
             2,
-            4,
+            3,
             1,
             0,
             0,
@@ -272,7 +272,7 @@
         {
           "name": "Tech & Tool Usage",
           "score": 10,
-          "percentile": 47.1,
+          "percentile": 46.1,
           "values": [
             0,
             0,
@@ -298,26 +298,26 @@
         },
         {
           "name": "Feedback Quality",
-          "score": 8,
-          "percentile": 93.3,
+          "score": 10,
+          "percentile": 95.1,
           "values": [
             0,
             0,
             0,
             0,
             0,
-            4,
+            3,
             0,
             0,
-            4,
-            0,
-            0,
-            0,
+            3,
             0,
             0,
             0,
-            4,
-            4,
+            0,
+            0,
+            0,
+            3,
+            3,
             0,
             0,
             0
@@ -326,7 +326,7 @@
         {
           "name": "Social-Emotional Teaching",
           "score": 6,
-          "percentile": 88.5,
+          "percentile": 88.2,
           "values": [
             2,
             1,
@@ -336,14 +336,14 @@
             0,
             0,
             1,
-            3,
+            2,
             1,
             0,
             2,
             2,
-            4,
+            3,
             1,
-            4,
+            3,
             1,
             0,
             1,
@@ -355,8 +355,8 @@
     "rating": {
       "instructionalDelivery": {
         "rating": 8,
-        "allSessionRanking": 75.0,
-        "tutorSessionRanking": 0.83,
+        "allSessionRanking": 76.5,
+        "tutorSessionRanking": 83.33,
         "correctExplanation": 75.0,
         "incorrectExplanation": 25.0,
         "alignedExplanation": 100.0,
@@ -366,13 +366,13 @@
       },
       "techToolUsage": {
         "rating": 10,
-        "allSessionRanking": 47.1,
-        "tutorSessionRanking": 0.83
+        "allSessionRanking": 46.1,
+        "tutorSessionRanking": 83.33
       },
       "feedbackQuality": {
-        "rating": 8,
-        "allSessionRanking": 93.3,
-        "tutorSessionRanking": 1.0,
+        "rating": 10,
+        "allSessionRanking": 95.1,
+        "tutorSessionRanking": 100.0,
         "positiveFeedback": 7.74,
         "neutralFeedback": 88.1,
         "negativeFeedback": 4.17,
@@ -383,8 +383,8 @@
       },
       "socialEmotionalTeaching": {
         "rating": 6,
-        "allSessionRanking": 88.5,
-        "tutorSessionRanking": 1.0,
+        "allSessionRanking": 88.2,
+        "tutorSessionRanking": 100.0,
         "tutorUtterances": [
           2,
           0,

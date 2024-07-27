@@ -14,14 +14,14 @@
     "desiredOutcome": "The student's expectation for the session is to review and understand how to find the equation of an ellipse. The student seems to have forgotten the equation from the previous session and is seeking clarification on the concepts of a squared and b squared in relation to ellipses. The tutor is guiding the student through understanding the shape of an ellipse compared to a circle and the differences in the distances from the center, helping the student grasp the concept of semi-major and semi-minor axes. The tutor is effectively addressing the student's expectation by providing a visual explanation and engaging in a dialogue to enhance understanding.",
     "activities": [
       "Standard equation of a circle",
-      "Solving for a squared and b squared in an ellipse",
       "Constant in an ellipse equation",
+      "Midpoint formula",
+      "Solving for a squared and b squared in an ellipse",
       "Finding the equation of a semicircle",
       "Equation of an ellipse",
-      "Calculating distance between two points",
       "Focal points in an ellipse",
-      "Midpoint formula",
-      "Finding the radius of a circle"
+      "Finding the radius of a circle",
+      "Calculating distance between two points"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -315,13 +315,83 @@
         93,
         94
       ],
-      "analysis": [
-        "0-1 min: The student's brief response may have indicated understanding, leading to a moment of reflection.",
-        "11-13 min: The tutor paused to allow the student time to process and understand the concept explained.",
-        "52-55 min: The tutor and student had a period of silence to independently verify their understanding.",
-        "60-62 min: The tutor and student were processing and trying to recall the mathematical operation involving exponents.",
-        "68-70 min: The student was likely trying to visualize and draw the figure, leading to silence."
-      ]
+      "silencePeriods": {
+        "timeHighline": [
+          {
+            "min": 0,
+            "max": 1
+          },
+          {
+            "min": 11,
+            "max": 13
+          },
+          {
+            "min": 52,
+            "max": 55
+          },
+          {
+            "min": 60,
+            "max": 62
+          },
+          {
+            "min": 68,
+            "max": 70
+          }
+        ],
+        "analysis": [
+          "0-1 min: The student's brief response may have indicated understanding, leading to a moment of reflection.",
+          "11-13 min: The tutor paused to allow the student time to process and understand the concept explained.",
+          "52-55 min: The tutor and student had a period of silence to independently verify their understanding.",
+          "60-62 min: The tutor and student were processing and trying to recall the mathematical operation involving exponents.",
+          "68-70 min: The student was likely trying to visualize and draw the figure, leading to silence."
+        ]
+      },
+      "studentInactivePeriods": {
+        "timeHighline": [
+          {
+            "min": 2,
+            "max": 4
+          },
+          {
+            "min": 14,
+            "max": 16
+          },
+          {
+            "min": 23,
+            "max": 25
+          },
+          {
+            "min": 27,
+            "max": 29
+          },
+          {
+            "min": 41,
+            "max": 43
+          },
+          {
+            "min": 57,
+            "max": 59
+          },
+          {
+            "min": 61,
+            "max": 63
+          },
+          {
+            "min": 80,
+            "max": 82
+          }
+        ],
+        "analysis": [
+          "2-4 min: Technical issue with audio equipment led to silence, disrupting communication between tutor and student.",
+          "14-16 min: The tutor and student had a period of silence to allow the page to refresh.",
+          "23-25 min: The student's audio connection was unstable, causing a momentary loss of communication between them.",
+          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
+          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
+          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) Miscommunication or lack of clarity from the student resulted in a moment of confusion.",
+          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence.",
+          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+        ]
+      }
     }
   },
   "tutorPerformance": {

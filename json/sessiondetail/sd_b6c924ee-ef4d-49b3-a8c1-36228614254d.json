@@ -13,15 +13,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including casual conversation, Christmas gifts, and the significance of PI in mathematics. The student's expectation was to learn more about PI digits and their relation to circles, which the tutor addressed by explaining PI's concept, use in circle calculations, and the initial digits of PI. Periods of low interaction occurred as the tutor gathered materials, encountered technical issues, processed information, and the student wrote down or struggled to recall PI digits.",
     "desiredOutcome": "The student's expectation for the session is to learn more about PI digits, specifically how the numbers progress and their significance in relation to circles. The tutor addresses the student's expectation by explaining the concept of PI, its use in calculating circle properties, and the initial digits of PI.",
     "activities": [
-      "Explanation of the first few digits of PI",
+      "Discussion on the infinite nature of PI and its irrationality",
       "Recap of the student's weekend",
-      "Discussion about Christmas gifts",
-      "Review and summary of PI concepts",
-      "Introduction and casual conversation",
       "Introduction to PI and its significance in mathematics",
+      "Explanation of the first few digits of PI",
       "Memorization practice of PI digits",
+      "Introduction and casual conversation",
       "Closure and scheduling for the next session",
-      "Discussion on the infinite nature of PI and its irrationality"
+      "Review and summary of PI concepts",
+      "Discussion about Christmas gifts"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -156,13 +156,83 @@
         40,
         41
       ],
-      "analysis": [
-        "2-4 min: The tutor needed a moment to gather materials or information before continuing the session.",
-        "9-11 min: The tutor likely encountered a technical issue or distraction, leading to a momentary pause.",
-        "20-27 min: The tutor and student were silently processing the overwhelming amount of numbers and information.",
-        "27-30 min: The student was likely writing down the digits of pi, leading to a period of silence.",
-        "32-37 min: The period of silence occurred as the student struggled to recall the digits of PI."
-      ]
+      "silencePeriods": {
+        "timeHighline": [
+          {
+            "min": 2,
+            "max": 4
+          },
+          {
+            "min": 9,
+            "max": 11
+          },
+          {
+            "min": 20,
+            "max": 27
+          },
+          {
+            "min": 27,
+            "max": 30
+          },
+          {
+            "min": 32,
+            "max": 37
+          }
+        ],
+        "analysis": [
+          "2-4 min: The tutor needed a moment to gather materials or information before continuing the session.",
+          "9-11 min: The tutor likely encountered a technical issue or distraction, leading to a momentary pause.",
+          "20-27 min: The tutor and student were silently processing the overwhelming amount of numbers and information.",
+          "27-30 min: The student was likely writing down the digits of pi, leading to a period of silence.",
+          "32-37 min: The period of silence occurred as the student struggled to recall the digits of PI."
+        ]
+      },
+      "studentInactivePeriods": {
+        "timeHighline": [
+          {
+            "min": 2,
+            "max": 4
+          },
+          {
+            "min": 14,
+            "max": 16
+          },
+          {
+            "min": 23,
+            "max": 25
+          },
+          {
+            "min": 27,
+            "max": 29
+          },
+          {
+            "min": 41,
+            "max": 43
+          },
+          {
+            "min": 57,
+            "max": 59
+          },
+          {
+            "min": 61,
+            "max": 63
+          },
+          {
+            "min": 80,
+            "max": 82
+          }
+        ],
+        "analysis": [
+          "2-4 min: The tutor and student had a period of silence due to technical difficulties with audio.",
+          "14-16 min: The tutor asked the student to refresh the page, leading to a momentary pause. \n\nOutput: Technical issue required page refresh, causing temporary silence in the session.",
+          "23-25 min: The student's internet connection may have dropped, causing a temporary loss of communication.",
+          "27-29 min: The student attempted to reload, possibly encountering technical difficulties, leading to a pause.",
+          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
+          "57-59 min: The tutor likely didn't understand the student's question, leading to a moment of confusion.",
+          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) Miscommunication or lack of clarity from the student caused confusion and a moment of silence.",
+          "80-82 min: The student expressed uncertainty or needed time to process information before continuing the conversation."
+        ]
+      }
     }
   },
   "tutorPerformance": {

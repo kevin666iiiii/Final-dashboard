@@ -14,15 +14,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various algebra two topics, focusing on system of equations to address the student's learning gap. The student showed engagement and willingness to learn, agreeing to work on more problems for better understanding. Periods of low interaction occurred when the student needed time to process information or solve equations independently, and when the tutor needed time to review the student's work and plan next steps.",
     "desiredOutcome": "The student's expectation for the session was to work on algebra two topics, specifically focusing on system of equations. The student expressed familiarity with some algebra concepts like multi-step equations, absolute values, and compound inequalities. However, they indicated that they had not covered system of equations yet and were open to learning about it. The tutor identified this gap in knowledge and proceeded to explain and work on solving system of equations with the student. The student seemed engaged and willing to learn, as they agreed to work on more problems to solidify their understanding. Overall, the student's expectation for the session was addressed as they received guidance on a new topic in algebra two.",
     "activities": [
-      "Graphing linear equations",
-      "System of equations",
-      "Rational equations",
+      "Compound inequalities",
       "Factoring polynomials",
+      "Rational equations",
+      "Absolute values",
+      "Multi-step equations and inequalities",
+      "Graphing linear equations",
       "Completing the square",
       "Exponents and logarithms",
-      "Compound inequalities",
-      "Multi-step equations and inequalities",
-      "Absolute values"
+      "System of equations"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -298,15 +298,93 @@
         87,
         88
       ],
-      "analysis": [
-        "0-1 min: The student struggled to articulate their thoughts, leading to a pause in the conversation.",
-        "7-9 min: The student needed time to process the information and solve the equation independently.",
-        "10-14 min: The tutor and student were processing information and waiting for the student to respond.",
-        "14-16 min: The tutor and student had a period of silence to allow for reflection and processing.",
-        "17-20 min: The tutor and student had a period of silence to process and reflect on the problem.",
-        "21-24 min: The tutor needed time to review the student's work and plan the next steps.",
-        "24-27 min: The tutor and student were likely solving a math problem, requiring time for calculation."
-      ]
+      "silencePeriods": {
+        "timeHighline": [
+          {
+            "min": 0,
+            "max": 1
+          },
+          {
+            "min": 7,
+            "max": 9
+          },
+          {
+            "min": 10,
+            "max": 14
+          },
+          {
+            "min": 14,
+            "max": 16
+          },
+          {
+            "min": 17,
+            "max": 20
+          },
+          {
+            "min": 21,
+            "max": 24
+          },
+          {
+            "min": 24,
+            "max": 27
+          }
+        ],
+        "analysis": [
+          "0-1 min: The student struggled to articulate their thoughts, leading to a pause in the conversation.",
+          "7-9 min: The student needed time to process the information and solve the equation independently.",
+          "10-14 min: The tutor and student were processing information and waiting for the student to respond.",
+          "14-16 min: The tutor and student had a period of silence to allow for reflection and processing.",
+          "17-20 min: The tutor and student had a period of silence to process and reflect on the problem.",
+          "21-24 min: The tutor needed time to review the student's work and plan the next steps.",
+          "24-27 min: The tutor and student were likely solving a math problem, requiring time for calculation."
+        ]
+      },
+      "studentInactivePeriods": {
+        "timeHighline": [
+          {
+            "min": 2,
+            "max": 4
+          },
+          {
+            "min": 14,
+            "max": 16
+          },
+          {
+            "min": 23,
+            "max": 25
+          },
+          {
+            "min": 27,
+            "max": 29
+          },
+          {
+            "min": 41,
+            "max": 43
+          },
+          {
+            "min": 57,
+            "max": 59
+          },
+          {
+            "min": 61,
+            "max": 63
+          },
+          {
+            "min": 80,
+            "max": 82
+          }
+        ],
+        "analysis": [
+          "2-4 min: The student couldn't hear the tutor, leading to a moment of silence for troubleshooting.",
+          "14-16 min: The tutor asked the student to refresh the page, leading to a momentary pause. \n\nOutput: Tutor requested page refresh, causing temporary silence for technical adjustment.",
+          "23-25 min: The student's audio connection may have been lost, causing a period of silence.",
+          "27-29 min: The student attempted to reload, causing a pause as they waited for results.",
+          "41-43 min: The student needed time to process the information before responding to the tutor's question.",
+          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence.",
+          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) Miscommunication or lack of clarity from the student caused confusion and a moment of silence.",
+          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+        ]
+      }
     }
   },
   "tutorPerformance": {

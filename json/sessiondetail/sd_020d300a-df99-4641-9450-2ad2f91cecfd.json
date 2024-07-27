@@ -12,15 +12,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including exponential functions, logarithmic functions, graphing functions, inverse functions, and comparing functions. The student's expectation was to understand exponent rules and simplify expressions, which the tutor successfully addressed. Throughout the session, there were periods of low interaction where both the tutor and student were silently processing information, reflecting on concepts, and analyzing different bases on logarithmic functions.",
     "desiredOutcome": "The student's expectation for the session is to understand exponent rules and simplify expressions. The tutor successfully addressed these expectations by explaining and solving problems involving exponents.",
     "activities": [
-      "Graphing exponential and logarithmic functions",
-      "Comparing logarithmic functions with different bases",
-      "Identifying logarithmic functions and their properties",
-      "Exponential functions with different bases",
       "Characteristics of inverse functions and their application to logarithmic functions",
       "Graphing a logarithmic function using its inverse",
+      "Graphing the inverses of exponential functions",
+      "Exponential functions with different bases",
       "Identifying the inverse of a logarithmic function",
+      "Graphing exponential and logarithmic functions",
       "Identifying the intercepts and end behavior of a logarithmic function",
-      "Graphing the inverses of exponential functions"
+      "Comparing logarithmic functions with different bases",
+      "Identifying logarithmic functions and their properties"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -206,13 +206,83 @@
         57,
         58
       ],
-      "analysis": [
-        "30-32 min: Both tutor and student were processing information and thinking about the next step silently.",
-        "39-41 min: The tutor and student had a period of silence to process and confirm the answer.",
-        "48-50 min: The tutor and student were reflecting on the concepts discussed before continuing the session.",
-        "50-52 min: The tutor and student had a period of silence to allow time for reflection and processing.",
-        "53-55 min: The tutor and student were silently analyzing the effect of different bases on logarithmic functions."
-      ]
+      "silencePeriods": {
+        "timeHighline": [
+          {
+            "min": 30,
+            "max": 32
+          },
+          {
+            "min": 39,
+            "max": 41
+          },
+          {
+            "min": 48,
+            "max": 50
+          },
+          {
+            "min": 50,
+            "max": 52
+          },
+          {
+            "min": 53,
+            "max": 55
+          }
+        ],
+        "analysis": [
+          "30-32 min: Both tutor and student were processing information and thinking about the next step silently.",
+          "39-41 min: The tutor and student had a period of silence to process and confirm the answer.",
+          "48-50 min: The tutor and student were reflecting on the concepts discussed before continuing the session.",
+          "50-52 min: The tutor and student had a period of silence to allow time for reflection and processing.",
+          "53-55 min: The tutor and student were silently analyzing the effect of different bases on logarithmic functions."
+        ]
+      },
+      "studentInactivePeriods": {
+        "timeHighline": [
+          {
+            "min": 2,
+            "max": 4
+          },
+          {
+            "min": 14,
+            "max": 16
+          },
+          {
+            "min": 23,
+            "max": 25
+          },
+          {
+            "min": 27,
+            "max": 29
+          },
+          {
+            "min": 41,
+            "max": 43
+          },
+          {
+            "min": 57,
+            "max": 59
+          },
+          {
+            "min": 61,
+            "max": 63
+          },
+          {
+            "min": 80,
+            "max": 82
+          }
+        ],
+        "analysis": [
+          "2-4 min: Technical issue with audio equipment led to silence, requiring troubleshooting and adjustment for communication.",
+          "14-16 min: The tutor asked the student to refresh the page, leading to a momentary pause. \n\nOutput: Tutor requested page refresh, causing temporary silence for technical adjustment.",
+          "23-25 min: The student's internet connection may have dropped, causing a temporary loss of communication.",
+          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
+          "41-43 min: The student needed time to process the information before responding to the tutor's question.",
+          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) Miscommunication or lack of clarity from the student caused confusion and a moment of silence.",
+          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) Miscommunication or lack of clarity from the student resulted in a moment of confusion.",
+          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+        ]
+      }
     }
   },
   "tutorPerformance": {

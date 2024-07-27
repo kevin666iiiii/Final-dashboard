@@ -14,14 +14,14 @@
     "desiredOutcome": "The student's expectation for the session seems to be to go over worksheets related to classifying angle pairs. The tutor is helping the student understand the relationships between different angle pairs and how to classify them correctly. The student's expectation of working on specific worksheets is being met as the tutor guides them through the problems and clarifies any confusion.",
     "activities": [
       "Manipulating Equations to Solve for Variables",
-      "Corresponding Angles",
-      "Supplementary Angles",
-      "Complementary Angles",
-      "Alternate Interior and Exterior Angles",
       "Vertical Angles",
       "Parallel Lines and Angles",
+      "Alternate Interior and Exterior Angles",
+      "Review and Recap",
+      "Supplementary Angles",
+      "Corresponding Angles",
       "Solving Equations with Variables",
-      "Review and Recap"
+      "Complementary Angles"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -162,9 +162,63 @@
         42,
         43
       ],
-      "analysis": [
-        "37-39 min: The tutor and student had a period of silence due to a lack of clear communication."
-      ]
+      "silencePeriods": {
+        "timeHighline": [
+          {
+            "min": 37,
+            "max": 39
+          }
+        ],
+        "analysis": [
+          "37-39 min: The tutor and student had a period of silence due to a lack of clear communication."
+        ]
+      },
+      "studentInactivePeriods": {
+        "timeHighline": [
+          {
+            "min": 2,
+            "max": 4
+          },
+          {
+            "min": 14,
+            "max": 16
+          },
+          {
+            "min": 23,
+            "max": 25
+          },
+          {
+            "min": 27,
+            "max": 29
+          },
+          {
+            "min": 41,
+            "max": 43
+          },
+          {
+            "min": 57,
+            "max": 59
+          },
+          {
+            "min": 61,
+            "max": 63
+          },
+          {
+            "min": 80,
+            "max": 82
+          }
+        ],
+        "analysis": [
+          "2-4 min: The tutor and student had a period of silence due to technical difficulties with audio.",
+          "14-16 min: The tutor and student had a period of silence to allow the page to refresh.",
+          "23-25 min: The student's audio connection was unstable, causing a momentary loss of communication between them.",
+          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
+          "41-43 min: The student needed time to process the information before responding to the tutor's question.",
+          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) The tutor's confusion about the student's statement led to a period of silence.",
+          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence.",
+          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+        ]
+      }
     }
   },
   "tutorPerformance": {

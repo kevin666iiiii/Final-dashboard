@@ -12,10 +12,10 @@
     "aiSummary": "In the one-on-one tutoring session, the student's expectation was to focus on math problems related to graphing equations and understanding slope. The tutor guided the student through solving questions on linear equations, slope, and graphing lines. There were moments of low interaction as both tutor and student silently contemplated and processed information to solve problems.",
     "desiredOutcome": "The student's expectation for the session seems to be to work on math problems related to graphing equations and understanding slope. The student is actively engaged in discussing and solving the math problem with the tutor, seeking clarification on concepts and steps involved in graphing equations. The student also mentions upcoming travel plans that may affect future tutoring sessions. The tutor is addressing the student's questions and guiding them through the problem-solving process, helping them understand the concepts related to slope and graphing equations. Overall, the student's expectations for the session seem to be met as they are actively participating in solving math problems and seeking clarification on concepts.",
     "activities": [
-      "Solving linear equations and graphing lines",
-      "Calculating time, distance, and speed for two individuals",
       "Determining the equation and slope-intercept form for a linear equation",
-      "Calculating slope and y-intercept, graphing linear equations"
+      "Solving linear equations and graphing lines",
+      "Calculating slope and y-intercept, graphing linear equations",
+      "Calculating time, distance, and speed for two individuals"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -291,9 +291,63 @@
         87,
         88
       ],
-      "analysis": [
-        "71-74 min: The tutor and student were silently contemplating and processing information to solve the problem."
-      ]
+      "silencePeriods": {
+        "timeHighline": [
+          {
+            "min": 71,
+            "max": 74
+          }
+        ],
+        "analysis": [
+          "71-74 min: The tutor and student were silently contemplating and processing information to solve the problem."
+        ]
+      },
+      "studentInactivePeriods": {
+        "timeHighline": [
+          {
+            "min": 2,
+            "max": 4
+          },
+          {
+            "min": 14,
+            "max": 16
+          },
+          {
+            "min": 23,
+            "max": 25
+          },
+          {
+            "min": 27,
+            "max": 29
+          },
+          {
+            "min": 41,
+            "max": 43
+          },
+          {
+            "min": 57,
+            "max": 59
+          },
+          {
+            "min": 61,
+            "max": 63
+          },
+          {
+            "min": 80,
+            "max": 82
+          }
+        ],
+        "analysis": [
+          "2-4 min: Technical issue with audio equipment led to silence, requiring troubleshooting before continuing the session.",
+          "14-16 min: The tutor and student had a period of silence to allow the student to process information.",
+          "23-25 min: The student's internet connection was unstable, causing a disruption in communication during the session.",
+          "27-29 min: The student attempted to reload, causing a pause as they waited for the results.",
+          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
+          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence.",
+          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) The tutor's confusion over the student's statement led to a period of silence.",
+          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+        ]
+      }
     }
   },
   "tutorPerformance": {

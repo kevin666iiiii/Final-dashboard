@@ -14,15 +14,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including solving equations by factoring, identifying factors of a polynomial, determining x-intercepts, finding zeros/roots, and understanding the relationship between roots and factors. The student's expectation was to review factoring equations, which the tutor successfully addressed by guiding them through the process.",
     "desiredOutcome": "The student's expectation for the session is to review and refresh their knowledge on factoring equations. The tutor successfully addressed the student's expectation by guiding them through the process of factoring an equation.",
     "activities": [
+      "Understanding the relationship between roots and factors of a polynomial",
+      "Determining x-intercepts of a polynomial function",
+      "Solving equations by factoring",
+      "Scheduling tutoring sessions",
       "Identifying factors of a polynomial",
       "Confirming session details",
-      "Understanding the relationship between roots and factors of a polynomial",
-      "Solving equations by factoring",
-      "Finding zeros/roots/x-intercepts of a polynomial",
-      "Determining x-intercepts of a polynomial function",
-      "Identifying mistakes in solutions",
       "Determining the equation from x-intercepts",
-      "Scheduling tutoring sessions"
+      "Finding zeros/roots/x-intercepts of a polynomial",
+      "Identifying mistakes in solutions"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -94,7 +94,56 @@
         19,
         20
       ],
-      "analysis": []
+      "silencePeriods": {
+        "timeHighline": [],
+        "analysis": []
+      },
+      "studentInactivePeriods": {
+        "timeHighline": [
+          {
+            "min": 2,
+            "max": 4
+          },
+          {
+            "min": 14,
+            "max": 16
+          },
+          {
+            "min": 23,
+            "max": 25
+          },
+          {
+            "min": 27,
+            "max": 29
+          },
+          {
+            "min": 41,
+            "max": 43
+          },
+          {
+            "min": 57,
+            "max": 59
+          },
+          {
+            "min": 61,
+            "max": 63
+          },
+          {
+            "min": 80,
+            "max": 82
+          }
+        ],
+        "analysis": [
+          "2-4 min: Technical issue with audio equipment led to silence, requiring troubleshooting before continuing the session.",
+          "14-16 min: The tutor asked the student to refresh the page, leading to a pause for action. \n\n",
+          "23-25 min: The student's internet connection may have dropped, causing a temporary loss of communication.",
+          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
+          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
+          "57-59 min: The tutor likely didn't understand the student's question, leading to a moment of confusion.",
+          "61-63 min: The tutor likely didn't understand the student's question, leading to a moment of confusion.",
+          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+        ]
+      }
     }
   },
   "tutorPerformance": {

@@ -11,15 +11,15 @@
     "aiSummary": "During the one-on-one tutoring session, the tutor and student covered various topics including trigonometry, permutations, geometry, algebra, and probability. The student's expectations to review trigonometry concepts, solve combination problems, and find the radius of a cone were successfully met. There were no specific instances of low interaction during the session.",
     "desiredOutcome": "The student's expectations for the session were to review trigonometry concepts, solve math problems involving combinations, and apply formulas to find the radius of a cone. These expectations were met as the tutor guided the student through the trigonometry question, helped with the combinations problem, and corrected a mistake while finding the radius of the cone.",
     "activities": [
-      "Algebra - Factoring Quadratic Expressions",
-      "Geometry - Circumference and Radius of a Circle",
-      "Geometry - Distance between Points in a Right Triangle",
-      "Geometry - Finding Midpoint of a Line Segment",
       "Trigonometry - Sine, Cosine, and Tangent",
       "Permutations and Combinations",
+      "Geometry - Circumference and Radius of a Circle",
       "Probability",
-      "Geometry - Volume of a Cone",
-      "Algebra - Finding Slope of a Line"
+      "Geometry - Finding Midpoint of a Line Segment",
+      "Geometry - Distance between Points in a Right Triangle",
+      "Algebra - Finding Slope of a Line",
+      "Algebra - Factoring Quadratic Expressions",
+      "Geometry - Volume of a Cone"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -190,7 +190,56 @@
         52,
         53
       ],
-      "analysis": []
+      "silencePeriods": {
+        "timeHighline": [],
+        "analysis": []
+      },
+      "studentInactivePeriods": {
+        "timeHighline": [
+          {
+            "min": 2,
+            "max": 4
+          },
+          {
+            "min": 14,
+            "max": 16
+          },
+          {
+            "min": 23,
+            "max": 25
+          },
+          {
+            "min": 27,
+            "max": 29
+          },
+          {
+            "min": 41,
+            "max": 43
+          },
+          {
+            "min": 57,
+            "max": 59
+          },
+          {
+            "min": 61,
+            "max": 63
+          },
+          {
+            "min": 80,
+            "max": 82
+          }
+        ],
+        "analysis": [
+          "2-4 min: Technical issue with audio equipment led to silence, requiring troubleshooting and adjustment for communication.",
+          "14-16 min: The tutor and student had a period of silence to allow the student to process information.",
+          "23-25 min: The student's internet connection may have dropped, causing a temporary loss of communication.",
+          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
+          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
+          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) Miscommunication or lack of clarity from the student caused confusion and a moment of silence.",
+          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) The tutor's confusion over the student's statement led to a period of silence.",
+          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+        ]
+      }
     }
   },
   "tutorPerformance": {

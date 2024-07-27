@@ -14,15 +14,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various chemistry topics, focusing on calculating moles and related concepts. The tutor successfully guided the student through solving problems, particularly on potassium iodide. Periods of low interaction occurred for the student to process information, calculate silently, and ensure accurate final answers.",
     "desiredOutcome": "The student's expectation for the session was to receive help with chemistry problems, specifically related to calculating the number of moles. The tutor successfully addressed the student's expectation by guiding them through the process of calculating the number of moles for potassium iodide. The tutor explained the concept of moles, atomic mass, and molar mass, helping the student understand and solve the problem.",
     "activities": [
-      "Determining the element with the greatest mass",
       "Determining lethal dose based on weight and dosage",
-      "Calculating moles from grams using molar mass",
+      "Comparing masses of different elements",
       "Converting mass to moles using the factor label method",
-      "Moles and Avogadro's number",
-      "Calculating moles from mass and atomic mass",
-      "Applying logic to calculate total doses for a given lethal dose",
+      "Calculating moles from grams using molar mass",
       "Calculating molar mass of substances",
-      "Comparing masses of different elements"
+      "Moles and Avogadro's number",
+      "Applying logic to calculate total doses for a given lethal dose",
+      "Determining the element with the greatest mass",
+      "Calculating moles from mass and atomic mass"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -139,11 +139,73 @@
         34,
         35
       ],
-      "analysis": [
-        "10-12 min: The tutor and student had a period of silence to allow the student to process information.",
-        "12-14 min: The student was calculating silently, processing the information before asking for clarification.",
-        "14-16 min: The tutor and student had a period of silence to calculate the final answer accurately."
-      ]
+      "silencePeriods": {
+        "timeHighline": [
+          {
+            "min": 10,
+            "max": 12
+          },
+          {
+            "min": 12,
+            "max": 14
+          },
+          {
+            "min": 14,
+            "max": 16
+          }
+        ],
+        "analysis": [
+          "10-12 min: The tutor and student had a period of silence to allow the student to process information.",
+          "12-14 min: The student was calculating silently, processing the information before asking for clarification.",
+          "14-16 min: The tutor and student had a period of silence to calculate the final answer accurately."
+        ]
+      },
+      "studentInactivePeriods": {
+        "timeHighline": [
+          {
+            "min": 2,
+            "max": 4
+          },
+          {
+            "min": 14,
+            "max": 16
+          },
+          {
+            "min": 23,
+            "max": 25
+          },
+          {
+            "min": 27,
+            "max": 29
+          },
+          {
+            "min": 41,
+            "max": 43
+          },
+          {
+            "min": 57,
+            "max": 59
+          },
+          {
+            "min": 61,
+            "max": 63
+          },
+          {
+            "min": 80,
+            "max": 82
+          }
+        ],
+        "analysis": [
+          "2-4 min: The student couldn't hear the tutor, leading to a moment of silence for troubleshooting.",
+          "14-16 min: The tutor asked the student to refresh the page, leading to a momentary pause. \n\nOutput: Tutor requested page refresh, causing temporary silence for technical adjustment.",
+          "23-25 min: The student's internet connection may have dropped, causing a temporary loss of communication.",
+          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
+          "41-43 min: The student needed time to process the information before responding to the tutor's question.",
+          "57-59 min: The tutor likely didn't hear the student clearly, leading to confusion and a pause.",
+          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence.",
+          "80-82 min: The student expressed uncertainty or contemplation, leading to a moment of reflection or pause."
+        ]
+      }
     }
   },
   "tutorPerformance": {

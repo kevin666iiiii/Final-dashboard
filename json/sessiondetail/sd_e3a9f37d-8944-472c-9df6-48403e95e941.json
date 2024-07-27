@@ -12,15 +12,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various calculus topics, including finding tangent lines, derivatives of trigonometric functions, and second derivatives. The student's expectations were met as they worked on unit worksheets. Periods of low interaction occurred due to confusion, reevaluation, reflection, and uncertainty in understanding concepts.",
     "desiredOutcome": "The student's expectation for the session is to work on unit worksheets, specifically focusing on finding the equation of a tangent line and derivatives of trigonometric functions. These expectations are met as the tutor guides the student through solving these types of problems.",
     "activities": [
+      "Explaining the use of the limit definition in finding the derivative of a function",
+      "Finding the equation of the line tangent to a function at a specific point",
+      "Identifying the graph of the derivative of a given function",
+      "Applying the product rule and chain rule to find the derivative of a trigonometric function",
+      "Derivative of cotangent function and applying the chain rule",
       "Using the quotient rule to find the derivative of a function involving a logarithm",
       "Determining the second derivative of a function using the quotient rule",
-      "Identifying the graph of the derivative of a given function",
       "Applying the limit definition to find the derivative of a function at a specific point",
-      "Calculating the second derivative of a function with respect to a variable",
-      "Explaining the use of the limit definition in finding the derivative of a function",
-      "Derivative of cotangent function and applying the chain rule",
-      "Finding the equation of the line tangent to a function at a specific point",
-      "Applying the product rule and chain rule to find the derivative of a trigonometric function"
+      "Calculating the second derivative of a function with respect to a variable"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -227,12 +227,78 @@
         64,
         65
       ],
-      "analysis": [
-        "44-46 min: Confusion arose due to differing approaches in solving for dy over dx, leading to silence.",
-        "46-48 min: The tutor and student had a period of silence to reevaluate and clarify the concept discussed.",
-        "55-57 min: The tutor and student were reflecting on the concept and waiting for the student's response.",
-        "57-60 min: The tutor and student had a period of silence due to uncertainty and confusion in explanation."
-      ]
+      "silencePeriods": {
+        "timeHighline": [
+          {
+            "min": 44,
+            "max": 46
+          },
+          {
+            "min": 46,
+            "max": 48
+          },
+          {
+            "min": 55,
+            "max": 57
+          },
+          {
+            "min": 57,
+            "max": 60
+          }
+        ],
+        "analysis": [
+          "44-46 min: Confusion arose due to differing approaches in solving for dy over dx, leading to silence.",
+          "46-48 min: The tutor and student had a period of silence to reevaluate and clarify the concept discussed.",
+          "55-57 min: The tutor and student were reflecting on the concept and waiting for the student's response.",
+          "57-60 min: The tutor and student had a period of silence due to uncertainty and confusion in explanation."
+        ]
+      },
+      "studentInactivePeriods": {
+        "timeHighline": [
+          {
+            "min": 2,
+            "max": 4
+          },
+          {
+            "min": 14,
+            "max": 16
+          },
+          {
+            "min": 23,
+            "max": 25
+          },
+          {
+            "min": 27,
+            "max": 29
+          },
+          {
+            "min": 41,
+            "max": 43
+          },
+          {
+            "min": 57,
+            "max": 59
+          },
+          {
+            "min": 61,
+            "max": 63
+          },
+          {
+            "min": 80,
+            "max": 82
+          }
+        ],
+        "analysis": [
+          "2-4 min: Technical issue with audio equipment led to silence, disrupting communication between tutor and student.",
+          "14-16 min: The tutor and student had a period of silence to allow the student to process information. \n\n",
+          "23-25 min: The student's internet connection may have dropped, causing a temporary loss of communication.",
+          "27-29 min: The student attempted to reload, causing a pause as they waited for results.",
+          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
+          "57-59 min: The tutor likely didn't understand the student's question, leading to a moment of confusion.",
+          "61-63 min: The tutor likely didn't understand the student's question, leading to a moment of confusion.",
+          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+        ]
+      }
     }
   },
   "tutorPerformance": {

@@ -12,15 +12,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including constructing a Voronoi diagram using Geogebra, finding slopes, midpoints, and intersections, labeling equations, and rounding numbers. The student's expectation to work on a project involving a Voronoi diagram using Geogebra was met as they discussed loading the picture, maintaining scale, and starting the project.",
     "desiredOutcome": "The student's expectation for the session is to work on a project involving constructing a Vermont diagram using Geogebra with guidance from the tutor. The expectation seems to be met as the tutor and student discuss loading the picture into Geogebra, maintaining the scale, and beginning the project.",
     "activities": [
-      "Using Geogebra tools to find intersections",
-      "Using Geogebra to automatically create a Voronoi diagram",
       "Labeling equations and lines in Geogebra",
-      "Snapping points to intersections in Geogebra",
+      "Using Geogebra tools to find intersections",
+      "Rounding numbers to three significant figures",
+      "Finding the slope of a line by hand and in Geogebra",
+      "Constructing a Voronoi diagram using Geogebra",
       "Finding the midpoint of a line segment",
       "Creating segments instead of full lines in Geogebra",
-      "Finding the slope of a line by hand and in Geogebra",
-      "Rounding numbers to three significant figures",
-      "Constructing a Voronoi diagram using Geogebra"
+      "Using Geogebra to automatically create a Voronoi diagram",
+      "Snapping points to intersections in Geogebra"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -206,7 +206,56 @@
         57,
         58
       ],
-      "analysis": []
+      "silencePeriods": {
+        "timeHighline": [],
+        "analysis": []
+      },
+      "studentInactivePeriods": {
+        "timeHighline": [
+          {
+            "min": 2,
+            "max": 4
+          },
+          {
+            "min": 14,
+            "max": 16
+          },
+          {
+            "min": 23,
+            "max": 25
+          },
+          {
+            "min": 27,
+            "max": 29
+          },
+          {
+            "min": 41,
+            "max": 43
+          },
+          {
+            "min": 57,
+            "max": 59
+          },
+          {
+            "min": 61,
+            "max": 63
+          },
+          {
+            "min": 80,
+            "max": 82
+          }
+        ],
+        "analysis": [
+          "2-4 min: Technical issue with audio equipment led to silence, disrupting communication between tutor and student.",
+          "14-16 min: The tutor asked the student to refresh the page, causing a pause for technical troubleshooting. \n\nParaphrased: Technical issue prompted silence for troubleshooting.",
+          "23-25 min: The student's audio connection was unstable, causing a momentary loss of communication between them.",
+          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
+          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
+          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) Miscommunication or lack of clarity from the student caused confusion and a moment of silence.",
+          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) The tutor's confusion about the student's statement led to a period of silence.",
+          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+        ]
+      }
     }
   },
   "tutorPerformance": {

@@ -9,17 +9,17 @@
   ],
   "sessionGeneral": {
     "aiSummary": "During the one-on-one tutoring session, the tutor and student discussed a range of topics including international studies, language selection, acceptance into the Croft Institute, Spanish language comparison, study abroad plans in Mexico and Spain, Baylor University scholarship, math and theology final exam preparation, and symmetry in graphs. The student's expectations were met as they celebrated their acceptance into the Croft Institute, received guidance on study abroad, clarified confusion about a Baylor University email, and discussed language choices for international studies. There were no periods of low interaction between the tutor and student during the session.",
-    "desiredOutcome": "Student's expectations: Celebrating acceptance into Croft Institute, seeking guidance on study abroad, confused about Baylor University email, discussing language choice for international studies.\n\nExpectations addressed: Congratulations acknowledged, study abroad discussed, Baylor email clarified, language choice discussed.",
+    "desiredOutcome": "Student's expectations: Celebrating acceptance into Croft Institute, seeking guidance on study abroad, confused about Baylor University email, discussing language choice for international studies.\r\n\r\nExpectations addressed: Congratulations acknowledged, study abroad discussed, Baylor email clarified, language choice discussed.",
     "activities": [
-      "Acceptance into Croft Institute of International Studies",
       "Confusion in Math Final Problem Solving",
-      "Identifying Symmetry in Graphs",
-      "Comparison of Spanish in Latin America and Spain",
-      "International Studies and Language Selection",
-      "Theology Final Exam Content",
+      "Acceptance into Croft Institute of International Studies",
       "Baylor University Scholarship and Honors College Acceptance",
       "Study Abroad Plans in Mexico and Spain",
-      "Math Final Preparation"
+      "Comparison of Spanish in Latin America and Spain",
+      "Identifying Symmetry in Graphs",
+      "International Studies and Language Selection",
+      "Math Final Preparation",
+      "Theology Final Exam Content"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -238,7 +238,56 @@
         68,
         69
       ],
-      "analysis": []
+      "silencePeriods": {
+        "timeHighline": [],
+        "analysis": []
+      },
+      "studentInactivePeriods": {
+        "timeHighline": [
+          {
+            "min": 2,
+            "max": 4
+          },
+          {
+            "min": 14,
+            "max": 16
+          },
+          {
+            "min": 23,
+            "max": 25
+          },
+          {
+            "min": 27,
+            "max": 29
+          },
+          {
+            "min": 41,
+            "max": 43
+          },
+          {
+            "min": 57,
+            "max": 59
+          },
+          {
+            "min": 61,
+            "max": 63
+          },
+          {
+            "min": 80,
+            "max": 82
+          }
+        ],
+        "analysis": [
+          "2-4 min: Technical issue with audio equipment led to silence, requiring troubleshooting before continuing the session.",
+          "14-16 min: The tutor and student had a period of silence to allow the page to refresh.",
+          "23-25 min: The student's audio connection may have been lost, causing a period of silence.",
+          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
+          "41-43 min: The student needed time to process the information before responding to the tutor's question.",
+          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence.",
+          "61-63 min: The tutor likely didn't hear the student clearly, leading to a moment of confusion.",
+          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+        ]
+      }
     }
   },
   "tutorPerformance": {

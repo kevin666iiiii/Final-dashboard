@@ -11,15 +11,15 @@
   ],
   "sessionGeneral": {
     "aiSummary": "During the one-on-one tutoring session, the student's expectation of focusing on challenging topics from their math study guide for an upcoming test was met. The tutor and student actively worked on simplifying math problems and identifying properties of numbers. The student engaged in discussions and received explanations and guidance from the tutor to enhance their understanding.",
-    "desiredOutcome": "The student's expectation for the session is to work on their nine-week study guide for a math test the next day. They specifically mention that they have a lot of stuff to cover and that they have started on the topics they don't understand. The student expects to focus on the areas of the study guide that are challenging for them and not waste time on topics they already know. The tutor acknowledges this and agrees to work on the areas the student finds difficult. The tutor also mentions that they have only an hour for the session, indicating that the student's expectation of focusing on specific challenging topics aligns with the time constraint. \n\nThroughout the session, the tutor and student work on simplifying math problems and identifying properties of numbers. The student actively participates in solving the problems and engages in discussions with the tutor to understand the concepts better. The tutor provides explanations and guidance to help the student grasp the material. Overall, the student's expectation of receiving help with challenging topics from their study guide is met during the session.",
+    "desiredOutcome": "The student's expectation for the session is to work on their nine-week study guide for a math test the next day. They specifically mention that they have a lot of stuff to cover and that they have started on the topics they don't understand. The student expects to focus on the areas of the study guide that are challenging for them and not waste time on topics they already know. The tutor acknowledges this and agrees to work on the areas the student finds difficult. The tutor also mentions that they have only an hour for the session, indicating that the student's expectation of focusing on specific challenging topics aligns with the time constraint. \r\n\r\nThroughout the session, the tutor and student work on simplifying math problems and identifying properties of numbers. The student actively participates in solving the problems and engages in discussions with the tutor to understand the concepts better. The tutor provides explanations and guidance to help the student grasp the material. Overall, the student's expectation of receiving help with challenging topics from their study guide is met during the session.",
     "activities": [
-      "Distributive Property",
-      "Two Irrational Roots",
-      "Additive Inverse Property",
       "Multiplication Property of Reciprocals",
-      "Quadratic Formula - Two Imaginary Roots",
+      "Additive Inverse Property",
+      "Commutative Property of Multiplication",
+      "Two Irrational Roots",
       "Two Imaginary Roots",
-      "Commutative Property of Multiplication"
+      "Quadratic Formula - Two Imaginary Roots",
+      "Distributive Property"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -184,7 +184,56 @@
         50,
         51
       ],
-      "analysis": []
+      "silencePeriods": {
+        "timeHighline": [],
+        "analysis": []
+      },
+      "studentInactivePeriods": {
+        "timeHighline": [
+          {
+            "min": 2,
+            "max": 4
+          },
+          {
+            "min": 14,
+            "max": 16
+          },
+          {
+            "min": 23,
+            "max": 25
+          },
+          {
+            "min": 27,
+            "max": 29
+          },
+          {
+            "min": 41,
+            "max": 43
+          },
+          {
+            "min": 57,
+            "max": 59
+          },
+          {
+            "min": 61,
+            "max": 63
+          },
+          {
+            "min": 80,
+            "max": 82
+          }
+        ],
+        "analysis": [
+          "2-4 min: Technical issue with audio equipment led to silence, disrupting communication between tutor and student.",
+          "14-16 min: The tutor asked the student to refresh the page, leading to a pause for action. \n\n(15 words)",
+          "23-25 min: The student's audio connection may have been lost, causing a period of silence.",
+          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
+          "41-43 min: The student needed time to process the information before responding to the tutor's question.",
+          "57-59 min: The tutor likely didn't hear the student clearly, leading to confusion and a pause.",
+          "61-63 min: The tutor likely didn't understand the student's question, leading to a moment of confusion.",
+          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+        ]
+      }
     }
   },
   "tutorPerformance": {

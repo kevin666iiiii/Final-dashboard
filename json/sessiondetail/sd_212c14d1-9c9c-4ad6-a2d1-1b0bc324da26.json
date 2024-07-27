@@ -7,16 +7,16 @@
   "riskyAreas": [],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on reviewing a test review assignment covering various math topics such as simplifying radicals, identifying perfect cubes, and understanding negative exponents. The tutor effectively addressed the student's expectations by providing step-by-step explanations and guidance on approaching different math problems.",
-    "desiredOutcome": "Based on the transcript, the student's expectation for the session is to review and work on a test review assignment. The student mentions that the assignment includes problems from numbers two through 70, focusing on even numbers. The student also seeks clarification on how to approach specific math problems, such as calculating square roots and cubic roots. Additionally, the student asks about using perfect cubes in calculations. The student seems to be looking for guidance and clarification on math concepts to help them understand and solve the problems on the test review assignment.\n\nThe tutor addresses the student's expectations by going through the math problems step by step, explaining concepts such as calculating square roots, using perfect cubes, and understanding how to approach different types of radical expressions. The tutor also provides guidance on how to handle specific problems from the test review assignment, ensuring that the student gains a better understanding of the material. Overall, the tutor effectively addresses the student's expectations for the session by providing clear explanations and guidance on the math concepts covered in the assignment.",
+    "desiredOutcome": "Based on the transcript, the student's expectation for the session is to review and work on a test review assignment. The student mentions that the assignment includes problems from numbers two through 70, focusing on even numbers. The student also seeks clarification on how to approach specific math problems, such as calculating square roots and cubic roots. Additionally, the student asks about using perfect cubes in calculations. The student seems to be looking for guidance and clarification on math concepts to help them understand and solve the problems on the test review assignment.\r\n\r\nThe tutor addresses the student's expectations by going through the math problems step by step, explaining concepts such as calculating square roots, using perfect cubes, and understanding how to approach different types of radical expressions. The tutor also provides guidance on how to handle specific problems from the test review assignment, ensuring that the student gains a better understanding of the material. Overall, the tutor effectively addresses the student's expectations for the session by providing clear explanations and guidance on the math concepts covered in the assignment.",
     "activities": [
-      "Graphing functions and determining domain and range",
       "Simplifying radicals with large numbers",
-      "Simplifying radicals with negative numbers and decimals",
-      "Understanding negative exponents and real numbers",
-      "Identifying perfect cubes and simplifying radicals",
       "Simplifying radicals with perfect cubes",
+      "Understanding negative exponents and real numbers",
       "Simplifying radicals with perfect squares",
-      "Simplifying radicals with negative numbers"
+      "Simplifying radicals with negative numbers",
+      "Identifying perfect cubes and simplifying radicals",
+      "Simplifying radicals with negative numbers and decimals",
+      "Graphing functions and determining domain and range"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -214,7 +214,56 @@
         61,
         62
       ],
-      "analysis": []
+      "silencePeriods": {
+        "timeHighline": [],
+        "analysis": []
+      },
+      "studentInactivePeriods": {
+        "timeHighline": [
+          {
+            "min": 2,
+            "max": 4
+          },
+          {
+            "min": 14,
+            "max": 16
+          },
+          {
+            "min": 23,
+            "max": 25
+          },
+          {
+            "min": 27,
+            "max": 29
+          },
+          {
+            "min": 41,
+            "max": 43
+          },
+          {
+            "min": 57,
+            "max": 59
+          },
+          {
+            "min": 61,
+            "max": 63
+          },
+          {
+            "min": 80,
+            "max": 82
+          }
+        ],
+        "analysis": [
+          "2-4 min: Technical issue with audio equipment led to silence, requiring troubleshooting and adjustment for communication.",
+          "14-16 min: The tutor asked the student to refresh the page, causing a pause for technical troubleshooting. \n\nParaphrased: Technical issue prompted silence for troubleshooting.",
+          "23-25 min: The student's audio connection may have been lost, causing a period of silence.",
+          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
+          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
+          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) Miscommunication or lack of clarity from the student resulted in confusion and a pause.",
+          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence.",
+          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+        ]
+      }
     }
   },
   "tutorPerformance": {

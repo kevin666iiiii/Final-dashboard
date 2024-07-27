@@ -13,14 +13,14 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including composition of functions, inverse functions, one-to-one functions, logarithmic functions, graphing logarithmic functions, identifying parent functions and transformations, finding domain and range of functions, matching equations with graphs, and finding values for exponential functions to intersect logarithmic functions. The student's expectations were met as they reviewed and gained a better understanding of graphing logarithmic functions, specifically focusing on graphing log base three of negative x without a calculator, clarified the effects of transformations on the graph, and matched equations with their graphs. Throughout the session, there were no periods of low interaction between the tutor and student.",
     "desiredOutcome": "The student's expectations for the session are to review and gain a better understanding of graphing logarithmic functions, specifically focusing on graphing log base three of negative x without a calculator. The student also seeks clarification on the effects of transformations on the graph and wants to match equations with their graphs. These expectations are addressed and resolved during the session as the tutor provides guidance on graphing the logarithmic function, explains the impact of transformations, and assists in matching equations with their graphs.",
     "activities": [
-      "Finding domain and range of functions",
-      "Composition of functions",
-      "Finding values for exponential functions to intersect logarithmic functions",
-      "Graphing logarithmic functions",
-      "Matching equations with graphs",
-      "Logarithmic functions",
       "Inverse functions",
       "One-to-one functions",
+      "Finding values for exponential functions to intersect logarithmic functions",
+      "Logarithmic functions",
+      "Graphing logarithmic functions",
+      "Composition of functions",
+      "Matching equations with graphs",
+      "Finding domain and range of functions",
       "Identifying parent functions and transformations"
     ],
     "interactionTrend": {
@@ -210,7 +210,56 @@
         58,
         59
       ],
-      "analysis": []
+      "silencePeriods": {
+        "timeHighline": [],
+        "analysis": []
+      },
+      "studentInactivePeriods": {
+        "timeHighline": [
+          {
+            "min": 2,
+            "max": 4
+          },
+          {
+            "min": 14,
+            "max": 16
+          },
+          {
+            "min": 23,
+            "max": 25
+          },
+          {
+            "min": 27,
+            "max": 29
+          },
+          {
+            "min": 41,
+            "max": 43
+          },
+          {
+            "min": 57,
+            "max": 59
+          },
+          {
+            "min": 61,
+            "max": 63
+          },
+          {
+            "min": 80,
+            "max": 82
+          }
+        ],
+        "analysis": [
+          "2-4 min: The tutor and student had a period of silence due to technical difficulties with audio.",
+          "14-16 min: The tutor and student had a period of silence to allow the page to refresh.",
+          "23-25 min: The student's internet connection was unstable, causing a temporary loss of audio communication.",
+          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
+          "41-43 min: The tutor and student needed time to reflect on the information discussed before continuing.",
+          "57-59 min: The tutor likely didn't understand the student's question, leading to a moment of confusion.",
+          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) The tutor's confusion about the student's statement led to a period of silence.",
+          "80-82 min: The student expressed uncertainty or needed time to process information, leading to silence."
+        ]
+      }
     }
   },
   "tutorPerformance": {

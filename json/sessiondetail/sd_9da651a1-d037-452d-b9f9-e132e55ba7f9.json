@@ -11,7 +11,7 @@
   ],
   "sessionGeneral": {
     "aiSummary": "In the one-on-one tutoring session, the tutor and student extensively discussed physics concepts related to forces and circular motion, meeting the student's expectations. The tutor also engaged in casual conversation and assisted with the worksheet and test corrections. There was a brief pause in interaction when the student was searching for a pencil.",
-    "desiredOutcome": "Based on the transcript, the student's expectations for the session seem to be focused on discussing personal experiences, sharing anecdotes, and engaging in casual conversation with the tutor. The student also mentions having a worksheet to work on and test corrections to review. The student seems to be seeking help with understanding physics concepts related to forces and circular motion. The student is looking for clarification on how different forces act on an object in circular motion and how to identify and differentiate these forces. The student is also open to discussing and sharing personal interests such as cartoons and experiences with siblings. \n\nThe tutor addresses the student's expectations by engaging in casual conversation, discussing personal experiences, and helping the student with the physics concepts related to forces and circular motion. The tutor also offers assistance with the worksheet and test corrections, indicating that the student's expectations for the session are being met.",
+    "desiredOutcome": "Based on the transcript, the student's expectations for the session seem to be focused on discussing personal experiences, sharing anecdotes, and engaging in casual conversation with the tutor. The student also mentions having a worksheet to work on and test corrections to review. The student seems to be seeking help with understanding physics concepts related to forces and circular motion. The student is looking for clarification on how different forces act on an object in circular motion and how to identify and differentiate these forces. The student is also open to discussing and sharing personal interests such as cartoons and experiences with siblings. \r\n\r\nThe tutor addresses the student's expectations by engaging in casual conversation, discussing personal experiences, and helping the student with the physics concepts related to forces and circular motion. The tutor also offers assistance with the worksheet and test corrections, indicating that the student's expectations for the session are being met.",
     "activities": [
       "Circular motion and centripetal force"
     ],
@@ -214,9 +214,63 @@
         62,
         63
       ],
-      "analysis": [
-        "0-2 min: The student was likely searching for a pencil, leading to a momentary pause in conversation."
-      ]
+      "silencePeriods": {
+        "timeHighline": [
+          {
+            "min": 0,
+            "max": 2
+          }
+        ],
+        "analysis": [
+          "0-2 min: The student was likely searching for a pencil, leading to a momentary pause in conversation."
+        ]
+      },
+      "studentInactivePeriods": {
+        "timeHighline": [
+          {
+            "min": 2,
+            "max": 4
+          },
+          {
+            "min": 14,
+            "max": 16
+          },
+          {
+            "min": 23,
+            "max": 25
+          },
+          {
+            "min": 27,
+            "max": 29
+          },
+          {
+            "min": 41,
+            "max": 43
+          },
+          {
+            "min": 57,
+            "max": 59
+          },
+          {
+            "min": 61,
+            "max": 63
+          },
+          {
+            "min": 80,
+            "max": 82
+          }
+        ],
+        "analysis": [
+          "2-4 min: Technical issue with audio equipment led to silence, requiring troubleshooting before continuing the session.",
+          "14-16 min: The tutor asked the student to refresh the page, leading to a pause for action. \n\n",
+          "23-25 min: The student's audio connection may have been lost, causing a period of silence.",
+          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
+          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
+          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words)",
+          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence.",
+          "80-82 min: The student expressed uncertainty or contemplation, leading to a moment of reflection or pause."
+        ]
+      }
     }
   },
   "tutorPerformance": {

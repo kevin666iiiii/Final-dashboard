@@ -13,15 +13,15 @@
     "aiSummary": "In the one-on-one tutoring session, the student's expectations were to learn about simplifying radicals, particularly square roots and cube roots, and to receive ACT exam preparation. The tutor addressed the ACT tutoring request and introduced the concept of simplifying radicals. Periods of low interaction occurred for reflection, processing, and independent thinking during the session.",
     "desiredOutcome": "The student's expectation for the session is to learn how to simplify radicals, specifically square roots and cube roots. They also express interest in receiving tutoring for the ACT exam in the future. The tutor addresses the student's request for ACT tutoring and assures them that they can find materials online. The student's expectation for learning about simplifying radicals is partially met as they are introduced to the concept and given examples to practice.",
     "activities": [
-      "ACT preparation",
-      "Planning for future tutoring sessions",
-      "Simplifying radicals",
-      "Multiplying square roots with numbers",
       "Combining square roots with multiplication",
-      "Simplifying square roots with variables",
+      "Simplifying radicals",
       "Identifying perfect squares for simplifying square roots",
+      "ACT preparation",
       "Adding and subtracting square roots",
-      "Perfect squares and simplifying square roots"
+      "Planning for future tutoring sessions",
+      "Perfect squares and simplifying square roots",
+      "Simplifying square roots with variables",
+      "Multiplying square roots with numbers"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -192,15 +192,93 @@
         52,
         53
       ],
-      "analysis": [
-        "10-12 min: The tutor and student had a period of silence to process and reflect on information.",
-        "22-24 min: The student was processing the instruction to simplify the problem before continuing the session.",
-        "28-30 min: The tutor and student had a period of silence to allow time for processing and thinking.",
-        "35-37 min: The tutor and student had a period of silence to allow the student to process information.",
-        "39-41 min: The tutor and student were likely calculating and processing the division of variables.",
-        "46-48 min: The tutor and student had a period of silence to allow the student to think independently.",
-        "49-51 min: The student was processing the problem and thinking through the solution silently."
-      ]
+      "silencePeriods": {
+        "timeHighline": [
+          {
+            "min": 10,
+            "max": 12
+          },
+          {
+            "min": 22,
+            "max": 24
+          },
+          {
+            "min": 28,
+            "max": 30
+          },
+          {
+            "min": 35,
+            "max": 37
+          },
+          {
+            "min": 39,
+            "max": 41
+          },
+          {
+            "min": 46,
+            "max": 48
+          },
+          {
+            "min": 49,
+            "max": 51
+          }
+        ],
+        "analysis": [
+          "10-12 min: The tutor and student had a period of silence to process and reflect on information.",
+          "22-24 min: The student was processing the instruction to simplify the problem before continuing the session.",
+          "28-30 min: The tutor and student had a period of silence to allow time for processing and thinking.",
+          "35-37 min: The tutor and student had a period of silence to allow the student to process information.",
+          "39-41 min: The tutor and student were likely calculating and processing the division of variables.",
+          "46-48 min: The tutor and student had a period of silence to allow the student to think independently.",
+          "49-51 min: The student was processing the problem and thinking through the solution silently."
+        ]
+      },
+      "studentInactivePeriods": {
+        "timeHighline": [
+          {
+            "min": 2,
+            "max": 4
+          },
+          {
+            "min": 14,
+            "max": 16
+          },
+          {
+            "min": 23,
+            "max": 25
+          },
+          {
+            "min": 27,
+            "max": 29
+          },
+          {
+            "min": 41,
+            "max": 43
+          },
+          {
+            "min": 57,
+            "max": 59
+          },
+          {
+            "min": 61,
+            "max": 63
+          },
+          {
+            "min": 80,
+            "max": 82
+          }
+        ],
+        "analysis": [
+          "2-4 min: Technical issue with audio equipment led to silence, requiring troubleshooting before continuing the session.",
+          "14-16 min: The tutor asked the student to refresh the page, causing a pause for technical troubleshooting. \n\nParaphrased: Technical issue prompted silence for troubleshooting.",
+          "23-25 min: The student's audio connection may have been lost, causing a period of silence.",
+          "27-29 min: The student attempted to reload, possibly encountering technical difficulties, leading to a pause.",
+          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
+          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) Miscommunication or lack of clarity from the student caused confusion and a moment of silence.",
+          "61-63 min: The tutor likely didn't hear the student clearly, leading to confusion and a pause.",
+          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+        ]
+      }
     }
   },
   "tutorPerformance": {

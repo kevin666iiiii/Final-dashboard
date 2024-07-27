@@ -11,9 +11,9 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on topics related to functions, including linear and quadratic functions, domain and range, and piecewise functions. The student's expectation was to review and understand a specific assignment, seeking clarification and corrections. There were low interaction periods due to the tutor waiting for the student's parent to discuss continuing the session the next day.",
     "desiredOutcome": "The student's expectation for the session seems to be to review and understand a specific assignment related to functions and inequalities. The student may be seeking clarification on concepts and corrections made by the teacher. The tutor is addressing these expectations by discussing the content of the assignment, explaining concepts such as linear and quadratic functions, and providing guidance on how to analyze graphs and functions. The tutor is also helping the student understand the difference between linear and quadratic functions and how to apply concepts like the vertical line test. Overall, the tutor is effectively addressing the student's expectations for the session by providing explanations and guidance on the assignment content.",
     "activities": [
-      "Functions - Piecewise Functions",
+      "Functions - Linear and Quadratic Functions",
       "Functions - Domain and Range",
-      "Functions - Linear and Quadratic Functions"
+      "Functions - Piecewise Functions"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -220,9 +220,63 @@
         64,
         65
       ],
-      "analysis": [
-        "62-64 min: The tutor was waiting for the student's parent to discuss continuing the session tomorrow."
-      ]
+      "silencePeriods": {
+        "timeHighline": [
+          {
+            "min": 62,
+            "max": 64
+          }
+        ],
+        "analysis": [
+          "62-64 min: The tutor was waiting for the student's parent to discuss continuing the session tomorrow."
+        ]
+      },
+      "studentInactivePeriods": {
+        "timeHighline": [
+          {
+            "min": 2,
+            "max": 4
+          },
+          {
+            "min": 14,
+            "max": 16
+          },
+          {
+            "min": 23,
+            "max": 25
+          },
+          {
+            "min": 27,
+            "max": 29
+          },
+          {
+            "min": 41,
+            "max": 43
+          },
+          {
+            "min": 57,
+            "max": 59
+          },
+          {
+            "min": 61,
+            "max": 63
+          },
+          {
+            "min": 80,
+            "max": 82
+          }
+        ],
+        "analysis": [
+          "2-4 min: Technical issue with audio equipment led to silence, requiring troubleshooting before continuing the session.",
+          "14-16 min: The tutor asked the student to refresh the page, leading to a pause for action. \n\n",
+          "23-25 min: The student's audio connection may have been lost, causing a period of silence.",
+          "27-29 min: The student attempted to reload, causing a pause as they waited for results.",
+          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
+          "57-59 min: The tutor likely didn't hear the student clearly, leading to a moment of confusion.",
+          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence.",
+          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+        ]
+      }
     }
   },
   "tutorPerformance": {

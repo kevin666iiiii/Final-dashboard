@@ -14,15 +14,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including factoring quadratic equations, imaginary numbers, and solving quadratic equations. The student's expectation to review factoring and address common mistakes was met. There were periods of low interaction due to technical difficulties with the audio connection.",
     "desiredOutcome": "The student's expectation for the session is to review factoring, specifically addressing common mistakes made during factoring problems. This expectation is addressed and corrected by the tutor.",
     "activities": [
-      "Solving quadratic equations by factoring",
-      "Review practice for complex numbers",
       "Simplifying radicals",
-      "Quadratic formula and quadratics circuit",
-      "Solving quadratics by tables and graphs",
       "Solving quadratic equations using the quadratic formula",
-      "Factoring quadratic equations",
+      "Solving quadratics by tables and graphs",
       "Imaginary numbers and operations",
-      "Difference between squared and doubled numbers"
+      "Quadratic formula and quadratics circuit",
+      "Review practice for complex numbers",
+      "Difference between squared and doubled numbers",
+      "Factoring quadratic equations",
+      "Solving quadratic equations by factoring"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -238,9 +238,63 @@
         67,
         68
       ],
-      "analysis": [
-        "0-1 min: Technical difficulties with audio connection caused a period of silence between the tutor and student."
-      ]
+      "silencePeriods": {
+        "timeHighline": [
+          {
+            "min": 0,
+            "max": 1
+          }
+        ],
+        "analysis": [
+          "0-1 min: Technical difficulties with audio connection caused a period of silence between the tutor and student."
+        ]
+      },
+      "studentInactivePeriods": {
+        "timeHighline": [
+          {
+            "min": 2,
+            "max": 4
+          },
+          {
+            "min": 14,
+            "max": 16
+          },
+          {
+            "min": 23,
+            "max": 25
+          },
+          {
+            "min": 27,
+            "max": 29
+          },
+          {
+            "min": 41,
+            "max": 43
+          },
+          {
+            "min": 57,
+            "max": 59
+          },
+          {
+            "min": 61,
+            "max": 63
+          },
+          {
+            "min": 80,
+            "max": 82
+          }
+        ],
+        "analysis": [
+          "2-4 min: Technical issue with audio equipment led to silence, requiring troubleshooting before continuing the session.",
+          "14-16 min: The tutor and student had a period of silence to allow the student to refresh.",
+          "23-25 min: The student's audio connection was unstable, causing a temporary loss of communication between them.",
+          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
+          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
+          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) The tutor's confusion about the student's statement led to a period of silence.",
+          "61-63 min: The tutor likely didn't understand the student's question, leading to a moment of confusion.",
+          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+        ]
+      }
     }
   },
   "tutorPerformance": {

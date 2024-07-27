@@ -12,15 +12,15 @@
     "aiSummary": "During the one-on-one tutoring session, the tutor and student delved into various math topics including the vertex form of a parabola, vertical angles, systems of equations, and quadratic equations. The student's expectation was to review SAT math problems and strategies, focusing on no calculator questions and improving problem-solving efficiency. The tutor addressed these expectations by guiding the student through practice problems, providing shortcuts for quicker solutions, and encouraging a more streamlined approach to problem-solving.",
     "desiredOutcome": "Student's expectation for the session was to review SAT math problems and strategies. The student wanted to focus on no calculator questions and improve efficiency in problem-solving. These expectations were addressed as the tutor guided the student through practice problems, provided shortcuts for quicker solutions, and encouraged a more streamlined approach to problem-solving.",
     "activities": [
-      "Applying the concept of symmetry to determine the x-coordinate of the vertex",
-      "Applying the concept of symmetry and x-intercepts to find the vertex of a parabola",
-      "Determining the distance between x-intercepts and relating it to the vertex of a parabola",
+      "Using symmetry to find the vertex of a parabola",
       "Identifying the relationship between zeros and x-intercepts in a quadratic equation",
       "Calculating the y-coordinate of the vertex using the x-coordinate and the given equation",
-      "Using symmetry to find the vertex of a parabola",
+      "Applying the concept of symmetry to determine the x-coordinate of the vertex",
       "Understanding vertical angles and their properties",
-      "Vertex form of a parabola and finding the vertex",
-      "Solving systems of equations to find parallel lines"
+      "Solving systems of equations to find parallel lines",
+      "Determining the distance between x-intercepts and relating it to the vertex of a parabola",
+      "Applying the concept of symmetry and x-intercepts to find the vertex of a parabola",
+      "Vertex form of a parabola and finding the vertex"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -209,7 +209,56 @@
         58,
         59
       ],
-      "analysis": []
+      "silencePeriods": {
+        "timeHighline": [],
+        "analysis": []
+      },
+      "studentInactivePeriods": {
+        "timeHighline": [
+          {
+            "min": 2,
+            "max": 4
+          },
+          {
+            "min": 14,
+            "max": 16
+          },
+          {
+            "min": 23,
+            "max": 25
+          },
+          {
+            "min": 27,
+            "max": 29
+          },
+          {
+            "min": 41,
+            "max": 43
+          },
+          {
+            "min": 57,
+            "max": 59
+          },
+          {
+            "min": 61,
+            "max": 63
+          },
+          {
+            "min": 80,
+            "max": 82
+          }
+        ],
+        "analysis": [
+          "2-4 min: Technical issue with audio equipment led to silence, disrupting communication between tutor and student.",
+          "14-16 min: The tutor and student had a period of silence to allow the page to refresh.",
+          "23-25 min: The student's audio connection was unstable, causing a momentary loss of communication between them.",
+          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
+          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
+          "57-59 min: The tutor likely didn't understand the student's question, leading to a moment of confusion.",
+          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\nOutput: Miscommunication led to confusion, prompting a moment of silence between the tutor and student.",
+          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+        ]
+      }
     }
   },
   "tutorPerformance": {

@@ -12,15 +12,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed topics such as parabolas, graphing curves, domain and range of functions, infinity in mathematics, space exploration, stars, and emotional themes in media. The student sought help with a math project on parabolas, expressing confusion about the requirements and seeking guidance, while the tutor provided clarification, brainstormed ideas, and offered assistance despite limited access to necessary resources.",
     "desiredOutcome": "The student's expectation for the session is to get help with understanding and completing a math project related to parabolas that they were assigned in class. They express confusion about the project requirements and seek guidance on how to approach it. The tutor attempts to clarify the task, brainstorm ideas for real-world examples of parabolic curves, and offers assistance in creating the project. The student also mentions that they have a specific image in mind for the project but are unable to share it due to restrictions on their school computer. The tutor tries to help the student visualize and work through the project despite not having access to the image. Overall, the student's expectation for the session is to receive guidance and support in completing the math project on parabolas. The tutor addresses these expectations by discussing possible ideas, offering suggestions, and trying to assist the student in understanding and completing the assignment.",
     "activities": [
-      "Graphing parabolic curves and determining key points",
-      "Discussing the James Webb telescope and space exploration",
-      "Discussing emotional themes in media and TV shows",
-      "Learning about stars, supernovas, and celestial bodies",
-      "Understanding domain and range of functions",
       "Identifying dimensions and features of parabolic curves",
+      "Discussing emotional themes in media and TV shows",
+      "Discussing the James Webb telescope and space exploration",
+      "Exploring the concept of infinity in mathematics",
+      "Learning about stars, supernovas, and celestial bodies",
       "Parabolas and real-world applications",
       "Exploring nebulae and stardust in space",
-      "Exploring the concept of infinity in mathematics"
+      "Graphing parabolic curves and determining key points",
+      "Understanding domain and range of functions"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -194,7 +194,56 @@
         53,
         54
       ],
-      "analysis": []
+      "silencePeriods": {
+        "timeHighline": [],
+        "analysis": []
+      },
+      "studentInactivePeriods": {
+        "timeHighline": [
+          {
+            "min": 2,
+            "max": 4
+          },
+          {
+            "min": 14,
+            "max": 16
+          },
+          {
+            "min": 23,
+            "max": 25
+          },
+          {
+            "min": 27,
+            "max": 29
+          },
+          {
+            "min": 41,
+            "max": 43
+          },
+          {
+            "min": 57,
+            "max": 59
+          },
+          {
+            "min": 61,
+            "max": 63
+          },
+          {
+            "min": 80,
+            "max": 82
+          }
+        ],
+        "analysis": [
+          "2-4 min: Technical issue with audio equipment led to silence, requiring troubleshooting before continuing the session.",
+          "14-16 min: The tutor asked the student to refresh the page, causing a pause for technical issues. \n\nOutput: Technical issue prompted silence during session, as student refreshed page as instructed.",
+          "23-25 min: The student's audio connection was unstable, causing a momentary loss of communication between them.",
+          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
+          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
+          "57-59 min: The tutor likely didn't understand the student's question, leading to a moment of confusion.",
+          "61-63 min: Confusion arose due to the tutor's unexpected response, leading to a moment of silence.",
+          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+        ]
+      }
     }
   },
   "tutorPerformance": {

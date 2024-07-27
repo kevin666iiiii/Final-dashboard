@@ -202,13 +202,83 @@
         58,
         59
       ],
-      "analysis": [
-        "14-16 min: Both tutor and student were processing the student's response and thinking about the next steps.",
-        "22-24 min: The student struggled to understand the exponent rules, leading to a moment of confusion.",
-        "42-44 min: The tutor was searching for practice problems, leading to a brief pause in conversation.",
-        "52-56 min: The tutor and student had a period of silence to allow time for reflection and processing.",
-        "56-58 min: The tutor and student had a period of silence to process and clarify the math concept."
-      ]
+      "silencePeriods": {
+        "timeHighline": [
+          {
+            "min": 14,
+            "max": 16
+          },
+          {
+            "min": 22,
+            "max": 24
+          },
+          {
+            "min": 42,
+            "max": 44
+          },
+          {
+            "min": 52,
+            "max": 56
+          },
+          {
+            "min": 56,
+            "max": 58
+          }
+        ],
+        "analysis": [
+          "14-16 min: Both tutor and student were processing the student's response and thinking about the next steps.",
+          "22-24 min: The student struggled to understand the exponent rules, leading to a moment of confusion.",
+          "42-44 min: The tutor was searching for practice problems, leading to a brief pause in conversation.",
+          "52-56 min: The tutor and student had a period of silence to allow time for reflection and processing.",
+          "56-58 min: The tutor and student had a period of silence to process and clarify the math concept."
+        ]
+      },
+      "studentInactivePeriods": {
+        "timeHighline": [
+          {
+            "min": 2,
+            "max": 4
+          },
+          {
+            "min": 14,
+            "max": 16
+          },
+          {
+            "min": 23,
+            "max": 25
+          },
+          {
+            "min": 27,
+            "max": 29
+          },
+          {
+            "min": 41,
+            "max": 43
+          },
+          {
+            "min": 57,
+            "max": 59
+          },
+          {
+            "min": 61,
+            "max": 63
+          },
+          {
+            "min": 80,
+            "max": 82
+          }
+        ],
+        "analysis": [
+          "2-4 min: Technical issue with audio equipment led to silence, disrupting communication between tutor and student.",
+          "14-16 min: The tutor asked the student to refresh the page, leading to a momentary pause. \n\nOutput: Tutor requested page refresh, causing temporary silence for technical adjustment.",
+          "23-25 min: The student's audio connection may have been lost, causing a period of silence.",
+          "27-29 min: The student attempted to reload, causing a pause as they waited for results.",
+          "41-43 min: The student needed time to process the information before responding to the tutor's question.",
+          "57-59 min: Confusion arose due to the tutor's unexpected response, leading to a moment of silence.",
+          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) The tutor's confusion over the student's statement led to a period of silence.",
+          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+        ]
+      }
     }
   },
   "tutorPerformance": {

@@ -14,15 +14,15 @@
     "aiSummary": "During the one-on-one tutoring session, the tutor and student engaged in casual conversation, discussed school-related topics, planned for the weekend, and worked on creating and completing multiplication charts. The student's expectation to focus on math charts was met, with periods of low interaction for independent work and focused concentration on tasks.",
     "desiredOutcome": "The student's expectation for the session is to work on math charts related to multiplication, specifically creating their own times tables. This expectation is addressed by the tutor as they agree to work on math charts and begin setting up a grid to fill in numbers and corresponding answers for multiplication.",
     "activities": [
-      "Encouraging and praising the student's progress",
-      "Completing multiplication charts for numbers 1-18",
+      "Creating multiplication charts for numbers 1-12",
+      "Planning for the upcoming weekend",
       "Wrapping up the tutoring session",
       "Ending the session and scheduling the next meeting",
-      "Creating multiplication charts for numbers 1-12",
+      "Encouraging and praising the student's progress",
       "Casual conversation and small talk",
-      "Planning for the upcoming weekend",
       "Discussing school and feelings about school",
-      "Providing positive feedback and motivation to the student"
+      "Providing positive feedback and motivation to the student",
+      "Completing multiplication charts for numbers 1-18"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -196,13 +196,83 @@
         53,
         54
       ],
-      "analysis": [
-        "10-16 min: The tutor and student had a period of silence to allow the student to work independently.",
-        "16-19 min: Both the tutor and student were focused on the task, leading to a brief silence.",
-        "21-23 min: The student needed time to complete the task before providing the answer to the tutor.",
-        "24-29 min: The tutor and student had a period of silence to allow time for individual calculations.",
-        "32-53 min: The student was concentrating on completing the task, leading to a period of focused silence."
-      ]
+      "silencePeriods": {
+        "timeHighline": [
+          {
+            "min": 10,
+            "max": 16
+          },
+          {
+            "min": 16,
+            "max": 19
+          },
+          {
+            "min": 21,
+            "max": 23
+          },
+          {
+            "min": 24,
+            "max": 29
+          },
+          {
+            "min": 32,
+            "max": 53
+          }
+        ],
+        "analysis": [
+          "10-16 min: The tutor and student had a period of silence to allow the student to work independently.",
+          "16-19 min: Both the tutor and student were focused on the task, leading to a brief silence.",
+          "21-23 min: The student needed time to complete the task before providing the answer to the tutor.",
+          "24-29 min: The tutor and student had a period of silence to allow time for individual calculations.",
+          "32-53 min: The student was concentrating on completing the task, leading to a period of focused silence."
+        ]
+      },
+      "studentInactivePeriods": {
+        "timeHighline": [
+          {
+            "min": 2,
+            "max": 4
+          },
+          {
+            "min": 14,
+            "max": 16
+          },
+          {
+            "min": 23,
+            "max": 25
+          },
+          {
+            "min": 27,
+            "max": 29
+          },
+          {
+            "min": 41,
+            "max": 43
+          },
+          {
+            "min": 57,
+            "max": 59
+          },
+          {
+            "min": 61,
+            "max": 63
+          },
+          {
+            "min": 80,
+            "max": 82
+          }
+        ],
+        "analysis": [
+          "2-4 min: Technical issue with audio equipment led to silence, disrupting communication between tutor and student.",
+          "14-16 min: The tutor asked the student to refresh the page, causing a pause for technical adjustments. \n\nParaphrased: Technical pause for page refresh led to silence during session.",
+          "23-25 min: The student's audio connection may have been lost, causing a period of silence.",
+          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
+          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
+          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) Miscommunication or lack of clarity from the student caused confusion and a moment of silence.",
+          "61-63 min: The tutor likely didn't understand the student's question, leading to a moment of confusion.",
+          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+        ]
+      }
     }
   },
   "tutorPerformance": {

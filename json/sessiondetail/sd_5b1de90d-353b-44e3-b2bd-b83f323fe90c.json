@@ -14,15 +14,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including functions, exponential growth and decay, graphing, piecewise functions, function comprehension, function composition, and test preparation. The student sought help with understanding functions, particularly finding f of x values, and the tutor provided step-by-step guidance. Throughout the session, there were periods of low interaction where the student needed time to process questions, calculate answers independently, or reflect on information, leading to moments of silence for individual processing.",
     "desiredOutcome": "The student seems unsure about functions and expects help with finding f of x values. The tutor provides step-by-step guidance, meeting the student's expectations.",
     "activities": [
-      "Function Composition - Applying function composition to given functions",
-      "Functions - Applying function composition f(g(x))",
-      "Test Preparation - Reviewing concepts for an upcoming test",
-      "Exponential Growth and Decay - Understanding exponential functions",
-      "Graphing - Understanding how to graph basic functions like y=x, y=x^2, etc.",
       "Functions - Finding f(x), f(x+1), f(-x)",
-      "Functions - Graphing basic functions and understanding piecewise functions",
+      "Functions - Applying function composition f(g(x))",
+      "Exponential Growth and Decay - Understanding exponential functions",
+      "Piecewise Functions - Applying piecewise functions to specific values",
       "Function Comprehension - Understanding and applying functions to given values",
-      "Piecewise Functions - Applying piecewise functions to specific values"
+      "Test Preparation - Reviewing concepts for an upcoming test",
+      "Function Composition - Applying function composition to given functions",
+      "Functions - Graphing basic functions and understanding piecewise functions",
+      "Graphing - Understanding how to graph basic functions like y=x, y=x^2, etc."
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -214,13 +214,83 @@
         59,
         60
       ],
-      "analysis": [
-        "14-16 min: The student needed time to process the question and calculate the answer independently.",
-        "28-31 min: The student struggled with the next problem, leading to a moment of uncertainty and silence.",
-        "31-34 min: The tutor and student had a period of silence to allow time for individual reflection.",
-        "39-41 min: The tutor and student had a period of silence to allow the student to process information.",
-        "55-57 min: The tutor and student had a period of silence to allow time for processing information."
-      ]
+      "silencePeriods": {
+        "timeHighline": [
+          {
+            "min": 14,
+            "max": 16
+          },
+          {
+            "min": 28,
+            "max": 31
+          },
+          {
+            "min": 31,
+            "max": 34
+          },
+          {
+            "min": 39,
+            "max": 41
+          },
+          {
+            "min": 55,
+            "max": 57
+          }
+        ],
+        "analysis": [
+          "14-16 min: The student needed time to process the question and calculate the answer independently.",
+          "28-31 min: The student struggled with the next problem, leading to a moment of uncertainty and silence.",
+          "31-34 min: The tutor and student had a period of silence to allow time for individual reflection.",
+          "39-41 min: The tutor and student had a period of silence to allow the student to process information.",
+          "55-57 min: The tutor and student had a period of silence to allow time for processing information."
+        ]
+      },
+      "studentInactivePeriods": {
+        "timeHighline": [
+          {
+            "min": 2,
+            "max": 4
+          },
+          {
+            "min": 14,
+            "max": 16
+          },
+          {
+            "min": 23,
+            "max": 25
+          },
+          {
+            "min": 27,
+            "max": 29
+          },
+          {
+            "min": 41,
+            "max": 43
+          },
+          {
+            "min": 57,
+            "max": 59
+          },
+          {
+            "min": 61,
+            "max": 63
+          },
+          {
+            "min": 80,
+            "max": 82
+          }
+        ],
+        "analysis": [
+          "2-4 min: Technical issue with audio equipment led to silence, requiring troubleshooting before continuing the session.",
+          "14-16 min: The tutor asked the student to refresh the page, leading to a momentary pause. \n\nOutput: Tutor requested page refresh, causing temporary silence in the session.",
+          "23-25 min: The student's audio connection may have been lost, causing a period of silence.",
+          "27-29 min: The student attempted to reload, causing a pause as they waited for results.",
+          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
+          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence.",
+          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) The tutor's confusion about the student's statement led to a period of silence.",
+          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+        ]
+      }
     }
   },
   "tutorPerformance": {

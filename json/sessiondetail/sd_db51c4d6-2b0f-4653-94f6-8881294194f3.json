@@ -13,8 +13,8 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on quadratic equations, word problems, systems of equations, and time management. The student aimed to enhance math understanding, reduce errors, and gain confidence before tests. Despite some periods of low interaction for various reasons, the tutor addressed the student's concerns and provided guidance on the topics discussed.",
     "desiredOutcome": "The student's expectation for the session is to improve their understanding and performance in math, specifically focusing on reducing careless errors and becoming more comfortable with the concepts before tests. They also express a need for practice and assistance with nonlinear systems and specific math formulas. The tutor addresses the student's concerns and provides explanations and guidance on the topics discussed. The student's expectations for the session are partially met as they receive clarification on the formula they were confused about and start working on practice problems related to their current math topics.",
     "activities": [
-      "Quadratic Equations and Word Problems",
       "Scheduling and Time Management",
+      "Quadratic Equations and Word Problems",
       "Systems of Equations"
     ],
     "interactionTrend": {
@@ -282,17 +282,103 @@
         84,
         85
       ],
-      "analysis": [
-        "25-28 min: The student needed time to gather their thoughts and formulate a response to the question.",
-        "34-36 min: The student needed a moment to collect their thoughts and process the tutor's explanation.",
-        "41-43 min: The silence occurred due to the student's uncertainty and struggle with mathematical calculations and concepts.",
-        "47-55 min: The student struggled to articulate their thoughts, leading to a pause for clarity.",
-        "61-63 min: The tutor and student were processing the calculation and verifying the accuracy of their answer.",
-        "69-73 min: The tutor and student had a period of silence to process and reflect on the discrepancy.",
-        "73-76 min: The tutor and student were likely processing information or thinking about the next steps silently.",
-        "76-78 min: The tutor and student were silent to allow the student to reevaluate their calculation mistake.",
-        "80-83 min: The tutor had to end the session abruptly, shifting the focus away from the topic."
-      ]
+      "silencePeriods": {
+        "timeHighline": [
+          {
+            "min": 25,
+            "max": 28
+          },
+          {
+            "min": 34,
+            "max": 36
+          },
+          {
+            "min": 41,
+            "max": 43
+          },
+          {
+            "min": 47,
+            "max": 55
+          },
+          {
+            "min": 61,
+            "max": 63
+          },
+          {
+            "min": 69,
+            "max": 73
+          },
+          {
+            "min": 73,
+            "max": 76
+          },
+          {
+            "min": 76,
+            "max": 78
+          },
+          {
+            "min": 80,
+            "max": 83
+          }
+        ],
+        "analysis": [
+          "25-28 min: The student needed time to gather their thoughts and formulate a response to the question.",
+          "34-36 min: The student needed a moment to collect their thoughts and process the tutor's explanation.",
+          "41-43 min: The silence occurred due to the student's uncertainty and struggle with mathematical calculations and concepts.",
+          "47-55 min: The student struggled to articulate their thoughts, leading to a pause for clarity.",
+          "61-63 min: The tutor and student were processing the calculation and verifying the accuracy of their answer.",
+          "69-73 min: The tutor and student had a period of silence to process and reflect on the discrepancy.",
+          "73-76 min: The tutor and student were likely processing information or thinking about the next steps silently.",
+          "76-78 min: The tutor and student were silent to allow the student to reevaluate their calculation mistake.",
+          "80-83 min: The tutor had to end the session abruptly, shifting the focus away from the topic."
+        ]
+      },
+      "studentInactivePeriods": {
+        "timeHighline": [
+          {
+            "min": 2,
+            "max": 4
+          },
+          {
+            "min": 14,
+            "max": 16
+          },
+          {
+            "min": 23,
+            "max": 25
+          },
+          {
+            "min": 27,
+            "max": 29
+          },
+          {
+            "min": 41,
+            "max": 43
+          },
+          {
+            "min": 57,
+            "max": 59
+          },
+          {
+            "min": 61,
+            "max": 63
+          },
+          {
+            "min": 80,
+            "max": 82
+          }
+        ],
+        "analysis": [
+          "2-4 min: Technical issue with audio equipment led to silence as student couldn't hear tutor's instructions.",
+          "14-16 min: The tutor and student had a period of silence to allow the student to process information.",
+          "23-25 min: The student's internet connection was unstable, causing a disruption in communication during the session.",
+          "27-29 min: The student attempted to reload, causing a pause as they waited for results.",
+          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
+          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence.",
+          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) Miscommunication or lack of clarity from the student caused confusion and a moment of silence.",
+          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+        ]
+      }
     }
   },
   "tutorPerformance": {

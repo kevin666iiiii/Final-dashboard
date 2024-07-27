@@ -14,15 +14,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including compound interest formulas, rounding, and decimal conversions. The student's expectation to review and practice compound interest calculations was met as they actively engaged in a practice problem. Periods of low interaction occurred when the student may have been processing information or waiting for the tutor to continue speaking.",
     "desiredOutcome": "The student's expectation for the session seems to be to review and practice compound interest formulas and calculations. The student also mentions that they are tired and may need a shorter session. The tutor provides a brief explanation of the compound interest formula and guides the student through a practice problem. The student seems engaged and willing to participate in the calculations. Overall, the student's expectation for the session appears to be met as they are actively working on the practice problem with the tutor's guidance.",
     "activities": [
-      "Compounding frequency (monthly, quarterly, annually)",
-      "Calculating compound interest",
-      "Using parentheses in calculations",
+      "Rounding to the nearest cent",
       "Correcting calculation errors",
       "Compound interest formula",
-      "Scheduling future tutoring sessions",
-      "Rounding to the nearest cent",
+      "Rounding to the nearest hundred",
+      "Using parentheses in calculations",
+      "Calculating compound interest",
       "Understanding decimal conversions",
-      "Rounding to the nearest hundred"
+      "Scheduling future tutoring sessions",
+      "Compounding frequency (monthly, quarterly, annually)"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -139,9 +139,63 @@
         34,
         35
       ],
-      "analysis": [
-        "0-5 min: The student may be processing information or waiting for the tutor to continue speaking."
-      ]
+      "silencePeriods": {
+        "timeHighline": [
+          {
+            "min": 0,
+            "max": 5
+          }
+        ],
+        "analysis": [
+          "0-5 min: The student may be processing information or waiting for the tutor to continue speaking."
+        ]
+      },
+      "studentInactivePeriods": {
+        "timeHighline": [
+          {
+            "min": 2,
+            "max": 4
+          },
+          {
+            "min": 14,
+            "max": 16
+          },
+          {
+            "min": 23,
+            "max": 25
+          },
+          {
+            "min": 27,
+            "max": 29
+          },
+          {
+            "min": 41,
+            "max": 43
+          },
+          {
+            "min": 57,
+            "max": 59
+          },
+          {
+            "min": 61,
+            "max": 63
+          },
+          {
+            "min": 80,
+            "max": 82
+          }
+        ],
+        "analysis": [
+          "2-4 min: The tutor and student had a period of silence due to technical difficulties with audio.",
+          "14-16 min: The tutor asked the student to refresh the page, leading to a pause for action. \n\n(15 words)",
+          "23-25 min: The student's audio connection may have been lost, causing a period of silence.",
+          "27-29 min: The student attempted to reload, causing a pause as they waited for results.",
+          "41-43 min: The student needed time to process the information before responding to the tutor's question.",
+          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence.",
+          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\nOutput: Miscommunication led to confusion, prompting a moment of silence between the tutor and student.",
+          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+        ]
+      }
     }
   },
   "tutorPerformance": {

@@ -11,15 +11,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed topics such as imaginary numbers, simplifying square roots, using the quadratic formula, and operations with complex numbers. The student's expectation was to review and understand these concepts. Throughout the session, there were periods of low interaction for reflection, silent problem-solving, and processing of concepts.",
     "desiredOutcome": "The student's expectation for the session is to review and understand complex numbers, including imaginary numbers and simplifying square roots. The tutor addresses the student's questions and confusions, helping them understand the concepts.",
     "activities": [
-      "Using the Quadratic Formula",
+      "Simplifying Powers of Imaginary Numbers",
+      "Dividing Complex Numbers",
+      "Multiplying Negative Square Roots",
+      "Scheduling Next Tutoring Session",
       "Imaginary Numbers and Simplifying Square Roots",
       "Adding and Subtracting Complex Numbers",
-      "Finalizing Next Tutoring Session Date",
-      "Scheduling Next Tutoring Session",
-      "Dividing Complex Numbers",
       "Multiplying Complex Numbers",
-      "Simplifying Powers of Imaginary Numbers",
-      "Multiplying Negative Square Roots"
+      "Using the Quadratic Formula",
+      "Finalizing Next Tutoring Session Date"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -202,13 +202,83 @@
         56,
         57
       ],
-      "analysis": [
-        "6-8 min: The tutor and student paused to allow time for the student to reflect and respond.",
-        "14-16 min: The tutor and student were silently recalling how to simplify the square root of 48.",
-        "21-23 min: The student needed time to work on the math problem silently before responding to tutor.",
-        "40-42 min: The student was working on the problem independently before the tutor provided further guidance.",
-        "52-54 min: The tutor and student had a period of silence to process and understand the concept."
-      ]
+      "silencePeriods": {
+        "timeHighline": [
+          {
+            "min": 6,
+            "max": 8
+          },
+          {
+            "min": 14,
+            "max": 16
+          },
+          {
+            "min": 21,
+            "max": 23
+          },
+          {
+            "min": 40,
+            "max": 42
+          },
+          {
+            "min": 52,
+            "max": 54
+          }
+        ],
+        "analysis": [
+          "6-8 min: The tutor and student paused to allow time for the student to reflect and respond.",
+          "14-16 min: The tutor and student were silently recalling how to simplify the square root of 48.",
+          "21-23 min: The student needed time to work on the math problem silently before responding to tutor.",
+          "40-42 min: The student was working on the problem independently before the tutor provided further guidance.",
+          "52-54 min: The tutor and student had a period of silence to process and understand the concept."
+        ]
+      },
+      "studentInactivePeriods": {
+        "timeHighline": [
+          {
+            "min": 2,
+            "max": 4
+          },
+          {
+            "min": 14,
+            "max": 16
+          },
+          {
+            "min": 23,
+            "max": 25
+          },
+          {
+            "min": 27,
+            "max": 29
+          },
+          {
+            "min": 41,
+            "max": 43
+          },
+          {
+            "min": 57,
+            "max": 59
+          },
+          {
+            "min": 61,
+            "max": 63
+          },
+          {
+            "min": 80,
+            "max": 82
+          }
+        ],
+        "analysis": [
+          "2-4 min: Technical issue with audio equipment led to silence, disrupting communication between tutor and student.",
+          "14-16 min: The tutor asked the student to refresh the page, leading to a momentary pause. \n\nParaphrased: The tutor's request for a page refresh caused a brief silence in the session.",
+          "23-25 min: The student's audio connection was unstable, causing a momentary loss of communication between them.",
+          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
+          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
+          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\nOutput: Miscommunication led to confusion, prompting a moment of silence between the tutor and student.",
+          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\nOutput: Miscommunication led to confusion, prompting a moment of silence between the tutor and student.",
+          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+        ]
+      }
     }
   },
   "tutorPerformance": {

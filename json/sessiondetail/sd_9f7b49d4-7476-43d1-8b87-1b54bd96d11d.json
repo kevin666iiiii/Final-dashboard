@@ -15,10 +15,10 @@
     "desiredOutcome": "The student's expectation for the session seems to be to work on a math problem related to finding the break-even point for a manufacturer. The student is looking for guidance on setting up and solving the equation to determine the break-even point. The tutor is providing step-by-step instructions and support to help the student understand and solve the problem. The student's expectation for the session appears to be met as they are actively engaged in the problem-solving process with the tutor's assistance.",
     "activities": [
       "Break-even point calculation for a manufacturer",
-      "Determining the minimum sales price for a manufacturer to break even",
+      "Calculating monthly profit for a business selling greeting cards",
       "Determining the company's rate of investment based on card production and sales",
-      "Calculating return on investment for a manufacturer",
-      "Calculating monthly profit for a business selling greeting cards"
+      "Determining the minimum sales price for a manufacturer to break even",
+      "Calculating return on investment for a manufacturer"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -191,50 +191,8 @@
         "analysis": []
       },
       "studentInactivePeriods": {
-        "timeHighline": [
-          {
-            "min": 2,
-            "max": 4
-          },
-          {
-            "min": 14,
-            "max": 16
-          },
-          {
-            "min": 23,
-            "max": 25
-          },
-          {
-            "min": 27,
-            "max": 29
-          },
-          {
-            "min": 41,
-            "max": 43
-          },
-          {
-            "min": 57,
-            "max": 59
-          },
-          {
-            "min": 61,
-            "max": 63
-          },
-          {
-            "min": 80,
-            "max": 82
-          }
-        ],
-        "analysis": [
-          "2-4 min: The tutor and student had a period of silence due to technical audio issues.",
-          "14-16 min: The tutor and student had a period of silence to allow the student to refresh.",
-          "23-25 min: The student's audio connection may have been lost, causing a period of silence.",
-          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
-          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
-          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\nOutput: Miscommunication led to confusion, prompting a moment of silence between the tutor and student.",
-          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n",
-          "80-82 min: The student expressed uncertainty or contemplation, leading to a moment of reflection or pause."
-        ]
+        "timeHighline": [],
+        "analysis": []
       }
     }
   },

@@ -12,15 +12,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed physics formulas related to acceleration, velocity, and displacement, as well as concepts like constant velocity and acceleration. The student's expectation to revise formulas and focus on free fall graphs was met. There were moments of low interaction as both processed information and formulated responses.",
     "desiredOutcome": "The student's expectation for the session is to revise physics formulas, specifically focusing on the equations related to constant acceleration and free fall graphs. The student wants to spend about five minutes going over the formulas before moving on to the topic of free fall graphs. The student also mentions that they usually go to the gym at 5:30, so they appreciate the tutor accommodating a different time for the session. The tutor addresses the student's request by reviewing the formulas and explaining the concepts related to constant acceleration and velocity as functions of time. The tutor also emphasizes the importance of understanding how these equations change over time. Overall, the student's expectations for revising formulas and discussing free fall graphs are met during the session.",
     "activities": [
-      "Understanding Constant Velocity and Acceleration",
-      "Application of Formulas in Graphing",
       "Graphing Velocity as a Function of Time",
       "Graphing Position/Displacement as a Function of Time",
-      "Interpreting Free Fall Graphs - Velocity and Position",
       "Physics Formulas - Acceleration, Velocity, Displacement",
-      "Comparing Graphs to Equations - Slope and Intercept",
+      "Understanding Constant Velocity and Acceleration",
       "Graphing Acceleration as a Function of Time",
-      "Understanding Rise over Run and Slope in Graphs"
+      "Understanding Rise over Run and Slope in Graphs",
+      "Comparing Graphs to Equations - Slope and Intercept",
+      "Interpreting Free Fall Graphs - Velocity and Position",
+      "Application of Formulas in Graphing"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -215,58 +215,23 @@
       "silencePeriods": {
         "timeHighline": [
           {
-            "min": 0,
-            "max": 8
+            "min": 1,
+            "max": 7
           }
         ],
         "analysis": [
-          "0-8 min: The silence occurred as both were processing information and formulating a response to continue."
+          "1-7 min: The student's brief response may have indicated confusion or lack of understanding on the topic. \n\nParaphrased: Student's response hinted at confusion, leading to a moment of silence for clarification."
         ]
       },
       "studentInactivePeriods": {
         "timeHighline": [
           {
-            "min": 2,
-            "max": 4
-          },
-          {
-            "min": 14,
-            "max": 16
-          },
-          {
-            "min": 23,
-            "max": 25
-          },
-          {
-            "min": 27,
-            "max": 29
-          },
-          {
-            "min": 41,
-            "max": 43
-          },
-          {
-            "min": 57,
-            "max": 59
-          },
-          {
-            "min": 61,
-            "max": 63
-          },
-          {
-            "min": 80,
-            "max": 82
+            "min": 1,
+            "max": 7
           }
         ],
         "analysis": [
-          "2-4 min: Technical issue with audio equipment led to silence, disrupting communication between tutor and student.",
-          "14-16 min: The tutor and student had a period of silence to allow the page to refresh.",
-          "23-25 min: The student's internet connection may have dropped, causing a temporary loss of communication.",
-          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
-          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
-          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\nOutput: Miscommunication led to confusion, prompting a moment of silence between the tutor and student.",
-          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence.",
-          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+          "1-7 min: The student's brief response may have indicated confusion or lack of understanding on the topic. \n\nParaphrased: Student's response hinted at confusion or lack of comprehension, leading to silence."
         ]
       }
     }

@@ -17,14 +17,14 @@
     "desiredOutcome": "The student's expectation for the session is to receive help with understanding a specific question related to uniform circular motion in physics. The student mentions that they don't understand the formula for the first question and express confusion about certain variables and concepts. The tutor addresses the student's confusion by explaining the formula for final velocity, introducing the concept of angular displacement using theta and omega for angular velocity, and clarifying the use of radians instead of degrees. The tutor also emphasizes the importance of memorizing certain Greek letters for the topic. Overall, the student's expectation for clarification on the physics concept is met during the session.",
     "activities": [
       "Conversion of units for angular velocity",
-      "Calculating angular displacement and revolutions",
-      "Application of rotational motion equations",
       "Finding average acceleration in circular motion",
-      "Error correction in angular velocity calculation",
-      "Solving for angular acceleration in a rotational problem",
-      "Effective radius calculation for rotational motion",
       "Calculating angular acceleration",
-      "Uniform circular motion and angular velocity"
+      "Calculating angular displacement and revolutions",
+      "Effective radius calculation for rotational motion",
+      "Uniform circular motion and angular velocity",
+      "Application of rotational motion equations",
+      "Solving for angular acceleration in a rotational problem",
+      "Error correction in angular velocity calculation"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -249,68 +249,43 @@
       "silencePeriods": {
         "timeHighline": [
           {
-            "min": 44,
-            "max": 50
-          },
-          {
-            "min": 57,
-            "max": 60
-          },
-          {
-            "min": 60,
-            "max": 63
+            "min": 45,
+            "max": 49
           }
         ],
         "analysis": [
-          "44-50 min: Both tutor and student were contemplating the operation needed to solve the math problem.",
-          "57-60 min: The tutor and student had a period of silence to allow time for reflection and processing.",
-          "60-63 min: Technical issue with sharing question led to awkward silence and confusion between tutor and student."
+          "45-49 min: The student did not respond immediately, possibly indicating disinterest or distraction during the session."
         ]
       },
       "studentInactivePeriods": {
         "timeHighline": [
           {
-            "min": 2,
-            "max": 4
+            "min": 17,
+            "max": 20
           },
           {
-            "min": 14,
-            "max": 16
+            "min": 25,
+            "max": 33
           },
           {
-            "min": 23,
-            "max": 25
-          },
-          {
-            "min": 27,
-            "max": 29
-          },
-          {
-            "min": 41,
-            "max": 43
+            "min": 45,
+            "max": 55
           },
           {
             "min": 57,
-            "max": 59
+            "max": 62
           },
           {
-            "min": 61,
-            "max": 63
-          },
-          {
-            "min": 80,
-            "max": 82
+            "min": 64,
+            "max": 66
           }
         ],
         "analysis": [
-          "2-4 min: Technical issue with audio equipment led to silence, disrupting communication between tutor and student.",
-          "14-16 min: The tutor asked the student to refresh the page, leading to a momentary technical pause. \n\nParaphrased: Technical pause due to page refresh request by tutor caused the silence.",
-          "23-25 min: The student's internet connection may have dropped, causing a temporary loss of communication.",
-          "27-29 min: The student attempted to reload, causing a pause as they waited for results.",
-          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
-          "57-59 min: Confusion arose due to the tutor's unexpected response, leading to a moment of silence.",
-          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) The tutor's confusion over the student's statement led to a period of silence.",
-          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+          "17-20 min: The student did not respond immediately, possibly indicating disinterest or distraction during the session. \n\n(15 words) Disinterest or distraction from the student led to a period of silence during the session.",
+          "25-33 min: The student's response was vague, requiring the tutor to ask for more specific information.",
+          "45-55 min: The student needed time to recall the information or formulate a response to the question.",
+          "57-62 min: The student's statement may have been unclear or lacked context, leading to confusion.",
+          "64-66 min: The tutor and student had a period of silence to allow the student to think."
         ]
       }
     }

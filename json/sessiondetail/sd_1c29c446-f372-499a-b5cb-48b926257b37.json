@@ -12,10 +12,10 @@
     "desiredOutcome": "The student's expectation for the session was to review long division with polynomials, specifically focusing on solving quadratic rational expressions. The tutor addressed these expectations by going over examples and explaining the concepts.",
     "activities": [
       "Solving rational expressions",
+      "Solving complex fractions",
       "Long division with polynomials",
       "Finding LCD for fractions",
-      "Systems of equations with three variables",
-      "Solving complex fractions"
+      "Systems of equations with three variables"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -292,96 +292,12 @@
         88
       ],
       "silencePeriods": {
-        "timeHighline": [
-          {
-            "min": 18,
-            "max": 20
-          },
-          {
-            "min": 30,
-            "max": 32
-          },
-          {
-            "min": 45,
-            "max": 47
-          },
-          {
-            "min": 47,
-            "max": 49
-          },
-          {
-            "min": 51,
-            "max": 53
-          },
-          {
-            "min": 70,
-            "max": 72
-          },
-          {
-            "min": 72,
-            "max": 74
-          },
-          {
-            "min": 77,
-            "max": 79
-          }
-        ],
-        "analysis": [
-          "18-20 min: The student was typing out a word problem to share with the tutor, causing a pause. \n\n(15 words)",
-          "30-32 min: The tutor and student were searching for another word problem to work on together.",
-          "45-47 min: The student presented a complex equation, causing both to pause and think silently.",
-          "47-49 min: The tutor and student were likely processing the math problem and searching for the next step.",
-          "51-53 min: The student made a calculation error, leading to confusion and a moment of silence.",
-          "70-72 min: The student struggled to articulate their thoughts, leading to a momentary pause for clarity.",
-          "72-74 min: Confusion arose due to errors in factoring and simplifying, leading to a pause for clarification.",
-          "77-79 min: The tutor and student had a period of silence to process the complex algebraic expressions."
-        ]
+        "timeHighline": [],
+        "analysis": []
       },
       "studentInactivePeriods": {
-        "timeHighline": [
-          {
-            "min": 2,
-            "max": 4
-          },
-          {
-            "min": 14,
-            "max": 16
-          },
-          {
-            "min": 23,
-            "max": 25
-          },
-          {
-            "min": 27,
-            "max": 29
-          },
-          {
-            "min": 41,
-            "max": 43
-          },
-          {
-            "min": 57,
-            "max": 59
-          },
-          {
-            "min": 61,
-            "max": 63
-          },
-          {
-            "min": 80,
-            "max": 82
-          }
-        ],
-        "analysis": [
-          "2-4 min: Technical issue with audio equipment led to silence, disrupting communication between tutor and student.",
-          "14-16 min: The tutor asked the student to refresh the page, leading to a momentary pause. \n\nOutput: Tutor requested page refresh, causing temporary silence for technical adjustment.",
-          "23-25 min: The student's audio connection may have been lost, causing a period of silence.",
-          "27-29 min: The student attempted to reload, causing a pause as they waited for results.",
-          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
-          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) Miscommunication or lack of clarity from the student caused confusion and a moment of silence.",
-          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) The tutor's confusion over the student's statement led to a period of silence.",
-          "80-82 min: The student expressed uncertainty or contemplation, leading to a moment of reflection or pause."
-        ]
+        "timeHighline": [],
+        "analysis": []
       }
     }
   },

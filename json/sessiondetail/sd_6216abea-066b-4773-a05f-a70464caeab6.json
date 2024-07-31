@@ -12,8 +12,8 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on topics related to roots and radicals in math. The student's expectation was to work on simplifying expressions involving roots and exponents, which the tutor successfully addressed. Throughout the session, there were no periods of low interaction between the tutor and student.",
     "desiredOutcome": "The student's expectation for the session was to work on roots and radicals in math. The tutor helped the student understand how to simplify expressions involving roots and exponents, meeting the student's expectation.",
     "activities": [
-      "Roots and Radicals",
       "Extraneous Solutions in Radical Equations",
+      "Roots and Radicals",
       "Radical Equations"
     ],
     "interactionTrend": {
@@ -195,47 +195,17 @@
       "studentInactivePeriods": {
         "timeHighline": [
           {
-            "min": 2,
-            "max": 4
+            "min": 18,
+            "max": 23
           },
           {
-            "min": 14,
-            "max": 16
-          },
-          {
-            "min": 23,
-            "max": 25
-          },
-          {
-            "min": 27,
-            "max": 29
-          },
-          {
-            "min": 41,
-            "max": 43
-          },
-          {
-            "min": 57,
-            "max": 59
-          },
-          {
-            "min": 61,
-            "max": 63
-          },
-          {
-            "min": 80,
-            "max": 82
+            "min": 31,
+            "max": 33
           }
         ],
         "analysis": [
-          "2-4 min: Technical issue with audio equipment led to silence, requiring troubleshooting before continuing the session.",
-          "14-16 min: The tutor and student had a period of silence to allow the page to refresh.",
-          "23-25 min: The student's audio connection was unstable, causing a temporary loss of communication between them.",
-          "27-29 min: The student attempted to reload, causing a pause as they waited for results.",
-          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
-          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence.",
-          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence.",
-          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+          "18-23 min: The student greeted the tutor, but the tutor did not respond immediately, causing silence.",
+          "31-33 min: The student needed time to process the tutor's greeting before responding."
         ]
       }
     }

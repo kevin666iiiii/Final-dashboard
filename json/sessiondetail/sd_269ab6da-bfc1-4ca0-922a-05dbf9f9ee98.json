@@ -12,15 +12,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including function operations, definition of a function, composite functions, simplifying expressions, factoring trinomials, applying discounts and coupons, dividing functions, common factors in simplifying, and managing time blocks in sessions. The student's expectation was to better understand function operations, particularly adding and simplifying functions, as well as gaining clarity on the concept of functions and their relationship between variables. The tutor successfully addressed the student's confusion and provided clear explanations, meeting the student's expectations. Throughout the session, there were no periods of low interaction between the tutor and student.",
     "desiredOutcome": "The student's expectation for the session is to understand function operations better, specifically how to add and simplify functions. The student also seeks clarification on the concept of functions and their relationship between variables. The tutor successfully addresses the student's confusion and provides clear explanations, meeting the student's expectations.",
     "activities": [
-      "Function Operations",
-      "Dividing Functions",
-      "Factoring Trinomials",
-      "Managing Time Blocks in Sessions",
-      "Applying Discounts and Coupons",
-      "Simplifying Expressions",
       "Definition of a Function",
+      "Managing Time Blocks in Sessions",
+      "Simplifying Expressions",
+      "Function Operations",
+      "Applying Discounts and Coupons",
+      "Composite Functions",
+      "Dividing Functions",
       "Common Factors in Simplifying",
-      "Composite Functions"
+      "Factoring Trinomials"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -195,47 +195,22 @@
       "studentInactivePeriods": {
         "timeHighline": [
           {
-            "min": 2,
-            "max": 4
+            "min": 6,
+            "max": 9
           },
           {
-            "min": 14,
-            "max": 16
+            "min": 17,
+            "max": 19
           },
           {
-            "min": 23,
-            "max": 25
-          },
-          {
-            "min": 27,
-            "max": 29
-          },
-          {
-            "min": 41,
-            "max": 43
-          },
-          {
-            "min": 57,
-            "max": 59
-          },
-          {
-            "min": 61,
-            "max": 63
-          },
-          {
-            "min": 80,
-            "max": 82
+            "min": 44,
+            "max": 46
           }
         ],
         "analysis": [
-          "2-4 min: The tutor and student had a period of silence due to technical difficulties with audio.",
-          "14-16 min: The tutor asked the student to refresh the page, causing a pause for technical adjustments. \n\nOutput: Technical issue required page refresh, leading to momentary silence in the session.",
-          "23-25 min: The student's audio connection may have been lost, causing a period of silence.",
-          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
-          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
-          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) Miscommunication or lack of clarity from the student caused confusion and a moment of silence.",
-          "61-63 min: The tutor likely didn't hear the student clearly, leading to a moment of confusion.",
-          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+          "6-9 min: The student responded with a brief answer, leading to a momentary pause for reflection.",
+          "17-19 min: The student mentioned feeling chaotic after returning from a vacation, leading to a pause.",
+          "44-46 min: The student's vague statement left the tutor unsure of how to continue the conversation."
         ]
       }
     }

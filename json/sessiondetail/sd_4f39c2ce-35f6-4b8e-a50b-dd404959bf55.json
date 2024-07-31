@@ -13,15 +13,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed special right triangles, trigonometric functions, the unit circle, and solving problems using trigonometry. The student's expectation was to learn about these topics, and the tutor addressed this by explaining concepts and relationships in special right triangles. Periods of low interaction occurred for various reasons, including allowing time for independent thinking, waiting for each other to speak, and pausing to process information.",
     "desiredOutcome": "The student's expectation for the session is to learn about special right triangles and trigonometry, specifically focusing on solving problems using trigonometric functions. The tutor addresses the student's expectation by explaining the concepts of trigonometry and how to find relationships between angle measurements and side lengths in special right triangles.",
     "activities": [
-      "Understanding the significance of special values in trigonometry",
-      "Memorization technique for special values of sine and cosine",
-      "Using trigonometric functions to find side lengths in right triangles",
-      "Special right triangles and their angles",
-      "Application of trigonometry in finding side lengths in triangles",
       "Solving for missing side lengths using trigonometric functions",
-      "Special values for sine and cosine of common angles (30, 45, 60 degrees)",
+      "Application of trigonometry in finding side lengths in triangles",
+      "Special right triangles and their angles",
+      "Memorization technique for special values of sine and cosine",
       "Trigonometric functions (sine, cosine, tangent)",
-      "Unit circle and its relationship to trigonometric functions"
+      "Using trigonometric functions to find side lengths in right triangles",
+      "Unit circle and its relationship to trigonometric functions",
+      "Special values for sine and cosine of common angles (30, 45, 60 degrees)",
+      "Understanding the significance of special values in trigonometry"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -213,78 +213,38 @@
       "silencePeriods": {
         "timeHighline": [
           {
-            "min": 35,
-            "max": 37
-          },
-          {
-            "min": 37,
-            "max": 40
-          },
-          {
-            "min": 49,
-            "max": 53
-          },
-          {
-            "min": 55,
-            "max": 57
-          },
-          {
-            "min": 57,
-            "max": 59
+            "min": 50,
+            "max": 52
           }
         ],
         "analysis": [
-          "35-37 min: The tutor and student had a period of silence to allow the student to think independently.",
-          "37-40 min: Both tutor and student were waiting for each other to speak, leading to silence.",
-          "49-53 min: The tutor needed a moment to prepare and gather materials before continuing the session.",
-          "55-57 min: The tutor needed time to complete a task, leading to a brief silence in conversation.",
-          "57-59 min: The tutor and student were likely pausing to process information and gather their thoughts."
+          "50-52 min: The tutor needed a moment to gather their thoughts before providing a clear explanation."
         ]
       },
       "studentInactivePeriods": {
         "timeHighline": [
           {
-            "min": 2,
-            "max": 4
+            "min": 3,
+            "max": 6
           },
           {
-            "min": 14,
-            "max": 16
+            "min": 11,
+            "max": 13
           },
           {
-            "min": 23,
-            "max": 25
+            "min": 15,
+            "max": 32
           },
           {
-            "min": 27,
-            "max": 29
-          },
-          {
-            "min": 41,
-            "max": 43
-          },
-          {
-            "min": 57,
-            "max": 59
-          },
-          {
-            "min": 61,
-            "max": 63
-          },
-          {
-            "min": 80,
-            "max": 82
+            "min": 50,
+            "max": 53
           }
         ],
         "analysis": [
-          "2-4 min: Technical issue with audio equipment led to silence, requiring troubleshooting before continuing the session.",
-          "14-16 min: The tutor and student had a period of silence to allow the page to refresh.",
-          "23-25 min: The student's audio connection may have been lost, causing a period of silence.",
-          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
-          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
-          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) The tutor's confusion over the student's statement led to a period of silence.",
-          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) The tutor's confusion over the student's statement led to a period of silence.",
-          "80-82 min: The student expressed uncertainty or contemplation, leading to a moment of reflection or pause."
+          "3-6 min: The tutor needed a moment to gather their thoughts before providing a clear explanation.",
+          "11-13 min: The student needed time to process the information before responding to the tutor's statement.",
+          "15-32 min: The tutor and student had a period of silence due to a sudden emotional tension.",
+          "50-53 min: The student needed time to process the tutor's greeting before responding."
         ]
       }
     }

@@ -13,8 +13,8 @@
     "aiSummary": "During the one-on-one tutoring session, the tutor and student focused on topics such as laws of exponents and subtraction of polynomials. The student's expectation to work on math problems involving exponents was met. There were periods of low interaction where both parties needed time to process information, reflect, and formulate responses.",
     "desiredOutcome": "The student's expectation for the session is to work on math problems involving exponents and learn the laws of exponents. These expectations are being addressed and solved by the tutor during the session.",
     "activities": [
-      "Product rule and quotient rule",
       "Subtraction of polynomials",
+      "Product rule and quotient rule",
       "Laws of exponents"
     ],
     "interactionTrend": {
@@ -211,75 +211,18 @@
         61
       ],
       "silencePeriods": {
-        "timeHighline": [
-          {
-            "min": 40,
-            "max": 42
-          },
-          {
-            "min": 51,
-            "max": 53
-          },
-          {
-            "min": 56,
-            "max": 58
-          },
-          {
-            "min": 59,
-            "max": 61
-          }
-        ],
-        "analysis": [
-          "40-42 min: The student needed time to process the information and formulate a response before speaking.",
-          "51-53 min: The student struggled to articulate their thoughts, leading to a moment of confusion and silence.",
-          "56-58 min: The tutor and student were likely processing information or trying to figure out the solution.",
-          "59-61 min: The tutor and student had a period of silence to allow time for reflection and processing."
-        ]
+        "timeHighline": [],
+        "analysis": []
       },
       "studentInactivePeriods": {
         "timeHighline": [
           {
-            "min": 2,
-            "max": 4
-          },
-          {
-            "min": 14,
-            "max": 16
-          },
-          {
-            "min": 23,
-            "max": 25
-          },
-          {
-            "min": 27,
-            "max": 29
-          },
-          {
-            "min": 41,
-            "max": 43
-          },
-          {
-            "min": 57,
-            "max": 59
-          },
-          {
-            "min": 61,
-            "max": 63
-          },
-          {
-            "min": 80,
-            "max": 82
+            "min": 43,
+            "max": 45
           }
         ],
         "analysis": [
-          "2-4 min: Technical issue with audio equipment led to silence, requiring troubleshooting before continuing the session.",
-          "14-16 min: The tutor asked the student to refresh the page, leading to a momentary pause. \n\nParaphrased: The tutor's request for a page refresh caused a brief silence in the session.",
-          "23-25 min: The student's audio connection was unstable, causing a momentary loss of communication between them.",
-          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
-          "41-43 min: The student needed time to process the information before responding to the tutor's question.",
-          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence.",
-          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) Miscommunication or lack of clarity from the student caused confusion and a moment of silence.",
-          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+          "43-45 min: The student expressed uncertainty, leading to a moment of reflection and processing for both."
         ]
       }
     }

@@ -15,15 +15,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various math problems related to optimization, derivatives, and maximizing/minimizing values. The student's expectation was to understand how to find the maximum product of numbers, seeking clarification on concepts like derivatives. Despite a technical issue causing a period of low interaction, the tutor addressed the student's questions and confusions, helping them gain a better understanding of the math problems.",
     "desiredOutcome": "The student's expectation for the session seems to be to understand and work through math problems related to finding maximum product of numbers. The student also seems to be seeking clarification on certain concepts and methods used in the problems. The tutor addressed the student's questions and confusions, providing explanations and working through examples. The student's expectations for the session were partially met as they gained understanding of the math problems but still had some confusion about certain concepts like derivatives.",
     "activities": [
-      "Finding the dimensions of a rectangle with a perimeter of 200ft for maximum area",
       "Applying derivatives in optimization problems",
-      "Working with derivatives in optimization problems",
-      "Exploring minimum and maximum values in optimization problems",
-      "Solving for two positive numbers with a given product and sum for optimization",
-      "Solving for two numbers whose sum is 60 and their product is a maximum",
-      "Finding two positive numbers such that their product is 192 and the sum is a minimum",
+      "Finding the dimensions of a rectangle with a perimeter of 200ft for maximum area",
+      "Creating a rectangular field along the river with minimum amount of fencing",
       "Optimizing the sum and product of two positive numbers",
-      "Creating a rectangular field along the river with minimum amount of fencing"
+      "Solving for two numbers whose sum is 60 and their product is a maximum",
+      "Exploring minimum and maximum values in optimization problems",
+      "Working with derivatives in optimization problems",
+      "Solving for two positive numbers with a given product and sum for optimization",
+      "Finding two positive numbers such that their product is 192 and the sum is a minimum"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -140,58 +140,28 @@
       "silencePeriods": {
         "timeHighline": [
           {
-            "min": 0,
-            "max": 3
+            "min": 1,
+            "max": 2
           }
         ],
         "analysis": [
-          "0-3 min: Technical issue with camera microphone led to troubleshooting silence between tutor and student."
+          "1-2 min: The tutor and student had a period of silence to allow the student to process information. \n\n"
         ]
       },
       "studentInactivePeriods": {
         "timeHighline": [
           {
-            "min": 2,
-            "max": 4
-          },
-          {
-            "min": 14,
-            "max": 16
+            "min": 1,
+            "max": 2
           },
           {
             "min": 23,
-            "max": 25
-          },
-          {
-            "min": 27,
-            "max": 29
-          },
-          {
-            "min": 41,
-            "max": 43
-          },
-          {
-            "min": 57,
-            "max": 59
-          },
-          {
-            "min": 61,
-            "max": 63
-          },
-          {
-            "min": 80,
-            "max": 82
+            "max": 26
           }
         ],
         "analysis": [
-          "2-4 min: Technical issue with audio equipment led to silence, requiring troubleshooting before continuing the session.",
-          "14-16 min: The tutor and student had a period of silence to allow the page to refresh.",
-          "23-25 min: The student's audio connection was unstable, causing a momentary loss of communication between them.",
-          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
-          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
-          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence.",
-          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) Miscommunication or lack of clarity from the student caused confusion and a moment of silence.",
-          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+          "1-2 min: The tutor and student were likely waiting for the student to try refreshing the page. \n\nOutput: Waiting for student to attempt refreshing the page to see if the issue resolves.",
+          "23-26 min: The tutor and student had a period of silence due to a sudden technical issue."
         ]
       }
     }

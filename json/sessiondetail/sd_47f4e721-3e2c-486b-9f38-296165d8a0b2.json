@@ -12,14 +12,14 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics related to solving equations involving square roots. The student's expectation was to review and practice solving such equations, seeking clarification on removing square roots before squaring. Periods of low interaction were observed for reflection, processing information, and clarifying instructions.",
     "desiredOutcome": "The student's expectation for the session is to review and practice solving equations involving square roots, including more complex examples. The student is seeking clarification on the process of removing square roots from both sides of the equation before squaring. The tutor is addressing the student's expectation by providing explanations and examples to help the student understand the concept.",
     "activities": [
-      "Solving equations with rational exponents",
-      "Solving equations with negative exponents",
-      "Solving equations with square roots on both sides",
-      "Solving equations with square roots and multiple terms",
-      "Solving equations with square roots and factoring",
-      "Solving equations with no solution",
       "Solving equations with square roots and additional terms",
+      "Solving equations with square roots and multiple terms",
+      "Solving equations with rational exponents",
       "Solving equations with square roots",
+      "Solving equations with square roots on both sides",
+      "Solving equations with square roots and factoring",
+      "Solving equations with negative exponents",
+      "Solving equations with no solution",
       "Solving equations with square roots and using the quadratic formula"
     ],
     "interactionTrend": {
@@ -207,85 +207,43 @@
         58
       ],
       "silencePeriods": {
-        "timeHighline": [
-          {
-            "min": 1,
-            "max": 3
-          },
-          {
-            "min": 3,
-            "max": 5
-          },
-          {
-            "min": 18,
-            "max": 20
-          },
-          {
-            "min": 34,
-            "max": 36
-          },
-          {
-            "min": 43,
-            "max": 45
-          },
-          {
-            "min": 45,
-            "max": 48
-          }
-        ],
-        "analysis": [
-          "1-3 min: Both parties were likely processing information or formulating their next steps in the problem.",
-          "3-5 min: The tutor and student had a period of silence to allow time for reflection and processing.",
-          "18-20 min: The tutor and student had a period of silence to allow time for reflection and processing.",
-          "34-36 min: The student was processing the tutor's instruction on whether to keep or combine terms.",
-          "43-45 min: The tutor asked a question about foiling, and the student needed time to process it.",
-          "45-48 min: The tutor and student had a period of silence to allow time for reflection and processing."
-        ]
+        "timeHighline": [],
+        "analysis": []
       },
       "studentInactivePeriods": {
         "timeHighline": [
           {
-            "min": 2,
-            "max": 4
+            "min": 7,
+            "max": 9
           },
           {
-            "min": 14,
-            "max": 16
+            "min": 17,
+            "max": 19
           },
           {
-            "min": 23,
-            "max": 25
+            "min": 21,
+            "max": 23
           },
           {
-            "min": 27,
-            "max": 29
+            "min": 25,
+            "max": 28
           },
           {
-            "min": 41,
-            "max": 43
+            "min": 43,
+            "max": 49
           },
           {
-            "min": 57,
-            "max": 59
-          },
-          {
-            "min": 61,
-            "max": 63
-          },
-          {
-            "min": 80,
-            "max": 82
+            "min": 52,
+            "max": 55
           }
         ],
         "analysis": [
-          "2-4 min: Technical issue with audio equipment led to silence, requiring troubleshooting before continuing the session.",
-          "14-16 min: The tutor asked the student to refresh the page, leading to a momentary technical pause. \n\nOutput: Technical pause due to page refresh request led to momentary silence between tutor and student.",
-          "23-25 min: The student's audio connection was unstable, causing a momentary loss of communication between them.",
-          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
-          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
-          "57-59 min: The tutor likely didn't understand the student's question, leading to a moment of confusion.",
-          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) The tutor's confusion over the student's statement led to a period of silence.",
-          "80-82 min: The student expressed uncertainty or contemplation, leading to a moment of reflection or pause."
+          "7-9 min: The student greeted the tutor, but the tutor did not respond immediately, causing silence.",
+          "17-19 min: The student needed time to process the tutor's greeting before responding.",
+          "21-23 min: The student needed time to process the question and formulate a response before speaking. \n\nOutput: Student needed time to process and formulate a response before speaking after tutor's question.",
+          "25-28 min: The student's response was brief, giving no indication of needing help or further discussion. \n\nParaphrased: Lack of student engagement led to a pause in the conversation.",
+          "43-49 min: The student's question was off-topic, leading to a moment of confusion and awkwardness. \n\n(15 words)",
+          "52-55 min: The student needed time to process the information before responding to the tutor's question."
         ]
       }
     }

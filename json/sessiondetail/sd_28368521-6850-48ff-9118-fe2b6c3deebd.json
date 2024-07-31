@@ -9,8 +9,8 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed exponent rules, simplifying expressions with exponents, adding and subtracting polynomials, simplifying expressions with radicals and perfect squares, and simplifying expressions with cube roots and perfect cubes. The student struggles with freezing up and blanking out during math homework, seeking reminders and consistency. The tutor focuses on repetition and simplifying exponent rules to help the student understand and retain information, addressing the student's expectations to improve their understanding of math concepts and develop better study habits through explanations and guidance on effective problem-solving approaches.",
     "desiredOutcome": "The student seems to struggle with freezing up and blanking out during math homework. They seek reminders and struggle with consistency. The tutor focuses on repetition and simplifying exponent rules to help the student understand and retain information. The student's expectation for the session is to improve their understanding of math concepts and develop better study habits. These expectations are being addressed by the tutor through explanations and guidance on how to approach math problems effectively.",
     "activities": [
-      "Adding and subtracting polynomials",
       "Simplifying expressions with radicals and perfect squares",
+      "Adding and subtracting polynomials",
       "Exponent rules and simplifying expressions with exponents",
       "Simplifying expressions with cube roots and perfect cubes"
     ],
@@ -218,50 +218,8 @@
         "analysis": []
       },
       "studentInactivePeriods": {
-        "timeHighline": [
-          {
-            "min": 2,
-            "max": 4
-          },
-          {
-            "min": 14,
-            "max": 16
-          },
-          {
-            "min": 23,
-            "max": 25
-          },
-          {
-            "min": 27,
-            "max": 29
-          },
-          {
-            "min": 41,
-            "max": 43
-          },
-          {
-            "min": 57,
-            "max": 59
-          },
-          {
-            "min": 61,
-            "max": 63
-          },
-          {
-            "min": 80,
-            "max": 82
-          }
-        ],
-        "analysis": [
-          "2-4 min: Technical issue with audio equipment led to silence, requiring troubleshooting before continuing the session.",
-          "14-16 min: The tutor asked the student to refresh the page, leading to a momentary pause. \n\nOutput: Tutor requested page refresh, causing temporary silence for technical adjustment.",
-          "23-25 min: The student's internet connection was unstable, causing a temporary loss of audio communication.",
-          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
-          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
-          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\nOutput: Miscommunication led to confusion, prompting a moment of silence between the tutor and student.",
-          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words)",
-          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
-        ]
+        "timeHighline": [],
+        "analysis": []
       }
     }
   },

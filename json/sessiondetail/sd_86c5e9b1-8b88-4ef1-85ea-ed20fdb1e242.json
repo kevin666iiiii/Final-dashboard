@@ -11,15 +11,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on reviewing concepts related to solving systems of equations. The student's expectation was to prepare for an upcoming quiz by revisiting topics such as graphing, substitution, and elimination methods. The student actively engaged in problem-solving with the tutor's guidance, ensuring their readiness for the quiz.",
     "desiredOutcome": "The student's expectation for the session is to review and prepare for a quiz on material covered in the previous week. They want to go over the same concepts to ensure they are ready for the quiz the next day. The tutor is helping the student solve problems related to graphing systems of equations. The student is actively engaged in the session, participating in solving the problems and discussing the solutions with the tutor. The tutor is providing guidance and support as the student works through the problems. Overall, the student's expectations for the session seem to be met as they are actively working on the material and getting clarification from the tutor.",
     "activities": [
-      "Solving systems of equations by graphing",
-      "Applying elimination method to solve systems of equations",
-      "Determining the number of solutions in a system of equations",
-      "Solving systems of equations by elimination",
-      "Identifying the number of solutions in a system of equations",
-      "Solving systems of equations by substitution",
       "Identifying infinite solutions in a system of equations",
+      "Solving systems of equations by graphing",
+      "Solving systems of equations by substitution",
+      "Identifying the number of solutions in a system of equations",
       "Standardizing equations for solving systems of equations",
-      "Solving word problems involving systems of equations"
+      "Solving word problems involving systems of equations",
+      "Solving systems of equations by elimination",
+      "Determining the number of solutions in a system of equations",
+      "Applying elimination method to solve systems of equations"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -201,50 +201,8 @@
         "analysis": []
       },
       "studentInactivePeriods": {
-        "timeHighline": [
-          {
-            "min": 2,
-            "max": 4
-          },
-          {
-            "min": 14,
-            "max": 16
-          },
-          {
-            "min": 23,
-            "max": 25
-          },
-          {
-            "min": 27,
-            "max": 29
-          },
-          {
-            "min": 41,
-            "max": 43
-          },
-          {
-            "min": 57,
-            "max": 59
-          },
-          {
-            "min": 61,
-            "max": 63
-          },
-          {
-            "min": 80,
-            "max": 82
-          }
-        ],
-        "analysis": [
-          "2-4 min: Technical issue with audio equipment led to silence, requiring troubleshooting and adjustment for communication.",
-          "14-16 min: The tutor and student had a period of silence to allow the student to refresh.",
-          "23-25 min: The student's audio connection may have been lost, causing a period of silence.",
-          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
-          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
-          "57-59 min: Confusion arose due to the tutor's unexpected response, leading to a moment of silence.",
-          "61-63 min: Confusion arose due to the tutor not understanding the student's question, leading to silence.",
-          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
-        ]
+        "timeHighline": [],
+        "analysis": []
       }
     }
   },

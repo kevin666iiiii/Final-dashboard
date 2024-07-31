@@ -16,15 +16,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including integrals with natural log functions, differential equations, and directly proportional word problems. The student's expectations were to review concepts, practice problems, and learn tricks. Periods of low interaction occurred as both parties processed information, searched for relevant details, and contemplated solutions.",
     "desiredOutcome": "The student's expectations for the session are to go over different lessons related to integrals, specifically focusing on integrals with natural log functions, finding general and particular solutions, and practicing problems. The student also wants to learn any tricks or issues they may encounter and review concepts before attempting a practice test. The student requests to cover problems from different units, such as directly proportional ones. The tutor is addressing the student's expectations by providing practice problems, explaining concepts, and attempting different types of problems as requested.",
     "activities": [
-      "Solving differential equations with initial values",
+      "Finding limits in differential equations",
       "Reviewing and analyzing differential equations solutions",
-      "Directly proportional word problems",
-      "Determining the domain of a particular solution to a differential equation",
-      "Integrals with natural log functions and general and particular solutions",
       "Finding a value of k to satisfy a differential equation",
       "Slope fields and finding solutions",
-      "Finding limits in differential equations",
-      "Solving differential equations using separation of variables"
+      "Solving differential equations using separation of variables",
+      "Integrals with natural log functions and general and particular solutions",
+      "Solving differential equations with initial values",
+      "Directly proportional word problems",
+      "Determining the domain of a particular solution to a differential equation"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -258,98 +258,48 @@
       "silencePeriods": {
         "timeHighline": [
           {
-            "min": 3,
-            "max": 5
+            "min": 8,
+            "max": 11
           },
           {
-            "min": 7,
-            "max": 12
+            "min": 18,
+            "max": 25
           },
           {
-            "min": 15,
-            "max": 17
+            "min": 30,
+            "max": 35
           },
           {
-            "min": 17,
-            "max": 26
-          },
-          {
-            "min": 27,
-            "max": 29
-          },
-          {
-            "min": 29,
-            "max": 36
-          },
-          {
-            "min": 39,
-            "max": 41
-          },
-          {
-            "min": 50,
-            "max": 52
-          },
-          {
-            "min": 59,
-            "max": 63
+            "min": 60,
+            "max": 62
           }
         ],
         "analysis": [
-          "3-5 min: The student needed time to process and articulate their thoughts on the math problems.",
-          "7-12 min: The tutor was searching for relevant information in the book, causing a brief pause.",
-          "15-17 min: The student was confused about the equation, leading to a moment of uncertainty and silence.",
-          "17-26 min: The tutor was searching for a new problem to discuss, leading to a brief pause.",
-          "27-29 min: The tutor and student had a period of silence to read and process the problem.",
-          "29-36 min: The tutor and student were likely processing information or thinking of the next steps.",
-          "39-41 min: The student needed time to process and think about the math problem silently.",
-          "50-52 min: The tutor and student had a period of silence to process and understand the problem.",
-          "59-63 min: The tutor and student were likely processing information or waiting for clarification before continuing."
+          "8-11 min: The student may have been experiencing technical difficulties, causing the silence in the session.",
+          "18-25 min: The tutor and student had a period of silence due to technical difficulties with audio connection. \n\n(15 words)",
+          "30-35 min: The student was processing the information given by the tutor before responding.",
+          "60-62 min: The student needed time to process the information before responding to the tutor's question."
         ]
       },
       "studentInactivePeriods": {
         "timeHighline": [
           {
-            "min": 2,
-            "max": 4
-          },
-          {
-            "min": 14,
-            "max": 16
-          },
-          {
-            "min": 23,
+            "min": 8,
             "max": 25
           },
           {
-            "min": 27,
-            "max": 29
+            "min": 30,
+            "max": 36
           },
           {
-            "min": 41,
-            "max": 43
-          },
-          {
-            "min": 57,
-            "max": 59
-          },
-          {
-            "min": 61,
-            "max": 63
-          },
-          {
-            "min": 80,
-            "max": 82
+            "min": 67,
+            "max": 72
           }
         ],
         "analysis": [
-          "2-4 min: Technical issue with audio equipment led to silence, hindering communication between tutor and student.",
-          "14-16 min: The tutor asked the student to refresh the page, leading to a pause for action. \n\n",
-          "23-25 min: The student's audio connection may have been lost, causing a period of silence.",
-          "27-29 min: The student attempted to reload, causing a pause as they waited for results.",
-          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
-          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) Miscommunication or lack of clarity from the student caused confusion and a moment of silence.",
-          "61-63 min: Confusion arose due to the tutor's unexpected response, leading to a moment of silence.",
-          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+          "8-25 min: The student may have been distracted or needed time to process the tutor's question.",
+          "30-36 min: The tutor and student had a period of silence due to technical difficulties with audio.",
+          "67-72 min: The student was processing information or formulating a response before continuing the conversation."
         ]
       }
     }

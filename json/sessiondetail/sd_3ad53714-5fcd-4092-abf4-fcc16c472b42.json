@@ -12,8 +12,8 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on polynomial division using both long division and synthetic division methods. The student's initial expectation was to learn long division, which the tutor successfully addressed by explaining the process step by step. During low interaction periods, the tutor allowed the student time to attempt problems independently before collaborating.",
     "desiredOutcome": "The student's expectation for the session is to learn how to divide polynomials using long division. The tutor successfully addresses the student's expectation by explaining the process step by step.",
     "activities": [
-      "Polynomial Division - Synthetic Division Method",
-      "Polynomial Division - Long Division Method"
+      "Polynomial Division - Long Division Method",
+      "Polynomial Division - Synthetic Division Method"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -191,65 +191,23 @@
         55
       ],
       "silencePeriods": {
-        "timeHighline": [
-          {
-            "min": 15,
-            "max": 17
-          },
-          {
-            "min": 40,
-            "max": 42
-          }
-        ],
-        "analysis": [
-          "15-17 min: The tutor gave the student time to attempt the problem independently before working together.",
-          "40-42 min: The student needed time to work on the problem before asking for help or confirmation."
-        ]
+        "timeHighline": [],
+        "analysis": []
       },
       "studentInactivePeriods": {
         "timeHighline": [
           {
-            "min": 2,
-            "max": 4
-          },
-          {
-            "min": 14,
-            "max": 16
-          },
-          {
-            "min": 23,
-            "max": 25
-          },
-          {
             "min": 27,
-            "max": 29
+            "max": 30
           },
           {
-            "min": 41,
-            "max": 43
-          },
-          {
-            "min": 57,
-            "max": 59
-          },
-          {
-            "min": 61,
-            "max": 63
-          },
-          {
-            "min": 80,
-            "max": 82
+            "min": 48,
+            "max": 50
           }
         ],
         "analysis": [
-          "2-4 min: Technical issue with audio equipment led to silence, requiring troubleshooting before continuing the session.",
-          "14-16 min: The tutor asked the student to refresh the page, causing a pause for technical troubleshooting. \n\nOutput: Technical issue prompted silence for troubleshooting.",
-          "23-25 min: The student's audio connection was unstable, causing a momentary loss of communication between them.",
-          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
-          "41-43 min: The student needed time to process the information before responding to the tutor's question.",
-          "57-59 min: Confusion arose due to the tutor's unexpected response, leading to a moment of silence.",
-          "61-63 min: The tutor likely didn't understand the student's question, leading to a moment of confusion.",
-          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+          "27-30 min: The tutor needed a moment to gather their thoughts and formulate a clear explanation.",
+          "48-50 min: The student needed time to process the information before responding to the tutor's statement."
         ]
       }
     }

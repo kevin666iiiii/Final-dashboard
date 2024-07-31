@@ -12,14 +12,14 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student extensively covered various trigonometry topics, including sine, cosine, tangent of specific angles in different quadrants, reference angles, exact values of trigonometric functions, rotating angles, handling negative angles, and applying trigonometric functions to angles in different quadrants. The student's expectations for the session, such as clarifying future scheduling, reviewing cosine calculations in radians, converting between degree and radian measures, and understanding SOHCAHTOA principles, were effectively addressed by the tutor.",
     "desiredOutcome": "Based on the transcript, the student's expectations for the session seem to be:\r\n\r\n1. Clarification on the scheduling of future tutoring sessions.\r\n2. Review and practice trigonometry concepts, specifically focusing on cosine calculations in radians.\r\n3. Assistance with understanding and converting between degree and radian measures.\r\n4. Guidance on trigonometric principles, such as SOHCAHTOA.\r\n\r\nIt appears that the student's expectations for the session were addressed, as the tutor discussed the scheduling for future sessions and proceeded to review and explain trigonometry concepts, including the conversion between degree and radian measures and the application of SOHCAHTOA in trigonometric calculations. The student also seemed engaged and actively taking notes, indicating that their expectations were being met.",
     "activities": [
-      "Trigonometry - Rotating angles around the unit circle and determining trigonometric values",
       "Trigonometry - Tangent of specific angles in different quadrants",
       "Trigonometry - Applying trigonometric functions to angles in different quadrants",
-      "Trigonometry - Sine and Cosine of specific angles in different quadrants",
-      "Trigonometry - Solving trigonometric problems involving rotations and exact values",
       "Trigonometry - Calculating trigonometric values for angles close to axis positions",
-      "Trigonometry - Calculating exact values of trigonometric functions for given angles",
       "Trigonometry - Understanding reference angles and their values",
+      "Trigonometry - Sine and Cosine of specific angles in different quadrants",
+      "Trigonometry - Calculating exact values of trigonometric functions for given angles",
+      "Trigonometry - Rotating angles around the unit circle and determining trigonometric values",
+      "Trigonometry - Solving trigonometric problems involving rotations and exact values",
       "Trigonometry - Handling negative angles and determining trigonometric values"
     ],
     "interactionTrend": {
@@ -211,50 +211,8 @@
         "analysis": []
       },
       "studentInactivePeriods": {
-        "timeHighline": [
-          {
-            "min": 2,
-            "max": 4
-          },
-          {
-            "min": 14,
-            "max": 16
-          },
-          {
-            "min": 23,
-            "max": 25
-          },
-          {
-            "min": 27,
-            "max": 29
-          },
-          {
-            "min": 41,
-            "max": 43
-          },
-          {
-            "min": 57,
-            "max": 59
-          },
-          {
-            "min": 61,
-            "max": 63
-          },
-          {
-            "min": 80,
-            "max": 82
-          }
-        ],
-        "analysis": [
-          "2-4 min: Technical issue with audio equipment led to silence, requiring troubleshooting and adjustment for communication.",
-          "14-16 min: The tutor asked the student to refresh the page, leading to a pause for action. \n\n",
-          "23-25 min: The student's internet connection was unstable, causing a temporary loss of audio communication.",
-          "27-29 min: The student attempted to reload, causing a pause as they waited for results.",
-          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
-          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) Miscommunication or lack of clarity from the student caused confusion and a moment of silence.",
-          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) Miscommunication or lack of clarity from the student caused confusion and a moment of silence.",
-          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
-        ]
+        "timeHighline": [],
+        "analysis": []
       }
     }
   },

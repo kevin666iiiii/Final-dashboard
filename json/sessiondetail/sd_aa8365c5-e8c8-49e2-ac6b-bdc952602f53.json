@@ -11,15 +11,15 @@
     "aiSummary": "In the one-on-one tutoring session, the student and tutor discussed various topics including transformations of functions, function notation, identifying asymptotes, rational functions, polynomial equations, and complex numbers. The student's expectation was to understand and practice transformations, focusing on function notation and applying transformations correctly. The tutor successfully addressed the student's questions and guided them through the concepts, meeting the student's expectations.",
     "desiredOutcome": "The student's expectation for the session seems to be to understand and practice transformations of functions, specifically focusing on function notation and applying transformations in the correct order. The student is seeking clarification on how to write functions using function notation and wants to ensure they understand the concept by working through different examples. The tutor is addressing the student's questions and guiding them through the process of applying transformations correctly in function notation. Overall, the student's expectations for the session are being met as they are actively engaging with the material and seeking clarification on specific concepts.",
     "activities": [
-      "Scheduling tutoring session for test review",
       "Identifying horizontal and vertical asymptotes, holes in graphs",
-      "Finding domain of rational functions, determining continuity",
-      "Function notation, writing functions in terms of parent functions",
-      "Using synthetic division to find zeros of polynomials",
+      "Factoring polynomials using grouping method",
+      "Scheduling tutoring session for test review",
       "Identifying non-real zeros in complex numbers",
       "Transformations of functions, vertical and horizontal dilation",
+      "Finding domain of rational functions, determining continuity",
       "Solving polynomial equations using rational root theorem and synthetic division",
-      "Factoring polynomials using grouping method"
+      "Function notation, writing functions in terms of parent functions",
+      "Using synthetic division to find zeros of polynomials"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -207,50 +207,8 @@
         "analysis": []
       },
       "studentInactivePeriods": {
-        "timeHighline": [
-          {
-            "min": 2,
-            "max": 4
-          },
-          {
-            "min": 14,
-            "max": 16
-          },
-          {
-            "min": 23,
-            "max": 25
-          },
-          {
-            "min": 27,
-            "max": 29
-          },
-          {
-            "min": 41,
-            "max": 43
-          },
-          {
-            "min": 57,
-            "max": 59
-          },
-          {
-            "min": 61,
-            "max": 63
-          },
-          {
-            "min": 80,
-            "max": 82
-          }
-        ],
-        "analysis": [
-          "2-4 min: The tutor and student had a period of silence due to technical difficulties with audio.",
-          "14-16 min: The tutor and student had a period of silence to allow the student to process information. \n\n",
-          "23-25 min: The student's internet connection may have dropped, causing a temporary loss of communication.",
-          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
-          "41-43 min: The student needed time to process the information before responding to the tutor's question.",
-          "57-59 min: The tutor likely didn't hear the student clearly, leading to confusion and a pause.",
-          "61-63 min: The tutor likely didn't understand the student's question, leading to a moment of confusion.",
-          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
-        ]
+        "timeHighline": [],
+        "analysis": []
       }
     }
   },

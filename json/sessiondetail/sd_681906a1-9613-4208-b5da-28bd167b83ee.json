@@ -12,12 +12,12 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on graphing parabolas, identifying key features such as vertex and axis of symmetry, understanding transformations of graphs, and writing function rules based on given points. The tutor successfully guided the student through examples, explanations, and step-by-step instructions, leading to active student participation and improvement in graphing skills.",
     "desiredOutcome": "The student's expectation for the session seems to be focused on understanding and applying concepts related to graphing parabolas, including identifying vertex, axis of symmetry, direction of opening, minimum/maximum values, domain, and range. The student also seems interested in learning about transformations of graphs and how coefficients affect the shape of the parabola. The tutor successfully addresses these expectations by guiding the student through various examples, explaining key concepts, and providing step-by-step instructions on how to analyze and graph parabolas. The student actively participates in the session by answering questions and demonstrating understanding of the material. Overall, the session appears to meet the student's expectations by helping them improve their skills in graphing and analyzing parabolas.",
     "activities": [
-      "Graphing parabolas, identifying vertex, determining direction of the graph, understanding axis of symmetry",
-      "Writing function rules based on transformations of graphs, understanding horizontal stretches and shifts",
-      "Identifying transformations of graphs, understanding horizontal and vertical shifts, reflections, and stretches",
-      "Graphing parabolas, identifying minimum and maximum values, determining direction of the graph",
+      "Graphing parabolas, identifying vertex, determining direction of the graph, understanding axis of symmetry, finding domain and range",
       "Writing function rules based on vertex points of parabolas, understanding how to construct equations from given points",
-      "Graphing parabolas, identifying vertex, determining direction of the graph, understanding axis of symmetry, finding domain and range"
+      "Writing function rules based on transformations of graphs, understanding horizontal stretches and shifts",
+      "Graphing parabolas, identifying vertex, determining direction of the graph, understanding axis of symmetry",
+      "Identifying transformations of graphs, understanding horizontal and vertical shifts, reflections, and stretches",
+      "Graphing parabolas, identifying minimum and maximum values, determining direction of the graph"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -108,47 +108,17 @@
       "studentInactivePeriods": {
         "timeHighline": [
           {
-            "min": 2,
-            "max": 4
+            "min": 12,
+            "max": 14
           },
           {
-            "min": 14,
-            "max": 16
-          },
-          {
-            "min": 23,
-            "max": 25
-          },
-          {
-            "min": 27,
-            "max": 29
-          },
-          {
-            "min": 41,
-            "max": 43
-          },
-          {
-            "min": 57,
-            "max": 59
-          },
-          {
-            "min": 61,
-            "max": 63
-          },
-          {
-            "min": 80,
-            "max": 82
+            "min": 16,
+            "max": 20
           }
         ],
         "analysis": [
-          "2-4 min: Technical issue with audio equipment led to silence, requiring troubleshooting before continuing the session.",
-          "14-16 min: The tutor asked the student to refresh the page, causing a pause for technical issues. \n\nOutput: Technical issue prompted silence as student refreshed page as suggested by tutor.",
-          "23-25 min: The student's internet connection was unstable, causing a temporary loss of audio communication.",
-          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
-          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
-          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) The tutor's confusion over the student's statement led to a moment of silence.",
-          "61-63 min: The tutor likely didn't hear the student clearly, leading to a moment of confusion.",
-          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+          "12-14 min: The student needed time to process the information before responding to the tutor's prompt.",
+          "16-20 min: The student needed time to process the information before responding to the tutor's prompt."
         ]
       }
     }

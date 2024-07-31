@@ -189,66 +189,12 @@
         54
       ],
       "silencePeriods": {
-        "timeHighline": [
-          {
-            "min": 6,
-            "max": 8
-          },
-          {
-            "min": 15,
-            "max": 17
-          }
-        ],
-        "analysis": [
-          "6-8 min: The student was likely reading and processing the question silently before asking for clarification.",
-          "15-17 min: The student needed a moment to sharpen their pencil, causing a brief pause in conversation."
-        ]
+        "timeHighline": [],
+        "analysis": []
       },
       "studentInactivePeriods": {
-        "timeHighline": [
-          {
-            "min": 2,
-            "max": 4
-          },
-          {
-            "min": 14,
-            "max": 16
-          },
-          {
-            "min": 23,
-            "max": 25
-          },
-          {
-            "min": 27,
-            "max": 29
-          },
-          {
-            "min": 41,
-            "max": 43
-          },
-          {
-            "min": 57,
-            "max": 59
-          },
-          {
-            "min": 61,
-            "max": 63
-          },
-          {
-            "min": 80,
-            "max": 82
-          }
-        ],
-        "analysis": [
-          "2-4 min: Technical issue with audio equipment led to silence, disrupting communication between tutor and student.",
-          "14-16 min: The tutor and student had a period of silence to allow the student to process information.",
-          "23-25 min: The student's audio connection may have been lost, causing a period of silence.",
-          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
-          "41-43 min: The student needed time to process the information before responding to the tutor's question.",
-          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\nOutput: Miscommunication led to confusion, prompting a moment of silence between the tutor and student.",
-          "61-63 min: Confusion arose due to the tutor's unexpected response, leading to a moment of silence.",
-          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
-        ]
+        "timeHighline": [],
+        "analysis": []
       }
     }
   },

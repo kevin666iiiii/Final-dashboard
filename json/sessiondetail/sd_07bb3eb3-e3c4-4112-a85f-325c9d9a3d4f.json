@@ -13,14 +13,14 @@
     "aiSummary": "The tutoring session covered various math topics such as percent change, graph interpretation, exponential rules, and probability calculations. The student actively engaged with the tutor, seeking clarification on problem-solving approaches. Periods of low interaction occurred as the student processed information, worked independently, and reflected on solutions.",
     "desiredOutcome": "The student's expectation for the session seems to be to review and work on practice problems related to math concepts, specifically focusing on topics like percent changes, exponential rules, and using a graphing calculator. The student also seems to be seeking clarification on how to approach certain types of problems and is actively engaging in the discussion with the tutor. The tutor is addressing the student's questions and providing explanations and guidance on how to solve the math problems effectively. Overall, the student's expectations for the session appear to be met as they are actively participating and receiving support from the tutor.",
     "activities": [
-      "Solving equations with variables and exponents",
-      "Calculating powers of i in complex numbers",
-      "Solving a system of equations with variables",
       "Probability calculation",
-      "Interpreting data from a graph",
-      "Percent change rule",
-      "Determining if a system of equations has infinite solutions",
       "Conversion problem involving miles, days, and hours",
+      "Determining if a system of equations has infinite solutions",
+      "Solving a system of equations with variables",
+      "Interpreting data from a graph",
+      "Calculating powers of i in complex numbers",
+      "Percent change rule",
+      "Solving equations with variables and exponents",
       "Multiplying exponents with fractional exponents"
     ],
     "interactionTrend": {
@@ -318,103 +318,48 @@
       "silencePeriods": {
         "timeHighline": [
           {
-            "min": 2,
-            "max": 4
+            "min": 21,
+            "max": 35
           },
           {
-            "min": 5,
-            "max": 7
+            "min": 72,
+            "max": 74
           },
           {
-            "min": 20,
-            "max": 36
-          },
-          {
-            "min": 39,
-            "max": 41
-          },
-          {
-            "min": 48,
-            "max": 50
-          },
-          {
-            "min": 51,
-            "max": 53
-          },
-          {
-            "min": 63,
-            "max": 65
-          },
-          {
-            "min": 71,
-            "max": 75
-          },
-          {
-            "min": 75,
-            "max": 79
-          },
-          {
-            "min": 81,
-            "max": 83
+            "min": 76,
+            "max": 78
           }
         ],
         "analysis": [
-          "2-4 min: The student was thinking about the answer to question 25 before responding.",
-          "5-7 min: The student needed time to work through the problem independently before seeking guidance.",
-          "20-36 min: The student struggled with converting miles to days and hours, leading to a pause.",
-          "39-41 min: The tutor took a break to get water, leading to a brief pause in conversation.",
-          "48-50 min: The tutor and student had a period of silence to reflect on personal preferences respectfully.",
-          "51-53 min: The student needed a moment to gather their thoughts and process the information given.",
-          "63-65 min: The student needed time to process and think before responding to the tutor's question.",
-          "71-75 min: Silence occurred as the student processed information before attempting the next math problems.",
-          "75-79 min: The tutor paused to recall the definition of probability, leading to a moment of silence.",
-          "81-83 min: The student was processing the tutor's explanation and attempting to apply it independently."
+          "21-35 min: The student needed time to process the information before responding to the tutor's greeting.",
+          "72-74 min: The student greeted the tutor, but the tutor did not respond, leading to silence.",
+          "76-78 min: The student did not respond immediately, possibly feeling uncomfortable or distracted during the session."
         ]
       },
       "studentInactivePeriods": {
         "timeHighline": [
           {
-            "min": 2,
-            "max": 4
+            "min": 21,
+            "max": 37
           },
           {
-            "min": 14,
-            "max": 16
+            "min": 78,
+            "max": 80
           },
           {
-            "min": 23,
-            "max": 25
+            "min": 82,
+            "max": 87
           },
           {
-            "min": 27,
-            "max": 29
-          },
-          {
-            "min": 41,
-            "max": 43
-          },
-          {
-            "min": 57,
-            "max": 59
-          },
-          {
-            "min": 61,
-            "max": 63
-          },
-          {
-            "min": 80,
-            "max": 82
+            "min": 89,
+            "max": 91
           }
         ],
         "analysis": [
-          "2-4 min: Technical issue with audio equipment led to silence, requiring troubleshooting before continuing the session.",
-          "14-16 min: The tutor asked the student to refresh the page, leading to a momentary pause. \n\nParaphrased: Tutor requested page refresh, causing temporary silence in the session.",
-          "23-25 min: The student's internet connection was unstable, causing a temporary loss of audio communication.",
-          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
-          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
-          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) Miscommunication or lack of clarity from the student caused confusion and a moment of silence.",
-          "61-63 min: Confusion arose due to the tutor's unexpected response, leading to a moment of silence.",
-          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+          "21-37 min: The student needed time to process the information before responding to the tutor's greeting.",
+          "78-80 min: The student greeted the tutor, but the tutor did not respond, leading to silence.",
+          "82-87 min: The student did not respond immediately, possibly feeling uncomfortable or distracted during the session.",
+          "89-91 min: The student responded with a brief answer, leading to a momentary pause for reflection."
         ]
       }
     }

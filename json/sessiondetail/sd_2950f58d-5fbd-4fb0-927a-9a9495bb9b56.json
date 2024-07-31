@@ -12,15 +12,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed topics ranging from separation techniques in chemistry to various physics concepts like vectors, velocity, trigonometry, and optics. The student's expectation was to transition from chemistry to exploring physics, particularly understanding trigonometric concepts. The tutor successfully introduced basic physics principles and highlighted the significance of trigonometry in physics applications.",
     "desiredOutcome": "The student's expectation for the session is to transition from learning about chemistry to starting to explore physics for the next year. The student seeks guidance on where to start with physics and understanding concepts like sine, cosine, and tangent. The tutor addresses the student's expectation by introducing basic physics concepts and explaining the importance of trigonometry in physics applications.",
     "activities": [
+      "Speed vs velocity in physics",
+      "Vectors and velocity in physics",
+      "Introduction to physics and basic concepts",
+      "Acceleration in physics",
+      "Introduction to physics equations and concepts (e=mc^2)",
+      "Separation techniques in chemistry (evaporation, filtration)",
       "Optics and lenses in physics",
       "Distance vs displacement in physics",
-      "Speed vs velocity in physics",
-      "Introduction to physics and basic concepts",
-      "Vectors and velocity in physics",
-      "Sine, cosine, and tangent in physics",
-      "Separation techniques in chemistry (evaporation, filtration)",
-      "Acceleration in physics",
-      "Introduction to physics equations and concepts (e=mc^2)"
+      "Sine, cosine, and tangent in physics"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -213,47 +213,22 @@
       "studentInactivePeriods": {
         "timeHighline": [
           {
-            "min": 2,
-            "max": 4
+            "min": 3,
+            "max": 9
           },
           {
-            "min": 14,
+            "min": 11,
             "max": 16
           },
           {
-            "min": 23,
-            "max": 25
-          },
-          {
-            "min": 27,
-            "max": 29
-          },
-          {
-            "min": 41,
-            "max": 43
-          },
-          {
-            "min": 57,
-            "max": 59
-          },
-          {
-            "min": 61,
-            "max": 63
-          },
-          {
-            "min": 80,
-            "max": 82
+            "min": 32,
+            "max": 39
           }
         ],
         "analysis": [
-          "2-4 min: Technical issue with audio equipment led to silence, requiring troubleshooting before continuing the session.",
-          "14-16 min: The tutor asked the student to refresh the page, leading to a momentary pause. \n\nParaphrased: Tutor requested page refresh, causing temporary silence in the session.",
-          "23-25 min: The student's audio connection may have been lost, causing a period of silence.",
-          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
-          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
-          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) Miscommunication or lack of clarity from the student caused confusion and a moment of silence.",
-          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence.",
-          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+          "3-9 min: Both tutor and student were processing information or formulating thoughts before continuing the conversation.",
+          "11-16 min: The student needed time to process the information before responding to the tutor's question.",
+          "32-39 min: The student needed time to gather their thoughts and formulate a question or response."
         ]
       }
     }

@@ -11,15 +11,15 @@
     "aiSummary": "The tutoring session focused on various calculus topics such as finding stationary points, gradients, derivatives, related rates, and integration. The student's initial expectations veered towards non-academic topics, but the tutor redirected the conversation back to calculus questions. There were no specific instances of low interaction between the tutor and student during the session.",
     "desiredOutcome": "The student's expectations for the session seem to be focused on discussing topics unrelated to the academic subject matter, such as daylight saving time, school schedules, and extracurricular activities. The student also mentions sending questions related to calculus for assistance. However, the student's expectations for the session do not seem to align with the tutor's focus on academic content and solving calculus problems. The tutor attempts to redirect the conversation back to the calculus question at the end of the transcript. It appears that the student's expectations for the session are not fully met as they were looking for assistance with calculus questions but ended up discussing other topics.",
     "activities": [
-      "Related rates - Finding the radius of a balloon as it inflates",
-      "Calculus - Integrating to find volume in relation to time",
-      "Calculus - Finding stationary points of a curve",
       "Calculus - Finding the second derivative of a curve equation",
-      "Calculus - Finding derivatives and second derivatives of a curve equation",
-      "Related rates - Finding the rate at which the radius of a balloon is increasing",
+      "Calculus - Finding stationary points of a curve",
+      "Calculus - Integrating to find volume in relation to time",
       "Calculus - Finding derivatives of a curve equation",
       "Calculus - Finding the gradient of a curve at given points",
-      "Calculus - Finding the rate at which the radius of a balloon is increasing over time"
+      "Calculus - Finding the rate at which the radius of a balloon is increasing over time",
+      "Related rates - Finding the rate at which the radius of a balloon is increasing",
+      "Calculus - Finding derivatives and second derivatives of a curve equation",
+      "Related rates - Finding the radius of a balloon as it inflates"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -209,47 +209,12 @@
       "studentInactivePeriods": {
         "timeHighline": [
           {
-            "min": 2,
-            "max": 4
-          },
-          {
-            "min": 14,
-            "max": 16
-          },
-          {
-            "min": 23,
-            "max": 25
-          },
-          {
-            "min": 27,
-            "max": 29
-          },
-          {
-            "min": 41,
-            "max": 43
-          },
-          {
-            "min": 57,
-            "max": 59
-          },
-          {
-            "min": 61,
-            "max": 63
-          },
-          {
-            "min": 80,
-            "max": 82
+            "min": 26,
+            "max": 28
           }
         ],
         "analysis": [
-          "2-4 min: Technical issue with audio equipment led to silence, requiring troubleshooting before continuing the session.",
-          "14-16 min: The tutor asked the student to refresh the page, leading to a momentary pause. \n\nOutput: Tutor requested page refresh, causing temporary silence for technical adjustment.",
-          "23-25 min: The student's audio connection may have been lost, causing a period of silence.",
-          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
-          "41-43 min: The student needed time to process the information before responding to the tutor's question.",
-          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence.",
-          "61-63 min: The tutor likely didn't understand the student's question, leading to a moment of confusion.",
-          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+          "26-28 min: The tutor and student had a period of silence due to technical difficulties with audio."
         ]
       }
     }

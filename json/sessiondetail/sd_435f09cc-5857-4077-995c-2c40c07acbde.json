@@ -11,15 +11,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including simplifying square roots, working with complex numbers, solving quadratic equations, and understanding imaginary roots. The student's expectation was to review and understand specific math problems from a previous test, which the tutor addressed through explanations and step-by-step guidance. Throughout the session, there were no periods of low interaction between the tutor and student.",
     "desiredOutcome": "The student's expectation for the session is to review and understand how to solve specific math problems from a previous test, including simplifying square roots and working with complex numbers. These expectations are being addressed and solved by the tutor through explanations and step-by-step guidance.",
     "activities": [
-      "Finding all solutions of an equation and understanding imaginary roots",
+      "Solving systems of equations graphically and finding points of intersection",
       "Adding and subtracting complex numbers",
       "Using discriminant to determine number of real solutions in an equation",
-      "Solving systems of equations graphically and finding points of intersection",
+      "Finding all solutions of an equation and understanding imaginary roots",
       "Multiplying complex numbers and simplifying expressions",
-      "Dividing by a complex number and using conjugates",
-      "Converting equations to vertex form and understanding perfect square trinomials",
       "Solving quadratic equations using factoring and completing the square",
-      "Simplifying square roots and imaginary numbers"
+      "Converting equations to vertex form and understanding perfect square trinomials",
+      "Simplifying square roots and imaginary numbers",
+      "Dividing by a complex number and using conjugates"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -252,43 +252,18 @@
             "max": 4
           },
           {
-            "min": 14,
-            "max": 16
+            "min": 42,
+            "max": 44
           },
           {
-            "min": 23,
-            "max": 25
-          },
-          {
-            "min": 27,
-            "max": 29
-          },
-          {
-            "min": 41,
-            "max": 43
-          },
-          {
-            "min": 57,
-            "max": 59
-          },
-          {
-            "min": 61,
-            "max": 63
-          },
-          {
-            "min": 80,
-            "max": 82
+            "min": 62,
+            "max": 66
           }
         ],
         "analysis": [
-          "2-4 min: The tutor and student had a period of silence due to technical audio issues.",
-          "14-16 min: The tutor asked the student to refresh the page, causing a pause for technical issues. \n\nOutput: Technical issue prompted silence as student refreshed page as requested by tutor.",
-          "23-25 min: The student's audio connection was unstable, causing a momentary loss of communication between them.",
-          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
-          "41-43 min: The student needed time to process the information before responding to the tutor's question.",
-          "57-59 min: Confusion arose due to the tutor's unexpected response, leading to a moment of silence.",
-          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence.",
-          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+          "2-4 min: Technical difficulties prevented the tutor from sharing content on the screen, leading to silence.",
+          "42-44 min: The tutor and student had a period of silence to gather their thoughts and formulate responses.",
+          "62-66 min: The student may have been processing information or formulating a response to the tutor's suggestion."
         ]
       }
     }

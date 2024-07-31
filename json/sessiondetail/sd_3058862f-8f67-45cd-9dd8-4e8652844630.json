@@ -12,11 +12,11 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student focused on topics such as solving linear systems with multiple variables, identifying graphs of linear equations in three dimensions, and solving systems of equations using elimination and substitution. The student's expectation was met as the tutor guided them through examples, explaining concepts effectively.",
     "desiredOutcome": "The student's expectation for the session was to work on solving linear systems, specifically focusing on understanding when a system has no solution or infinite solutions. The tutor successfully addressed the student's expectation by guiding them through examples and explaining the concepts of dependent and independent solutions. The student seemed satisfied with the explanations provided by the tutor.",
     "activities": [
-      "Identifying the price of items based on a given scenario",
-      "Identifying the position of a point in three-dimensional space",
+      "Identifying the graph of a linear equation in three dimensions",
       "Solving linear systems with multiple variables",
       "Solving a system of equations using elimination and substitution",
-      "Identifying the graph of a linear equation in three dimensions"
+      "Identifying the position of a point in three-dimensional space",
+      "Identifying the price of items based on a given scenario"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -168,50 +168,8 @@
         "analysis": []
       },
       "studentInactivePeriods": {
-        "timeHighline": [
-          {
-            "min": 2,
-            "max": 4
-          },
-          {
-            "min": 14,
-            "max": 16
-          },
-          {
-            "min": 23,
-            "max": 25
-          },
-          {
-            "min": 27,
-            "max": 29
-          },
-          {
-            "min": 41,
-            "max": 43
-          },
-          {
-            "min": 57,
-            "max": 59
-          },
-          {
-            "min": 61,
-            "max": 63
-          },
-          {
-            "min": 80,
-            "max": 82
-          }
-        ],
-        "analysis": [
-          "2-4 min: The tutor and student had a period of silence due to technical audio issues.",
-          "14-16 min: The tutor asked the student to refresh the page, causing a pause for technical issues. \n\nParaphrased: Technical pause due to page refresh request led to silence between tutor and student.",
-          "23-25 min: The student's audio connection was unstable, causing a momentary loss of communication between them.",
-          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
-          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
-          "57-59 min: The tutor likely didn't understand the student's question, leading to a moment of confusion.",
-          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) Miscommunication or lack of clarity from the student caused confusion, resulting in a pause.",
-          "80-82 min: The student expressed uncertainty or contemplation, leading to a moment of reflection or pause."
-        ]
+        "timeHighline": [],
+        "analysis": []
       }
     }
   },

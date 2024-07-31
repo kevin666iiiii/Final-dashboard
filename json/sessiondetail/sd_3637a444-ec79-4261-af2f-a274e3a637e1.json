@@ -13,15 +13,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various math topics including probability, area of shapes, prime numbers, order of operations, and more. The student's expectation to understand probability by calculating dartboard areas was successfully met as they accurately determined the probability of hitting the bullseye.",
     "desiredOutcome": "The student's expectation for the session is to understand how to calculate the probability by finding the areas of different parts of a dartboard. The tutor guides the student through calculating the areas and simplifying fractions to determine the probability accurately. The student's expectation is met as they successfully calculate the probability of hitting the bullseye.",
     "activities": [
-      "Area of shapes and perimeter",
-      "Finding missing sides of shapes",
-      "Homework assignment on various math topics",
-      "Probability and area of circles",
-      "Calculating area of rectangles",
       "Solving for unknown variables in shapes",
       "Prime numbers and probability",
-      "Calculating perimeter of shapes",
-      "Order of operations and decimals"
+      "Calculating area of rectangles",
+      "Probability and area of circles",
+      "Order of operations and decimals",
+      "Homework assignment on various math topics",
+      "Area of shapes and perimeter",
+      "Finding missing sides of shapes",
+      "Calculating perimeter of shapes"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -173,50 +173,8 @@
         "analysis": []
       },
       "studentInactivePeriods": {
-        "timeHighline": [
-          {
-            "min": 2,
-            "max": 4
-          },
-          {
-            "min": 14,
-            "max": 16
-          },
-          {
-            "min": 23,
-            "max": 25
-          },
-          {
-            "min": 27,
-            "max": 29
-          },
-          {
-            "min": 41,
-            "max": 43
-          },
-          {
-            "min": 57,
-            "max": 59
-          },
-          {
-            "min": 61,
-            "max": 63
-          },
-          {
-            "min": 80,
-            "max": 82
-          }
-        ],
-        "analysis": [
-          "2-4 min: The tutor and student had a period of silence due to technical difficulties with audio.",
-          "14-16 min: The tutor and student had a period of silence to allow the student to process information. \n\n",
-          "23-25 min: The student's audio connection was unstable, causing a momentary loss of communication between them.",
-          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
-          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
-          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence.",
-          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) The tutor's confusion about the student's statement led to a period of silence.",
-          "80-82 min: The student expressed uncertainty or contemplation, leading to a moment of reflection or pause."
-        ]
+        "timeHighline": [],
+        "analysis": []
       }
     }
   },

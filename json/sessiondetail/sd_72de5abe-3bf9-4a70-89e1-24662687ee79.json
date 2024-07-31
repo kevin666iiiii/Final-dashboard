@@ -12,15 +12,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics related to completing the square, including quadratic equations, circles in standard form, and complex numbers. The student's expectation was to practice completing the square, and the tutor guided them through exercises, with moments of low interaction occurring when the student struggled with a math problem.",
     "desiredOutcome": "The student's expectation for the session is to practice completing the square and solve quadratic equations using that method. The tutor addresses this expectation by providing explanations and guiding the student through completing the square exercises. The student seems engaged and understanding the concepts presented.",
     "activities": [
-      "Simplifying radicals in completing the square",
-      "Completing the square for circles in standard form",
-      "Applying completing the square to find centers and radii of circles",
-      "Solving quadratic equations with fractions using completing the square",
       "Rationalizing square roots in completing the square",
-      "Understanding imaginary numbers in completing the square",
-      "Completing the square for quadratic equations",
+      "Handling complex numbers in completing the square",
       "Scheduling future tutoring sessions",
-      "Handling complex numbers in completing the square"
+      "Solving quadratic equations with fractions using completing the square",
+      "Applying completing the square to find centers and radii of circles",
+      "Completing the square for circles in standard form",
+      "Understanding imaginary numbers in completing the square",
+      "Simplifying radicals in completing the square",
+      "Completing the square for quadratic equations"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -207,60 +207,18 @@
         58
       ],
       "silencePeriods": {
-        "timeHighline": [
-          {
-            "min": 17,
-            "max": 19
-          }
-        ],
-        "analysis": [
-          "17-19 min: The student struggled with the math problem, leading to a moment of silence for reflection."
-        ]
+        "timeHighline": [],
+        "analysis": []
       },
       "studentInactivePeriods": {
         "timeHighline": [
           {
-            "min": 2,
-            "max": 4
-          },
-          {
-            "min": 14,
-            "max": 16
-          },
-          {
-            "min": 23,
-            "max": 25
-          },
-          {
-            "min": 27,
-            "max": 29
-          },
-          {
-            "min": 41,
-            "max": 43
-          },
-          {
-            "min": 57,
-            "max": 59
-          },
-          {
-            "min": 61,
-            "max": 63
-          },
-          {
-            "min": 80,
-            "max": 82
+            "min": 24,
+            "max": 28
           }
         ],
         "analysis": [
-          "2-4 min: The student couldn't hear the tutor, leading to a moment of silence for troubleshooting.",
-          "14-16 min: The tutor and student had a period of silence to allow the student to refresh.",
-          "23-25 min: The student's audio connection may have been lost, causing a period of silence.",
-          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
-          "41-43 min: The student needed time to process the information before responding to the tutor's question.",
-          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence.",
-          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n",
-          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+          "24-28 min: The student needed time to gather their thoughts and formulate a response to the question."
         ]
       }
     }

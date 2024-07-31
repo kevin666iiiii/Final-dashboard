@@ -13,15 +13,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student delved into various chemistry topics, including chemical and physical changes, properties, bonds, and entropy. The student's initial focus on these concepts was met with detailed explanations and examples. Throughout the session, there were periods of low interaction as the student needed time to process information and reflect on the discussed points, such as diffusion, osmosis, and previous topics.",
     "desiredOutcome": "The student's expectation for the session seems to be focused on learning about physical and chemical changes in chemistry. These expectations are being met as the tutor is providing explanations and examples related to these topics.",
     "activities": [
-      "Chemical vs. Physical Changes",
-      "Entropy and Viscosity",
       "Properties of Ionic Compounds",
-      "Metallic Bonds",
       "Identifying Intrinsic and Extrinsic Properties",
-      "Ionic vs. Covalent Bonds",
+      "Chemical vs. Physical Changes",
       "Chemical Properties vs. Physical Properties",
+      "Entropy and Viscosity",
+      "Metallic Bonds",
+      "Intrinsic vs. Extrinsic Properties",
       "Intensive vs. Extensive Properties",
-      "Intrinsic vs. Extrinsic Properties"
+      "Ionic vs. Covalent Bonds"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -217,70 +217,28 @@
         61
       ],
       "silencePeriods": {
-        "timeHighline": [
-          {
-            "min": 4,
-            "max": 7
-          },
-          {
-            "min": 25,
-            "max": 27
-          },
-          {
-            "min": 41,
-            "max": 43
-          }
-        ],
-        "analysis": [
-          "4-7 min: The student needed time to think and process information before responding to the tutor.",
-          "25-27 min: The student and tutor paused to process and understand the concept of diffusion and osmosis.",
-          "41-43 min: The tutor and student were processing information and reflecting on the previous discussion points."
-        ]
+        "timeHighline": [],
+        "analysis": []
       },
       "studentInactivePeriods": {
         "timeHighline": [
           {
-            "min": 2,
-            "max": 4
+            "min": 1,
+            "max": 3
           },
           {
-            "min": 14,
-            "max": 16
+            "min": 5,
+            "max": 7
           },
           {
-            "min": 23,
-            "max": 25
-          },
-          {
-            "min": 27,
-            "max": 29
-          },
-          {
-            "min": 41,
-            "max": 43
-          },
-          {
-            "min": 57,
-            "max": 59
-          },
-          {
-            "min": 61,
-            "max": 63
-          },
-          {
-            "min": 80,
-            "max": 82
+            "min": 26,
+            "max": 28
           }
         ],
         "analysis": [
-          "2-4 min: Technical issue with audio equipment led to silence, disrupting communication between tutor and student.",
-          "14-16 min: The tutor asked the student to refresh the page, leading to a pause for action. \n\n",
-          "23-25 min: The student's audio connection may have been lost, causing a period of silence.",
-          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
-          "41-43 min: The student needed time to process the information before responding to the tutor's question.",
-          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence.",
-          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) The tutor's confusion over the student's statement led to a period of silence.",
-          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+          "1-3 min: The student needed time to process the information before responding to the tutor's question.",
+          "5-7 min: The student greeted the tutor, but the tutor did not respond, leading to silence.",
+          "26-28 min: The student needed time to decide between chemistry and math before responding to the tutor."
         ]
       }
     }

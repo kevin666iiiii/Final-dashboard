@@ -13,8 +13,8 @@
     "aiSummary": "In the one-on-one tutoring session, the student's expectation to review and practice factoring problems in algebra was met. The tutor covered factoring when the coefficient is one and more complex problems when the coefficient is not one. There were periods of low interaction for various reasons, including processing time, feedback exchange, and brief pauses for mental processing.",
     "desiredOutcome": "The student's expectation for the tutoring session is to review and practice factoring problems in algebra. They seem to be seeking clarification and guidance on how to approach factoring when the coefficient is not equal to one. The tutor addresses the student's request by reviewing factoring problems where a equals one and then introducing more complex problems where a does not equal one. The student actively participates in solving the problems and expresses readiness to move on to the next level after demonstrating understanding. Overall, the student's expectations for the session are met as they receive the review and guidance they were seeking in order to progress in their understanding of factoring.",
     "activities": [
-      "Factoring when a equals one",
-      "Factoring when a does not equal one using the AC method"
+      "Factoring when a does not equal one using the AC method",
+      "Factoring when a equals one"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -200,83 +200,33 @@
       "silencePeriods": {
         "timeHighline": [
           {
-            "min": 7,
-            "max": 10
+            "min": 20,
+            "max": 22
           },
           {
-            "min": 12,
-            "max": 14
-          },
-          {
-            "min": 16,
-            "max": 19
-          },
-          {
-            "min": 19,
-            "max": 23
-          },
-          {
-            "min": 25,
-            "max": 28
-          },
-          {
-            "min": 49,
-            "max": 56
+            "min": 50,
+            "max": 55
           }
         ],
         "analysis": [
-          "7-10 min: The student needed time to process and apply the concept independently before continuing the session.",
-          "12-14 min: The student's response required the tutor to process information before providing feedback or guidance.",
-          "16-19 min: The tutor muted themselves to eat, causing a brief period of silence during the session.",
-          "19-23 min: Both tutor and student were processing the problem mentally, leading to a brief pause.",
-          "25-28 min: The student was unsure of how to correctly place the numbers for factoring by grouping.",
-          "49-56 min: The student was processing the problem silently before sharing their answer with the tutor."
+          "20-22 min: The tutor and student had a period of silence due to a personal question being asked. \n\nParaphrased: Personal question led to a moment of silence between tutor and student.",
+          "50-55 min: The student's brief response did not provide enough information, leading to a pause. \n\nParaphrased: Insufficient response from student led to a moment of silence between tutor and student."
         ]
       },
       "studentInactivePeriods": {
         "timeHighline": [
           {
-            "min": 2,
-            "max": 4
+            "min": 16,
+            "max": 18
           },
           {
-            "min": 14,
-            "max": 16
-          },
-          {
-            "min": 23,
-            "max": 25
-          },
-          {
-            "min": 27,
-            "max": 29
-          },
-          {
-            "min": 41,
-            "max": 43
-          },
-          {
-            "min": 57,
-            "max": 59
-          },
-          {
-            "min": 61,
-            "max": 63
-          },
-          {
-            "min": 80,
-            "max": 82
+            "min": 20,
+            "max": 22
           }
         ],
         "analysis": [
-          "2-4 min: Technical issue with audio equipment led to silence, requiring troubleshooting before continuing the session.",
-          "14-16 min: The tutor asked the student to refresh the page, causing a pause for technical issues. \n\nOutput: Technical issue prompted silence during session, as student refreshed page as instructed.",
-          "23-25 min: The student's internet connection may have dropped, causing a temporary loss of communication.",
-          "27-29 min: The student attempted to reload, causing a pause as they waited for results.",
-          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
-          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\nOutput: Miscommunication led to confusion, prompting a moment of silence between the tutor and student.",
-          "61-63 min: The tutor likely didn't understand the student's question, leading to a moment of confusion.",
-          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+          "16-18 min: The tutor and student had a period of silence due to a personal question being asked. \n\nParaphrased: Personal question led to awkward silence between tutor and student.",
+          "20-22 min: The student's vague response led to a moment of silence as the tutor waited for clarification."
         ]
       }
     }

@@ -199,81 +199,12 @@
         57
       ],
       "silencePeriods": {
-        "timeHighline": [
-          {
-            "min": 4,
-            "max": 6
-          },
-          {
-            "min": 26,
-            "max": 29
-          },
-          {
-            "min": 40,
-            "max": 42
-          },
-          {
-            "min": 42,
-            "max": 45
-          },
-          {
-            "min": 52,
-            "max": 54
-          }
-        ],
-        "analysis": [
-          "4-6 min: The student was organizing their thoughts and the tutor was waiting for clarification.",
-          "26-29 min: The student went to the bathroom, leading to a period of silence in the session.",
-          "40-42 min: The tutor and student had a period of silence to process and gather their thoughts.",
-          "42-45 min: Confusion over units led to a pause as both tutor and student processed the information.",
-          "52-54 min: The tutor and student had a period of silence due to confusion over unit conversions."
-        ]
+        "timeHighline": [],
+        "analysis": []
       },
       "studentInactivePeriods": {
-        "timeHighline": [
-          {
-            "min": 2,
-            "max": 4
-          },
-          {
-            "min": 14,
-            "max": 16
-          },
-          {
-            "min": 23,
-            "max": 25
-          },
-          {
-            "min": 27,
-            "max": 29
-          },
-          {
-            "min": 41,
-            "max": 43
-          },
-          {
-            "min": 57,
-            "max": 59
-          },
-          {
-            "min": 61,
-            "max": 63
-          },
-          {
-            "min": 80,
-            "max": 82
-          }
-        ],
-        "analysis": [
-          "2-4 min: Technical issue with audio equipment led to silence, requiring troubleshooting before continuing the session.",
-          "14-16 min: The tutor and student had a period of silence to allow the student to refresh.",
-          "23-25 min: The student's audio connection may have been lost, causing a period of silence.",
-          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
-          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
-          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\nOutput: Miscommunication led to confusion, prompting a moment of silence between the tutor and student.",
-          "61-63 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) The tutor's confusion about the student's statement led to a period of silence.",
-          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
-        ]
+        "timeHighline": [],
+        "analysis": []
       }
     }
   },

@@ -13,15 +13,15 @@
     "aiSummary": "During the one-on-one tutoring session, the tutor and student delved into various topics such as graphing polynomial functions, symmetry of graphs, multiplicity of zeros, and behavior of graphs near critical points. The student's expectation was to review material for an upcoming test, particularly focusing on graphing polynomial functions and behavior as x approaches infinity. Periods of low interaction occurred when the student was searching for test materials and needed time to recall questions, prompting brief pauses in conversation.",
     "desiredOutcome": "The student's expectation for the session is to review material for a test the next day, specifically focusing on graphing polynomial functions and determining behavior as x approaches infinity. These expectations are addressed and clarified during the session.",
     "activities": [
-      "Symmetry of graphs for even and odd functions",
-      "Behavior of graphs for odd degree polynomial functions with negative leading coefficients",
-      "Correspondence of real zeros to x-intercepts in polynomial functions",
-      "Degree of polynomial functions based on the highest exponent",
-      "Behavior of graphs near critical points for even and odd functions",
-      "Graphing polynomial functions with positive and negative leading coefficients",
       "Behavior of graphs for even degree polynomial functions with positive leading coefficients",
+      "Behavior of graphs for odd degree polynomial functions with negative leading coefficients",
+      "Behavior of graphs near critical points for even and odd functions",
+      "Degree of polynomial functions based on the highest exponent",
+      "Graphing polynomial functions with positive and negative leading coefficients",
+      "Multiplicity of zeros in polynomial functions",
       "Maximum number of x-intercepts in a polynomial function",
-      "Multiplicity of zeros in polynomial functions"
+      "Correspondence of real zeros to x-intercepts in polynomial functions",
+      "Symmetry of graphs for even and odd functions"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -196,65 +196,28 @@
         54
       ],
       "silencePeriods": {
-        "timeHighline": [
-          {
-            "min": 0,
-            "max": 2
-          },
-          {
-            "min": 6,
-            "max": 8
-          }
-        ],
-        "analysis": [
-          "0-2 min: The student was likely searching for the test materials, causing a brief pause in conversation.",
-          "6-8 min: The student needed time to recall the question, leading to a momentary pause for reflection."
-        ]
+        "timeHighline": [],
+        "analysis": []
       },
       "studentInactivePeriods": {
         "timeHighline": [
           {
-            "min": 2,
-            "max": 4
+            "min": 19,
+            "max": 24
           },
           {
-            "min": 14,
-            "max": 16
+            "min": 31,
+            "max": 33
           },
           {
-            "min": 23,
-            "max": 25
-          },
-          {
-            "min": 27,
-            "max": 29
-          },
-          {
-            "min": 41,
-            "max": 43
-          },
-          {
-            "min": 57,
-            "max": 59
-          },
-          {
-            "min": 61,
-            "max": 63
-          },
-          {
-            "min": 80,
-            "max": 82
+            "min": 37,
+            "max": 39
           }
         ],
         "analysis": [
-          "2-4 min: Technical issue with audio equipment led to silence, requiring troubleshooting before continuing the session.",
-          "14-16 min: The tutor and student had a period of silence to allow the page to refresh.",
-          "23-25 min: The student's audio connection may have been lost, causing a period of silence.",
-          "27-29 min: The student attempted to reload, causing a pause as they waited for results.",
-          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
-          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence. \n\n(15 words) The tutor's confusion over the student's statement led to a moment of silence.",
-          "61-63 min: The tutor likely didn't understand the student's question, leading to a moment of confusion.",
-          "80-82 min: The student expressed uncertainty or hesitation, leading to a moment of contemplation or reflection."
+          "19-24 min: The student needed time to process the tutor's greeting before responding.",
+          "31-33 min: The student greeted the tutor, but the tutor did not respond immediately due to distraction.",
+          "37-39 min: The student did not respond immediately, possibly feeling uncomfortable or distracted during the session."
         ]
       }
     }

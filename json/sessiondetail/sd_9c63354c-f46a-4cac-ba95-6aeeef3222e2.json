@@ -14,15 +14,15 @@
     "aiSummary": "In the one-on-one tutoring session, the tutor and student discussed various topics including polynomial division, the Remainder Theorem, solving polynomial equations, graphing functions, and quadratic functions. The student's expectation of receiving help with long division problems involving polynomials was met. Periods of low interaction occurred due to the need for clarification, reflection on mistakes, disagreement in answers, and finding additional resources.",
     "desiredOutcome": "The student's expectation for the session was to receive help with long division problems involving polynomials. The student wanted clarification on the process and how to express remainders correctly. These expectations were met as the tutor guided the student through the problems, corrected mistakes, and explained how to format the answers with remainders.",
     "activities": [
-      "Determining end behavior using positive and negative values",
-      "Identifying remainders in polynomial division",
+      "Solving for variables in polynomial equations",
       "Interpreting vertex form of quadratic functions",
-      "Solving for x and y values in quadratic functions",
       "Understanding end behavior in graphing functions",
-      "Long division method for polynomial division",
-      "Analyzing end behavior in polynomial functions",
       "Applying the Remainder Theorem",
-      "Solving for variables in polynomial equations"
+      "Analyzing end behavior in polynomial functions",
+      "Long division method for polynomial division",
+      "Identifying remainders in polynomial division",
+      "Solving for x and y values in quadratic functions",
+      "Determining end behavior using positive and negative values"
     ],
     "interactionTrend": {
       "tutorUtterances": [
@@ -170,76 +170,12 @@
         45
       ],
       "silencePeriods": {
-        "timeHighline": [
-          {
-            "min": 5,
-            "max": 7
-          },
-          {
-            "min": 19,
-            "max": 21
-          },
-          {
-            "min": 21,
-            "max": 23
-          },
-          {
-            "min": 29,
-            "max": 32
-          }
-        ],
-        "analysis": [
-          "5-7 min: The student needed clarification on the concept, leading to a moment of reflection and silence.",
-          "19-21 min: The tutor and student had a period of silence to process the mistake made in calculation. \n\n",
-          "21-23 min: The tutor and student had a period of silence due to a disagreement in their answers.",
-          "29-32 min: The tutor needed to find a different resource, causing a brief pause in the session."
-        ]
+        "timeHighline": [],
+        "analysis": []
       },
       "studentInactivePeriods": {
-        "timeHighline": [
-          {
-            "min": 2,
-            "max": 4
-          },
-          {
-            "min": 14,
-            "max": 16
-          },
-          {
-            "min": 23,
-            "max": 25
-          },
-          {
-            "min": 27,
-            "max": 29
-          },
-          {
-            "min": 41,
-            "max": 43
-          },
-          {
-            "min": 57,
-            "max": 59
-          },
-          {
-            "min": 61,
-            "max": 63
-          },
-          {
-            "min": 80,
-            "max": 82
-          }
-        ],
-        "analysis": [
-          "2-4 min: Technical issue with audio equipment led to silence, requiring troubleshooting before continuing the session.",
-          "14-16 min: The tutor asked the student to refresh the page, causing a pause for technical issues. \n\nOutput: Technical issue prompted silence during session, as student refreshed page as instructed.",
-          "23-25 min: The student's internet connection was unstable, causing a temporary loss of audio communication.",
-          "27-29 min: The student attempted to reload, causing a pause as they waited for the outcome.",
-          "41-43 min: The student needed time to process the information before responding to the tutor's prompt.",
-          "57-59 min: The tutor likely didn't hear or understand the student's question, leading to confusion and silence.",
-          "61-63 min: Confusion arose due to the tutor's unexpected response, leading to a moment of silence.",
-          "80-82 min: The student expressed uncertainty or contemplation, leading to a moment of reflection or pause."
-        ]
+        "timeHighline": [],
+        "analysis": []
       }
     }
   },
